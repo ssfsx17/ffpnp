@@ -1,4 +1,26 @@
-# 1. Introduction
+# Table of Contents
+
+1. Introduction
+2. [Characters](/Characters.md)
+3. [Races](/Races.md)
+4. [Rules](/Rules.md)
+5. [Combat](/Combat.md)
+6. [Trappings](/Trappings)
+  - [Weapons](/Trappings/Weapons.md)
+  - [Armor](/Trappings/Armor.md)
+  - [Accessories](/Trappings/Accessories.md)
+  - [Items](/Trappings/Items.md)
+7. [Jobs](/Jobs)
+8. [GM Guide](/GMGuide.md)
+9. [License](/LICENSE)
+
+# Introduction
+
+## What is Final Fantasy?
+
+Final Fantasy is a massive franchise owned by Square-Enix Ltd. It started out as a video game derivative of Dungeons & Dragons, with four Warriors of Light fighting against Chaos in order to save the world. It has since developed and encompassed just about every possible hero-saves-the-world plot possible. Each full Final Fantasy game is its own universe, such that there is no plotline continuity between games, although there are numerous common trappings and other elements. Some games have become franchises in themselves with their own sequels, with the biggest sub-franchise being Final Fantasy VII, and the highest-budget sub-franchise being Final Fantasy XV.
+
+If FF P&P is your first encounter with this grand multiverse, worry not. Start with what you have in front of you. Get adjusted to your gaming group, and adapt to the setting that is put forth by your Game Master.
 
 ## Not All About Combat
 
@@ -26,13 +48,15 @@ Any changes that are considered to be just plain better, rather than a matter of
 
 ## Differences to other Final Fantasy-inspired RPGs:
 
-This is not the first attempt to write a role-playing game based on the Final Fantasy franchise, nor will it be the last. The key points of difference are listed below:
+This is not the first attempt to write a role-playing game based on the Final Fantasy franchise, nor will it be the last. In fact it is quite good for hobbyist scenes when more people get into them and make their own take, so that everyone in the scene can learn from each other and change their own ideas of perfection.
+
+The key points of difference are listed below:
 
 - Tries to emulate the number scale of the Final Fantasy video games, rather than the Seiken Densetsu or Chrono Trigger games. Why settle for 999 HP when you can have 9999 HP! This does, however, cause removal of dice rolling in other aspects of the game.
   - No dice are rolled for damage outputs, except for special cases.
   - No dice are rolled for HP or MP gain at levelup.
 - The Job system is taken primarily from the games that have changeable jobs.
-  - Jobs don't have to have the same number of abilities, or even be remotely equal in power. Jobs are instead "balanced" by being more rear-loaded or requiring a lot of other Job levels. The video games were, after all, based heavily on letting you feel extremely overpowered if you did enough grinding. Can't beat a boss? Just grind some more.
+  - Jobs don't have to have the same number of abilities, or even be remotely equal in power. Jobs are instead "balanced" by being more rear-loaded or having more prerequisites. The video games were, after all, based heavily on letting you feel extremely overpowered if you did enough grinding. Can't beat a boss? Just grind some more.
   - No need for certain jobs to be different from each other just for the sake of it. It's okay for some jobs to just be other jobs stuck together, or to be other jobs with better bonuses.
   - Intentionally allowing overpowered combinations at high levels, especially through the Ultima Freelancer job. Figuring out the overpowered strategies is a key component of the Final Fantasy combat experience.
 - No skill system. Instead, relevant Job levels are added together for skill checks.
