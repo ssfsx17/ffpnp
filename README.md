@@ -1,3 +1,5 @@
+[Official Discord for FF P&P](https://discord.gg/6CAVBMB)
+
 Current state: Tech Demo. Enough to run the game, but not a single thing is considered complete.
 
 Future conditions:
@@ -22,7 +24,8 @@ Future conditions:
   - [Items](/Trappings/Items.md)
 7. [Jobs](/Jobs)
 8. [GM Guide](/GMGuide.md)
-9. [License](/LICENSE)
+9. [Project Constitution](ProjectConstitution.md)
+10. [License](/LICENSE)
 
 # Introduction
 
