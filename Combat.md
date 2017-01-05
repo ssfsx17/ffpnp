@@ -99,7 +99,7 @@ Bubble - Maximum HP is doubled. When this status ends, HP above the normal maxim
 
 Charm - Attack your own team randomly. Ended by physical damage.
 
-Chicken - Unable to do damage.
+Chicken - Physical damage output is zero.
 
 Confuse - All actions have a flat 50% chance to be done to the opposite team as was originally intended. Confuse is ended by physical damage.
 
@@ -109,7 +109,7 @@ Curse - Physical damage output and Accuracy are zero.
 
 Disable - Unable to act.
 
-Doom - When this status' duration ends, you are instantly-killed.
+Doom - When this status' duration ends, you are instantly-killed. Magic Evasion is not applied at that moment.
 
 Element Saber - Weapon damage has a specific element.
 
@@ -147,7 +147,7 @@ Poison - Lose an amount of HP per round equal to Level. Magic Defense is not app
 
 Poison-Plus - Lose an amount of HP per round equal to 10% of maximum HP. Magic Defense is not applied.
 
-Protect - Take half physical damage.
+Protect - Take half physical damage, before Defense is applied.
 
 Quick - Get one free action when first affected by this status. For as long as you have the Quick status, additional Quick statuses have no effect.
 

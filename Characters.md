@@ -5,7 +5,7 @@
 1. Write the Three Things about your character.
 2. Choose your character's race.
 3. Allocate 100 attribute points. No attribute may be more than double the lowest one.
-4. Start with Job Level 1 in all base jobs: Chemist, Freelancer, Onion Knight, and Squire.
+4. Start with Job Level 1 in all base jobs: [Chemist](/Jobs/Chemist.md), [Freelancer](/Jobs/Freelancer.md), [Onion Knight](/Jobs/OnionKnight.md), and [Squire](/Jobs/Squire.md).
 5. Start with 200 gil.
 
 ## Three Things
@@ -29,7 +29,7 @@ Examples:
 
 Characters start with 100 attribute points, and gain 5 at every level after the first.
 
-No attribute can have more than double the number of points allocated to it than any other. This includes the points gained by experience levels.
+No attribute can have more than double the number of points allocated to it than any other. This includes the points gained by experience levels. Support abilities and status effects do not count towards this restriction.
 
 - Strength - melee power, ranged power for some weapons
 - Agility - ranged power for some weapons, physical accuracy, physical evasion
@@ -85,7 +85,9 @@ Characters have the following equipment slots:
 
 When characters gain a level, they also gain 5 attribute points. They must still follow the rule that no attribute can be more than double any other.
 
-XP required = previous requirement + (Previous Level * 1000)
+XP required to gain a level = previous requirement + (Previous Level * 1000)
+
+The relation between experience level and total experience points is presented below for convenience:
 
 - 1: 0
 - 2: 1000
