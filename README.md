@@ -1,3 +1,13 @@
+Current state: Tech Demo. Enough to run the game, but not a single thing is considered complete.
+
+Future conditions:
+
+- Alpha Test - Everything whose existence was suggested by the Tech Demo is completed. Especially all the Jobs. Anything that is obviously wrong with the rules of the Tech Demo is fixed. Any math that is considered excessive, such as usage of percentages other than 5% / 10% / 50%, or anything that needs to be recalculated on every round of combat, is streamlined.
+- Beta Test - Multiple playtests have been conducted, and changes have been made according to those results. Project constitution is solidified. Writing is complete, so that everything is explained and easily understandable.
+- Gamma Test - Suitable for mass consumption.
+- 1.0.0 Release Candidate - Suitability of Gamma Test is confirmed.
+- 1.0.0 Release - Release Candidate has no issues.
+
 # Table of Contents
 
 1. Introduction
@@ -46,7 +56,7 @@ Any changes that are considered to be just plain better, rather than a matter of
 
 ----
 
-## Differences to other Final Fantasy-inspired RPGs:
+# Differences to other Final Fantasy-inspired RPGs:
 
 This is not the first attempt to write a role-playing game based on the Final Fantasy franchise, nor will it be the last. In fact it is quite good for hobbyist scenes when more people get into them and make their own take, so that everyone in the scene can learn from each other and change their own ideas of perfection.
 
