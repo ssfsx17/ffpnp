@@ -69,6 +69,12 @@
 - Clot Charm (6,000 gil) - restores 1,000 HP, also heals undead
 - Blood Charm (20,000 gil) - restores all HP, also heals undead
 
+### Utility
+
+- Rename Card - allows the user to change their name
+- Gysahl Greens (50 gil) - feed for a Fat Chocobo
+- Gysahl Whistle (2,000 gil) - summons a Fat Chocobo for item storage, transfers, and shipping
+
 ## Magic Items
 
 - Bestiary (50 gil) - Casts Libra
@@ -102,25 +108,20 @@
 - Silver Hourglass (9,800 gil) - Casts Stopga multi-targeted
 - Gold Hourglass (15,000 gil) - Casts Stopga multi-targeted at +50 Magic Accuracy
 
-Hermes Sandals (4,800 gil) - Casts Haste multi-targeted
-Decoy (4,800 gil) - Casts Blink multi-targeted
-Light Curtain (4,000 gil) - Casts Reflectga multi-targeted
-Lunar Curtain (20,000 gil) - Casts Protectga and Reflectga multi-targeted
+- Hermes Sandals (4,800 gil) - Casts Haste multi-targeted
+- Decoy (4,800 gil) - Casts Blink multi-targeted
+- Light Curtain (4,000 gil) - Casts Reflectga multi-targeted
+- Lunar Curtain (20,000 gil) - Casts Protectga and Reflectga multi-targeted
 
-Stardust (4,800 gil) - Casts Comet
+- Stardust (4,800 gil) - Casts Comet
 
-Siren (3,000 gil) - attracts monsters
-Emergency Exit (180 gil) - Casts Teleport
-Gnomish Bread (100 gil) - Casts Sight
-
-Rename Card - allows the user to change their name
-
-Gysahl Greens (50 gil) - feed for a Fat Chocobo
-Gysahl Whistle (2,000 gil) - summons a Fat Chocobo for item storage, transfers, and shipping
+- Siren (3,000 gil) - attracts monsters
+- Emergency Exit (180 gil) - Casts Teleport
+- Gnomish Bread (100 gil) - Casts Sight
 
 ## Throwing Items
 
-These items can only be used with the Throw action.
+These items can only be used with the Ninja's Throw action.
 
 - Throwing Dagger (10 gil) - Agility * 10 damage
 - Kunai (50 gil) - Agility * 20 damage
@@ -134,15 +135,22 @@ These items can only be used with the Throw action.
 - Fork (priceless) - Agility * 150 damage
 - Frying Pan (priceless) (BDL) - Agility * 200 damage
 
-Decoy Log - Causes Blink status to self (2)
-Smoke Bomb - Causes Blink status to self (4)
-Invisibility Scroll - Causes Vanish status to self (6)
+- Decoy Log - Causes Blink status to self (2)
+- Smoke Bomb - Causes Blink status to self (4)
+- Invisibility Scroll - Causes Vanish status to self (6)
+- Hatsuentou no Makimono
 
-Flame Scroll
-Blazing Scroll
+- Flame Scroll
+- Blazing Scroll
+- Honoo no Makimono
+- Shounetsujigoku no Makimono
 
-Water Scroll
-Flooding Scroll
+- Water Scroll
+- Flooding Scroll
+- Mizu no Makimono
+- Tsunami no Makimono
 
-Lightning Scroll
-Electrifying Scroll
+- Lightning Scroll
+- Electrifying Scroll
+- Denki no Makimono
+- Raikou no Makimono

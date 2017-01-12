@@ -56,3 +56,9 @@ There are two dimensions to elements. The first dimension is binary: physical or
 - Non-Elemental
 - Poison
 - Water
+
+## Chocobo Riding in Combat
+
+Upon entering combat, roll a 1d100. If this is higher than the chocobo's level, then it attempts to flee combat. The Chocobo Knight job overrides this for chocobos of all levels.
+
+The chocobo can be targeted separately. If it is killed while you are still on it, then you suffer from Addle and Stun status (1).

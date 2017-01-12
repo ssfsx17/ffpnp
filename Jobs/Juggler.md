@@ -21,7 +21,7 @@ Reactions:
 
 Proficiencies:
 
-- Weapons: Daggers 1H, Sashes 2H, Whips 2H, Bombsticks 1H, Boomerangs 1H, 1 x Choice
+- Weapons: Daggers 1H, Festival Toys 1H, Festival Toys 2H, Sashes 2H, Whips 2H, Bombsticks 1H, Boomerangs 1H, 1 x Choice
 - Shields: Light Bucklers
 - Head Gear: Light Hats
 - Body Gear: Light Suits
@@ -34,8 +34,10 @@ Job Levels:
 | --- | --- |
 | 1 | 
 | 2 | Action Unlock: Acrobatics T1
+|   | Proficiency Unlock: Bombsticks 1H
 | 3 | Job Action: Acrobatics T2
 | 4 | Action Unlock: Acrobatics T2
+|   | Proficiency Unlock: Boomerangs 1H
 | 5 | Job Action: Acrobatics T3
 | 6 | Action Unlock: Acrobatics T3
 | 7 | Job Action: Acrobatics T4

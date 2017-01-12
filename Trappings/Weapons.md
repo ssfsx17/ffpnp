@@ -1,3 +1,5 @@
+# Weapons
+
 ## 1-Handed Melee
 
 ### Axes 1H
@@ -14,6 +16,11 @@
 
 - Damage = Agility * Level * 0.3
 - Price = Level * 80
+
+### Festival Toys 1H
+
+- Damage = Speed * Level * 0.5
+- Price = Level * 100
 
 ### Fists 1H
 
@@ -72,6 +79,11 @@
 ### Axes 2H
 
 - Damage = Strength * Level * 0.1 * 1d12
+- Price = Level * 160
+
+### Festival Toys 2H
+
+- Damage = Speed * Level * 0.8
 - Price = Level * 160
 
 ### Forks 2H

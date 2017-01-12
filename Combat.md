@@ -85,6 +85,10 @@ Blind - Accuracy and Magic Accuracy are zero.
 
 Blink - Evasion is infinite. But, each incoming attack reduces the duration of the Blink status by one round.
 
+Boost Attack - Physical damage output is doubled.
+
+Boost Magic - Magical damage output and healing is doubled.
+
 Brave - Physical damage output is increased by 50%, but Defense is halved.
 
 Broken Accessory - Support abilities are nullified. If this status happens to a player character, their accessories are also nullified.
@@ -131,7 +135,7 @@ Imp - Disables all job and choice actions except for those that end Imp status. 
 
 Locked-On - Evasion and Defense are zero against ranged attacks.
 
-Meditation - Regain 5% MP every round.
+Meditation - Regain Level * 0.5 MP every round.
 
 Mini - Evasion is doubled, but Defense is zero. Physical damage output is zero.
 
@@ -189,4 +193,4 @@ Watered - Take double damage from Lightning element.
 
 X-Zone - Removed from the realm. There are various ways to end this status, come back, or take advantage of the new situation.
 
-Zombie - Take double damage from Holy element. HP and MP drain has the opposite effect on you. Most healing spells will specify that they cause harmful effects to those with the Zombie status.
+Zombie - Considered to be undead. Take double damage from Holy element. HP and MP drain often has the opposite effect on you. Most healing spells will specify that they cause harmful effects to the undead.
