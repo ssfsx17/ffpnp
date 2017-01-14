@@ -14,16 +14,21 @@ Write three distinctive things about your character. These should indicate your 
 
 Examples:
 
+- "He washed up on a beach with no memories."
 - "His home was invaded by the Empire."
 - "Fell in a cave and heard a voice telling him to save the world."
 - "Doubts the motives of his king."
 - "Woman who dresses as a man to maintain the respect of her peers. Such is the environment she survives in."
 - "Enslaved by an insane magical clown, until a traumatic event freed her."
 - "He is actually a remote-controlled robot. Apparently the creator put all his sense of humor and fun into it."
+- "She guards the princess with her life, as is her ordained duty."
 - "Sometimes falls too much in love with her students, even though she is older and taller than them. They are totally 18 or older though."
 - "Her home environment was far too stifling and controlling, so she escaped."
 - "She is the ex-secretary of the evil empire."
+- "She got fed up with lacking a White Mage for her party, so she decided to just try to become one."
 - "He willingly took the blame for the assassination of the king, believing this would avert an even worse war. The real assassin was someone close to him."
+- "Her sister was kidnapped."
+- "He is the heir to the throne."
 
 ## Attributes
 
