@@ -1,63 +1,3 @@
-# Gambler
-
-**Warning** - The Gambler is complex and involves a lot of dice rolling.
-
-Requires: Thief 4
-
-Actions:
-
-- Attack
-- Defend
-- Charge
-- Gambling Tech
-- Item
-
-Supports:
-
-- 1 x Choice
-
-Reactions:
-
-- 1 x Choice
-
-Proficiencies:
-
-- Weapons: Daggers 1H, Cards 1H
-- Shields: Light Bucklers
-- Head Gear: Light Hats
-- Body Gear: Light Suits
-- Arm Gear: Light Gloves
-- Leg Gear: Light Shoes
-
-Job Levels:
-
-| JL | Notes |
-| --- | --- |
-| 1 | 
-| 2 | Action Unlock: Gambling Tech T1
-|   | Proficiency Unlock: Cards 1H
-| 3 | Job Action: Gambling Tech T2
-| 4 | Action Unlock: Gambling Tech T2
-| 5 | Job Action: Gambling Tech T3
-| 6 | Action Unlock: Gambling Tech T3
-| 7 | Job Action: Gambling Tech T4
-| 8 | Action Unlock: Gambling Tech T4
-| 9 | Job Action: Gambling Tech T5
-| 10 | Prestige Job: Professional Gambler
-|    | Action Unlock: Gambling Tech T5
-|    | Job Support: Casino Comps - You now keep track of all money spent on Gambling abilities, recorded as "compensation value". These comps are usable for all casino activities that do not win money.
-| 11 | Job Action: Gambling Tech T6
-| 12 | Action Unlock: Gambling Tech T6
-| 13 | Job Action: Gambling Tech T7
-| 14 | Action Unlock: Gambling Tech T7
-| 15 | Job Action: Gambling Tech T8
-| 16 | Action Unlock: Gambling Tech T8
-| 17 | Job Action: Gambling Tech T9
-| 18 | Action Unlock: Gambling Tech T9
-| 19 | Job Action: Gambling Tech T10
-| 20 | Action Unlock: Gambling Tech T10
-|    | Support Unlock: Casino Comps
-
 ## Gambling Tech
 
 ### Gambling Tech T1
@@ -108,24 +48,27 @@ Quarter Slots (250 gil) - Play the Slots system. Three rows and two diagonals ar
 
 Dollar Slots (1,000 gil) - Play the Slots system. Three rows and two diagonals are used. The center row uses the High-Power Effects. You choose one of the five given effects.
 
-Mahjong Hand (2,000 Gil) (BDL) - Play a solitaire game of Mahjong and attempt to form a hand with only 28 draws. On a failure to make a Mahjong, each party member suffers 2,000 damage, ignoring Magic Evasion and Magic Defense. On a success, do an amount of damage to all enemies equal to the points value of the hand, ignoring Magic Evasion and Magic Defense. There are possible additional effects depending on components of the hand.
-- East Wind (Ton) Pon/Kan
-- South Wind (Nan) Pon/Kan
-- West Wind (Sha) Pon/Kan
-- North Wind (Pei) Pon/Kan
-- Red Dragon (Chun) Pon/Kan
-- Green Dragon (Hatsu) Pon/Kan
-- White Dragon (Haku) Pon/Kan
-- 9+ tiles of Wan/Man
-- 9+ tiles of Sou/Bamboo - Cast Curaja on the party for free.
-- 9+ tiles of Pin/Dot
-- Seven Pairs hand
-- Thirteen Orphans hand
+Mahjong Hand (2,000 Gil) (BDL) - Play a solitaire game of Mahjong, according to Japanese Riichi rules, and attempt to form a hand with only 28 draws. On a failure to make a Mahjong, each party member suffers 2,000 damage, ignoring Magic Evasion and Magic Defense. On a success, do an amount of damage to all enemies equal to the points value of the hand, ignoring Magic Evasion and Magic Defense. There are possible additional effects depending on components of the hand.
+
+- Pon/Kan of East Wind (Ton) - Causes Broken Armor status (10) to all enemies at +50 Magic Accuracy.
+- Pon/Kan of South Wind (Nan) - Causes Broken Accessory status (10) to all enemies at +50 Magic Accuracy.
+- Pon/Kan of West Wind (Sha) - Causes Broken Helmet status (10) to all enemies at +50 Magic Accuracy.
+- Pon/Kan of North Wind (Pei) - Causes Broken Weapon status (10) to all enemies at +50 Magic Accuracy.
+- Pon/Kan of Red Dragon (Chun) - Additional magical attack for Intellect * Level * 3 fire damage to all enemies.
+- Pon/Kan of Green Dragon (Hatsu) - Additional magical attack for Intellect * Level * 3 non-elemental damage to all enemies.
+- Pon/Kan of White Dragon (Haku) - Additional magical attack for Intellect * Level * 3 lightning damage to all enemies.
+- 9+ tiles of Wan/Man/Characters - Causes Addle and Silence status (10) to all enemies at +50 Magic Accuracy.
+- 9+ tiles of Sou/Bam/Bamboo - Restores Spirit * Level * 5 HP to the party.
+- 9+ tiles of Pin/Dot/Circles - Additional magical attack for Intellect * Level * 5 non-elemental damage to all enemies.
+- Seven Pairs hand - Restores Level * 10 MP to the party.
+- Thirteen Orphans hand - Attempt to instantly-kill all enemies at +50 Magic Accuracy.
 
 ## Slots System
 
 There are three reels, with each reel having three positions. This is a total of 9 random positions.
 
+| pos | pos | pos |
+| --- | --- | --- |
 | 1 | 2 | 3 |
 | 4 | 5 | 6 |
 | 7 | 8 | 9 |
