@@ -1,3 +1,63 @@
+# Gambler
+
+**Warning** - The Gambler is complex and involves a lot of dice rolling.
+
+Requires: Thief 4
+
+Actions:
+
+- Attack
+- Defend
+- Charge
+- Gambling Tech
+- Item
+
+Supports:
+
+- 1 x Choice
+
+Reactions:
+
+- 1 x Choice
+
+Proficiencies:
+
+- Weapons: Daggers 1H, Cards 1H
+- Shields: Light Bucklers
+- Head Gear: Light Hats
+- Body Gear: Light Suits
+- Arm Gear: Light Gloves
+- Leg Gear: Light Shoes
+
+Job Levels:
+
+| JL | Notes |
+| --- | --- |
+| 1 | 
+| 2 | Action Unlock: Gambling Tech T1
+|   | Proficiency Unlock: Cards 1H
+| 3 | Job Action: Gambling Tech T2
+| 4 | Action Unlock: Gambling Tech T2
+| 5 | Job Action: Gambling Tech T3
+| 6 | Action Unlock: Gambling Tech T3
+| 7 | Job Action: Gambling Tech T4
+| 8 | Action Unlock: Gambling Tech T4
+| 9 | Job Action: Gambling Tech T5
+| 10 | Prestige Job: Professional Gambler
+|    | Action Unlock: Gambling Tech T5
+|    | Job Support: Casino Comps - You now keep track of all money spent on Gambling abilities, recorded as "compensation value". These comps are usable for all casino activities that do not win money.
+| 11 | Job Action: Gambling Tech T6
+| 12 | Action Unlock: Gambling Tech T6
+| 13 | Job Action: Gambling Tech T7
+| 14 | Action Unlock: Gambling Tech T7
+| 15 | Job Action: Gambling Tech T8
+| 16 | Action Unlock: Gambling Tech T8
+| 17 | Job Action: Gambling Tech T9
+| 18 | Action Unlock: Gambling Tech T9
+| 19 | Job Action: Gambling Tech T10
+| 20 | Action Unlock: Gambling Tech T10
+|    | Support Unlock: Casino Comps
+
 ## Gambling Tech
 
 ### Gambling Tech T1
