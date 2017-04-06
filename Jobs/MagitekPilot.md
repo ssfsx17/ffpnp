@@ -1,3 +1,69 @@
+# Magitek Pilot
+
+Requires: Black Mage 2, Knight 2, Soldier 2
+
+Actions:
+
+- Attack
+- Defend
+- Charge
+- Magitek System - Requires a full set of Magitek equipment.
+- Item
+
+Supports:
+
+- 1 x Choice
+
+Reactions:
+
+- 1 x Choice
+- Link Reaction (2 AP) - Requires a full set of Magitek equipment. Upon taking damage, invoke the reaction of a party member that costs 2 AP or less.
+
+Proficiencies:
+
+- Weapons: Magitek Punching Systems 1H, Magitek Pile Bunkers 2H, Magitek Guns 1H, Magitek Cannons 2H
+- Shields: Magitek Shields
+- Head Gear: Magitek Heads
+- Body Gear: Magitek Bodies
+- Arm Gear: Magitek Arms
+- Leg Gear: Magitek Legs
+
+Job Levels:
+
+| JL | Notes |
+| --- | --- |
+| 1 | 
+| 2 | Action Unlock: Magitek Systems T1
+|   | Proficiency Unlock: Magitek Legs
+| 3 | Job Action: Magitek Systems T2
+| 4 | Action Unlock: Magitek Systems T2
+|   | Proficiency Unlock: Magitek Arms
+| 5 | Job Action: Magitek Systems T3
+| 6 | Action Unlock: Magitek Systems T3
+|   | Proficiency Unlock: Magitek Heads
+| 7 | Job Action: Magitek Systems T4
+| 8 | Action Unlock: Magitek Systems T4
+|   | Proficiency Unlock: Magitek Bodies
+| 9 | Job Action: Magitek Systems T5
+| 10 | Prestige Job: Magitek Ace
+|    | Action Unlock: Magitek Systems T5
+|    | Proficiency Unlock: Magitek Shields
+| 11 | Job Action: Magitek Systems T6
+| 12 | Action Unlock: Magitek Systems T6
+|    | Proficiency Unlock: Magitek Punching Systems 1H
+| 13 | Job Action: Magitek Systems T7
+| 14 | Action Unlock: Magitek Systems T7
+|    | Proficiency Unlock: Magitek Pile Bunkers 2H
+| 15 | Job Action: Magitek Systems T8
+| 16 | Action Unlock: Magitek Systems T8
+|    | Proficiency Unlock: Magitek Guns 1H
+| 17 | Job Action: Magitek Systems T9
+| 18 | Action Unlock: Magitek Systems T9
+|    | Proficiency Unlock: Magitek Cannons 2H
+| 19 | Job Action: Magitek Systems T10
+| 20 | Action Unlock: Magitek Systems T10
+
+
 ## Magitek Systems
 
 ### Magitek Systems T1
