@@ -1,6 +1,6 @@
 # Project Constitution
 
-[Official Discord for FF P&P](https://discord.gg/6CAVBMB)
+[Official Discord for FF P&P](https://discord.gg/MtXQejs)
 
 ssfsx17 is project dictator.
 
