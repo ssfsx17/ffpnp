@@ -1,4 +1,4 @@
-[Official Discord for FF P&P](https://discord.gg/6CAVBMB)
+[Official Discord for FF P&P](https://discord.gg/MtXQejs)
 
 Current state: Tech Demo. Enough to run the game, but not a single thing is considered complete.
 
