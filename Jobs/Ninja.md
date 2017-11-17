@@ -45,6 +45,7 @@ Job Levels:
 | 10 | Prestige Job: Kage Ninja
 |    | Job Support: Dual-Wield - Able to attack with two one-handed weapons at once. Each rolls Accuracy separately.
 |    | Action Unlock: Ninjutsu T5
+|    | Action Unlock: Throw
 | 11 | Job Action: Ninjutsu T6
 | 12 | Action Unlock: Ninjutsu T6
 | 13 | Job Action: Ninjutsu T7
