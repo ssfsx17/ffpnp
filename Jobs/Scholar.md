@@ -43,7 +43,7 @@ Job Levels:
 | 7 | Job Action: Scholastic Tech T4
 | 8 | Action Unlock: Scholastic Tech T4
 | 9 | Job Action: Scholastic Tech T5
-| 10 | Prestige Job: Librarian
+| 10 | Prestige Job Title: Librarian
 |    | Job Support: Careful Study - You take half damage from your own actions, before Defense and Magic Defense are applied.
 |    | Action Unlock: Scholastic Tech T5
 |    | Support Unlock: Spellbound

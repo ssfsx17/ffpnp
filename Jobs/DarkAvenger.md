@@ -45,7 +45,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Chaos Avenger
+| 10 | Prestige Job Title: Chaos Avenger
 | 11 | 
 | 12 | 
 | 13 | 

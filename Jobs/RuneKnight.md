@@ -42,7 +42,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Rune Master
+| 10 | Prestige Job Title: Rune Master
 |    | Job Support: MP Overflow - Extra MPs are distributed evenly to the rest of the party.
 |    | Job Reaction: Counter-Runic (1 AP) - Runic against one spell.
 |    | Action Unlock: Runic

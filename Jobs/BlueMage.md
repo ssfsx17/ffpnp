@@ -41,7 +41,7 @@ Job Levels:
 | 7 | Job Action: Blue Magic T4
 | 8 | Action Unlock: Blue Magic T4
 | 9 | Job Action: Blue Magic T5
-| 10 | Prestige Job: Blue Wizard
+| 10 | Prestige Job Title: Blue Wizard
 |    | Job Support: Blue Lore - You learn Blue Magic by observing it once. You do not need to be hit by it.
 |    | Action Unlock: Blue Magic T5
 |    | Support Unlock: Blue Learning

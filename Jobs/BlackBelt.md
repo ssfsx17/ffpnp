@@ -44,7 +44,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Grandmaster Black Belt
+| 10 | Prestige Job Title: Grandmaster Black Belt
 |    | Job Support: Lifefont - Always have Regen status in combat. Out of combat, always restore full HP during a rest.
 |    | Support Unlock: HP Plus
 | 11 | 

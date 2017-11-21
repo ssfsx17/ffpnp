@@ -44,7 +44,7 @@ Job Levels:
 | 8 | Action Unlock: Knight Tech T4
 |   | Proficiency Unlock: Heavy Plate Armor
 | 9 | Job Action: Knight Tech T5
-| 10 | Prestige Job: Defender
+| 10 | Prestige Job Title: Defender
 |    | Job Support: Shield Bash - Shields can be used as Hammers 1H of twenty levels lower
 |    | Action Unlock: Knight Tech T5
 |    | Proficiency Unlock: Heavy Greatshields

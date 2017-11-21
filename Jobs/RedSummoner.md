@@ -44,7 +44,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Rouge Summoner
+| 10 | Prestige Job Title: Rouge Summoner
 |    | Job Action: Double Summon (10 AP) - Two summon actions.
 | 11 | 
 | 12 | 

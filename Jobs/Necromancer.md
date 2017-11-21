@@ -41,7 +41,7 @@ Job Levels:
 | 7 | Job Action: Dark Arts T4
 | 8 | Action Unlock: Dark Arts T4
 | 9 | Job Action: Dark Arts T5
-| 10 | Prestige Job: Dessicated Necromancer
+| 10 | Prestige Job Title: Dessicated Necromancer
 |    | Job Support: Poison Eater - You are healed by Poison, Poison-Plus, and Virus statuses. Virus does not prevent you from healing.
 |    | Action Unlock: Dark Arts T5
 |    | Support Unlock: Undeath Form

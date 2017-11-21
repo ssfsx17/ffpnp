@@ -1,9 +1,9 @@
 Jobs can be freely changed during sleep, as long as characters meet the requirements.
 
-The price of a job level in JP is equal to the level multiplied by 10. Job level 10 is Mastered, and changes it into its Prestige Job. Job level 20 is Prestige Mastered. The following table is provided for convenience:
+The price of a job level in JP is equal to the level multiplied by 10. The following table is provided for convenience:
 
-| JL | Cost to Buy | Cumulative Cost |
-| --- | --- | --- |
+| JL | Cost to Buy | Cumulative Cost | Other Notes |
+| --- | --- | --- | --- |
 | 1 | 10 JP | 10 JP
 | 2 | 20 JP | 30 JP
 | 3 | 30 JP | 60 JP
@@ -13,7 +13,7 @@ The price of a job level in JP is equal to the level multiplied by 10. Job level
 | 7 | 70 JP | 280 JP
 | 8 | 80 JP | 360 JP
 | 9 | 90 JP | 450 JP
-| 10 | 100 JP | 550 JP
+| 10 | 100 JP | 550 JP | Prestige Job Title
 | 11 | 110 JP | 660 JP
 | 12 | 120 JP | 780 JP
 | 13 | 130 JP | 910 JP
@@ -23,11 +23,19 @@ The price of a job level in JP is equal to the level multiplied by 10. Job level
 | 17 | 170 JP | 1530 JP
 | 18 | 180 JP | 1710 JP
 | 19 | 190 JP | 1900 JP
-| 20 | 200 JP | 2100 JP
+| 20 | 200 JP | 2100 JP | Mastered
+
+Improving a Job to Job Level 10 will gain a Prestige Job Title, indicating great expertise compared to any mortal. Improving a Job to Job level 20 makes it Mastered.
 
 All Jobs are inherently magical. Their abilities might express this magic in different ways. There is no such thing as a person who can slice all enemies in a single stroke without the aid of magic. If someone can slice all enemies in a single stroke, they are getting some sort of constant magical power from their Job.
 
-If a job has an action from another job, then that action is usable according to what has been unlocked for choice, as opposed to what has been unlocked for job use. For example, you must have White Mage 20 in order to use White Magic T10 with any other job that has the White Magic action.
+If a job has an action from another job, then that action is usable according to what has been unlocked for choice, as opposed to what has been unlocked for job use. For example, you must have White Mage 20 (mastered) in order to use White Magic T10 with any other job that has the White Magic action.
+
+## Optional: Plotline Job Requirements
+
+The GM may choose to impose plot requirements to buy the first Job Level of any Job. These requirements can be in addition to, or a replacement of, their existing requirements. For example, the GM may rule that no jobs other than the base jobs are available. The Player Characters may later encounter a Crystal of Wind that gives them access to Fighter, Thief, White Mage, and Black Mage.
+
+The GM could also require the Player Characters to seek out hidden masters, ancient artifacts, unique opponents, personal quests, and other such things to gain access to the first Job Level of specific Jobs. For example, the only way to learn the Holy Knight job may be to undertake an ordeal on a sacred mountain.
 
 ## Job Description Format
 
@@ -45,7 +53,7 @@ Job Levels: A table of various things that occur at each job level.
 
 - Job Action/Support/Reaction/Proficiency: Becomes inherent to the job.
 - Action/Support/Reaction/Proficiency Unlock: Made available as a choice option. In many cases, Action unlocks will also expand the abilities and spells that are available to certain other jobs.
-- Prestige Job: New job title. Purely cosmetic, although the GM may create situations in which the job title is important.
+- Prestige Job Title: New job title. Purely cosmetic, although the GM may create situations in which the job title is important.
 
 ## Job Index
 

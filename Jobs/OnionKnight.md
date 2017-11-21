@@ -43,7 +43,7 @@ Job Levels:
 | 8 | Action Unlock: Onion Tech T4
 |   | Proficiency Unlock: Light Suits
 | 9 | Job Action: Onion Tech T5
-| 10 | Prestige Job: Onion Hero
+| 10 | Prestige Job Title: Onion Hero
 |    | Job Support: AP-Accumulate - Passive AP gain is increased by 1.
 |    | Action Unlock: Onion Tech T5
 |    | Proficiency Unlock: Light Bucklers

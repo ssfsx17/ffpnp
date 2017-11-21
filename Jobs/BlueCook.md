@@ -41,7 +41,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Blue Chef
+| 10 | Prestige Job Title: Blue Chef
 |    | Job Action: Cook (5 AP) - Attempt to instantly-kill a target that is at 50% HP or less, at -50 Accuracy. If this succeeds, then the target is considered to have been eaten.
 | 11 | 
 | 12 | 

@@ -43,7 +43,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Refined Shallot
+| 10 | Prestige Job Title: Refined Shallot
 |    | Job Support: Attribute Mastery - All attributes are increased by Total Job Levels * 0.1
 | 11 | 
 | 12 | 

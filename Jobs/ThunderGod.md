@@ -48,7 +48,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Lightning God
+| 10 | Prestige Job Title: Lightning God
 | 11 | 
 | 12 | 
 | 13 | 

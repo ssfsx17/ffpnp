@@ -41,7 +41,7 @@ Job Levels:
 | 7 | Job Action: Calculation T4
 | 8 | Action Unlock: Calculation T4
 | 9 | Job Action: Calculation T5
-| 10 | Prestige Job: Arithmetician
+| 10 | Prestige Job Title: Arithmetician
 |    | Job Support: Cup of Life - Healing received that goes above maximum HP is distributed to the rest of the party.
 |    | Action Unlock: Calculation T5
 | 11 | Job Action: Calculation T6

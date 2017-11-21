@@ -43,7 +43,7 @@ Job Levels:
 | 7 | Job Action: Bardsong T4
 | 8 | Action Unlock: Bardsong T4
 | 9 | Job Action: Bardsong T5
-| 10 | Prestige Job: Herald
+| 10 | Prestige Job Title: Herald
 |    | Job Support: Critical Vanish - Automatically enter Vanish status while at 20% HP or less.
 |    | Action Unlock: Bardsong T5
 | 11 | Job Action: Bardsong T6

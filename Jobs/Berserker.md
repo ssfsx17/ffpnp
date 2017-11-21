@@ -39,7 +39,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Guts Berserker
+| 10 | Prestige Job Title: Guts Berserker
 |    | Job Support: Critical Anger - Double physical damage output while at 20% HP or less.
 |    | Job Support: UGS-Mastery - The special AP rules for Ultra-Greatswords are cancelled.
 | 11 | 

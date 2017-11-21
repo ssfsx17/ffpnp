@@ -44,7 +44,7 @@ Job Levels:
 | 7 | Job Action: Geomancy T4
 | 8 | Action Unlock: Geomancy T4
 | 9 | Job Action: Geomancy T5
-| 10 | Prestige Job: Elementalist
+| 10 | Prestige Job Title: Elementalist
 |    | Action Unlock: Geomancy T5
 |    | Support Unlock: Light Step
 | 11 | Job Action: Geomancy T6

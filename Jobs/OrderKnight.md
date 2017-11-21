@@ -45,7 +45,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Order Headmaster
+| 10 | Prestige Job Title: Order Headmaster
 | 11 | 
 | 12 | 
 | 13 | 

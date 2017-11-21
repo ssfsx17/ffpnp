@@ -42,7 +42,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Holy Devout
+| 10 | Prestige Job Title: Holy Devout
 |    | Job Action: Pray-Plus (15 AP) - Pray action with double effect.
 |    | Job Support: Half-MP - MP costs are halved.
 |    | Action Unlock: Pray

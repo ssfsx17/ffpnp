@@ -42,7 +42,7 @@ Job Levels:
 | 7 | Job Action: Temple Sword Tech T4
 | 8 | Action Unlock: Temple Sword Tech T4
 | 9 | Job Action: Temple Sword Tech T5
-| 10 | Prestige Job: Templar
+| 10 | Prestige Job Title: Templar
 |    | Action Unlock: Temple Sword Tech T5
 | 11 | Job Action: Temple Sword Tech T6
 | 12 | Action Unlock: Temple Sword Tech T6

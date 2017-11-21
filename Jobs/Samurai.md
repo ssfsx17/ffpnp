@@ -44,7 +44,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Daimyo
+| 10 | Prestige Job Title: Daimyo
 |    | Job Reaction: Quickdraw (1 AP) - Interrupt an enemy with your own attack. If the enemy is still alive afterwards, it acts normally.
 |    | Reaction Unlock: Shirahadori
 | 11 | 

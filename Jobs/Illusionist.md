@@ -41,7 +41,7 @@ Job Levels:
 | 7 | Job Action: Illusion Magic T4
 | 8 | Action Unlock: Illusion Magic T4
 | 9 | Job Action: Illusion Magic T5
-| 10 | Prestige Job: Enchanter
+| 10 | Prestige Job Title: Enchanter
 |    | Job Reaction: Full Absorb MP (2 AP) - When targeted by a harmful MP-using ability, you regain an amount of MP equal to that ability's cost.
 |    | Action Unlock: Illusion Magic T5
 |    | Reaction Unlock: Absorb MP

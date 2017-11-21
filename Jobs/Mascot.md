@@ -44,7 +44,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Genki Mascot
+| 10 | Prestige Job Title: Genki Mascot
 |    | Job Reaction: Counter Rage (1 AP) - Upon taking damage, change your current Rage.
 |    | Support Unlock: Controlled Rage
 | 11 | 

@@ -43,7 +43,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Dark Magus
+| 10 | Prestige Job Title: Dark Magus
 |    | Job Support: Elemental Exploitation - When you hit an elemental weakness, damage is tripled rather than doubled.
 |    | Reaction Unlock: Counter-Magic
 | 11 | 

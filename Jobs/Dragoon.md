@@ -45,7 +45,7 @@ Job Levels:
 | 7 | Job Action: Dragoon Tech T4
 | 8 | Action Unlock: Dragoon Tech T4
 | 9 | Job Action: Dragoon Tech T5
-| 10 | Prestige Job: Draconic Dragoon
+| 10 | Prestige Job Title: Draconic Dragoon
 |    | Action Unlock: Jump
 |    | Action Unlock: Dragoon Tech T5
 |    | Support Unlock: Jump +3

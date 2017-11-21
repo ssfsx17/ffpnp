@@ -46,7 +46,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Highwind Guardian
+| 10 | Prestige Job Title: Highwind Guardian
 |    | Reaction Unlock: Dragonheart
 | 11 | 
 | 12 | 

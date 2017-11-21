@@ -47,7 +47,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Elder Archmage
+| 10 | Prestige Job Title: Elder Archmage
 |    | Action Unlock: Recall
 | 11 | 
 | 12 | 

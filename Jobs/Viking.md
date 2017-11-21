@@ -42,7 +42,7 @@ Job Levels:
 | 7 | Job Action: Viking Tech T4
 | 8 | Action Unlock: Viking Tech T4
 | 9 | Job Action: Viking Tech T5
-| 10 | Prestige Job: Jarl
+| 10 | Prestige Job Title: Jarl
 |    | Job Support: Doublehand - Able to use a one-handed weapon in both hands, doubling its damage.
 |    | Action Unlock: Viking Tech T5
 | 11 | Job Action: Viking Tech T6
@@ -60,6 +60,8 @@ Job Levels:
 ## Viking Tech
 
 ### Viking Tech T1
+
+Intimidating Pressure (2 AP) (single) - Attempt to cause Immobilize status (2), using Magic Accuracy and opposed by Magic Evasion.
 
 Pillage Gil (1 AP) (single) - Attack, and 1/10th of the damage is gained as Gil.
 

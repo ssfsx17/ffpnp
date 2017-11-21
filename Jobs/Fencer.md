@@ -42,7 +42,7 @@ Job Levels:
 | 7 | Job Action: Fencing Tech T4
 | 8 | Action Unlock: Fencing Tech T4
 | 9 | Job Action: Fencing Tech T5
-| 10 | Prestige Job: Duellist
+| 10 | Prestige Job Title: Duellist
 |    | Job Support: Evasion Up - Evasion increased by Level * 0.5
 |    | Action Unlock: Fencing Tech T5
 |    | Reaction Unlock: Riposte

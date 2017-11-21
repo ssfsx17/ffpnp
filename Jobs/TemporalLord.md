@@ -44,7 +44,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Temporal Master
+| 10 | Prestige Job Title: Temporal Master
 |    | Job Action: Charge-Plus - Charge action with double effect.
 |    | Support Unlock: Critical Quick
 | 11 | 

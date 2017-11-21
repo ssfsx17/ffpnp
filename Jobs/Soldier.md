@@ -42,7 +42,7 @@ Job Levels:
 | 7 | Job Action: Soldier Tech T4
 | 8 | Action Unlock: Soldier Tech T4
 | 9 | Job Action: Soldier Tech T5
-| 10 | Prestige Job: Sergeant
+| 10 | Prestige Job Title: Sergeant
 |    | Job Support: Shield Wall - If the party's front row all use Medium Shields or larger, then you gain Level * 0.5 Evasion.
 |    | Job Reaction: Spear Wall - If the party's front row all use Spears 1H and Spears 2H, then you get a free attack against any enemy who attempts a melee attack on you.
 |    | Action Unlock: Soldier Tech T5

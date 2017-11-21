@@ -42,7 +42,7 @@ Job Levels:
 | 7 | Job Action: Dance T4
 | 8 | Action Unlock: Dance T4
 | 9 | Job Action: Dance T5
-| 10 | Prestige Job: Entrancer
+| 10 | Prestige Job Title: Entrancer
 |    | Job Support: Dance Partner - For each party member who does the same dance in the same round, the effect durations are increased by 1.
 |    | Action Unlock: Flirt
 |    | Action Unlock: Dance T5

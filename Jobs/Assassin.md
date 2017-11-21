@@ -43,7 +43,7 @@ Job Levels:
 | 7 | Job Action: Assassination Tech T4
 | 8 | Action Unlock: Assassination Tech T4
 | 9 | Job Action: Assassination Tech T5
-| 10 | Prestige Job: Slayer
+| 10 | Prestige Job Title: Slayer
 |    | Job Reaction: Shadow Dodge (1 AP) - Upon taking damage, gain Blink status (2).
 |    | Action Unlock: Assassination Tech T5
 | 11 | Job Action: Assassination Tech T6

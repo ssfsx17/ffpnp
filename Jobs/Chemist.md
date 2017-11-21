@@ -44,7 +44,7 @@ Job Levels:
 | 8 | Action Unlock: Chemistry Tech T4
 |   | Proficiency Unlock: Magic Robes
 | 9 | Job Action: Chemistry Tech T5
-| 10 | Prestige Job: Graduate Chemist
+| 10 | Prestige Job Title: Graduate Chemist
 |    | Job Action: Double-Item (1 AP) - Use two items.
 |    | Action Unlock: Salve
 |    | Action Unlock: Chemistry Tech T5

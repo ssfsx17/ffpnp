@@ -45,7 +45,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Envious Dragoon
+| 10 | Prestige Job Title: Envious Dragoon
 | 11 | 
 | 12 | 
 | 13 | 

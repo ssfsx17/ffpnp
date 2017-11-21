@@ -40,7 +40,7 @@ Job Levels:
 | 7 | Job Action: Psionics T4
 | 8 | Action Unlock: Psionics T4
 | 9 | Job Action: Psionics T5
-| 10 | Prestige Job: Class-S Psychic
+| 10 | Prestige Job Title: Class-S Psychic
 |    | Job Support: Gravity Eater - +50 Magic Evasion against gravity and HP-reduction effects.
 |    | Action Unlock: Psionics T5
 | 11 | Job Action: Psionics T6

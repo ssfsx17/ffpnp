@@ -40,7 +40,7 @@ Job Levels:
 | 7 | Job Action: Machine T4
 | 8 | Action Unlock: Machine T4
 | 9 | Job Action: Machine T5
-| 10 | Prestige Job: Machinist
+| 10 | Prestige Job Title: Machinist
 |    | Job Support: Machine Trap - If the party successfully ambushes the enemy, then do two free Machine actions at the beginning of combat.
 |    | Action Unlock: Machine T5
 | 11 | Job Action: Machine T6

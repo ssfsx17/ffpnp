@@ -45,7 +45,7 @@ Job Levels:
 | 8 | Action Unlock: Magitek Systems T4
 |   | Proficiency Unlock: Magitek Bodies
 | 9 | Job Action: Magitek Systems T5
-| 10 | Prestige Job: Magitek Ace
+| 10 | Prestige Job Title: Magitek Ace
 |    | Action Unlock: Magitek Systems T5
 |    | Proficiency Unlock: Magitek Shields
 | 11 | Job Action: Magitek Systems T6

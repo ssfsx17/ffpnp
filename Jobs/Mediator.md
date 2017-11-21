@@ -42,7 +42,7 @@ Job Levels:
 | 7 | Job Action: Speechcraft T4
 | 8 | Action Unlock: Speechcraft T4
 | 9 | Job Action: Speechcraft T4
-| 10 | Prestige Job: Orator
+| 10 | Prestige Job Title: Orator
 |    | Action Unlock: Speechcraft T5
 |    | Reaction Unlock: Earplug
 | 11 | Job Action: Speechcraft T6

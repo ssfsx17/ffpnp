@@ -42,7 +42,7 @@ Job Levels:
 | 7 | Job Action: Gunmanship T4
 | 8 | Action Unlock: Gunmanship T4
 | 9 | Job Action: Gunmanship T5
-| 10 | Prestige Job: Cannoneer
+| 10 | Prestige Job Title: Cannoneer
 |    | Job Support: Cannon Mastery - The special AP rules for Cannons are cancelled.
 |    | Job Support: Primary and Secondary Firing Positions - If the party successfully ambushes the enemy, then you get two free attacks at the beginning of combat.
 |    | Action Unlock: Gunmanship T5

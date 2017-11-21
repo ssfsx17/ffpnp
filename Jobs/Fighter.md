@@ -40,7 +40,7 @@ Job Levels:
 | 7 | Job Action: Fighter Tech T4
 | 8 | Action Unlock: Fighter Tech T4
 | 9 | Job Action: Fighter Tech T5
-| 10 | Prestige Job: Warrior
+| 10 | Prestige Job Title: Warrior
 |    | Action Unlock: Fighter Tech T5
 |    | Job Support: Monkey Grip - Wield a two-handed weapon in one hand, halving its damage.
 | 11 | Job Action: Fighter Tech T6

@@ -42,7 +42,7 @@ Job Levels:
 | 7 | Job Action: White Magic T4
 | 8 | Action Unlock: White Magic T4
 | 9 | Job Action: White Magic T5
-| 10 | Prestige Job: White Wizard
+| 10 | Prestige Job Title: White Wizard
 |    | Job Reaction: MP-Armor (1 AP) - Damage against you is dealt to MP first before HP, at a ratio of 5 HP damage converted to 1 MP damage.
 |    | Action Unlock: White Magic T5
 | 11 | Job Action: White Magic T6

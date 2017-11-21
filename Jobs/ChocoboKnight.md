@@ -42,7 +42,7 @@ Job Levels:
 | 7 | Job Action: Chocotech T4
 | 8 | Action Unlock: Chocotech T4
 | 9 | Job Action: Chocotech T5
-| 10 | Prestige Job: Chocobo Jouster
+| 10 | Prestige Job Title: Chocobo Jouster
 |    | Job Support: Chocoriding Mastery - Half of your chocobo's Evasion and Magic Evasion are added to your own. Half of your Defense and Magic Defense are added to your chocobo.
 |    | Action Unlock: Chocotech T5
 | 11 | Job Action: Chocotech T6

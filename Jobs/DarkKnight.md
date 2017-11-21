@@ -44,7 +44,7 @@ Job Levels:
 | 7 | Job Action: Dark Sword Tech T4
 | 8 | Action Unlock: Dark Sword Tech T4
 | 9 | Job Action: Dark Sword Tech T5
-| 10 | Prestige Job: Fell Knight
+| 10 | Prestige Job Title: Fell Knight
 |    | Action Unlock: Dark Sword Tech T5
 |    | Job Support: Deathproof - Immune to instant-death effects.
 |    | Job Reaction: Bully Taunt (1 AP) - Interrupt an enemy spellcasting with Taunt.
@@ -60,7 +60,7 @@ Job Levels:
 | 19 | Job Action: Dark Sword Tech T10
 | 20 | Action Unlock: Dark Sword Tech T10
 |    | Support Unlock: Deathproof
-|    | Reaction Unlock: Buly Taunt
+|    | Reaction Unlock: Bully Taunt
 
 ## Dark Sword Tech
 

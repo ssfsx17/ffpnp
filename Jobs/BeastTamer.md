@@ -45,7 +45,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Beastmaster
+| 10 | Prestige Job Title: Beastmaster
 |    | Job Support: Critical Haste - Always in Haste status while at 20% HP or less.
 |    | Support Unlock: Beast Tongue
 | 11 | 

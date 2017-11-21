@@ -44,7 +44,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Lord
+| 10 | Prestige Job Title: Lord
 |    | Job Support: Squire Fundamentals Mastery - You can do Stone Toss twice, or Tackle twice. Their damage is doubled.
 |    | Reaction Unlock: Parry
 | 11 | 

@@ -43,7 +43,7 @@ Job Levels:
 | 7 | Job Action: Holy Sword T4
 | 8 | Action Unlock: Holy Sword T4
 | 9 | Job Action: Holy Sword T5
-| 10 | Prestige Job: Holy Guardian
+| 10 | Prestige Job Title: Holy Guardian
 |    | Action Unlock: Holy Sword T5
 |    | Action Unlock: Cover
 |    | Action Unlock: Remove

@@ -44,7 +44,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Holy Summoner
+| 10 | Prestige Job Title: Holy Summoner
 |    | Job Reaction: Counter Summoning (2 AP) - Upon taking damage, do a summon action.
 | 11 | 
 | 12 | 

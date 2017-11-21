@@ -38,7 +38,7 @@ Proficiencies:
 | 7 | Job Action: Summon T4
 | 8 | Action Unlock: Summon T4
 | 9 | Job Action: Summon T5
-| 10 | Prestige Job: Esper Evoker
+| 10 | Prestige Job Title: Esper Evoker
 |    | Action Unlock: Summon T5
 | 11 | Job Action: Summon T6
 | 12 | Action Unlock: Summon T6

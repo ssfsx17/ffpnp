@@ -45,7 +45,7 @@ Job Levels:
 | 8 | Action Unlock: Squire Tech T4
 |   | Proficiency Unlock: Medium Chainmail
 | 9 | Job Action: Squire Tech T5
-| 10 | Prestige Job: Squire Graduate
+| 10 | Prestige Job Title: Squire Graduate
 |    | Job Support: Tackle-Plus - Tackle also causes Stun status (1).
 |    | Action Unlock: Squire Tech T5
 |    | Proficiency Unlock: Medium Shields

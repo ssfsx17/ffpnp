@@ -42,7 +42,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Astrologer
+| 10 | Prestige Job Title: Astrologer
 |    | Job Action: Celestial Stasis Plus (20 AP) (multi) - Causes Stop status (4) at +50 Magic Accuracy.
 |    | Action Unlock: Celestial Stasis
 | 11 | 

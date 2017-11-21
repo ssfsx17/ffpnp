@@ -40,7 +40,7 @@ Job Levels:
 | 7 | Job Action: Red Magic T4
 | 8 | Action Unlock: Red Magic T4
 | 9 | Job Action: Red Magic T5
-| 10 | Prestige Job: Red Wizard
+| 10 | Prestige Job Title: Red Wizard
 |    | Job Action: Dualcast (10 AP) - You do two MP-using actions. If they also have an AP cost, then the AP costs stack.
 |    | Action Unlock: Red Magic T5
 | 11 | Job Action: Red Magic T6

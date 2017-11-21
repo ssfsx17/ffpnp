@@ -46,7 +46,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Justice Avenger
+| 10 | Prestige Job Title: Justice Avenger
 | 11 | 
 | 12 | 
 | 13 | 

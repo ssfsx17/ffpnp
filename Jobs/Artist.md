@@ -41,7 +41,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Sketch Artist
+| 10 | Prestige Job Title: Sketch Artist
 |    | Job Support: Artbook - Once an enemy is Sketched, it is also permanently recorded in an artbook. Sketch is now able to use enemies recorded in the artbook.
 | 11 | 
 | 12 | 

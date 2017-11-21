@@ -44,7 +44,7 @@ Job Levels:
 | 7 | Job Action: Gunplay T4
 | 8 | Action Unlock: Gunplay T4
 | 9 | Job Action: Gunplay T5
-| 10 | Prestige Job: Matrix Gunner
+| 10 | Prestige Job Title: Matrix Gunner
 |    | Job Support: Defeat to Heal MP - Regain an amount of MP equal to your Level every time you kill an enemy.
 |    | Action Unlock: Gunplay T5
 |    | Support Unlock: Blindproof

@@ -42,7 +42,7 @@ Job Levels:
 | 7 | Job Action: Animism Calling T4
 | 8 | Action Unlock: Animism Calling T4
 | 9 | Job Action: Animism Calling T5
-| 10 | Prestige Job: Shaman
+| 10 | Prestige Job Title: Shaman
 |    | Action Unlock: Animism Calling T5
 | 11 | Job Action: Animism Calling T6
 | 12 | Action Unlock: Animism Calling T6

@@ -40,7 +40,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Impersonator
+| 10 | Prestige Job Title: Impersonator
 |    | Job Support: Continuous Mimicry - Choose one party member. You have the same Supports and Reactions as that person. This can only be changed during rest.
 | 11 | 
 | 12 | 

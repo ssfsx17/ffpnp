@@ -41,7 +41,7 @@ Job Levels:
 | 7 | Job Action: Fiend Hunter T4
 | 8 | Action Unlock: Fiend Hunter T4
 | 9 | Job Action: Fiend Hunter T5
-| 10 | Prestige Job: Bullet Wizard
+| 10 | Prestige Job Title: Bullet Wizard
 |    | Job Support: Darktouch - Normal attacks cause Blind status at -50 Accuracy.
 |    | Action Unlock: Fiend Hunter T5
 | 11 | Job Action: Fiend Hunter T6

@@ -45,7 +45,7 @@ Job Levels:
 | 7 | Job Action: Festivities T4
 | 8 | Action Unlock: Festivities T4
 | 9 | Job Action: Festivities T5
-| 10 | Prestige Job: Matsuri Festivalist
+| 10 | Prestige Job Title: Matsuri Festivalist
 |    | Job Support: Piercing Magic - Your magic is never affected by Reflect status.
 |    | Action Unlock: Festivities T5
 |    | Support Unlock: Silenceproof

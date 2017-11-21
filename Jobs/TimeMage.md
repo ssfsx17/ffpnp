@@ -40,7 +40,7 @@ Job Levels:
 | 7 | Job Action: Time Magic T4
 | 8 | Action Unlock: Time Magic T4
 | 9 | Job Action: Time Magic T5
-| 10 | Prestige Job: Time Wizard
+| 10 | Prestige Job Title: Time Wizard
 |    | Job Action: AP-to-MP - Gain AP as if you did a Charge action, then convert all AP into MP.
 |    | Action Unlock: Time Magic T5
 | 11 | Job Action: Time Magic T6

@@ -41,7 +41,7 @@ Job Levels:
 | 7 | Job Action: Rage Level 40
 | 8 | Action Unlock: Rage Level 40
 | 9 | Job Action: Rage Level 50
-| 10 | Prestige Job: Wild Feral
+| 10 | Prestige Job Title: Wild Feral
 |    | Job Support: Historic Rage - You can use the Rages of enemies in the Party Bestiary.
 |    | Action Unlock: Rage Level 50
 | 11 | Job Action: Rage Level 60

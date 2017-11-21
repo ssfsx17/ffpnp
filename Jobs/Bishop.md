@@ -44,7 +44,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Archbishop
+| 10 | Prestige Job Title: Archbishop
 |    | Job Action: Bishop Barrier (10 AP) (multi) - Causes Protect and Shell status (4).
 |    | Job Action: Bishop Pilfer (5 AP) (single) - Attack and attempt to steal Level * 10 gil.
 | 11 | 

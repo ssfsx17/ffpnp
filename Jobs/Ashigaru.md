@@ -42,7 +42,7 @@ Job Levels:
 | 7 | Job Action: Bushido Tech T4
 | 8 | Action Unlock: Bushido Tech T4
 | 9 | Job Action: Bushido Tech T5
-| 10 | Prestige Job: Bushi
+| 10 | Prestige Job Title: Bushi
 |    | Job Reaction: Banzai - Upon taking damage, gain Berserk and Brave status (4).
 |    | Action Unlock: Bushido Tech T5
 | 11 | Job Action: Bushido Tech T6

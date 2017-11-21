@@ -40,7 +40,7 @@ Job Levels:
 | 7 | Job Action: Spellblade Magic T4
 | 8 | Action Unlock: Spellblade Magic T4
 | 9 | Job Action: Spellblade Magic T5
-| 10 | Prestige Job: Magi Knight
+| 10 | Prestige Job Title: Magi Knight
 |    | Job Support: Magic Defense Plus - Magic Defense is increased by Level * 20.
 |    | Action Unlock: Spellblade Magic T5
 | 11 | Job Action: Spellblade Magic T6

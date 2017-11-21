@@ -43,7 +43,7 @@ Job Levels:
 | 7 | Job Action: Acrobatics T4
 | 8 | Action Unlock: Acrobatics T4
 | 9 | Job Action: Acrobatics T5
-| 10 | Prestige Job: Prestidigitator
+| 10 | Prestige Job Title: Prestidigitator
 |    | Job Reaction: Return Fire (1 AP) - Catch an incoming ranged attack and do it right back at the enemy.
 |    | Action Unlock: Acrobatics T5
 |    | Reaction Unlock: Sticky Fingers

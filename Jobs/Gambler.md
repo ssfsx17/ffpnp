@@ -43,7 +43,7 @@ Job Levels:
 | 7 | Job Action: Gambling Tech T4
 | 8 | Action Unlock: Gambling Tech T4
 | 9 | Job Action: Gambling Tech T5
-| 10 | Prestige Job: Professional Gambler
+| 10 | Prestige Job Title: Professional Gambler
 |    | Action Unlock: Gambling Tech T5
 |    | Job Support: Casino Comps - You now keep track of all money spent on Gambling abilities, recorded as "compensation value". These comps are usable for all casino activities that do not win money.
 | 11 | Job Action: Gambling Tech T6

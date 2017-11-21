@@ -44,7 +44,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Hunter
+| 10 | Prestige Job Title: Hunter
 |    | Action Unlock: Animals
 |    | Support Unlock: Archer's Bane
 | 11 | 

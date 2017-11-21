@@ -42,7 +42,7 @@ Job Levels:
 | 7 | Job Action: Archery Tech T4
 | 8 | Action Unlock: Archery Tech T4
 | 9 | Job Action: Archery Tech T5
-| 10 | Prestige Job: Sniper
+| 10 | Prestige Job Title: Sniper
 |    | Job Support: Concentration - Accuracy is increased by Level * 0.5
 |    | Action Unlock: Archery Tech T5
 | 11 | Job Action: Archery Tech T6

@@ -42,7 +42,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Pop Idol
+| 10 | Prestige Job Title: Pop Idol
 |    | Job Reaction: Counter Emotion (1 AP) - Upon taking damage, do a Bardsong or Dance action. You must have Bardsong or Dance as job or choice actions.
 | 11 | 
 | 12 | 

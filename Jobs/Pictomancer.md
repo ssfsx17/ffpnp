@@ -44,7 +44,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Recordkeeper Pictomancer
+| 10 | Prestige Job Title: Recordkeeper Pictomancer
 |    | Job Support: Control - If you successfully sketch a monster, then you may attempt to take control of the original monster. If the control is successful, the sketched copy is erased.
 |    | Job Support: Recordkeeping - You may attempt to sketch historical and religious figures at -50 Magic Accuracy.
 |    | Support Unlock: Figure Study Sketching

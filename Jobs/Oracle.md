@@ -40,7 +40,7 @@ Job Levels:
 | 7 | Job Action: Mystic Arts T4
 | 8 | Action Unlock: Mystic Arts T4
 | 9 | Job Action: Mystic Arts T5
-| 10 | Prestige Job: Mystic Oracle
+| 10 | Prestige Job Title: Mystic Oracle
 |    | Job Support: Manafont - Always have the Meditation status.
 |    | Action Unlock: Mystic Arts T5
 | 11 | Job Action: Mystic Arts T6

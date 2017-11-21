@@ -45,7 +45,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Doctorate Alchemist
+| 10 | Prestige Job Title: Doctorate Alchemist
 |    | Job Reaction: Auto-Item (1 AP) - Upon taking damage, use an item. This is only a normal usage, as opposed to Item-Plus.
 |    | Action Unlock: Item-Plus
 | 11 | 

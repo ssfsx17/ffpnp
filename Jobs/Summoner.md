@@ -44,7 +44,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Eidolon Summoner
+| 10 | Prestige Job Title: Eidolon Summoner
 |    | Job Support: Fast Summoning - The AP costs for summoning are halved.
 |    | Support Unlock: MP-Max-Plus
 | 11 | 

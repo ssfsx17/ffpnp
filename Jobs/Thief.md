@@ -43,7 +43,7 @@ Job Levels:
 | 7 | Job Action: Thievery Tech T4
 | 8 | Action Unlock: Thievery Tech T4
 | 9 | Job Action: Thievery Tech T5
-| 10 | Prestige Job: Master Thief
+| 10 | Prestige Job Title: Master Thief
 |    | Job Support: Traps Mastery - Gain a bonus of +100 to skill checks to find and identify traps.
 |    | Action Unlock: Thievery Tech T5
 | 11 | Job Action: Thievery Tech T6

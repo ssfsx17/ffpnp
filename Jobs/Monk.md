@@ -41,7 +41,7 @@ Job Levels:
 | 7 | Job Action: Chi Tech T4
 | 8 | Action Unlock: Chi Tech T4
 | 9 | Job Action: Chi Tech T5
-| 10 | Prestige Job: Wise Monk
+| 10 | Prestige Job Title: Wise Monk
 |    | Job Support: Qigong Iron Body - Being unarmored is equivalent to wearing Light armor of 20 levels lower.
 |    | Action Unlock: Chi Tech T5
 |    | Support Unlock: Barehanded

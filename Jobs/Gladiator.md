@@ -43,7 +43,7 @@ Job Levels:
 | 7 | 
 | 8 | 
 | 9 | 
-| 10 | Prestige Job: Champion
+| 10 | Prestige Job Title: Champion
 |    | Job Action: Double-Attack (2 AP) (single) - Attack twice. Each rolls Accuracy separately.
 |    | Reaction Unlock: Counter
 | 11 | 
