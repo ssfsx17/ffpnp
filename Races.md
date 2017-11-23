@@ -4,6 +4,8 @@
 
 - Home Realm: Ivalice (RW)
 - Race Support: Aegyl Wings - Capable of flying, gliding, slowfalling, and staying in Float.
+- Race Support: Aegyl Strength +5
+- Race Support: Aegyl Agility +5
 
 ### Au Ra
 
@@ -102,6 +104,7 @@
 ### Jenovan
 
 - Home Realm: Mako (VII)
+- Race Support: Reunion - When you kill another Jenovan, you gain all of its memories.
 - Race Support: Jenovan Agility +10
 
 ### Lalafell
@@ -116,6 +119,13 @@
 - Race Action: Awaken - Shift into or out of Awakened form. The Awakened form can be maintained for Level * 0.1 combat rounds per day, for a minimum of 1 round per day. It adds 20 to all attributes, but does not change maximum HP or MP.
 - Race Support: Lunarian Vitality +5
 - Race Support: Lunarian Spirit +5
+
+### Mechanical
+
+- Home Realm: All (Core)
+- Race Action: Self-Destruct-Plus (BDL) - Record your current HP. You die, and cause double that much magical fire damage to the target. Magic Defense is ignored.
+- Race Support: Mechanical Agility +5
+- Race Support: Mechanical Speed +5
 
 ### Miqo'te
 
@@ -201,4 +211,5 @@
 ### Yeti
 
 - Home Realm: War of the Magi (VI)
+- Race Action: Yeti Battle Fury - You do a normal attack, then enter Berserk status for the rest of combat.
 - Race Support: Yeti Strength +10

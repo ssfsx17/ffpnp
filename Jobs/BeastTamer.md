@@ -9,7 +9,7 @@ Actions:
 - Charge
 - Speechcraft
 - Catch (2 AP) - Attempt to catch an enemy that is at 1/4th HP or less. If successful, you now own that creature, and it is added to the Party Bestiary. The target's Level must be less than or equal to yours.
-- Release - Release one of your caught monsters. It does one action, then flees.
+- Release - Release one of your caught monsters. It does one action of your choice, then flees.
 - Item
 
 Supports:
@@ -46,7 +46,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Beastmaster
-|    | Job Support: Critical Haste - Always in Haste status while at 20% HP or less.
+|    | Job Support: Critical Haste - Always in Haste status while at 25% HP or less.
 |    | Support Unlock: Beast Tongue
 | 11 | 
 | 12 | 

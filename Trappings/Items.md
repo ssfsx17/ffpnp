@@ -34,7 +34,7 @@
 - Alarm Clock (10 gil) - removes Sleep
 - Annoyntment (150 gil) - removes Trouble
 - Antidote (40 gil) - removes Poison
-- Antidote-Plus (100 gil) - removes Poison-Plus
+- Antidote-Plus (100 gil) - removes Poison and Poison-Plus
 - Chronos Tear (100 gil) - removes Stop
 - Cross (100 gil) - removes Curse
 - Crutch (50 gil) - removes Immobilize
@@ -46,7 +46,7 @@
 - Mini Mallet (80 gil) - removes Mini
 - Maiden's Kiss (60 gil) - removes Frog
 - Holy Water (100 gil) - removes Zombie
-- Remedy (5,000 gil) - removes all negative status conditions
+- Remedy (5,000 gil) - removes all negative status conditions except for Unconscious.
 - Smelling Salts (50 gil) - removes Confuse
 - Splint (50 gil) - removes Disable
 - Unicorn Horn (20,000 gil) - acts as a Remedy on the whole party
@@ -131,26 +131,26 @@ These items can only be used with the Ninja's Throw action.
 - Cross Shuriken (2,000 gil) - Agility * 60 damage
 - Fuuma Shuriken (5,000 gil) - Agility * 80 damage
 - Pinwheel (10,000 gil) - Agility * 100 damage
-- Spoon (priceless) - Agility * 125 damage
-- Fork (priceless) - Agility * 150 damage
+- Spoon (priceless) (BDL) - Agility * 125 damage
+- Fork (priceless) (BDL) - Agility * 150 damage
 - Frying Pan (priceless) (BDL) - Agility * 200 damage
 
 - Decoy Log - Causes Blink status to self (2)
 - Smoke Bomb - Causes Blink status to self (4)
 - Invisibility Scroll - Causes Vanish status to self (6)
-- Hatsuentou no Makimono
+- Hatsuentou no Makimono - Casts Smoke.
 
-- Flame Scroll
-- Blazing Scroll
-- Honoo no Makimono
-- Shounetsujigoku no Makimono
+- Flame Scroll - Casts Flame.
+- Blazing Scroll - Casts Blast.
+- Honoo no Makimono - Casts Honoo Jutsu.
+- Shounetsujigoku no Makimono - Casts Suzaku.
 
-- Water Scroll
-- Flooding Scroll
-- Mizu no Makimono
-- Tsunami no Makimono
+- Water Scroll - Casts Flood.
+- Freezing Scroll - Casts Frost.
+- Mizu no Makimono - Casts Tsunami Jutsu.
+- Tsunami no Makimono - Casts Genbu.
 
-- Lightning Scroll
-- Electrifying Scroll
-- Denki no Makimono
-- Raikou no Makimono
+- Lightning Scroll - Casts Shock.
+- Electrifying Scroll - Casts Blitz.
+- Denki no Makimono - Casts Raigeku Jutsu.
+- Raikou no Makimono - Casts Seiryu.

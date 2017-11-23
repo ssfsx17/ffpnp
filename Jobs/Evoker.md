@@ -99,7 +99,7 @@ Proficiencies:
 
 - Argy: Espilia (56 MP, 6 AP) (multi) - Restores Intellect * Level * 3 HP, and causes Protect and Shell statuses (12).
 - Leviathan: Tsunami (50 MP, 6 AP) (multi) - Vitality * Level * 3 water damage.
-- Maduin: Chaos Wave (44 MP, 6 AP) (multi) - First magical attack does Intellect * Level * 2 fire damage. Second magical attack does Intellect * Level * 2 ice damage. Third magical attack does Intellect * Level * 2 lightning damage.
+- Maduin: Chaos Wave (44 MP, 6 AP) (multi) - Three magic attacks that each are guaranteed to hit. First magical attack does Intellect * Level * 2 fire damage. Second magical attack does Intellect * Level * 2 ice damage. Third magical attack does Intellect * Level * 2 lightning damage.
 
 ### Summons T7
 
@@ -107,12 +107,12 @@ Proficiencies:
 - Bahamut: Megaflare (60 MP, 7 AP) (multi) - Intellect * Level * 5 non-elemental damage.
 - Cyclops: Climactic Fear (62 MP, 7 AP) (multi) - Physical attack against all enemies for Strength * Level * 3 damage, and causes Chicken and Broken Weapon statuses (8) at +50 Accuracy.
 - Diabolos: Evil Messenger (64 MP, 7 AP) (multi) - Intellect * Level * 5 dark damage.
-- Valigarmanda: Tri-Disaster (68 MP, 7 AP) (multi) - First magical attack does Intellect * Level * 3 fire damage. Second magical attack does Intellect * Level * 3 ice damage. Third magical attack does Intellect * Level * 3 lightning damage.
+- Valigarmanda: Tri-Disaster (68 MP, 7 AP) (multi) - Three magic attacks that each are guaranteed to hit. First magical attack does Intellect * Level * 3 fire damage. Second magical attack does Intellect * Level * 3 ice damage. Third magical attack does Intellect * Level * 3 lightning damage.
 
 ### Summons T8
 
 - Anima: Oblivion (75 MP, 8 AP) (multi) - Intellect * Level * 5 non-elemental damage, and ends all positive status conditions, including Reflect.
-- Magus Sisters: Delta Attack (BDL) (75 MP, 8 AP) (multi) - First magical attack does Intellect * Level * 3 fire damage. Second magical attack does Intellect * Level * 3 wind damage. Third magical attack does Intellect * Level * 3 non-elemental damage.
+- Magus Sisters: Delta Attack (BDL) (75 MP, 8 AP) (multi) - Three magic attacks that each are guaranteed to hit. First magical attack does Intellect * Level * 3 fire damage. Second magical attack does Intellect * Level * 3 wind damage. Third magical attack does Intellect * Level * 3 non-elemental damage.
 - Yojimbo: Zanmato (50,000 gil, 8 AP) (multi) - Attack all enemies for double damage, and attempt to instantly-kill them at +50 Accuracy.
 
 ### Summons T9

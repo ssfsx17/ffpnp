@@ -125,4 +125,4 @@ Dragon's Might (10 AP) (single) - Causes Brave, Faith, and Haste status (4).
 
 Dragon's Speed (10 AP) (single) - Causes Quick status (1).
 
-Holy Breath (20 AP) (multi) - Vitality * Level * 3 holy magic damage.
+Holy Breath (20 AP) (multi) - Vitality * Level * 5 holy magic damage.

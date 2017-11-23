@@ -37,6 +37,10 @@ The GM may choose to impose plot requirements to buy the first Job Level of any 
 
 The GM could also require the Player Characters to seek out hidden masters, ancient artifacts, unique opponents, personal quests, and other such things to gain access to the first Job Level of specific Jobs. For example, the only way to learn the Holy Knight job may be to undertake an ordeal on a sacred mountain.
 
+## Optional: Job Usage Requirements
+
+The GM may choose to require that Player Characters spend an entire game session without changing jobs. Furthermore, all JP earned for that session are allocated only to the jobs they were playing. Jobs can still be changed outside of game sessions.
+
 ## Job Description Format
 
 Requires: Which other job levels must be purchased, before the first job level in this job can be.

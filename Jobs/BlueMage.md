@@ -78,6 +78,7 @@ Job Levels:
 
 ### Blue Magic T3
 
+- Lilith Slap (10 MP) (single) - Two separate status attempts. The first attempt is to inflict the Silence status. The second attempt is to inflict the Immobilize status (4). Each one rolls for Magic Accuracy separately.
 - Off-Guard (19 MP) (single) - Causes Broken Armor status.
 - Roulette (1 MP) (special) - From the set of both the party and the enemies, randomly select one combatant. Attempt to instantly-kill that combatant at -50 Magic Accuracy.
 - Sandstorm (12 MP) (single) - Intellect * Level magical earth damage, and attempt to cause Blind status.
@@ -86,7 +87,7 @@ Job Levels:
 ### Blue Magic T4
 
 - 1000 Needles (25 MP) (single) - 1000 damage. Ignores Magic Evasion and Magic Defense.
-Doom (10 MP) (single) - Causes Doom status (6).
+- Doom (10 MP) (single) - Causes Doom status (6).
 - Transfusion (13 MP) (special) - Sacrifice self, in order to fully restore one target's HP and MP.
 - Unction (8 MP) (multi) - Causes Oil status (10).
 

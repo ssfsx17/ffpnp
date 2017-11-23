@@ -111,6 +111,8 @@ Princess Ring (3000 gil) - Gives Protect and Shell status when HP is at 10% or l
 
 Protect Ring (5000 gil) - Always have Protect status.
 
+Rear Ring (3000 gil) - Your attacks are considered Ranged.
+
 Reflect Ring (6000 gil) - Always have Reflect status.
 
 Ribbon (priceless) - Protects against all harmful status conditions. It does not override conditions that may be caused by Support abilities or equipment.

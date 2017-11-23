@@ -78,7 +78,7 @@ Featherblow (1 AP) (single) - Attack for half damage that ignores Evasion.
 
 ### Fencing Techs T5
 
-Swallotail (5 AP) (multi) - Attack all enemies in the front row.
+Swallowtail (5 AP) (multi) - Attack all enemies in the front row.
 
 ### Fencing Techs T6
 
