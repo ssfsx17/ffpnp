@@ -47,7 +47,7 @@ Multi-Target Attacks: The attacker only rolls once. Then, the accuracy result is
 
 Healing & Harming in One Action: This is possible in specific circumstances. For example, casting Cure on the whole party, but one of the party members has the Zombie status. In such a case, the actor is considered to be doing a Magical Attack against everyone whom their action would harm.
 
-Single/Multi: If something has both a single-target and multi-target option, then the multi-target option has half the effect, duration, and accuracy.
+Single/Multi: If something has both a single-target and multi-target option, then the multi-target option has half the effect and duration.
 
 ### Defend
 
