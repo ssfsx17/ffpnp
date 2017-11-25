@@ -81,7 +81,7 @@ Lightning Stab (2 AP) (multi) - Attack all enemies for half physical holy damage
 
 Holy Explosion (2 AP) (multi) - Attack all enemies for half physical holy damage, and attempt to cause Confuse status (6).
 
-Nurse (10 AP) (multi) - Restores Level * 10 HP, and removes Poison, Poison-Plus, Sap, and Virus statuses.
+Nurse (5 AP) (multi) - Restores Level * 10 HP, and removes Poison, Poison-Plus, Sap, and Virus statuses.
 
 ### Holy Sword T6
 
@@ -97,7 +97,7 @@ Saint Cross (10 AP) (multi) - Attack all enemies for double holy damage. Casts E
 
 ### Holy Sword T8
 
-Holy Blade (15 AP) (single) - Attack for quintuple holy damage.
+Holy Blade (15 AP) (BDL) (single) - Attack for quintuple holy damage.
 
 Northswain's Strike (4 AP) (single) - Attack for double holy damage, and attempt to instantly-kill at -50 Accuracy.
 

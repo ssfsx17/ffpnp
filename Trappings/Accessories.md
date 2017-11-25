@@ -31,7 +31,7 @@ Diamond Armlet (20,000 gil) - Gives a +50 bonus to skill checks to find treasure
 
 Dragoon Boots (priceless) - Gives the Jump action from the Dragoon job. Not useful if you already have Jump as a job action.
 
-Dragon Horn (priceless) - Jump does two attacks rather than one.
+Dragon Horn (priceless) - Jump does two attacks upon landing, rather than one.
 
 Earring (5000 gil) - Gives 25 Intellect.
 

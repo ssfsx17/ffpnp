@@ -108,7 +108,7 @@ Icewolf Bite (8 AP) (single) - Attack for double damage and attempt to cause Bro
 
 ### Knight Tech T9
 
-Skullcracker Driver (8 AP) (single) - Attack, and 1/10th of the damage is dealt to MP.
+Skullcracker Driver (8 AP) (single) - Attack, and 1/10th of the damage is also dealt to MP.
 
 Stock Break (20 AP) (multi) - Attack all enemies, and attempt to reduce them to 1 HP. The HP reduction effect is at -50 Accuracy.
 

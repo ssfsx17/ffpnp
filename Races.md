@@ -12,6 +12,7 @@
 - Home Realm: Hydaelyn (XIV)
 - Race Support: Au Ra Strength +5
 - Race Support: Au Ra Agility +5
+- Race Support: Au Ra Role Skill - Au Ra gain a bonus of +50 to all skill checks relating to dragons, steppes, and mountains.
 
 ### Bangaa
 
@@ -43,6 +44,7 @@
 - Home Realm: Hydaelyn (XIV)
 - Race Support: Elezen Agility +5
 - Race Support: Elezen Intellect +5
+- Race Support: Elezen Role Skill - Elezen gain a bonus of +50 to all skill checks relating to forests and ancient lore.
 
 ### Elf
 
@@ -98,6 +100,7 @@
 ### Hummingway
 
 - Home Realm: The Second Moon (IV)
+- Race Support: Hummingway Magical Melody - Hummingways regain MP twice as quickly when resting.
 - Race Support: Hummingway Spirit +5
 - Race Support: Hummingway Speed +5
 
@@ -112,6 +115,7 @@
 - Home Realm: Hydaelyn (XIV)
 - Race Support: Lalafell Intellect +5
 - Race Support: Lalafell Spirit +5
+- Race Support: Lalafell Role Skill - Lalafell gain a bonus of +50 to all checks relating to plains and deserts.
 
 ### Lunarian
 
@@ -132,6 +136,7 @@
 - Home Realm: Hydaelyn (XIV)
 - Race Support: Miqo'te Strength +5
 - Race Support: Miqo'te Agility +5
+- Race Support: Miqo'te Role Skill - Miqo'te gain a bonus of +50 to all checks relating to the sun, moon, and seasons.
 
 ### Mithra
 
@@ -176,6 +181,7 @@
 - Home Realm: Hydaelyn (XIV)
 - Race Support: Roegadyn Strength +5
 - Race Support: Roegadyn Vitality +5
+- Race Support: Roegadyn Role Skill - Roegadyn gain a bonus of +50 to all checks relating to the oceans.
 
 ### Ronso
 

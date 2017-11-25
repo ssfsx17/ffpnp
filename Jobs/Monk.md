@@ -85,7 +85,7 @@ Spiraler (6 AP) (special) - Lose all HP, MP, and AP. Restores Vitality * Level H
 
 Cyclone (5 AP) (special) - Do a melee attack against all enemies in the front row.
 
-Focus Attack (10 AP) (single) - Attack for double damage.
+Focus Attack (4 AP) (single) - Attack for double damage.
 
 Shockwave (5 AP) (multi) - Vitality * Level magical earth damage.
 
@@ -123,6 +123,6 @@ Phantom Rush (9 AP) (single) - Melee attack for double damage, ignoring Evasion 
 
 ### Chi Tech T10
 
-Musou Tensei (20 AP) (special) - Create ghostly copies of four allies who have died permanently in the storyline. Out of combat, allows consulting them for advice, although limited by what they knew when they were alive.
+Musou Tensei (20 AP) (special) - Create ghostly copies of four allies who have died permanently in the storyline, for the remainder of combat. Out of combat, allows consulting them for advice, although limited by what they knew when they were alive.
 
 Tenketsu (10 AP) (single) - Melee attack for double damage, and attempt to instantly-kill at -50 Accuracy. If the instant-kill effect fails, then attempt to cause Doom status (6) at normal Accuracy.
