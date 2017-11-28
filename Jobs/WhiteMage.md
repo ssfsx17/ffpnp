@@ -76,6 +76,7 @@ Job Levels:
 - Dia (6 MP) (single/multi) - Intellect * Level * 0.5 holy damage.
 - Fade (6 MP) (single/multi) - Spirit * Level * 0.5 holy damage.
 - Hold (5 MP) (single) - Causes Disable and Immobilize status (2).
+- Medica (6 MP) (multi) - Spirit * Level * 0.5 healing. Against undead, it becomes a non-elemental damaging spell.
 - Mini (6 MP) (single) - Toggles Mini status.
 - Protect (9 MP) (single/multi) - Causes Protect status (4).
 - Raise (8 MP) (single) - Revives a downed ally with 10% HP. Against undead, it causes Stun status (2).
@@ -125,8 +126,9 @@ Job Levels:
 ### White Magic T7
 
 - Cleansega (50 MP) (multi) - Ends Poison, Poison-Plus, Virus, and Sap.
-- Curaja (40 MP) - Spirit * Level * 3 healing. Against undead, it becomes a non-elemental damaging spell.
+- Curaja (40 MP) (single/multi) - Spirit * Level * 3 healing. Against undead, it becomes a non-elemental damaging spell.
 - Float (8 MP) (single/multi) - Causes Float status (6).
+- Medicara (36 MP) (multi) - Spirit * Level * 2 healing, and causes Regen status (4). Against undead, it becomes a non-elemental damaging spell.
 - Reflect (30 MP) (single/multi) - Causes Reflect status (6).
 - Reraisega (60 MP) (multi) - Causes Reraise status (20).
 - Shellga (40 MP) (single/multi) - Causes Shell status (20).

@@ -103,8 +103,10 @@ Job Levels:
 
 ### Time Magic T6
 
+- Aetherial Manipulation (20 MP) - Instantly teleport yourself to an ally, across all distances and dimensional boundaries, if the ally is willing.
 - Balance (18 MP) (single) - Calculate the difference between your current and maximum HP. Deal this much magical non-elemental damage. Magic Defense is ignored.
 - Quick (24 MP) (single) - Causes Quick status (1).
+- Rescue (20 MP) (single) - Instantly teleport an ally to you, across all distances and dimensional boundaries, if the ally is willing.
 - Return (30 MP) - Exit a combat, building, or dungeon.
 - Stopga (60 MP) - Causes Stop status (4).
 

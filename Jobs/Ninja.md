@@ -94,6 +94,7 @@ Job Levels:
 
 ### Ninjutsu T6
 
+- Kassatsu (20 MP) (self-only) - Increases your base Accuracy by 100 for your next attack.
 - Payback Wave (25 MP) (multi) - Calculate the difference between your current and maximum HP. Deal this much magical non-elemental damage to all enemies, ignoring Magic Defense.
 
 ### Ninjutsu T7
@@ -117,4 +118,5 @@ Job Levels:
 
 ### Ninjutsu T10
 
+- Bhavacakra (60 MP) (multi) - Speed * Level * 4 magical non-elemental damage.
 - Ultima Shot (BDL) (99 MP, 10 AP) (single) - 10 attacks on one target.

@@ -108,14 +108,20 @@ Battle Cry (multi) - Causes Boost Attack status (2).
 
 Esoteric Melody (multi) - Causes Boost Magic status (2).
 
+Wanderer's Minuet (single) - Magical attack for Agility * Level * 0.5 non-elemental magic damage.
+
 ### Bardsong T9
 
 Enveloping Etude (multi) - Causes Protect and Shell status (2).
 
 Fabled Song (multi) - Causes Regen-Plus and Protect status (2).
 
+Warden's Paean (single) - Remove one status condition of your choice. This song can only be targeted at yourself or an ally.
+
 ### Bardsong T10
 
 Alluring Air (multi) - Causes Confuse status (2).
 
 Matador's Song (multi) - Causes Blink status (2).
+
+Nature's Minne (multi) - Spirit * Level * 0.5 healing.

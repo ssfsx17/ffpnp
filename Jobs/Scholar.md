@@ -73,11 +73,15 @@ Sublimation (self-only) - Lose an amount of HP equal to your experience level * 
 
 Natural Selection (special) - Intellect * Level non-elemental magical damage to everyone of your own race. Which includes you.
 
+Physick (2 AP) (single) - Spirit * Level * 0.5 healing.
+
 ### Scholastic Tech T4
 
 Earth Dragon Tome (special) - Intellect * Level earth damage to everyone.
 
 ### Scholastic Tech T5
+
+Adloqium (4 AP) (single) - Spirit * Level healing.
 
 Rime Bolt Tome (special) - Intellect * Level ice damage to everyone.
 
@@ -86,6 +90,8 @@ Rime Bolt Tome (special) - Intellect * Level ice damage to everyone.
 Thunder Flare Tome (special) - Intellect * Level lightning damage to everyone.
 
 ### Scholastic Tech T7
+
+Lustrate (6 AP) (single) - Spirit * Level * 2 healing.
 
 Shadow Shade Tome (special) - Intellect * Level dark damage to everyone.
 

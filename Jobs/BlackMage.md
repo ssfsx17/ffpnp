@@ -146,7 +146,7 @@ Job Levels:
 
 ### Black Magic T10
 
- - Ardor (70 MP) (single/multi) - Intellect * Level * 5 fire damage, and attempt to cause Heat status (2).
+- Ardor (70 MP) (single/multi) - Intellect * Level * 5 fire damage, and attempt to cause Heat status (2).
 - Demolish (60 MP) (single/multi) - Intellect * Level * 5 non-elemental damage.
 - Drown (60 MP) (single/multi) - Intellect * Level * 5 water damage.
 - Exterminate (30 MP) (special) - Intellect * Level * 5 dark damage to everyone who has the Poison, Poison-Plus, Sap, or Virus status.
