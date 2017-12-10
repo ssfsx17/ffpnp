@@ -68,6 +68,8 @@ Job Levels:
 
 Charon (single) - Use an amount of HP equal to 20% of your maximum, to do a magical attack for Strength * Level * 2 dark damage.
 
+Grit (2 AP) (self-only) - Causes Protect status (2).
+
 Vehemence (1 AP) (self-only) - Causes Boost Attack and Broken Armor statuses (6).
 
 ### Dark Sword Tech T2
@@ -84,13 +86,19 @@ Shadow Blade (5 AP) (single) - Attack, and drain an amount of MP equal to 1/10th
 
 ### Dark Sword Tech T4
 
+Blood Price (self-only) - Until your next action, record all damage you receive from any sources (including your own Dark Sword abilities). On your next action, you regain an amount of MP equal to 5% of the damage.
+
 Crushing Blow (10 AP) (multi) - Attack, and attempt to cause Stop status (4).
 
 ### Dark Sword Tech T5
 
+Dark Mind (2 AP) (self-only) - Causes Shell status (4).
+
 Sanguine Sword (10 AP) (single) - Attack for double damage, ignoring Evasion. Drain an amount of HP equal to half of the damage. The effect is reversed against undead.
 
 ### Dark Sword Tech T6
+
+Delirium (4 AP) (self-only) - Regain an amount of MP equal to 2% of your maximum HP.
 
 Infernal Strike (10 AP) (single) - Attack for double damage, ignoring Evasion. Drain an amount of MP equal to 1/10th of the damage. The effect is reversed against undead.
 

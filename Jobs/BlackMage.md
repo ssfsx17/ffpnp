@@ -42,7 +42,7 @@ Job Levels:
 | 8 | Action Unlock: Black Magic T4
 | 9 | Job Action: Black Magic T5
 | 10 | Prestige Job Title: Black Wizard
-|    | Job Support (toggleable): Double-MP - Your MP costs are doubled, in order to double the effects and durations of MP-using actions that you do.
+|    | Job Support (toggleable): Double-MP - Your MP costs are doubled, in order to double the effects and durations of MP-using actions that you do. It takes an action to turn this support on or off.
 |    | Action Unlock: Black Magic T5
 | 11 | Job Action: Black Magic T6
 | 12 | Action Unlock: Black Magic T6

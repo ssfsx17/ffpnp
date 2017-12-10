@@ -12,7 +12,7 @@ Actions:
 - Red Magic
 - Time Magic
 - White Magic
-- Recall (2 AP) - Cast a random Red Magic spell of the highest tier available to you. If damaging, then it is cast multi-targeted to all enemies. If healing, then it is cast multi-targeted to the whole party. This does not use MP.
+- Recall (4 AP) - Cast a random Red Magic spell of the highest tier available to you. If damaging, then it is cast multi-targeted to all enemies. If healing, then it is cast multi-targeted to the whole party. This does not use MP.
 - Item
 
 Supports:

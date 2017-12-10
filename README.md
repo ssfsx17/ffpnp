@@ -69,7 +69,7 @@ The key points of difference are listed below:
   - No dice are rolled for damage outputs, except for special cases.
   - No dice are rolled for HP or MP gain at levelup.
 - The Job system is taken primarily from the games that have changeable jobs.
-  - Jobs don't have to have the same number of abilities, or even be remotely equal in power. Jobs are instead "balanced" by being more rear-loaded or having more prerequisites. The video games were, after all, based heavily on letting you feel extremely overpowered if you did enough grinding. Can't beat a boss? Just grind some more.
+  - Jobs don't have to have the same number of abilities, or even be remotely equal in power. Jobs are instead "balanced" by being more rear-loaded or having more prerequisites. The video games were, after all, based heavily on letting you feel extremely overpowered if you did enough grinding. Can't beat a boss? Just grind some more. Jobs may be buffed so that they feel like they have things to do while using them. Nerfs are preferred to only happen by increasing the tier or cost of abilities, without making them weaker.
   - No need for certain jobs to be different from each other just for the sake of it. It's okay for some jobs to just be other jobs stuck together, or to be other jobs with better bonuses.
   - Intentionally allowing overpowered combinations at high levels, especially through the Ultima Freelancer job. Figuring out the overpowered strategies is a key component of the Final Fantasy combat experience.
 - No skill system. Instead, relevant Job levels are added together for skill checks.

@@ -63,39 +63,49 @@ Job Levels:
 
 ### Scholastic Tech T1
 
+Physick (3 AP) (single) - Intellect * Level * 0.5 healing.
+
 Study (single) - Acts as the White Magic spell Libra.
 
 ### Scholastic Tech T2
+
+Resurrection (4 AP) (single) - Revives a downed ally with 10% HP. Against undead, it causes Stun status (2).
 
 Sublimation (self-only) - Lose an amount of HP equal to your experience level * 100, in order to regain an amount of MP equal to your experience level * 10.
 
 ### Scholastic Tech T3
 
-Natural Selection (special) - Intellect * Level non-elemental magical damage to everyone of your own race. Which includes you.
+Adloqium (6 AP) (single) - Intellect * Level healing.
 
-Physick (2 AP) (single) - Spirit * Level * 0.5 healing.
+Natural Selection (special) - Intellect * Level non-elemental magical damage to everyone of your own race. Which includes you.
 
 ### Scholastic Tech T4
 
 Earth Dragon Tome (special) - Intellect * Level earth damage to everyone.
 
+Rouse (6 AP) (single) - Causes Boost Magic status (4).
+
 ### Scholastic Tech T5
 
-Adloqium (4 AP) (single) - Spirit * Level healing.
+Lustrate (8 AP) (single) - Intellect * Level * 2 healing.
 
 Rime Bolt Tome (special) - Intellect * Level ice damage to everyone.
 
 ### Scholastic Tech T6
 
+Excogitation (4 AP) (single) - Causes Reraise status (6).
+
 Thunder Flare Tome (special) - Intellect * Level lightning damage to everyone.
 
 ### Scholastic Tech T7
 
-Lustrate (6 AP) (single) - Spirit * Level * 2 healing.
+Sacred Soil (6 AP) (multi) - Causes Protect status (6).
 
 Shadow Shade Tome (special) - Intellect * Level dark damage to everyone.
 
 ### Scholastic Tech T8
+
+Chain Stratagem (8 AP) (single) - Causes Critical Vulnerability status (6).
 
 Piercing Sight (1 AP) (single) - Acts as the White Magic spell Libra, and gives the target a random elemental weakness.
 

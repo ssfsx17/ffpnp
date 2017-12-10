@@ -121,4 +121,4 @@ Sidewinder (10 AP) (single) - Attack and do double damage to a living monster ta
 
 Charge Shot 10 (20 AP) (single) - Attack with +200 Agility.
 
-Ultima Shot (32 MP, 20 AP) (single) - Five attacks on one target. Evasion is ignored.
+Ultima Shot (32 MP, 20 AP) (BDL) (single) - Five attacks on one target. Evasion and Defense are ignored.

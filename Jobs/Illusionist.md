@@ -7,6 +7,7 @@ Actions:
 - Attack
 - Defend
 - Charge
+- Black Magic
 - Illusion Magic
 - Item
 

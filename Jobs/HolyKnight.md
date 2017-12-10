@@ -7,7 +7,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Cover - Choose one ally. All physical attacks against the ally are instead directed towards you.
+- Cover - Choose one ally. All physical attacks against the ally are instead directed towards you. You can only Cover for one ally at a time.
 - Remove - Ends Cover.
 - Holy Sword
 - Item
@@ -62,6 +62,8 @@ Job Levels:
 ## Holy Sword
 
 ### Holy Sword T1
+
+Bulwark (2 AP) (self-only) - Causes Protect status (2).
 
 Stasis Sword (2 AP) (multi) - Attack all enemies for half physical holy damage, and attempt to cause Stop status (2) at -50 Accuracy.
 

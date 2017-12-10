@@ -74,6 +74,7 @@ Proficiencies:
 
 - Cait Sith: Cat Rain (28 MP, 3 AP) (multi) - Causes Confuse status (6) at +50 Magic Accuracy.
 - Faerie: Fey Light (28 MP, 3 AP) (multi) - Restores Speed * Level * 2 HP.
+- Ravana: Fourfold Blade (30 MP, 3 AP) (single) - The character using this ability does four melee attacks to one target, ignoring Evasion.
 - Sylph: Whispering Wind (25 MP, 3 AP) (special) - Magical attack against one target for Intellect * Level non-elemental damage, and if it hits, then it restores half that much HP to each party member.
 - Unicorn: Heal Horn (30 MP, 3 AP) (multi) - Removes all harmful status conditions.
 
@@ -112,7 +113,7 @@ Proficiencies:
 ### Summons T8
 
 - Anima: Oblivion (75 MP, 8 AP) (multi) - Intellect * Level * 5 non-elemental damage, and ends all positive status conditions, including Reflect.
-- Magus Sisters: Delta Attack (BDL) (75 MP, 8 AP) (multi) - Three magic attacks that each are guaranteed to hit. First magical attack does Intellect * Level * 3 fire damage. Second magical attack does Intellect * Level * 3 wind damage. Third magical attack does Intellect * Level * 3 non-elemental damage.
+- Magus Sisters: Delta Attack (BDL) (75 MP, 8 AP) (multi) - Three magic attacks that each ignore Magic Evasion. First magical attack does Intellect * Level * 3 fire damage. Second magical attack does Intellect * Level * 3 wind damage. Third magical attack does Intellect * Level * 3 non-elemental damage.
 - Yojimbo: Zanmato (50,000 gil, 8 AP) (multi) - Attack all enemies for double damage, and attempt to instantly-kill them at +50 Accuracy.
 
 ### Summons T9

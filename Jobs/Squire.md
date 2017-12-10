@@ -66,9 +66,9 @@ Job Levels:
 
 ### Squire Tech T1
 
-Stone Toss (single) - Ranged attack dealing Strength * Level * 0.1 damage.
+Stone Toss (single) - Ranged attack dealing Strength * Level * 0.2 damage.
 
-Tackle (single) - Melee attack dealing Strength * Level * 0.1 damage. On a successful hit, the enemy is knocked to the back row.
+Tackle (single) - Melee attack dealing Strength * Level * 0.2 damage. On a successful hit, the enemy is knocked to the back row.
 
 ### Squire Tech T2
 

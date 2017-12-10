@@ -68,6 +68,8 @@ Fireshot (self-only) - Your next firearm attack will be of the fire element.
 
 Prime (self-only) - Adds 10 weapon levels to your next firearm attack.
 
+Reload (self-only) - Charge action with double effectiveness, but the AP can only be used for Gunmanship abilities.
+
 ### Gunmanship T2
 
 Boltshot (self-only) - Your next firearm attack will be of the lightning element.
@@ -91,6 +93,8 @@ Scope (self-only) - Add 50 Accuracy to your next firearm attack.
 Charmshot (self-only) - Your next firearm attack causes Charm status (20).
 
 Mortar (2 AP) (multi) - Attack all enemies for half damage. Causes Immobilize status (2) to yourself.
+
+Rapid Fire (4 AP) (single) - Attack twice. Gunmanship abilities that affect "your next firearm attack" apply to both of the attacks from Rapid Fire.
 
 ### Gunmanship T6
 

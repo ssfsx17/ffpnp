@@ -13,11 +13,12 @@ Actions:
 Supports:
 
 - 1 x Choice
+- Evasion Up - Evasion increased by Level * 0.5
 
 Reactions:
 
 - 1 x Choice
-- Riposte (1 AP) - If an attack misses you, then you counterattack.
+- Riposte (1 AP) - If an attack misses you, then you do a weapon action against the one who missed. The AP cost for the weapon action also applies.
 
 Proficiencies:
 
@@ -43,7 +44,6 @@ Job Levels:
 | 8 | Action Unlock: Fencing Tech T4
 | 9 | Job Action: Fencing Tech T5
 | 10 | Prestige Job Title: Duellist
-|    | Job Support: Evasion Up - Evasion increased by Level * 0.5
 |    | Action Unlock: Fencing Tech T5
 |    | Reaction Unlock: Riposte
 | 11 | Job Action: Fencing Tech T6
@@ -74,11 +74,11 @@ Checkmate (5 AP) (single) - Attack, and attempt to cause Doom status (8).
 
 ### Fencing Techs T4
 
-Featherblow (1 AP) (single) - Attack for half damage that ignores Evasion.
+Featherblow (1 AP) (single) - Attack for half damage that ignores Evasion and Defense.
 
 ### Fencing Techs T5
 
-Swallowtail (5 AP) (multi) - Attack all enemies in the front row.
+Swallowtail (5 AP) (multi) - Attack all enemies in the front row, ignoring Evasion.
 
 ### Fencing Techs T6
 
@@ -98,4 +98,4 @@ Shadowbind Strike (10 AP) (single) - Attack, and attempt to cause Stop status (6
 
 ### Fencing Techs T10
 
-Ultima Masher (32 MP, 20 AP) (single) - Five attacks on one target. Evasion is ignored.
+Ultima Masher (32 MP, 20 AP) (BDL) (single) - Five attacks on one target. Evasion and Defense are ignored.

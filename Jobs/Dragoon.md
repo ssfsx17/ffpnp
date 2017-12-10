@@ -82,6 +82,8 @@ White Draw (36 MP) (special) - Do an amount of MP damage equal to the enemy's le
 
 ### Dragoon Tech T5
 
+Dragonfire Dive (10 AP) (multi) - Attack all enemies for double damage. The damage of your attack is changed to magical fire.
+
 Lancet (8 MP) (single) - Attack, drain 10% of the damage as HP, drain 1% of the damage as MP.
 
 Luna (12 MP) (special) - Causes Berserk status (4) to everyone.
@@ -97,9 +99,9 @@ Six Dragons (28 MP) (multi) - Roll a 1d6:
 1. Restore all HP
 2. Restore all MP
 3. Restore all HP and MP.
-4. Reduce HP to 1.
-5. Reduce MP to 1.
-6. Reduce HP and MP to 1.
+4. Reduce HP to 1. Acts as a magic attack.
+5. Reduce MP to 1. Acts as a magic attack.
+6. Reduce HP and MP to 1. Acts as a magic attack at -50 Magic Accuracy.
 
 Thunder Breath (5 AP) (multi) - Vitality * Level * 0.5 magical lightning damage.
 
@@ -126,3 +128,5 @@ Dragon's Might (10 AP) (single) - Causes Brave, Faith, and Haste status (4).
 Dragon's Speed (10 AP) (single) - Causes Quick status (1).
 
 Holy Breath (20 AP) (multi) - Vitality * Level * 5 holy magic damage.
+
+Twelve Dragons (56 MP) (multi) - Acts as Six Dragons, except that after the d6 roll, you can choose to increase or decrease the roll by 1.

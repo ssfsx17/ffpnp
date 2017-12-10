@@ -63,6 +63,8 @@ Job Levels:
 
 Aurabolt (3 AP) (single) - Vitality * Level * 0.5 magical holy damage, ignoring Magic Defense.
 
+Internal Release (2 AP) (self-only) - Causes Boost Attack status (2).
+
 Pummel (3 AP) (single) - Strength * Level * 0.5 physical damage, ignoring Defense.
 
 ### Chi Tech T2
@@ -77,7 +79,7 @@ Mantra (6 AP) (multi) - Restores Vitality * Level * 0.5 HP and removes Blind, Po
 
 Air Blade (7 AP) (multi) - Vitality * Level magical air damage.
 
-Kick (5 AP) (multi) - Attack all enemies for half damage.
+Kick (5 AP) (multi) - Attack all enemies for half damage, ignoring Evasion.
 
 Spiraler (6 AP) (special) - Lose all HP, MP, and AP. Restores Vitality * Level HP to the party. Removes Blind, Zombie, Poison, Imp, Petrify, Doom, Silence, Berserk, Confuse, Sap, Sleep, Slow, Stop, and Freeze statuses.
 
@@ -101,6 +103,8 @@ Doom Fist (5 AP) (single) - Causes Doom status (4).
 
 Aura Cannon (3 AP) (single) - Vitality * Level * 0.5 magical holy damage, ignoring Magic Evasion and Magic Defense.
 
+One Ilm Punch (2 AP) (single) - Attack, and attempt to cause Stun status (1).
+
 Raging Fist (3 AP) (single) - Do a melee attack that ignores Evasion and Defense.
 
 ### Chi Tech T7
@@ -119,10 +123,12 @@ Razor Gale (7 AP) (multi) - Vitality * Level * 2 magical air damage.
 
 ### Chi Tech 9
 
+Elixir Field (9 AP) (multi) - Attack all enemies, ignoring Evasion.
+
 Phantom Rush (9 AP) (single) - Melee attack for double damage, ignoring Evasion and Defense.
 
 ### Chi Tech T10
 
 Musou Tensei (20 AP) (special) - Create ghostly copies of four allies who have died permanently in the storyline, for the remainder of combat. Out of combat, allows consulting them for advice, although limited by what they knew when they were alive.
 
-Tenketsu (10 AP) (single) - Melee attack for double damage, and attempt to instantly-kill at -50 Accuracy. If the instant-kill effect fails, then attempt to cause Doom status (6) at normal Accuracy.
+Tenketsu (10 AP) (single) - Melee attack for double damage, and attempt to instantly-kill at -50 Accuracy. If the instant-kill effect fails, then attempt to cause Doom status (4) at normal Accuracy.

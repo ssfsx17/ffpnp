@@ -63,6 +63,8 @@ Job Levels:
 
 Choco Beak (1 AP) (single) - Attack for Strength * Level physical damage.
 
+Choco Regen (1 AP) (single) - Causes Regen status (2).
+
 ### Chocotech T2
 
 Choco Cure (2 AP) (multi) - Restores an amount of HP equal to ten times your Level.
@@ -74,6 +76,8 @@ Choco Esuna (5 AP) (multi) - Requires a black, green, or gold chocobo. Acts as t
 ### Chocotech T4
 
 Choco Pellets (1 AP) (single) - Requires a non-yellow chocobo. Attack for Agility * Level physical damage.
+
+Choco Surge (4 AP) (single) - Causes Boost Magic status (4).
 
 ### Chocotech T5
 
@@ -93,13 +97,15 @@ Choco Barrier (10 AP) (multi) - Causes Protect and Shell statuses (12).
 
 ### Chocotech T8
 
-Choco Recharge (10 AP) (single) - Requires a white or gold chocobo. Restores an amount of MP equal to your Level.
+Choco Recharge (10 AP) (single) - Requires a white or gold chocobo. Restores an amount of MP equal to your Level. Out-of-combat, this allows your white or gold chocobo to fully restore the MP of one character during a long rest.
 
 Choco Stone (10 AP) (single) - Requires a brown or gold chocobo. Magical attack for Intellect * Level * 3 earth damage.
 
 ### Chocotech T9
 
-Choco Charge (10 AP) (multi) - Attack all enemies.
+Choco Charge (10 AP) (multi) - Attack all enemies, ignoring Evasion.
+
+Choco Medica (4 AP) (multi) - Restores an amount of HP equal to twenty times your Level.
 
 ### Chocotech T10
 

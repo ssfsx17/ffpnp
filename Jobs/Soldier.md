@@ -44,7 +44,7 @@ Job Levels:
 | 9 | Job Action: Soldier Tech T5
 | 10 | Prestige Job Title: Sergeant
 |    | Job Support: Shield Wall - If the party's front row all use Medium Shields or larger, then you gain Level * 0.5 Evasion.
-|    | Job Reaction: Spear Wall - If the party's front row all use Spears 1H and Spears 2H, then you get a free attack against any enemy who attempts a melee attack on you.
+|    | Job Reaction: Spear Wall - If the party's front row all use Spears 1H and Spears 2H, then you do a weapon action against any enemy who attempts a melee attack on you. The AP cost for the weapon action applies.
 |    | Action Unlock: Soldier Tech T5
 |    | Reaction Unlock: Elastic Defense
 | 11 | Job Action: Soldier Tech T6
@@ -64,11 +64,11 @@ Job Levels:
 
 ### Soldier Tech T1
 
-First Aid (1 AP) (self only) - Removes Poison and restores an amount of HP equal to your experience level.
+First Aid (1 AP) (self only) - Removes Poison status, and restores an amount of HP equal to your experience level.
 
 ### Soldier Tech T2
 
-Advanced Aid (1 AP) (single) - As First Aid, but can be done on someone else.
+Advanced Aid (1 AP) (single) - As First Aid, but can be done on someone else. The HP healing is based on your own experience level.
 
 ### Soldier Tech T3
 

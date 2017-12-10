@@ -114,4 +114,4 @@ Stock Break (20 AP) (multi) - Attack all enemies, and attempt to reduce them to 
 
 ### Knight Tech T10
 
-Climhazzard (20 AP) (multi) - Attack all enemies for double damage.
+Climhazzard (20 AP) (multi) - Attack all enemies for double damage, ignoring Evasion and Defense.

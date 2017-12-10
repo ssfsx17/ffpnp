@@ -61,9 +61,13 @@ Job Levels:
 
 Advance (1 AP) (single) - Attack with double damage. Your Evasion and Defense are zero until your next turn.
 
+Tomahawk (1 AP) (single) - Attack, as if your weapon was ranged.
+
 ### Fighter Tech T2
 
 Rush (1 AP) (single) - Attack and cause Stun status (1).
+
+Tempered Will (4 AP) (self-only) - Remove Disable and Immobilize statuses. This ability can be done even while under the effect of Disable.
 
 ### Fighter Tech T3
 
@@ -72,6 +76,8 @@ Wild Swing (1 AP) (special) - Attack two enemies and one ally.
 ### Fighter Tech T4
 
 Blitz Strike (1 AP) (single) - Attack with double damage but zero Accuracy.
+
+Interject (4 AP) (single) - Attack and attempt to cause Silence status.
 
 ### Fighter Tech T5
 
@@ -95,6 +101,8 @@ Greased Lightning (1 AP) (single) - Attack without triggering reactions.
 
 Body Slam (1 AP) (single) - Attack with double damage. Take 1/4th of the damage to yourself, ignoring your own Defense.
 
+Defiance (4 AP) (self-only) - Causes Bubble status (4).
+
 Thunder Assault (5 AP) (single) - Strength * Level magical lightning damage.
 
 ### Fighter Tech T9
@@ -104,5 +112,7 @@ Back Draft (10 AP) (multi) - Strength * Level * 2 physical fire damage to all en
 Blizzard Tackle (5 AP) (single) - Strength * Level magical ice damage.
 
 ### Fighter Tech T10
+
+Circle of Scorn (5 AP) (multi) - Attack all enemies.
 
 Lifetap (10 AP) (single) - Do physical damage equal to half of the target's current HP, ignoring Defense.

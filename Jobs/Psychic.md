@@ -7,6 +7,7 @@ Actions:
 - Attack
 - Defend
 - Charge
+- Time Magic
 - Psionics
 - Item
 

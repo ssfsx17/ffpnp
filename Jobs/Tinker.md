@@ -59,7 +59,9 @@ Job Levels:
 
 ### Machine T1
 
-Autocrossbow (1 AP) (multi) - Agility * Level * 0.1 physical damage, ignoring Defense.
+Autocrossbow (1 AP) (multi) - Agility * Level * 0.1 physical damage, ignoring Evasion and Defense.
+
+Reassemble (2 AP) (self-only) - Causes Boost Attack status (2).
 
 Red Spring (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Causes Haste status (6).
 
@@ -107,7 +109,9 @@ Gold Moogletron (8 MP) (special) - Flip a coin. If it comes up heads, this abili
 
 ### Machine T9
 
-Bio Grenade (15 AP) (multi) - Attack all enemies twice for physical poison damage, and attempt to cause Poison-Plus and Virus statuses.
+Bio Grenade (15 AP) (multi) - Attack all enemies twice for physical poison damage, and attempt to cause Poison-Plus, Sap, and Virus statuses.
+
+Flamethrower (10 AP) (multi) - Agility * Level * 3 magical fire damage.
 
 ### Machine T10
 

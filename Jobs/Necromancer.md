@@ -7,6 +7,7 @@ Actions:
 - Attack
 - Defend
 - Charge
+- Black Magic
 - Dark Arts
 - Item
 
@@ -63,12 +64,14 @@ Job Levels:
 
 Drain Touch (15 MP) (single) - Intellect * Level * 2 magical dark damage, and drain that HP. The effect is reversed against undead.
 
-Oath (5 AP) - Summons a random undead creature to do one action. Roll a 1d4 to determine what happens.
+Oath (5 AP) - Summons a random undead creature to do one action. Roll a 1d6 to determine what happens.
 
 1. Skeleton (single) - Intellect * Level magical lightning damage.
 2. Flamemancer (single) - Intellect * Level magical fire damage.
 3. Rajiformes (multi) - Intellect * Level magical water damage.
 4. Zombie Dragon (multi) - Intellect * Level magical poison damage, and attempt to cause Poison status.
+5. Emerald Carbuncle (multi) - Intellect * Level magical wind damage.
+6. Eos (special) - Causes Boost Magic status (2). Targeted at the character who got this result with Oath, and their allies.
 
 ### Dark Arts T2
 

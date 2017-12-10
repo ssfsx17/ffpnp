@@ -5,7 +5,7 @@ Actions:
 - Fight
 - Defend
 - Charge
-- Salve (1 AP) - Use one item on the whole party. The item has half effect and duration.
+- Salve (1 AP) (special) - Use one item on the whole party. The item has half effect and duration.
 - Chemistry Tech
 - 1 x Choice
 - Item

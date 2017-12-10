@@ -7,7 +7,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Flirt (single) - Causes Charm and Stun status (1).
+- Flirt (single) - Causes Charm and Stun status (1). Uses Magic Accuracy, and is opposed by Magic Evasion.
 - Dance
 - Item
 
@@ -43,7 +43,7 @@ Job Levels:
 | 8 | Action Unlock: Dance T4
 | 9 | Job Action: Dance T5
 | 10 | Prestige Job Title: Entrancer
-|    | Job Support: Dance Partner - For each party member who does the same dance in the same round, the effect durations are increased by 1.
+|    | Job Support: Dance Partner - For each party member who does the same dance in the same round, the status durations of the dance are increased by 1.
 |    | Action Unlock: Flirt
 |    | Action Unlock: Dance T5
 | 11 | Job Action: Dance T6

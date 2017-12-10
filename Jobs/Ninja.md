@@ -107,7 +107,7 @@ Job Levels:
 ### Ninjutsu T8
 
 - Doppelblade (40 MP) (multi) - Two attacks on all enemies.
-- Stealth Kill (30 MP) (single) - Attempt to instantly-kill the target with a physical strike.
+- Stealth Kill (30 MP) (single) - Attack, and attempt to instantly-kill the target.
 
 ### Ninjutsu T9
 
