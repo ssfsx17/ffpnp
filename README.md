@@ -22,6 +22,7 @@ Future conditions:
 6. [Trappings](/Trappings)
   - [Weapons](/Trappings/Weapons.md)
   - [Armor](/Trappings/Armor.md)
+  - [Jewelry](/Trappings/Jewelry.md)
   - [Accessories](/Trappings/Accessories.md)
   - [Items](/Trappings/Items.md)
 7. [Jobs](/Jobs)
