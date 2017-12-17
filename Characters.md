@@ -1,5 +1,10 @@
 # Characters
 
+Example Character Sheets:
+
+- [LibreOffice Calc](/FFPNP_Example_Character_Sheet.ods)
+- [Google Drive](https://docs.google.com/spreadsheets/d/175q3DdRZAHX6A4zoVDuxVxupQxuxel8wXiR85b6V7BU/edit?usp=sharing)
+
 ## Character Creation Procedure
 
 1. Write the Three Things about your character.
