@@ -5,7 +5,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Squire Tech
+- Fundaments
 - 1 x Choice
 - Item
 
@@ -32,76 +32,76 @@ Job Levels:
 | JL | Notes |
 | --- | --- |
 | 1 | Base Job
-| 2 | Action Unlock: Squire Tech T1
+| 2 | Action Unlock: Fundaments T1
 |   | Proficiency Unlock: Medium Boots
-| 3 | Job Action: Squire Tech T2
-| 4 | Action Unlock: Squire Tech T2
+| 3 | Job Action: Fundaments T2
+| 4 | Action Unlock: Fundaments T2
 |   | Proficiency Unlock: Medium Chainmittens
-| 5 | Job Action: Squire Tech T3
+| 5 | Job Action: Fundaments T3
 |   | Reaction Unlock: Counter-Tackle
-| 6 | Action Unlock: Squire Tech T3
+| 6 | Action Unlock: Fundaments T3
 |   | Proficiency Unlock: Medium Coifs
-| 7 | Job Action: Squire Tech T4
-| 8 | Action Unlock: Squire Tech T4
+| 7 | Job Action: Fundaments T4
+| 8 | Action Unlock: Fundaments T4
 |   | Proficiency Unlock: Medium Chainmail
-| 9 | Job Action: Squire Tech T5
+| 9 | Job Action: Fundaments T5
 | 10 | Prestige Job Title: Squire Graduate
 |    | Job Support: Tackle-Plus - Tackle also causes Stun status (1).
-|    | Action Unlock: Squire Tech T5
+|    | Action Unlock: Fundaments T5
 |    | Proficiency Unlock: Medium Shields
 |    | Reaction Unlock: Counter-Tackle
-| 11 | Job Action: Squire Tech T6
-| 12 | Action Unlock: Squire Tech T6
-| 13 | Job Action: Squire Tech T7
-| 14 | Action Unlock: Squire Tech T7
-| 15 | Job Action: Squire Tech T8
-| 16 | Action Unlock: Squire Tech T8
-| 17 | Job Action: Squire Tech T9
-| 18 | Action Unlock: Squire Tech T9
-| 19 | Job Action: Squire Tech T10
-| 20 | Action Unlock: Squire Tech T10
+| 11 | Job Action: Fundaments T6
+| 12 | Action Unlock: Fundaments T6
+| 13 | Job Action: Fundaments T7
+| 14 | Action Unlock: Fundaments T7
+| 15 | Job Action: Fundaments T8
+| 16 | Action Unlock: Fundaments T8
+| 17 | Job Action: Fundaments T9
+| 18 | Action Unlock: Fundaments T9
+| 19 | Job Action: Fundaments T10
+| 20 | Action Unlock: Fundaments T10
 |    | Support Unlock: Tackle-Plus
 
-## Squire Tech
+## Fundaments
 
-### Squire Tech T1
+### Fundaments T1
 
 Stone Toss (single) - Ranged attack dealing Strength * Level * 0.2 damage.
 
 Tackle (single) - Melee attack dealing Strength * Level * 0.2 damage. On a successful hit, the enemy is knocked to the back row.
 
-### Squire Tech T2
+### Fundaments T2
 
 Clean Wipe (1 AP) (self-only) - Ends Blind, Poison, and Silence.
 
-### Squire Tech T3
+### Fundaments T3
 
 Tailwind (5 AP) (single) - Causes Haste status (2).
 
-### Squire Tech T4
+### Fundaments T4
 
 Chant (1 AP) (single) - Sacrifice an amount of HP equal to Level * 10 in order to restore double that much to the target.
 
-### Squire Tech T5
+### Fundaments T5
 
-Steel (5 AP) (single) - Causes Brave status (4).
+Steel (2 AP) (single) - Causes Brave status (4).
 
-### Squire Tech T6
+### Fundaments T6
 
-Shout (10 AP) (self-only) - Causes Haste and Brave status (6).
+Shout (6 AP) (self-only) - Causes Haste and Brave status (6).
 
-### Squire Tech T7
+### Fundaments T7
 
 Great Tailwind (10 AP) (multi) - Causes Haste status (2).
 
-### Squire Tech T8
+### Fundaments T8
 
 Great Chant (10 AP) (multi) - Sacrifice an amount of HP equal to Level * 10 in order to restore double that much to the whole party.
 
-### Squire Tech T9
+### Fundaments T9
 
 Great Steel (10 AP) (multi) - Causes Brave status (6).
 
-### Squire Tech T10
+### Fundaments T10
 
 Ultima Yell (20 AP) (special) - 100 * Level magical non-elemental damage to all enemies. Causes Haste status to the whole party (4).

@@ -72,21 +72,21 @@ Reis's Wind (12 MP) (multi) - Causes Regen status (6).
 
 ### Dragoon Tech T3
 
-Dragon Breath (78 MP) (special) - Choose one enemy. Calculate the difference between that enemy's current and maximum HP. Deal this amount of magical non-elemental damage to all enemies.
+Dragon Breath (78 MP) (special) - Choose one enemy. Calculate the difference between that enemy's current and maximum HP. Deal this amount of magical non-elemental damage to all enemies. Magic Defense is applied.
 
 ### Dragoon Tech T4
 
-Roar (19 MP) (multi) - Causes Stun status (1).
+Roar (19 MP) (multi) - Attempt to cause Stun status (1).
 
-White Draw (36 MP) (special) - Do an amount of MP damage equal to the enemy's level, ignoring Magic Defense. Restore this much MP to each party member.
+White Draw (36 MP) (special) - Attack and do an amount of MP damage equal to the enemy's level, ignoring Magic Defense. Restore half this much MP to each party member.
 
 ### Dragoon Tech T5
 
-Dragonfire Dive (10 AP) (multi) - Attack all enemies for double damage. The damage of your attack is changed to magical fire.
+Dragonfire Dive (10 AP) (multi) - Attack all enemies. The damage of your attack is changed to magical fire.
 
-Lancet (8 MP) (single) - Attack, drain 10% of the damage as HP, drain 1% of the damage as MP.
+Lancet (8 MP) (single) - Attack, drain 10% of the damage as HP, drain 1% of the damage as MP. The effect is reversed against undead.
 
-Luna (12 MP) (special) - Causes Berserk status (4) to everyone.
+Luna (12 MP) (special) - Attempt to cause Berserk status (4) to everyone.
 
 ### Dragoon Tech T6
 
@@ -107,19 +107,19 @@ Thunder Breath (5 AP) (multi) - Vitality * Level * 0.5 magical lightning damage.
 
 ### Dragoon Tech T7
 
-Cherry Blossom (46 MP) (multi) - Vitality * Level * 2 magical non-elemental damage.
+Cherry Blossom (46 MP) (multi) - Magical attack for Vitality * Level * 1.5 magical non-elemental damage.
 
-Healing Breath (18 MP) (multi) - Vitality * Level * 0.5 HP restored.
+Healing Breath (18 MP) (multi) - Restores Vitality * Level * 0.5 HP.
 
 ### Dragoon Tech T8
 
-Dragon's Charm (10 AP) (single) - Attempt to cause Charm status (10).
+Dragon's Charm (10 AP) (single) - Attempt to cause Charm status (20).
 
-Dragon's Crest (16 MP) (multi) - Does an amount of physical damage equal to the number of dragons killed, squared.
+Dragon's Crest (16 MP) (multi) - Magical attack that does an amount of physical damage equal to the number of dragons killed, squared. Magic Defense is applied.
 
 ### Dragoon Tech T9
 
-Dragon's Gift (single) - Use an amount of HP equal to 10% of your maximum HP to remove Blind, Confuse, Silence, Oil, Berserk, Toad, Poison, Stop, Sleep, Immobilize, and Disable statuses.
+Dragon's Gift (single) - Use an amount of HP equal to 10% of your maximum HP to remove Blind, Confuse, Silence, Oil, Berserk, Toad, Poison, Poison-Plus, Stop, Sleep, Immobilize, and Disable statuses.
 
 Dragon's Might (10 AP) (single) - Causes Brave, Faith, and Haste status (4).
 
@@ -127,6 +127,6 @@ Dragon's Might (10 AP) (single) - Causes Brave, Faith, and Haste status (4).
 
 Dragon's Speed (10 AP) (single) - Causes Quick status (1).
 
-Holy Breath (20 AP) (multi) - Vitality * Level * 5 holy magic damage.
+Holy Breath (20 AP) (multi) - Vitality * Level * 3 holy magic damage.
 
 Twelve Dragons (56 MP) (multi) - Acts as Six Dragons, except that after the d6 roll, you can choose to increase or decrease the roll by 1.

@@ -113,12 +113,12 @@ Hunting Shot (5 AP) (single) - Attack, and if it kills the target, then gain thr
 
 ### Archery T9
 
-Charge Shot 9 (18 AP) (single) - Attack with +180 Agility.
+Charge Shot 9 (18 AP) (BDL) (single) - Attack with +180 Agility.
 
-Sidewinder (10 AP) (single) - Attack and do double damage to a living monster target.
+Sidewinder (10 AP) (single) - Attack and do double damage to a living target.
 
 ### Archery T10
 
-Charge Shot 10 (20 AP) (single) - Attack with +200 Agility.
+Charge Shot 10 (20 AP) (BDL+) (single) - Attack with +200 Agility.
 
 Ultima Shot (32 MP, 20 AP) (BDL) (single) - Five attacks on one target. Evasion and Defense are ignored.

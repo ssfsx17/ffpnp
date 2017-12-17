@@ -71,7 +71,7 @@ Ring Toss (1 AP) (single) - Throw an accessory to attempt to cause Stop status (
 
 ### Acrobatics T3
 
-Molotov Cocktail (1 AP) (single) - Agility * Level * 0.5 physical fire damage, and attempt to cause Berserk status (4).
+Molotov Cocktail (1 AP) (single) - Attack for Agility * Level * 0.5 physical fire damage, and attempt to cause Berserk status (4).
 
 ### Acrobatics T4
 
@@ -91,7 +91,7 @@ Marionette Toss (2 AP) (single) - Ends Sleep, Disable, Immobilize, and Stop stat
 
 ### Acrobatics T8
 
-Food Toss (1 AP) (single) - Causes Stun, Disable, and Immobilize statuses (2).
+Food Toss (1 AP) (single) - Attempt to cause Stun, Disable, and Immobilize statuses (2).
 
 ### Acrobatics T9
 
@@ -99,4 +99,4 @@ Trapeze Toss (10 AP) (special) - Attempt to place half the party members (which 
 
 ### Acrobatics T10
 
-Juggle Combo (20 AP) (single) - Attack, and if it is a critical hit, then attack again. The attacks continue until a miss or a normal hit.
+Juggle Combo (20 AP) (BDL+) (single) - Attack, and if it is a critical hit, then attack again. The attacks continue until a miss or a normal hit.

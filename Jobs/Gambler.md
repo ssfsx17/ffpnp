@@ -154,9 +154,9 @@ Normal Power Effects:
 
 - Any other combination: Lagomorph (multi) - Restores Level * 10 HP, and ends Blind, Poison, and Sleep statuses.
 - 3 Diamonds: 7-Flush (multi) - Magical attack for Intellect * Level * 0.5 non-elemental damage.
-- 3 Chocobos: Chocobop (multi) - Attack for Strength * Level physical non-elemental damage, ignoring Evasion.
-- 3 Airships: H-Bomb (multi) - Magical attack for Intellect * Level non-elemental damage.
-- 3 Dragons: Sun Flare (multi) - Magical attack for Intellect * Level * 2 non-elemental damage, ignoring Magic Evasion.
+- 3 Chocobos: Chocobop (multi) - Attack for Strength * Level * 0.5 physical non-elemental damage, ignoring Evasion.
+- 3 Airships: H-Bomb (multi) - Magical attack for Intellect * Level * 0.5 non-elemental damage.
+- 3 Dragons: Sun Flare (multi) - Magical attack for Intellect * Level non-elemental damage, ignoring Magic Evasion.
 - 3 Cait Siths: Lucky Girl (multi) - Causes Immobilize status (6).
 - 3 Moogles: Mog Dance (multi) - Restore 5,000 HP and 50 MP.
 - 3 BARs: Summon (special) - Do a summon as if 50 MP and 3 AP were used.

@@ -7,7 +7,6 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Black Magic
 - Dark Arts
 - Item
 

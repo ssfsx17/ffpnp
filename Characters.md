@@ -4,9 +4,9 @@
 
 1. Write the Three Things about your character.
 2. Choose your character's race.
-3. Allocate 100 attribute points. No attribute may be more than double the lowest one.
+3. Allocate 100 attribute points. No attribute may have more than double the points allocated to it than the lowest one.
 4. Start with Job Level 1 in all base jobs: [Chemist](/Jobs/Chemist.md), [Freelancer](/Jobs/Freelancer.md), [Onion Knight](/Jobs/OnionKnight.md), and [Squire](/Jobs/Squire.md).
-5. Start with 200 gil.
+5. Start with 500 gil.
 
 ## Three Things
 
@@ -15,20 +15,21 @@ Write three distinctive things about your character. These should indicate your 
 Examples:
 
 - "He washed up on a beach with no memories."
-- "His home was invaded by the Empire."
-- "Fell in a cave and heard a voice telling him to save the world."
-- "Doubts the motives of his king."
-- "Woman who dresses as a man to maintain the respect of her peers. Such is the environment she survives in."
-- "Enslaved by an insane magical clown, until a traumatic event freed her."
-- "He is actually a remote-controlled robot. Apparently the creator put all his sense of humor and fun into it."
+- "His home was invaded by the Evil Empire."
+- "He fell into a cave and heard a voice telling him to save the world."
+- "He doubts the motives of his king."
+- "She is a woman who dresses as a man to maintain the respect of her peers. Such is the environment she survives in."
+- "She was enslaved by an insane magical clown, until a traumatic event freed her."
+- "The last thing he remembers is being a member of an elite organization and trying to stop an insane sword-wielding maniac."
 - "She guards the princess with her life, as is her ordained duty."
 - "Sometimes falls too much in love with her students, even though she is older and taller than them. They are totally 18 or older though."
 - "Her home environment was far too stifling and controlling, so she escaped."
-- "She is the ex-secretary of the evil empire."
-- "She got fed up with lacking a White Mage for her party, so she decided to just try to become one."
+- "He was attacked by a flying gigantic creature that sent him into another world."
+- "She got fed up with lacking a White Mage for her party, so she decided to learn how to become one."
 - "He willingly took the blame for the assassination of the king, believing this would avert an even worse war. The real assassin was someone close to him."
-- "Her sister was kidnapped."
-- "He is the heir to the throne."
+- "Her sister was kidnapped for some purpose known only to the gods."
+- "She heard the soul of the planet calling out to her to hear, feel, and think."
+- "He is the heir to the throne, yet the evil empire threatens to destroy his homeland."
 
 ## Attributes
 
@@ -47,11 +48,11 @@ No attribute can have more than double the number of points allocated to it than
 
 Maximum HP = Vitality * Level
 
-- For Player-Characters, Maximum HP cannot exceed 9,999.
+- The absolute maximum amount of HP is 99,999.
 
 Maximum MP = Spirit * Level * 0.1
 
-- For Player-Characters, Maximum MP cannot exceed 999.
+- The absolute maximum amount of MP is 9,999.
 
 Accuracy = Agility
 
@@ -80,15 +81,20 @@ Characters have the following equipment slots:
 
 - Right Hand
 - Left Hand
-- Head
-- Body
-- Arms
-- Legs
+- Head (Armor)
+- Body (Armor)
+- Arms (Armor)
+- Legs (Armor)
+- Earrings (Jewelry)
+- Necklace (Jewelry)
+- Bracelet (Jewelry)
+- Left Ring (Jewelry)
+- Right Ring (Jewelry)
 - Accessory
 
 ## Experience Levels
 
-When characters gain a level, they also gain 5 attribute points. They must still follow the rule that no attribute can be more than double any other.
+When characters gain a level, they also gain 10 attribute points. They must still follow the rule that no attribute can have more than double the points allocated to it than the lowest one.
 
 XP required to gain a level = previous requirement + (Previous Level * 1000)
 

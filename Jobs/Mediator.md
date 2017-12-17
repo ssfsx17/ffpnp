@@ -60,11 +60,11 @@ Job Levels:
 
 ### Speechcraft T1
 
-Entice (1 AP) (single) - Causes Charm status.
+Entice (1 AP) (single) - Attempt to cause Charm status (10).
 
 ### Speechcraft T2
 
-Stall (1 AP) (single) - Causes Stun status (2).
+Stall (1 AP) (single) - Attempt to cause Stun status (2).
 
 ### Speechcraft T3
 
@@ -72,7 +72,7 @@ Praise (1 AP) (single) - Causes Brave status (6).
 
 ### Speechcraft T4
 
-Intimidate (1 AP) (single) - Causes Chicken status (6).
+Intimidate (1 AP) (single) - Attempt to cause Chicken status (6).
 
 ### Speechcraft T5
 
@@ -84,20 +84,20 @@ Enlighten (1 AP) (single) - Causes Atheist status (6).
 
 ### Speechcraft T7
 
-Condemn (1 AP) (single) - Causes Doom status (4).
+Condemn (1 AP) (single) - Attempt to cause Doom status (4).
 
 ### Speechcraft T8
 
-Beg (1 AP) (single) - Causes the target to give up an amount of gil equal to its Level * 100.
+Beg (1 AP) (single) - Attempt to cause the target to give up an amount of gil equal to its Level * 100.
 
 ### Speechcraft T9
 
-Insult (1 AP) (single) - Causes Berserk status (6).
+Insult (1 AP) (single) - Attempt to cause Berserk status (6).
 
 ### Speechcraft T10
 
 Call to Action (10 AP) (single) - Causes Quick status (1).
 
-Mimic Daravon (1 AP) (single) - Causes Sleep status.
+Mimic Daravon (1 AP) (single) - Attempt to cause Sleep status.
 
-Mimic Maechen (1 AP) (single) - Causes Addle status (4).
+Mimic Maechen (1 AP) (single) - Attempt to cause Addle status (4).

@@ -1,6 +1,6 @@
 # Viking
 
-Requires: Fighter 2, Thief 2
+Requires: Fighter 4, Thief 4
 
 Actions:
 
@@ -63,7 +63,7 @@ Job Levels:
 
 Intimidating Pressure (2 AP) (single) - Attempt to cause Immobilize status (2), using Magic Accuracy and opposed by Magic Evasion.
 
-Pillage Gil (1 AP) (single) - Attack, and 1/10th of the damage is gained as Gil.
+Pillage Gil (1 AP) (single) - Attack, and 5% of the damage is gained as Gil.
 
 ### Viking Tech T2
 
@@ -87,7 +87,7 @@ Raider Strike (1 AP) (single) - Attack, and do not trigger any counters.
 
 ### Viking Tech T7
 
-Haunting Strike (1 AP) (single) - Attack, and cause Blind status.
+Haunting Strike (1 AP) (single) - Attack, and attempt to cause Blind status.
 
 ### Viking Tech T8
 
@@ -99,4 +99,4 @@ Critical Order (5 AP) (multi) - Causes Critical Vulnerability status (2).
 
 ### Viking Tech T10
 
-Aegir (10 AP) (multi) - Strength * Level water damage, and 1/100th of the damage is also dealt to MP.
+Aegir (10 AP) (multi) - Strength * Level physical water damage, and 1% of the damage is also dealt to MP.

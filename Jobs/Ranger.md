@@ -8,7 +8,7 @@ Actions:
 - Defend
 - Charge
 - Archery Tech
-- Animals (20 AP) - Roll a 1d100 for the Animals Table. A roll that is higher than your Level has no effect.
+- Animals (10 AP) - Roll a 1d100 for the Animals Table. A roll that is higher than your Level has no effect.
 - Item
 
 Supports:
@@ -67,8 +67,8 @@ Job Levels:
 | 1 - 4 | Squirrel (single) | Agility * Level * 0.5 physical damage
 | 5 - 9 | Bee Swarm (multi) | Level * 10 damage, ignoring Evasion and Defense
 | 10 - 19 | Nightingale (single) | Restores Agility * Level HP, and removes Blind, Poison, and Poison-Plus statuses.
-| 20 - 29 | Flying Squirrel (multi) | Causes Immobilize status (6).
+| 20 - 29 | Flying Squirrel (multi) | Attempt to cause Immobilize status (6) at +50 Accuracy.
 | 30 - 39 | Falcon (single) | Attempt to do an amount of damage to the target equal to 1/4th of their current HP. Defense is not applied.
-| 40 - 49 | Skunk (multi) | Causes Blind and Poison status.
+| 40 - 49 | Skunk (multi) | Attempt to causes Blind, Poison, and Sap status.
 | 50 - 59 | Wild Boar (single) | Agility * Level * 2 physical damage.
-| 60 - 99 | Unicorn (multi) | Restores all HP and MP.
+| 60 - 99 | Unicorn (multi) | Restores 5,000 HP and 500 MP.

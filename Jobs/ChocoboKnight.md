@@ -81,9 +81,9 @@ Choco Surge (4 AP) (single) - Causes Boost Magic status (4).
 
 ### Chocotech T5
 
-Choco Meteor (5 AP) (single) - Requires a red or gold chocobo. Magical attack for Intellect * Level * 2 fire damage.
+Choco Meteor (5 AP) (single) - Requires a red or gold chocobo. Magical attack for Intellect * Level * 1.5 fire damage.
 
-Choco Splash (5 AP) (single) - Requires a blue or gold chocobo. Magical attack for Intellect * Level * 2 water damage.
+Choco Splash (5 AP) (single) - Requires a blue or gold chocobo. Magical attack for Intellect * Level * 1.5 water damage.
 
 ### Chocotech T6
 

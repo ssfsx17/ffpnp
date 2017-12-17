@@ -76,7 +76,7 @@ Gauge (1 AP) (single) - Acts as the White Magic spell Libra.
 
 ### Soldier Tech T4
 
-Provoke (1 AP) (single) - Causes Berserk status (4).
+Provoke (1 AP) (single) - Attempt to cause Berserk status (4).
 
 ### Soldier Tech T5
 
@@ -86,7 +86,7 @@ Planned Attack (1 AP) (single) - Do an attack ignoring Evasion.
 
 ### Soldier Tech T6
 
-Battle Orders (1 AP) (multi) - Each member of the party switches rows.
+Battle Orders (1 AP) (multi) - Each member of the party attempts to switch rows.
 
 Entrench (1 AP) (self only) - Defend action that lasts for two rounds, i.e. you can do an action in the next round while still under the effect of Defend. But, this also causes the Immobilize status on yourself for the duration.
 
@@ -98,9 +98,9 @@ Steelguard (1 AP) (self only) - Defend action for which Defense is quadrupled ra
 
 ### Soldier Tech T8
 
-Mediguard (1 AP) (self only) - Defend action, and every time you take damage you regain 5% HP.
+Mediguard (1 AP) (self only) - Defend action, and every time you take damage you regain an amount of HP equal to 5% of your maximum.
 
-Target Designation (1 AP) (single) - Causes Locked-On status (2).
+Target Designation (1 AP) (single) - Attempt to cause Locked-On status (2). This uses Accuracy and is opposed by Evasion.
 
 ### Soldier Tech T9
 
@@ -112,4 +112,4 @@ Vigilance (1 AP) (self only) - Defend action, and any enemy who damages you is a
 
 Barrage (1 AP) (multi) - Attack all enemies for half damage.
 
-Fire Mission (1 AP) (multi) - Causes Locked-On status (2) to all enemies.
+Fire Mission (1 AP) (multi) - Attempt to cause Locked-On status (2) to all enemies.

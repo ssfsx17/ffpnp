@@ -59,7 +59,7 @@ Job Levels:
 
 ### Fighter Tech T1
 
-Advance (1 AP) (single) - Attack with double damage. Your Evasion and Defense are zero until your next turn.
+Advance (1 AP) (single) - Attack with double damage. You suffer from Immobilize and Broken Armor status until your next turn.
 
 Tomahawk (1 AP) (single) - Attack, as if your weapon was ranged.
 
@@ -67,7 +67,7 @@ Tomahawk (1 AP) (single) - Attack, as if your weapon was ranged.
 
 Rush (1 AP) (single) - Attack and cause Stun status (1).
 
-Tempered Will (4 AP) (self-only) - Remove Disable and Immobilize statuses. This ability can be done even while under the effect of Disable.
+Tempered Will (3 AP) (self-only) - Remove Disable and Immobilize statuses. This ability can be done even while under the effect of Disable.
 
 ### Fighter Tech T3
 
@@ -75,9 +75,9 @@ Wild Swing (1 AP) (special) - Attack two enemies and one ally.
 
 ### Fighter Tech T4
 
-Blitz Strike (1 AP) (single) - Attack with double damage but zero Accuracy.
+Blitz Strike (1 AP) (single) - Attack with double damage but -50 Accuracy.
 
-Interject (4 AP) (single) - Attack and attempt to cause Silence status.
+Interject (3 AP) (single) - Attack and attempt to cause Silence status.
 
 ### Fighter Tech T5
 
@@ -107,7 +107,7 @@ Thunder Assault (5 AP) (single) - Strength * Level magical lightning damage.
 
 ### Fighter Tech T9
 
-Back Draft (10 AP) (multi) - Strength * Level * 2 physical fire damage to all enemies. Take 1/4th of the damage to yourself, ignoring your own Defense.
+Back Draft (10 AP) (multi) - Strength * Level physical fire damage to all enemies. Take 1/4th of the damage to yourself, ignoring your own Defense.
 
 Blizzard Tackle (5 AP) (single) - Strength * Level magical ice damage.
 

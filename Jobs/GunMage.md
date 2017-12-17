@@ -8,7 +8,7 @@ Actions:
 - Defend
 - Charge
 - Blue Bullet - Use a Blue Magic spell that you do not yet know. Its MP cost is doubled.
-- Fiend Hunter (6 MP) - Attack for double damage against a specific family of enemies. The possible targets are based on Fiend Hunting tier.
+- Fiend Hunter (6 MP) (single) - Attack for +50 Accuracy against a specific family of enemies. The possible targets are based on Fiend Hunting tier.
 - Item
 
 Supports:

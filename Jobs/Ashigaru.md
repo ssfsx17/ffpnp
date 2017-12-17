@@ -61,13 +61,13 @@ Job Levels:
 
 ### Bushido Tech T1
 
-Ashura (single) - Break a Level 1 Katana 2H. Magical attack for Intellect * Level non-elemental damage.
+Ashura (single) - Break a Level 1 Katana 2H. Magical attack for Intellect * Level magical non-elemental damage.
 
 Dispatch (2 AP) (single) - Attack that ignores Evasion.
 
 ### Bushido Tech T2
 
-Kotetsu (multi) - Break a Level 10 Katana 2H. Magical attack for Intellect * Level magical dark damage.
+Kotetsu (multi) - Break a Level 10 Katana 2H. Magical attack for Intellect * Level * 0.5 magical dark damage.
 
 Retort (4 AP) (special) - Defend action in which you get a free counter against one attack. Your counter ignores Evasion and Defense.
 
@@ -81,7 +81,7 @@ Slash (6 AP) (single) - Attempt to halve the current HP of the target and cause 
 
 ### Bushido Tech T4
 
-Murasame (multi) - Break a Level 30 Katana 2H. Restores Intellect * Level * 2 HP.
+Murasame (multi) - Break a Level 30 Katana 2H. Restores Intellect * Level HP.
 
 Quadra Slam (8 AP) (special) - Attack four random enemies.
 
@@ -89,7 +89,7 @@ Sky (4 AP) (special) - Defend action in which you get a free counter against one
 
 ### Bushido Tech T5
 
-Ama-no-Murakumo (multi) - Break a Level 40 Katana 2H. Magical attack for Intellect * Level * 2 non-elemental damage, and attempt to cause Slow status (6).
+Ama-no-Murakumo (multi) - Break a Level 40 Katana 2H. Magical attack for Intellect * Level non-elemental damage, and attempt to cause Slow status (6).
 
 Empowerer (10 AP) (single) - Attack that drains HP, as well as an amount of MP equal to 1/10th of the HP damage after Defense was applied.
 
@@ -117,18 +117,18 @@ Cleave (16 AP) (multi) - Attempt to instantly-kill all enemies, at -50 Accuracy.
 
 Eclipse (12 AP) (multi) - Attack all enemies for non-elemental magical damage, and attempt to cause Stop status (6).
 
-Kiku-ichimonji (multi) - Break a Level 70 Katana 2H. Magical attack for Intellect * Level * 5 fire damage.
+Kiku-ichimonji (multi) - Break a Level 70 Katana 2H. Magical attack for Intellect * Level * 3 fire damage.
 
 ### Bushido Tech T9
 
-Masamune (multi) - Break a Level 80 Katana 2H. Causes Regen-Plus and Haste statuses (10).
+Masamune (multi) - Break a Level 80 Katana 2H. Causes Regen, Regen-Plus, and Haste statuses (10).
 
 Tempest (14 AP) (special) - Attack four random enemies for double damage, ignoring Evasion and Defense.
 
 ### Bushido Tech T10
 
-Chirijiraden (multi) - Break a Level 90 Katana 2H. Magical attack for Intellect * Level * 5 damage, ignoring Magic Evasion and Magic Defense.
+Chirijiraden (multi) - Break a Level 90 Katana 2H. Magical attack for Intellect * Level * 3 damage, ignoring Magic Evasion and Magic Defense.
 
 Oblivion (16 AP) (multi) - Attempt to instantly-kill all enemies.
 
-Oboromuramasa (single) (BDL) - Break a priceless Katana 2H. Do 20 attacks on the target.
+Oboromuramasa (single) (BDL+) - Break a priceless Katana 2H. Do 20 attacks on the target.

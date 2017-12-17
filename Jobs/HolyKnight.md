@@ -95,11 +95,11 @@ Parley (2 AP) (single) - Convince a target to flee the battle. You must be able 
 
 Cleansing Strike (4 AP) (single) - Attack for double holy damage, and attempt to cause Doom status (6).
 
-Saint Cross (10 AP) (multi) - Attack all enemies for double holy damage. Casts Esuna on yourself.
+Saint Cross (10 AP) (multi) - Attack all enemies for holy damage. Casts Esuna on yourself.
 
 ### Holy Sword T8
 
-Holy Blade (15 AP) (BDL) (single) - Attack for quintuple holy damage.
+Holy Blade (15 AP) (BDL) (single) - Attack for triple holy damage.
 
 Northswain's Strike (4 AP) (single) - Attack for double holy damage, and attempt to instantly-kill at -50 Accuracy.
 

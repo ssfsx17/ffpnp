@@ -7,7 +7,6 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Red Magic
 - Scholastic Tech
 - Item
 
@@ -111,7 +110,7 @@ Piercing Sight (1 AP) (single) - Acts as the White Magic spell Libra, and gives 
 
 ### Scholastic Tech T9
 
-Caper Emissarius (5 AP) (multi) - All affected targets must spend their next action doing a normal attack against you.
+Caper Emissarius (5 AP) (multi) - All affected targets must spend their next action doing a normal attack against you. This attempt uses Magic Accuracy and is opposed by Magic Evasion.
 
 ### Scholastic Tech T10
 

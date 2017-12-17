@@ -77,7 +77,7 @@ Toad Song (22 MP) (multi) - Causes Toad status.
 
 ### Animism Calling T5
 
-Cuisine (22 MP) (single) - Restores Spirit * Level * 2 HP.
+Cuisine (22 MP) (single) - Restores Spirit * Level HP.
 
 ### Animism Calling T6
 
@@ -85,7 +85,7 @@ Friend (4 MP) (special) - Uses a random Summon T1. Flip a coin to determine whet
 
 ### Animism Calling T7
 
-Tail Wag (12 MP) (single) - Causes Charm status (8).
+Tail Wag (12 MP) (single) - Attempts to cause Charm status (8).
 
 ### Animism Calling T8
 
@@ -93,8 +93,8 @@ Sheep Count (12 MP) (multi) - Causes Sleep status.
 
 ### Animism Calling T9
 
-Egging (30 MP) (single) - Spirit * Level * 3 physical damage, and attempts to cause Addle and Stun status (2).
+Egging (30 MP) (single) - Spirit * Level * 1.5 physical damage, and attempts to cause Addle and Stun status (2).
 
 ### Animism Calling T10
 
-Mega Milk (60 MP) (multi) - Causes Charm status (10) at +50 Magic Accuracy.
+Mega Milk (60 MP) (multi) - Attempts to cause Charm status (10) at +50 Magic Accuracy.

@@ -9,7 +9,7 @@ Actions:
 - Charge
 - Calculation Tech
 - Scholastic Tech
-- Celestial Stasis (10 AP) (multi) - Causes Stop status (2).
+- Celestial Stasis (10 AP) (multi) - Magical attempt to cause Stop status (2).
 - Item
 
 Supports:
@@ -43,7 +43,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Astrologer
-|    | Job Action: Celestial Stasis Plus (20 AP) (multi) - Causes Stop status (4) at +50 Magic Accuracy.
+|    | Job Action: Celestial Stasis Plus (20 AP) (multi) - Magical attempt to cause Stop status (4) at +50 Magic Accuracy.
 |    | Action Unlock: Celestial Stasis
 | 11 | 
 | 12 | 

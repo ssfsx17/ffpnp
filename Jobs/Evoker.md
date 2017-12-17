@@ -104,15 +104,15 @@ Proficiencies:
 
 ### Summons T7
 
-- Alexander: Divine Shot (64 MP, 7 AP) (multi) - Intellect * Level * 5 holy damage.
-- Bahamut: Megaflare (60 MP, 7 AP) (multi) - Intellect * Level * 5 non-elemental damage.
-- Cyclops: Climactic Fear (62 MP, 7 AP) (multi) - Physical attack against all enemies for Strength * Level * 3 damage, and causes Chicken and Broken Weapon statuses (8) at +50 Accuracy.
-- Diabolos: Evil Messenger (64 MP, 7 AP) (multi) - Intellect * Level * 5 dark damage.
-- Valigarmanda: Tri-Disaster (68 MP, 7 AP) (multi) - Three magic attacks that each are guaranteed to hit. First magical attack does Intellect * Level * 3 fire damage. Second magical attack does Intellect * Level * 3 ice damage. Third magical attack does Intellect * Level * 3 lightning damage.
+- Alexander: Divine Shot (BDL) (64 MP, 7 AP) (multi) - Intellect * Level * 5 holy damage.
+- Bahamut: Megaflare (BDL) (60 MP, 7 AP) (multi) - Intellect * Level * 5 non-elemental damage.
+- Cyclops: Climactic Fear (BDL) (62 MP, 7 AP) (multi) - Physical attack against all enemies for Strength * Level * 3 damage, and causes Chicken and Broken Weapon statuses (8) at +50 Accuracy.
+- Diabolos: Evil Messenger (BDL) (64 MP, 7 AP) (multi) - Intellect * Level * 5 dark damage.
+- Valigarmanda: Tri-Disaster (BDL) (68 MP, 7 AP) (multi) - Three magic attacks that each are guaranteed to hit. First magical attack does Intellect * Level * 3 fire damage. Second magical attack does Intellect * Level * 3 ice damage. Third magical attack does Intellect * Level * 3 lightning damage.
 
 ### Summons T8
 
-- Anima: Oblivion (75 MP, 8 AP) (multi) - Intellect * Level * 5 non-elemental damage, and ends all positive status conditions, including Reflect.
+- Anima: Oblivion (BDL) (75 MP, 8 AP) (multi) - Intellect * Level * 5 non-elemental damage, and ends all positive status conditions, including Reflect.
 - Magus Sisters: Delta Attack (BDL) (75 MP, 8 AP) (multi) - Three magic attacks that each ignore Magic Evasion. First magical attack does Intellect * Level * 3 fire damage. Second magical attack does Intellect * Level * 3 wind damage. Third magical attack does Intellect * Level * 3 non-elemental damage.
 - Yojimbo: Zanmato (50,000 gil, 8 AP) (multi) - Attack all enemies for double damage, and attempt to instantly-kill them at +50 Accuracy.
 
@@ -120,10 +120,10 @@ Proficiencies:
 
 - Eden: Eternal Breath (BDL) (100 MP, 9 AP) (multi) - Four magical attacks that do Intellect * Level * 4 non-elemental damage each.
 - Neo Bahamut: Gigaflare (BDL) (140 MP, 9 AP) (multi) - Intellect * Level * 8 non-elemental damage.
-- Phoenix: Flames of Rebirth (99 MP, 9 AP) (special) - Magical attack on all enemies for Spirit * Level * 3 fire damage. Casts Raise, then Reraise, on all party members.
+- Phoenix: Flames of Rebirth (BDL) (99 MP, 9 AP) (special) - Magical attack on all enemies for Spirit * Level * 3 fire damage. Casts Raise, then Reraise, on all party members.
 
 ### Summons T10
 
-- Bahamut ZERO: Teraflare (BDL) (180 MP, 10 AP) (multi) - Intellect * Level * 10 non-elemental damage.
-- Knights of the Round (BDL) (250 MP, 10 AP) (multi) - Thirteen physical attacks against all enemies that each do Strength * Level * 3 damage.
-- Zodiark: Darkening Cloud (BDL) (99 MP, 10 AP) (multi) - Intellect * Level * 8 dark damage.
+- Bahamut ZERO: Teraflare (BDL+) (180 MP, 10 AP) (multi) - Intellect * Level * 10 non-elemental damage.
+- Knights of the Round (BDL+) (250 MP, 10 AP) (multi) - Thirteen physical attacks against all enemies that each do Strength * Level * 3 damage.
+- Zodiark: Darkening Cloud (BDL+) (99 MP, 10 AP) (multi) - Intellect * Level * 8 dark damage.

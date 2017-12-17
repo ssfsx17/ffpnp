@@ -7,7 +7,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Flirt (single) - Causes Charm and Stun status (1). Uses Magic Accuracy, and is opposed by Magic Evasion.
+- Flirt (single) - Attempt to cause Charm and Stun status (1). Uses Magic Accuracy, and is opposed by Magic Evasion.
 - Dance
 - Item
 
@@ -62,52 +62,52 @@ Job Levels:
 
 ### Dance T1
 
-Darkness Dance (multi) - Causes Blind status (2).
+Darkness Dance (multi) - Attempt to cause Blind status (2).
 
 ### Dance T2
 
-Samba of Silence (multi) - Causes Silence status (2).
+Samba of Silence (multi) - Attempt to cause Silence status (2).
 
 ### Dance T3
 
-Magical Masque (multi) - Causes Shell status (2).
+Magical Masque (multi) - Attempt to cause Shell status (2).
 
 ### Dance T4
 
-Sleepy Shuffle (multi) - Causes Sleep status (2).
+Sleepy Shuffle (multi) - Attempt to cause Sleep status (2).
 
 ### Dance T5
 
 Blade Dance (single) - Two attacks at -50 Accuracy.
 
-Carnival Cancan (multi) - Causes Bubble status (2).
+Carnival Cancan (multi) - Attempt to cause Bubble status (2).
 
 ### Dance T6
 
-Slow Dance (multi) - Causes Slow status (2).
+Slow Dance (multi) - Attempt to cause Slow status (2).
 
-Witch Hunt (multi) - Causes an amount of MP damage equal to half your Level, ignoring Magic Defense.
+Witch Hunt (multi) - Attempt to cause an amount of MP damage equal to half your Level, ignoring Magic Defense.
 
 ### Dance T7
 
-Brake-dance (multi) - Causes Stop status (2).
+Brake-dance (multi) - Attempt to cause Stop status (2).
 
 Mincing Minuet (multi) - Intellect * Level * 0.1 magical non-elemental damage, ignoring Magic Defense.
 
 ### Dance T8
 
-Jitterbug (multi) - Causes Haste status (2).
+Jitterbug (multi) - Attempt to cause Haste status (2).
 
-Polka (multi) - Causes Broken Weapon status (2).
+Polka (multi) - Attempt to cause Broken Weapon status (2).
 
 ### Dance T9
 
-Dirty Dancing (multi) - Causes Critical Vulnerability status (2).
+Dirty Dancing (multi) - Attempt to cause Critical Vulnerability status (2).
 
-Heathen Frolick (multi) - Causes Broken Accessory status (2).
+Heathen Frolick (multi) - Attempt to cause Broken Accessory status (2).
 
 ### Dance T10
 
-Forbidden Dance (multi) - Causes Blind, Confuse, Silence, Toad, Poison, Slow, Stop, and Sleep statuses (2).
+Forbidden Dance (multi) - Attempt to cause Blind, Confuse, Silence, Toad, Poison, Slow, Stop, and Sleep statuses (2).
 
-Multi Break (multi) - Causes Broken Armor, Broken Accessory, Broken Helmet, and Broken Weapon statuses (2).
+Multi Break (multi) - Attempt to cause Broken Armor, Broken Accessory, Broken Helmet, and Broken Weapon statuses (2).

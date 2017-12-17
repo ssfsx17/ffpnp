@@ -60,46 +60,46 @@ Job Levels:
 ### Time Magic T1
 
 - Disk (1 MP) (utility) - creates a floating disk that can be used to carry personal loads at a walking pace for a day
-- Immobilize (5 MP) (single/multi) - Causes Immobilized status (4).
+- Immobilize (5 MP) (single/multi) - Attempt to cause Immobilized status (4).
 - Regen (10 MP) (single/multi) - Causes Regen status (6).
-- Slow (5 MP) (single/multi) - Causes Slow status (4).
+- Slow (5 MP) (single/multi) - Attempt to cause Slow status (4).
 - Speed (2 MP) (utility) - Doubles travel speed for an hour.
 
 ### Time Magic T2
 
 - Antigrav (8 MP) (single) - Causes Float status (2).
-- Countdown (8 MP) (single) - Causes Doom status (8).
-- Disable (10 MP) (single) - Causes Disabled status (4).
+- Countdown (8 MP) (single) - Attempt to cause Doom status (8).
+- Disable (10 MP) (single) - Attempt to cause Disabled status (4).
 - Haste (8 MP) (single) - Causes Haste status (4).
-- Mute (8 MP) (single) - Causes Silence status (4).
+- Mute (8 MP) (single) - Attempt to cause Silence status (4).
 - Tranq (8 MP) (single) - Causes Tranq status (4).
 
 ### Time Magic T3
 
 - Diskara (3 MP) (utility) - creates a floating disk that can be used to carry heavy loads at a running pace for a day
 - Extend (8 MP) (single) - Extend all status durations by 1.
-- Gravity (10 MP) (single) - Causes an amount of non-elemental magical damage equal to 25% of the target's HP.
+- Gravity (10 MP) (single) - Attempt to cause an amount of non-elemental magical damage equal to 10% of the target's maximum HP. Magic Defense is not applied.
 - Reflect (22 MP) (single/multi) - Causes Reflect status (6).
-- Stop (24 MP) (single) - Causes Stop status (2).
+- Stop (24 MP) (single) - Attempt to cause Stop status (2).
 - Teleport (10 MP) - Move up or down by one floor. Only floors that have been previously-visited can be teleported to.
 
 ### Time Magic T4
 
 - Antigraviga (20 MP) (multi) - Causes Float status (4).
-- Bleed (12 MP) (single/multi) - Causes Sap status (4).
-- Immobilazaga (16 MP) (single/multi) - Causes Immobilized status (8).
+- Bleed (12 MP) (single/multi) - Attempt to cause Sap status (4).
+- Immobilazaga (16 MP) (single/multi) - Attempt to cause Immobilized status (8).
 - Regenara (30 MP) (single/multi) - Causes Regen status (20).
-- Slowga (20 MP) (single/multi) - Causes Slow status (10).
+- Slowga (20 MP) (single/multi) - Attempt to cause Slow status (10).
 - Tranqga (24 MP) (multi) - Causes Tranq status (6).
 
 ### Time Magic T5
 
-- Disabalaga (20 MP) (single/multi) - Causes Disabled status (8).
+- Disabalaga (20 MP) (single/multi) - Attempt to cause Disabled status (8).
 - Diskaga (6 MP) (utility) - creates a floating disk that can be used to carry wagon-sized loads at a galloping pace for a day
-- Graviga (30 MP) (multi) - Causes an amount of non-elemental magical damage equal to 25% of the target's HP.
+- Graviga (30 MP) (multi) - Attempt to cause an amount of non-elemental magical damage equal to 10% of the target's maximum HP. Magic Defense is not applied.
 - Hastega (30 MP) (single/multi) - Causes Haste status (20).
-- Asteroid (30 MP) (multi) - Intellect * Level * 2 non-elemental damage, and causes Stun status (2).
-- Old (30 MP) (single/multi) - Causes Old status (8).
+- Asteroid (30 MP) (multi) - Intellect * Level non-elemental damage, and attempt to cause Stun status (2).
+- Old (30 MP) (single/multi) - Attempt to cause Old status (8).
 
 ### Time Magic T6
 
@@ -108,11 +108,11 @@ Job Levels:
 - Quick (24 MP) (single) - Causes Quick status (1).
 - Rescue (20 MP) (single) - Instantly teleport an ally to you, across all distances and dimensional boundaries, if the ally is willing.
 - Return (30 MP) - Exit a combat, building, or dungeon.
-- Stopga (60 MP) - Causes Stop status (4).
+- Stopga (60 MP) - Attempt to cause Stop status (4).
 
 ### Time Magic T7
 
-- Demi (33 MP) - Causes an amount of non-elemental magical damage equal to half the target's maximum HP.
+- Demi (33 MP) - Attempt to cause an amount of non-elemental magical damage equal to 25% of the target's maximum HP. Magic Defense is not applied.
 - Diskaja (9 MP) (utility) - creates a floating disk that can be used to carry house-sized loads at a vehicle pace for a day
 - Reflectga (50 MP) (single/multi) - Causes Reflect status (20).
 - Regenaga (60 MP) (single/multi) - Causes Regen-Plus status (6).
@@ -121,20 +121,20 @@ Job Levels:
 ### Time Magic T8
 
 - Bubble (30 MP) (single) - Causes Bubble status (6).
-- Comet (70 MP) (multi) - Intellect * Level * 3 non-elemental magical damage, and causes Stun status (2).
+- Comet (70 MP) (multi) - Intellect * Level non-elemental magical damage, and attempt to cause Stun status (2).
 - Quickga (48 MP) (multi) - Causes Quick status (1).
-- X-Zone (53 MP) (multi) - Causes X-Zone status at -50 Magic Accuracy. Be careful, as there are enemies for whom this is not such a bad thing, or this may simply move the enemies to a place where they can do even more harm to innocent people.
+- X-Zone (53 MP) (multi) - Attempt to cause X-Zone status at -50 Magic Accuracy. Be careful, as there are enemies for whom this is not such a bad thing, or this may simply move the enemies to a place where they can do even more harm to innocent people.
 
 ### Time Magic T9
 
-- Demiga (50 MP) (multi) - Causes an amount of non-elemental magical damage equal to half the target's maximum HP.
+- Demiga (50 MP) (multi) - Attempt to cause an amount of non-elemental magical damage equal to half the target's maximum HP. Magic Defense is not applied.
 - Full Tension Disk (18 MP) (utility) - creates a floating disk that can be used to carry building-sized loads at a supersonic pace for a day
-- Quarter (48 MP) (single) - Causes an amount of non-elemental magical damage equal to 75% of the target's maximum HP.
-- Vanishga (60 MP) (single/multi) - Causes Vanish status (10).
+- Quarter (48 MP) (single) - Attempt to cause an amount of non-elemental magical damage equal to 50% of the target's maximum HP. Magic Defense is not applied.
+- Vanishga (60 MP) (single/multi) - Causes Vanish status (12).
 
 ### Time Magic T10
 
-- Meteor (99 MP, 10 AP) (multi) - Intellect * Level * 5 non-elemental magical damage, and causes Addle, Broken Helmet, Sleep, and Stun statuses (2).
-- Quarterga (80 MP) (multi) - Causes an amount of non-elemental magical damage equal to 75% of the target's maximum HP. Magic Defense is ignored.
+- Meteor (99 MP, 10 AP) (multi) - Intellect * Level * 2 non-elemental magical damage, and attempt to cause Addle, Broken Helmet, Sleep, and Stun statuses (2).
+- Quarterga (80 MP) (multi) - Attempt to cause an amount of non-elemental magical damage equal to 50% of the target's maximum HP. Magic Defense is ignored.
 - Regenaja (80 MP) (single/multi) - Causes Regen-Plus status (20).
-- Z-Zone (70 MP) (multi) Causes X-Zone status.
+- Z-Zone (70 MP) (multi) - Attempt to cause X-Zone status.

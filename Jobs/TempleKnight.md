@@ -83,13 +83,13 @@ Zombie (14 MP) (single) - Causes Zombie status (8).
 
 ### Temple Sword Tech T5
 
-Berserk (16 MP) (single) - Causes Berserk status (6).
+Berserk (16 MP) (single) - Attempt to cause Berserk status (6).
 
 Lifebreak (6 AP) (single) - Calculate the difference between your current and maximum HP. Deal this much magical dark damage to the target. Magic Defense is not applied.
 
 ### Temple Sword Tech T6
 
-Chicken (12 MP) (single) - Causes Chicken status (6).
+Chicken (12 MP) (single) - Attempt to cause Chicken status (6).
 
 Rampart (4 AP) (multi) - Causes Blink status (2).
 
@@ -101,12 +101,12 @@ Desperation (3 AP) (single) - Attack, and add your Defense and Magic Defense to 
 
 ### Temple Sword Tech T8
 
-Disable (14 MP) (single) - Causes Disable status (6).
+Disable (14 MP) (single) - Attempt to cause Disable status (6).
 
 ### Temple Sword Tech T9
 
-Break (24 MP) (single) - Causes Petrify status (20).
+Break (24 MP) (single) - Attempt to cause Petrify status (20).
 
 ### Temple Sword Tech T10
 
-Big Chicken (36 MP) (multi) - Causes Chicken status (6).
+Big Chicken (36 MP) (multi) - Attempt to cause Chicken status (12).

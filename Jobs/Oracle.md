@@ -61,15 +61,15 @@ Job Levels:
 
 Condemn 1 (1 MP, 10 AP) - Refer to the Condemnation Table to determine what happens.
 
-Hesitation (10 MP) (multi) - Causes Disable status (4).
+Hesitation (10 MP) (multi) - Attempt to cause Disable status (4).
 
-Umbra (4 MP) (multi) - Causes Blind status (6).
+Umbra (4 MP) (multi) - Attempt to cause Blind status (6).
 
 ### Mystic Arts T2
 
 Empowerment (2 MP) (single) - Attempt to drain an amount of MP equal to your Level. Magic Defense is not applied.
 
-Quiescence (16 MP) (multi) - Causes Silence status (4).
+Quiescence (16 MP) (multi) - Attempt to cause Silence status (4).
 
 ### Mystic Arts T3
 
@@ -77,31 +77,31 @@ Condemn 2 (3 MP, 5 AP) - Refer to the Condemnation Table to determine what happe
 
 Invigration (16 MP) (single) - Attempt to drain Spirit * Level HP. The effect is reversed against undead.
 
-Trepidation (20 MP) (single) - Causes Chicken status (6).
+Trepidation (20 MP) (single) - Attempt to cause Chicken status (6).
 
 ### Mystic Arts T4
 
 Belief (6 MP) (single) - Causes Faith status (6).
 
-Repose (24 MP) (multi) - Causes Sleep status at +50 Magic Accuracy.
+Repose (24 MP) (multi) - Attempt to cause Sleep status at +50 Magic Accuracy.
 
 ### Mystic Arts T5
 
 Condemn 3 (7 MP, 1 AP) - Refer to the Condemnation Table to determine what happens.
 
-Disbelief (6 MP) (single) - Causes Atheist status (6).
+Disbelief (6 MP) (single) - Attempt to cause Atheist status (6).
 
 ### Mystic Arts T6
 
-Corruption (20 MP) (single) - Causes Zombie status (6).
+Corruption (20 MP) (single) - Attempt to cause Zombie status (6).
 
 ### Mystic Arts T7
 
-Fervor (16 MP) (single) - Causes Berserk status (12).
+Fervor (16 MP) (single) - Attempt to cause Berserk status (12).
 
 ### Mystic Arts T8
 
-Delirium (20 MP) (single) - Causes Confuse status (12).
+Delirium (20 MP) (single) - Attempt to cause Confuse status (12).
 
 ### Mystic Arts T9
 
@@ -109,7 +109,7 @@ Harmony (34 MP) (single) - Removes Float, Reraise, Rearise, Vanish, Regen, Prote
 
 ### Mystic Arts T10
 
-Induration (16 MP) (single) - Causes Petrify status at +50 Magic Accuracy.
+Induration (16 MP) (single) - Attempt to cause Petrify status at +50 Magic Accuracy.
 
 ## Condemnation Table
 

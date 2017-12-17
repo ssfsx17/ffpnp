@@ -94,7 +94,7 @@ Wild Tornado (28 MP) (multi) - Intellect * Level * 2 wind damage. Magic Defense 
 
 ### Illusion Magic T9
 
-Laugh Hideously (30 MP) (multi) - Causes Addle status (2) at +50 Magic Accuracy.
+Laugh Hideously (30 MP) (multi) - Attempt to cause Addle status (2) at +50 Magic Accuracy.
 
 ### Illusion Magic T10
 

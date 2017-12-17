@@ -8,7 +8,7 @@ Actions:
 - Defend
 - Charge
 - Soldier Tech
-- Shock (10 AP) (multi) - Intellect * Level magical non-elemental damage, and ends Vanish status. Ignores Magic Evasion.
+- Shock (10 AP) (multi) - Intellect * Level * 0.5 magical non-elemental damage, and ends Vanish status. Ignores Magic Evasion.
 - Item
 
 Supports:

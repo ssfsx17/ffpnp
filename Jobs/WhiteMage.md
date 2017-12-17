@@ -107,55 +107,54 @@ Job Levels:
 - Blink (8 MP) (single/multi) - Causes Blink status (4).
 - Cleanse (20 MP) (single) - Ends Poison, Poison-Plus, Virus, and Sap.
 - Confuse (10 MP) (single/multi) - Causes Confuse status (4).
-- Curaga (18 MP) - Spirit * Level * 2 healing. Against undead, it becomes a non-elemental damaging spell.
+- Curaga (18 MP) - Spirit * Level * 1.5 healing. Against undead, it becomes a non-elemental damaging spell.
 - Silencega (18 MP) (multi) - Causes Silence status (20).
 - Stonaga (36 MP) (multi) - Ends Petrify and Gradual Petrify.
 - Voxaga (24 MP) (multi) - Ends Silence.
 
 ### White Magic T6
 
-- Aeroga (36 MP) (single/multi) - Spirit * Level * 2 wind damage.
+- Aeroga (36 MP) (single/multi) - Spirit * Level * 1.5 wind damage.
 - Berserk (18 MP) (single/multi) - Causes Berserk status (4).
 - Bravery (24 MP) (single/multi) - Causes Brave status (6).
-- Diaga (36 MP) (single/multi) - Intellect * Level * 2 holy damage.
+- Diaga (36 MP) (single/multi) - Intellect * Level * 1.5 holy damage.
 - Dispel (12 MP) (single) - Removes all beneficial statuses, including Reflect. Cannot be reflected.
 - Esunaga (40 MP) (multi) - Ends Petrify, Blind, Confuse, Silence, Berserk, Toad, Pig, Mini, Imp, - Poison, Sleep, Immobilize, and Disable.
 - Faith (24 MP) (single/multi) - Causes Faith status (6).
-- White (36 MP) (single/multi) - Spirit * Level * 2 holy damage.
+- White (36 MP) (single/multi) - Spirit * Level * 1.5 holy damage.
 
 ### White Magic T7
 
 - Cleansega (50 MP) (multi) - Ends Poison, Poison-Plus, Virus, and Sap.
-- Curaja (40 MP) (single/multi) - Spirit * Level * 3 healing. Against undead, it becomes a non-elemental damaging spell.
+- Curaja (40 MP) (single/multi) - Spirit * Level * 2 healing. Against undead, it becomes a non-elemental damaging spell.
 - Float (8 MP) (single/multi) - Causes Float status (6).
-- Medicara (36 MP) (multi) - Spirit * Level * 2 healing, and causes Regen status (4). Against undead, it becomes a non-elemental damaging spell.
-- Reflect (30 MP) (single/multi) - Causes Reflect status (6).
+- Medicara (36 MP) (multi) - Spirit * Level * 1.5 healing, and causes Regen status (4). Against undead, it becomes a non-elemental damaging spell.
 - Reraisega (60 MP) (multi) - Causes Reraise status (20).
 - Shellga (40 MP) (single/multi) - Causes Shell status (20).
 
 ### White Magic T8
 
-- Aeroja (46 MP) (single/multi) - Spirit * Level * 3 wind damage.
+- Aeroja (46 MP) (single/multi) - Spirit * Level * 2 wind damage.
 - Arise (52 MP) (single) - Revives a downed ally with full HP. Against undead, it attempts to destroy the undead instantly.
-- Diaja (46 MP) (single/multi) - Intellect * Level * 3 holy damage.
+- Diaja (46 MP) (single/multi) - Intellect * Level * 2 holy damage.
 - Disjunction (30 MP) (single) - Ends all statuses, and if the target is a summoned creature then this spell attempts to instantly-kill it. This spell can also be targeted at someone with the X-Zone status, thus ending that status. Cannot be reflected.
 - Dispelga (36 MP) (multi) - Removes all beneficial statuses, including Reflect. Cannot be reflected.
-- Pearl (46 MP) - Spirit * Level * 3 holy damage.
+- Pearl (46 MP) - Spirit * Level * 2 holy damage.
 
 ### White Magic T9
 
 - Fullhealing Cure (40 MP) (single) - Fully restores HP. Against undead, it does an amount of non-elemental damage equal to the target's maximum HP, and Magic Defense is applied.
-- Implosion (60 MP) (single) - Spirit * Level * 5 magical non-elemental damage.
-- Mass Cure (70 MP) (single/multi) - Spirit * Level * 5 healing. Against undead, it becomes a non-elemental damaging spell.
+- Implosion (60 MP) (single) - Spirit * Level * 3 magical non-elemental damage.
+- Mass Cure (70 MP) (single/multi) - Spirit * Level * 3 healing. Against undead, it becomes a non-elemental damaging spell.
 - Mirror Images (56 MP) (single/multi) - Causes Blink status (12).
 - Sunlight (60 MP) (multi) - Attempt to instantly-destroy all undead at +50 Magic Accuracy.
 
 ### White Magic T10
 
 - Arisega (80 MP) (multi) - Revives all downed allies with full HP. Against undead, it attempts to destroy all undead instantly.
-- Diadem (60 MP) (single/multi) - Intellect * Level * 5 holy damage.
+- Diadem (60 MP) (single/multi) - Intellect * Level * 3 holy damage.
 - Disjunctionga (90 MP) (multi) - Ends all statuses, and attempts to instantly-kill summoned creatures. If the targeted team has any members with the X-Zone status, then their statuses are ended too, thus bringing them back. Cannot be reflected.
-- Holy (60 MP) (single/multi) - Spirit * Level * 5 holy damage.
-- Hurricane (60 MP) (single/multi) - Spirit * Level * 5 wind damage.
+- Holy (60 MP) (single/multi) - Spirit * Level * 3 holy damage.
+- Hurricane (60 MP) (single/multi) - Spirit * Level * 3 wind damage.
 - Rearise (70 MP) (single) - Causes Rearise status (10).
 - Renew (98 MP) (multi) - Fully restores HP. Against undead, it does an amount of non-elemental damage equal to the target's maximum HP, and Magic Defense is applied.

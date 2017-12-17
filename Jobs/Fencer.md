@@ -98,4 +98,4 @@ Shadowbind Strike (10 AP) (single) - Attack, and attempt to cause Stop status (6
 
 ### Fencing Techs T10
 
-Ultima Masher (32 MP, 20 AP) (BDL) (single) - Five attacks on one target. Evasion and Defense are ignored.
+Ultima Masher (32 MP, 20 AP) (BDL) (single) - Ten attacks on one target. Evasion is ignored.

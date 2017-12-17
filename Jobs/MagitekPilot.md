@@ -80,7 +80,7 @@ Healing Force (1 AP) (single) - Restores Spirit * Level * 0.5 HP.
 
 ### Magitek Systems T3
 
-Bio Blast (5 AP) (multi) - Causes Poison and Sap statuses (6).
+Bio Blast (5 AP) (multi) - Attempt to cause Poison and Sap statuses (6).
 
 ### Magitek Systems T4
 
@@ -88,7 +88,7 @@ Banisher (2 AP) (single) - Attack, and attempts to eject the target from the bat
 
 ### Magitek Systems T5
 
-Confuser (5 AP) (multi) - Causes Addle and Confuse statuses (4).
+Confuser (5 AP) (multi) - Attempt to cause Addle and Confuse statuses (4).
 
 ### Magitek Systems T6
 
@@ -100,7 +100,7 @@ DD (2 AP) (multi) - No effect when the action first occurs. On your next action,
 
 ### Magitek Systems T8
 
-Armor Ejection (1 AP) (self-only) - Causes Float, Haste, Broken Armor, and Broken Helmet status (6).
+Armor Ejection (1 AP) (self-only) - Causes Boost Attack, Float, Haste, Broken Armor, and Broken Helmet status (6).
 
 ### Magitek Systems T9
 

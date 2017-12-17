@@ -7,7 +7,6 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Time Magic
 - Psionics
 - Item
 
@@ -72,7 +71,7 @@ Telekinesis (12 MP) (single) - Attempt to instantly-kill the target at -50 Magic
 
 ### Psionics T4
 
-Brainstorm (18 MP) (multi) - Causes Confuse and Silence status (6).
+Brainstorm (18 MP) (multi) - Attempt to cause Confuse and Silence status (6).
 
 ### Psionics T5
 
@@ -88,11 +87,11 @@ Time Trip (20 MP) (special) - Attempt to cause Stop status (2) to everyone excep
 
 ### Psionics T8
 
-Magic Guard (28 MP) (self-only) - Causes Shell status (10).
+Magic Guard (28 MP) (self-only) - Causes Shell status (12).
 
 ### Psionics T9
 
-Physics Guard (28 MP) (self-only) - Causes Protect status (10).
+Physics Guard (28 MP) (self-only) - Causes Protect status (12).
 
 ### Psionics T10
 

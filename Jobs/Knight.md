@@ -64,15 +64,15 @@ Job Levels:
 
 ### Knight Tech T1
 
-Break Armor (2 AP) (single) - Cause Broken Armor status.
+Break Armor (2 AP) (single) - Attempt to cause Broken Armor status.
 
 ### Knight Tech T2
 
-Break Helmet (2 AP) (single) - Cause Broken Helmet status.
+Break Helmet (2 AP) (single) - Attempt to cause Broken Helmet status.
 
 ### Knight Tech T3
 
-Break Weapon (2 AP) (single) - Cause Broken Weapon status.
+Break Weapon (2 AP) (single) - Attempt to cause Broken Weapon status.
 
 Rend Armor (4 AP) (single) - Attack and attempt to cause Broken Armor status.
 
@@ -88,30 +88,30 @@ Break MP (2 AP) (single) - Attempt to do an amount of MP damage equal to your Le
 
 Rend Weapon (4 AP) (single) - Attack and attempt to cause Broken Weapon status.
 
-Shellbust Stab (8 AP) (single) - Attack for double damage and attempt to cause Broken Armor status.
+Shellbust Stab (6 AP) (single) - Attack for double damage and attempt to cause Broken Armor status.
 
 ### Knight Tech T6
 
-Blastar Punch (8 AP) (single) - Attack for double damage and attempt to cause Broken Helmet status.
+Blastar Punch (6 AP) (single) - Attack for double damage and attempt to cause Broken Helmet status.
 
 Rend Accessory (4 AP) (single) - Attack and attempt to cause Broken Accessory status.
 
 ### Knight Tech T7
 
-Hellcry Punch (8 AP) (single) - Attack for double damage and attempt to cause Broken Weapon status.
+Hellcry Punch (6 AP) (single) - Attack for double damage and attempt to cause Broken Weapon status.
 
 Rend MP (4 AP) (single) - Attempt to do an amount of MP damage equal to double your Level. Defense is ignored.
 
 ### Knight Tech T8
 
-Icewolf Bite (8 AP) (single) - Attack for double damage and attempt to cause Broken Accessory status.
+Icewolf Bite (6 AP) (single) - Attack for double damage and attempt to cause Broken Accessory status.
 
 ### Knight Tech T9
 
-Skullcracker Driver (8 AP) (single) - Attack, and 1/10th of the damage is also dealt to MP.
+Skullcracker Driver (6 AP) (single) - Attack, and 1/10th of the damage is also dealt to MP.
 
 Stock Break (20 AP) (multi) - Attack all enemies, and attempt to reduce them to 1 HP. The HP reduction effect is at -50 Accuracy.
 
 ### Knight Tech T10
 
-Climhazzard (20 AP) (multi) - Attack all enemies for double damage, ignoring Evasion and Defense.
+Climhazzard (20 AP) (BDL) (multi) - Attack all enemies for double damage, ignoring Evasion and Defense.

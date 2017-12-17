@@ -87,10 +87,10 @@ Job Levels:
 
 ### Ninjutsu T5
 
-- Blast (20 MP) (multi) - Speed * Level magical fire damage.
-- Blitz (20 MP) (multi) - Speed * Level magical lightning damage.
-- Frost (20 MP) (multi) - Speed * Level magical ice damage.
-- Tremor (20 MP) (multi) - Speed * Level magical earth damage.
+- Blast (20 MP) (multi) - Speed * Level * 0.5 magical fire damage.
+- Blitz (20 MP) (multi) - Speed * Level * 0.5 magical lightning damage.
+- Frost (20 MP) (multi) - Speed * Level * 0.5 magical ice damage.
+- Tremor (20 MP) (multi) - Speed * Level * 0.5 magical earth damage.
 
 ### Ninjutsu T6
 
@@ -99,10 +99,10 @@ Job Levels:
 
 ### Ninjutsu T7
 
-- Hagane Jutsu (40 MP) (multi) - Speed * Level * 2 magical earth damage.
-- Honoo Jutsu (40 MP) (multi) - Speed * Level * 2 magical fire damage.
-- Raigeki Jutsu (40 MP) (multi) - Speed * Level * 2 magical lightning damage.
-- Tsunami Jutsu (40 MP) (multi) - Speed * Level * 2 magical water damage.
+- Hagane Jutsu (40 MP) (multi) - Speed * Level magical earth damage.
+- Honoo Jutsu (40 MP) (multi) - Speed * Level magical fire damage.
+- Raigeki Jutsu (40 MP) (multi) - Speed * Level magical lightning damage.
+- Tsunami Jutsu (40 MP) (multi) - Speed * Level magical water damage.
 
 ### Ninjutsu T8
 
@@ -111,12 +111,12 @@ Job Levels:
 
 ### Ninjutsu T9
 
-- Byakko (60 MP) (multi) - Speed * Level * 3 magical earth damage.
-- Genbu (60 MP) (multi) - Speed * Level * 3 magical water damage.
-- Seiryu (60 MP) (multi) - Speed * Level * 3 magical lightning damage.
-- Suzaku (60 MP) (multi) - Speed * Level * 3 magical fire damage.
+- Byakko (60 MP) (multi) - Speed * Level * 1.5 magical earth damage.
+- Genbu (60 MP) (multi) - Speed * Level * 1.5 magical water damage.
+- Seiryu (60 MP) (multi) - Speed * Level * 1.5 magical lightning damage.
+- Suzaku (60 MP) (multi) - Speed * Level * 1.5 magical fire damage.
 
 ### Ninjutsu T10
 
-- Bhavacakra (60 MP) (multi) - Speed * Level * 4 magical non-elemental damage.
+- Bhavacakra (60 MP) (multi) - Speed * Level * 2 magical non-elemental damage.
 - Ultima Shot (BDL) (99 MP, 10 AP) (single) - 10 attacks on one target.

@@ -60,11 +60,11 @@ Job Levels:
 
 ### Black Magic T1
 
-- Blind (2 MP) (single) - Causes Blind status.
+- Blind (2 MP) (single) - Attempts to cause Blind status.
 - Blizzard (5 MP) (single/multi) - Intellect * Level * 0.5 ice damage.
 - Fire (5 MP) (single/multi) - Intellect * Level * 0.5 fire damage.
 - Poison (2 MP) (single/multi) - Intellect * Level * 0.1 poison damage, and attempts to cause Poison status.
-- Sleep (12 MP) (single/multi) - Causes Sleep status.
+- Sleep (12 MP) (single/multi) - Attempts to cause Sleep status.
 - Thunder (5 MP) (single/multi) - Intellect * Level * 0.5 lightning damage.
 
 ### Black Magic T2
@@ -74,7 +74,7 @@ Job Levels:
 - Pig (1 MP) (single) - Toggles Pig status.
 - Ruin (6 MP) (single/multi) - Intellect * Level * 0.5 non-elemental damage.
 - Stone (6 MP) (single/multi) - Intellect * Level * 0.5 earth damage.
-- Tremor (6 MP) (multi) - Causes Stun status (1) at -50 Magic Accuracy.
+- Tremor (6 MP) (multi) - Attempts to cause Stun status (1) at -50 Magic Accuracy.
 - Water (6 MP) (single/multi) - Intellect * Level * 0.5 water damage.
 
 ### Black Magic T3
@@ -94,62 +94,62 @@ Job Levels:
 - Oila (24 MP) (single/multi) - Intellect * Level * 0.5 non-elemental damage, and attempts to cause Oiled status (4).
 - Osmose (0 MP) (single) - Absorb Intellect * Level * 0.01 MP from the target. The effect is reversed against undead.
 - Ruina (18 MP) (single/multi) - Intellect * Level non-elemental damage
-- Shake (18 MP) (multi) - Causes Stun status (1).
-- Sleepga (36 MP) (multi) - Causes Sleep status at +50 Magic Accuracy.
+- Shake (18 MP) (multi) - Attempts to cause Stun status (1).
+- Sleepga (36 MP) (multi) - Attempts to cause Sleep status at +50 Magic Accuracy.
 - Stonera (18 MP) (single/multi) - Intellect * Level earth damage.
 - Watera (18 MP) (single/multi) - Intellect * Level water damage.
 
 ### Black Magic T5
 
-- Blindga (15 MP) (multi) - Causes Blind status.
-- Blizzaga (30 MP) (single/multi) - Intellect * Level * 2 ice damage.
-- Firaga (30 MP) (single/multi) - Intellect * Level * 2 fire damage.
+- Blindga (15 MP) (multi) - Attempts to cause Blind status.
+- Blizzaga (30 MP) (single/multi) - Intellect * Level * 1.5 ice damage.
+- Firaga (30 MP) (single/multi) - Intellect * Level * 1.5 fire damage.
 - Poisonaga (18 MP) (single/multi) - Intellect * Level poison damage, and attempts to cause Poison-Plus status.
-- Thundaga (30 MP) (single/multi) - Intellect * Level * 2 lightning damage.
+- Thundaga (30 MP) (single/multi) - Intellect * Level * 1.5 lightning damage.
 
 ### Black Magic T6
 
-- Darkga (36 MP) (single/multi) - Intellect * Level * 2 dark damage.
+- Darkga (36 MP) (single/multi) - Intellect * Level * 1.5 dark damage.
 - Oilaga (48 MP) (single/multi) - Intellect * Level non-elemental damage, and attempts to cause Oiled status (8).
-- Quake (30 MP) (multi) - Causes an amount of Earth damage equal to the target's maximum HP. Magic Defense is applied.
-- Ruinaga (36 MP) (single/multi) - Intellect * Level * 2 non-elemental damage.
-- Stoneaga (36 MP) (single/multi) - Intellect * Level * 2 earth damage.
-- Wateraga (36 MP) (single/multi) - Intellect * Level * 2 water damage.
+- Quake (30 MP) (multi) - Attempts to cause an amount of Earth damage equal to half of the target's maximum HP. Magic Defense is applied.
+- Ruinaga (36 MP) (single/multi) - Intellect * Level * 1.5 non-elemental damage.
+- Stoneaga (36 MP) (single/multi) - Intellect * Level * 1.5 earth damage.
+- Wateraga (36 MP) (single/multi) - Intellect * Level * 1.5 water damage.
 
 ### Black Magic T7
 
-- Blizzaja (45 MP) (single/multi) - Intellect * Level * 3 ice damage.
-- Break (15 MP) (single) - Causes Petrify status.
-- Firaja (45 MP) (single/multi) - Intellect * Level * 3 fire damage.
-- Poisonaja (30 MP) (single/multi) - Intellect * Level * 2 poison damage, and attempts to cause Poison-Plus status.
-- Thundaja (45 MP) (single/multi) - Intellect * Level * 3 lightning damage.
-- Virus (20 MP) (single/multi) - Causes Virus status.
+- Blizzaja (45 MP) (single/multi) - Intellect * Level * 2 ice damage.
+- Break (15 MP) (single) - Attempts to cause Petrify status.
+- Firaja (45 MP) (single/multi) - Intellect * Level * 2 fire damage.
+- Poisonaja (30 MP) (single/multi) - Intellect * Level * 1.5 poison damage, and attempts to cause Poison-Plus status.
+- Thundaja (45 MP) (single/multi) - Intellect * Level * 2 lightning damage.
+- Virus (20 MP) (single/multi) - Attempts to cause Virus status.
 
 ### Black Magic T8
 
-- Darkja (49 MP) (single/multi) - Intellect * Level * 3 dark damage.
+- Darkja (49 MP) (single/multi) - Intellect * Level * 2.5 dark damage.
 - Death (35 MP) (single) - Instantly-kills the target, at -50 Magic Accuracy. Against an Undead, it revives and restores to full HP.
-- Oilaja (60 MP) (single/multi) - Intellect * Level * 2 non-elemental damage, and attempts to cause Oiled status (20).
-- Ruinaja (49 MP) (single/multi) - Intellect * Level * 3 non-elemental damage.
-- Stoneaja (49 MP) (single/multi) - Intellect * Level * 3 earth damage.
-- Wateraja (49 MP) (single/multi) - Intellect * Level * 3 water damage.
+- Oilaja (60 MP) (single/multi) - Intellect * Level * 1.5 non-elemental damage, and attempts to cause Oiled status (20).
+- Ruinaja (49 MP) (single/multi) - Intellect * Level * 2.5 non-elemental damage.
+- Stoneaja (49 MP) (single/multi) - Intellect * Level * 2.5 earth damage.
+- Wateraja (49 MP) (single/multi) - Intellect * Level * 2.5 water damage.
 
 ### Black Magic T9
 
-- Balefrost (50 MP) (single/multi) - Intellect * Level * 5 ice damage.
-- Bio (40 MP) (single/multi) - Intellect * Level * 3 poison damage, and attempts to cause Virus status.
-- Flare (50 MP) (single/multi) - Intellect * Level * 5 fire damage.
-- Luminaire (50 MP) (single/multi) - Intellect * Level * 5 lightning damage.
-- Scourge (60 MP) (single/multi) - Intellect * Level * 3 non-elemental damage, and attempt to cause Sap status (6).
-- Tornado (25 MP) (single/multi) - Reduces the target to 10 HP, at -25 Magic Accuracy
-- Toxic (50 MP) (single/multi) - Intellect * Level * 3 poison damage, and attempts to cause Sap and Virus status (20).
+- Balefrost (50 MP) (single/multi) - Intellect * Level * 2.5 ice damage.
+- Bio (40 MP) (single/multi) - Intellect * Level * 2 poison damage, and attempts to cause Virus status.
+- Flare (50 MP) (single/multi) - Intellect * Level * 2.5 fire damage.
+- Luminaire (50 MP) (single/multi) - Intellect * Level * 2.5 lightning damage.
+- Scourge (60 MP) (single/multi) - Intellect * Level * 2.5 non-elemental damage, and attempt to cause Sap status (6).
+- Tornado (25 MP) (single/multi) - Attempts to reduce the target to 10 HP, at -25 Magic Accuracy
+- Toxic (50 MP) (single/multi) - Intellect * Level * 2.5 poison damage, and attempts to cause Sap and Virus status (20).
 
 ### Black Magic T10
 
-- Ardor (70 MP) (single/multi) - Intellect * Level * 5 fire damage, and attempt to cause Heat status (2).
-- Demolish (60 MP) (single/multi) - Intellect * Level * 5 non-elemental damage.
-- Drown (60 MP) (single/multi) - Intellect * Level * 5 water damage.
-- Exterminate (30 MP) (special) - Intellect * Level * 5 dark damage to everyone who has the Poison, Poison-Plus, Sap, or Virus status.
-- Interment (60 MP) (single/multi) - Intellect * Level * 5 dark damage.
-- Landslide (60 MP) (single/multi) - Intellect * Level * 5 earth damage.
+- Ardor (70 MP) (single/multi) - Intellect * Level * 3 fire damage, and attempt to cause Heat status (2).
+- Demolish (60 MP) (single/multi) - Intellect * Level * 3 non-elemental damage.
+- Drown (60 MP) (single/multi) - Intellect * Level * 3 water damage.
+- Exterminate (30 MP) (special) - Intellect * Level * 3 dark damage to everyone who has the Poison, Poison-Plus, Sap, or Virus status.
+- Interment (60 MP) (single/multi) - Intellect * Level * 3 dark damage.
+- Landslide (60 MP) (single/multi) - Intellect * Level * 3 earth damage.
 - Ultima (99 MP, 10 AP) (multi) - 9999 damage. Magic Evasion and Magic Defense are not applied.

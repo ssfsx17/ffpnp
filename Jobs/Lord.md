@@ -8,7 +8,7 @@ Actions:
 - Defend
 - Charge
 - 1 x Choice
-- Squire Tech
+- Fundaments
 - Item
 
 Supports:

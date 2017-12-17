@@ -103,4 +103,4 @@ Scattershot (8 MP) (multi) - Attack all enemies for half damage, ignoring Evasio
 
 Scatterburst (36 MP) (multi) - Attack all enemies. Successful hits are automatically considered to be critical hits.
 
-Trigger Happy (10 AP) (single) - Do a number of attacks equal to your passive AP gain at the start of the round.
+Trigger Happy (20 AP) (BDL) (single) - Do a number of attacks equal to your passive AP gain at the start of the round.

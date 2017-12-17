@@ -69,7 +69,7 @@ Red Spring (8 MP) (special) - Flip a coin. If it comes up heads, this ability ta
 
 Blue Screw (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Removes all beneficial statuses.
 
-Noiseblaster (2 AP) (multi) - Causes Confuse status (6).
+Noiseblaster (2 AP) (multi) - Attempt to cause Confuse status (6).
 
 ### Machine T3
 
@@ -85,7 +85,7 @@ Silver Disc (8 MP) (special) - Flip a coin. If it comes up heads, this ability t
 
 ### Machine T5
 
-Flash (5 AP) (multi) - Agility * Level * 0.5 magical non-elemental damage, and attempts to cause Blind status. Magic Defense is not applied.
+Flash (5 AP) (multi) - Agility * Level * 0.5 magical non-elemental damage, and attempts to cause Blind status.
 
 Gold Battery (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Restores Level * Intellect * 0.5 HP.
 
@@ -93,17 +93,17 @@ Gold Battery (8 MP) (special) - Flip a coin. If it comes up heads, this ability 
 
 Black Ingot (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Causes Doom status (6).
 
-Chainsaw (6 AP) (single) - Strength * Level physical damage, and attempt to instantly-kill.
+Chainsaw (6 AP) (single) - Strength * Level physical damage, and attempt to instantly-kill at -50 Accuracy.
 
 ### Machine T7
 
 Chroma Gem (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Causes Sleep status.
 
-Debilitator (7 AP) (single) - Attempts to cause a random elemental weakness.
+Debilitator (7 AP) (single) - Attempts to cause a random elemental weakness. This uses Accuracy and is opposed by Evasion.
 
 ### Machine T8
 
-Air Anchor (8 AP) (single) - Causes Heat status (10) at +50 Accuracy.
+Air Anchor (8 AP) (single) - Attempt to cause Heat status (10) at +50 Accuracy.
 
 Gold Moogletron (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Causes Protect and Shell status (6).
 
@@ -111,8 +111,8 @@ Gold Moogletron (8 MP) (special) - Flip a coin. If it comes up heads, this abili
 
 Bio Grenade (15 AP) (multi) - Attack all enemies twice for physical poison damage, and attempt to cause Poison-Plus, Sap, and Virus statuses.
 
-Flamethrower (10 AP) (multi) - Agility * Level * 3 magical fire damage.
+Flamethrower (10 AP) (multi) - Agility * Level * 1.5 magical fire damage.
 
 ### Machine T10
 
-Penalty Snipe (20 AP) (multi) - Attack all enemies twice, and double damage for each negative status effect on the target (to a maximum multiplier of 8).
+Penalty Snipe (20 AP) (BDL) (multi) - Attack all enemies, and double damage for each negative status effect on the target (to a maximum multiplier of 8).

@@ -98,6 +98,6 @@ Godspeed Strike (2 AP) - Attack that ignores Evasion.
 
 ### Thievery Tech T10
 
-Raid (20 AP) - Give each party member 4 AP, except for yourself.
+Raid (20 AP) - Give each party member 5 AP, except for yourself.
 
 Shake Down (10 AP) (multi) - Mug Item against all enemies.

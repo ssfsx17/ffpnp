@@ -71,13 +71,13 @@ Pummel (3 AP) (single) - Strength * Level * 0.5 physical damage, ignoring Defens
 
 Suplex (4 AP) (single) - Do a melee attack, and attempt to cause Stun status (1).
 
-Fire Dance (4 AP) (multi) - Vitality * Level * 0.5 magical fire damage.
+Fire Dance (4 AP) (multi) - Vitality * Level * 0.25 magical fire damage.
 
 Mantra (6 AP) (multi) - Restores Vitality * Level * 0.5 HP and removes Blind, Poison, Silence, and Sap statuses. Out of combat, restore 25% HP during a rest and do the same removal of status conditions.
 
 ### Chi Tech T3
 
-Air Blade (7 AP) (multi) - Vitality * Level magical air damage.
+Air Blade (7 AP) (multi) - Vitality * Level * 0.5 magical air damage.
 
 Kick (5 AP) (multi) - Attack all enemies for half damage, ignoring Evasion.
 
@@ -89,7 +89,7 @@ Cyclone (5 AP) (special) - Do a melee attack against all enemies in the front ro
 
 Focus Attack (4 AP) (single) - Attack for double damage.
 
-Shockwave (5 AP) (multi) - Vitality * Level magical earth damage.
+Shockwave (5 AP) (multi) - Vitality * Level * 0.5 magical earth damage.
 
 ### Chi Tech T5
 
@@ -117,7 +117,7 @@ Rising Phoenix (5 AP) (multi) - Vitality * Level magical fire damage.
 
 ### Chi Tech T8
 
-Purification (10 AP) (multi) - Remove Petrify, Blind, Confuse, Silence, Berserk, Toad, Poison, Sleep, Immobilize, and Disable.
+Purification (10 AP) (multi) - Remove Petrify, Blind, Confuse, Silence, Berserk, Toad, Poison, Poison-Plus, Sleep, Immobilize, and Disable.
 
 Razor Gale (7 AP) (multi) - Vitality * Level * 2 magical air damage.
 
@@ -131,4 +131,4 @@ Phantom Rush (9 AP) (single) - Melee attack for double damage, ignoring Evasion 
 
 Musou Tensei (20 AP) (special) - Create ghostly copies of four allies who have died permanently in the storyline, for the remainder of combat. Out of combat, allows consulting them for advice, although limited by what they knew when they were alive.
 
-Tenketsu (10 AP) (single) - Melee attack for double damage, and attempt to instantly-kill at -50 Accuracy. If the instant-kill effect fails, then attempt to cause Doom status (4) at normal Accuracy.
+Tenketsu (10 AP) (single) - Melee attack for double damage, and attempt to instantly-kill. If the instant-kill effect fails, then attempt to cause Doom status (4).
