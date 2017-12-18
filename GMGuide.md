@@ -27,7 +27,17 @@ How other types of stories might be Final Fantasized:
 
 In video games, you can grind mobs for a few hours and put the story on hold. In pen & paper role-playing games, that is possible, but it would not be bringing out the strengths of this beautiful medium.
 
-In the core FF P&P rules, monsters exist primarily for flavor. They provide no inherent rewards, although there may be longer-term benefits to gathering their body parts.
+In the core FF P&P rules, monsters exist primarily for flavor. They provide no inherent rewards, although there may be longer-term benefits to gathering their body parts. Monsters should exist primarily for some dramatic purpose, or because the players actively seek them out. If monsters exist solely as filler between Point-A and Point-B, with no consequences for running away or taking too long to fight them, or nothing dramatic to be gained from seeking out some specific variety of monster, then the FF P&P game comes dangerously close to just being a simplified MMORPG.
+
+On the other hand, the Ultimate Evil of the game is highly likely to use brute force as one of its many tools for turning the world towards evil. Brute force tends to take the form of random monsters. It would be strange if the Ultimate Evil did not send its minions to try to kill or slow down the heroes at least once in a while. Therefore, some examples are given for how to make monsters have dramatic purpose:
+
+- The monsters are guarding a story item.
+- The monsters are actually controlled by good people, who want to test the player-characters' mettle before agreeing to help.
+- If the player-characters take too long to kill a group of monsters, then some innocent people will die.
+- The player-characters are all that stand between the monsters and a critical story item.
+- The Ultimate Evil is using logical military strategies and tactics against the player-characters, and monsters are a cheap and plentiful resource for the Ultimate Evil.
+- Some innocent person wandered off and got ambushed by wild monsters, necessitating rescue.
+- The player-characters intentionally seek out monsters to push themselves to the limit, hone their skills, and gain useful things from the monsters' corpses or whatever the monsters were guarding.
 
 The suggested average monster has the following statistics:
 
@@ -134,9 +144,10 @@ Non-Average monsters should be mixed in with average ones, to keep the players c
 
 - The monster is always under the effect of Zombie status.
 
-## Rewards
+## Suggested Rewards per Session
 
 XP: Experience Level * Experience Level * 1,000
+
 - A table is provided for easier referencing.
 - This means that, assuming a pace of 1 session per week, level 99 can be reached in roughly one year using the suggested XP rewards. GMs should adjust this to fit the planned length of their campaigns.
 
