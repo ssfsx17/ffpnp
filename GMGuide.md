@@ -29,7 +29,7 @@ In video games, you can grind mobs for a few hours and put the story on hold. In
 
 In the core FF P&P rules, monsters exist primarily for flavor. They provide no inherent rewards, although there may be longer-term benefits to gathering their body parts.
 
-The average monster has the following statistics:
+The suggested average monster has the following statistics:
 
 - Monster Level = the party's average Experience Level
 - Maximum HP = M-Level * M-Level * 2
@@ -50,11 +50,95 @@ Suggested traits for boss monsters:
 - Successful instant-death are converted to 9999 damage.
 - Successful HP-reducing effects are capped at 9999 damage.
 
+Precalculated average monsters and bosses are provided in the following formats:
+
+- [LibreOffice Calc](/FFPNP_Suggested_Average_Monsters.ods)
+- [Google Drive](https://docs.google.com/spreadsheets/d/1jI1CjCPBuhVCI4bKV9r5uEl5KE1PVM5n6Z-foHFVYt0/edit?usp=sharing)
+
+### Examples of Non-Average Templates
+
+Non-Average monsters should be mixed in with average ones, to keep the players challenged. Every GM should get an idea of what types of challenges their players do and do not enjoy. The following templates are provided to inspire GMs to think of even crazier templates that are more specific to their campaigns. 
+
+**Dragon:**
+
+- The monster has a breath ability that does M-Level * M-Level * 0.5 magical elemental damage, to all player-characters. The element depends on the dragon type. It uses the breath ability once every 2 or 3 rounds.
+
+**Elemental:**
+
+- The monster is healed by one element, but takes double damage from another.
+- The monster's attack damage is changed to be of the element.
+
+**Elusive:**
+
+- The monster runs away in the 2nd combat round.
+- Upon death, the monster drops something that is 5 item levels higher.
+
+**Flying:**
+
+- The monster is always under the effect of Float status.
+- The monster's Evasion is increased by 50.
+- The monster takes double-damage from Dragoon abilities that are based on weapon attacks.
+
+**Grappling:**
+
+- The monster's attacks always attempt to cause Disable and Immobilize status on hit (2).
+
+**Humanoid:**
+
+- The monster has job abilities, with a maximum job level equal to the player-characters' highest job level.
+- The monster drops a piece of equipment upon death, appropriate for its job.
+
+**Incorporeal:**
+
+- Maximum HP is halved.
+- Maximum MP is doubled.
+- The monster is always under the effect of Vanish status.
+
+**Magical:**
+
+- The monster can cast the same spells as the Player-Characters, for one specific element.
+
+**Mechanical:**
+
+- Defense is doubled.
+- The monster always suffers from Stun status (1) upon taking lightning damage.
+- The monster takes double damage from Thief and Tinker abilities.
+
+**Metallic:**
+
+- Attack Damage is increased by 50%.
+- Defense is doubled.
+- Magic Defense is halved.
+
+**Poisonous:**
+
+- The monster's attacks always attempt to cause Poison status on hit.
+
+**Rare:**
+
+- Maximum HP is doubled.
+- Attack Damage is increased by 50%.
+- Upon death, the monster drops something that is 10 item levels higher.
+
+**Reinforcing:**
+
+- On the monster's action, flip a coin. On a heads, the monster brings an additional monster into the combat.
+
+**Small:**
+
+- Maximum HP is halved.
+- Evasion and Magic Evasion are increased by 100.
+- Defense is halved.
+
+**Undead:**
+
+- The monster is always under the effect of Zombie status.
+
 ## Rewards
 
 XP: Experience Level * Experience Level * 1,000
 - A table is provided for easier referencing.
-- This means that, assuming a pace of 1 session per week, level 99 can be reached in roughly one year.
+- This means that, assuming a pace of 1 session per week, level 99 can be reached in roughly one year using the suggested XP rewards. GMs should adjust this to fit the planned length of their campaigns.
 
 JP: Experience Level * 10
 

@@ -7,7 +7,7 @@ Current state: Tech Demo 2. Enough to run the game, but not a single thing is co
 Future conditions:
 
 - Alpha Test - Everything whose existence was suggested by the Tech Demo is completed. Especially all the Jobs. Anything that is obviously wrong with the rules of the Tech Demo is fixed. Any math that is considered excessive, such as usage of percentages other than 1% / 5% / 10% / 25% / 50%, or anything that needs to be recalculated on every round of combat, is streamlined.
-- Beta Test - Multiple playtests have been conducted, and changes have been made according to those results. Project constitution is solidified. Writing is complete, so that everything is explained and easily understandable.
+- Beta Test - Multiple playtests have been conducted, and changes have been made according to those results. Other people have done their own playtests and rules variants. Project constitution is solidified. Writing is complete, so that everything is explained and easily understandable.
 - Gamma Test - Suitable for mass consumption.
 - 1.0.0 Release Candidate - Suitability of Gamma Test is confirmed.
 - 1.0.0 Release - Release Candidate has no issues.
