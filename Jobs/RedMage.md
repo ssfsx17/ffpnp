@@ -1,4 +1,4 @@
-# Job Title
+# Red Mage
 
 Requires: Black Mage 2, Fencer 2, White Mage 2
 

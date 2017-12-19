@@ -5,6 +5,7 @@
 3. [Jewelry](Jewelry.md)
 4. [Accessories](Accessories.md)
 5. [Items](Items.md)
+6. [Animals, Equipment, and Services](Misc.md)
 
 All trappings have an Item Level. Trappings above Item Level 99 are impossible to buy or sell, but they might still exist if the GM plants them somewhere in the game world.
 

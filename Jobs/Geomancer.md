@@ -9,7 +9,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Geomancy - Restricted by the environment. Each geomancy tech specifies which environment it is for.
+- Geomancy (1 AP) - Restricted by the environment. Each geomancy tech specifies which environment it is for.
 - Item
 
 Supports:

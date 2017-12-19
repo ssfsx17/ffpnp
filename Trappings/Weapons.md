@@ -40,7 +40,7 @@
 ### Magitek Punch Systems 1H
 
 - Damage = Strength * Item Level * 0.6
-- Price = Item Level * 300
+- Price = Item Level * 200
 - Requires a full Magitek equipment set
 
 ### Rapiers 1H
@@ -114,7 +114,7 @@
 ### Magitek Pile Bunkers 2H
 
 - Damage = Strength * Item Level
-- Price = Item Level * 600
+- Price = Item Level * 300
 - Requires a full Magitek equipment set
 
 ### Rods 2H
@@ -193,7 +193,7 @@
 ### Magitek Guns 1H
 
 - Damage = Agility * Item Level * 0.6
-- Price = Item Level * 400
+- Price = Item Level * 250
 - Requires a full Magitek equipment set
 
 ## 2-Handed Ranged Weapons
@@ -222,7 +222,7 @@
 ### Magitek Cannons 2H
 
 - Damage = Agility * Item Level
-- Price = Item Level * 800
+- Price = Item Level * 400
 - Requires a full Magitek equipment set
 
 ### Megaphones 2H

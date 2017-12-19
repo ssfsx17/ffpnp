@@ -67,7 +67,13 @@ Precalculated average monsters and bosses are provided in the following formats:
 
 ### Examples of Non-Average Templates
 
-Non-Average monsters should be mixed in with average ones, to keep the players challenged. Every GM should get an idea of what types of challenges their players do and do not enjoy. The following templates are provided to inspire GMs to think of even crazier templates that are more specific to their campaigns. 
+Non-Average monsters should be mixed in with average ones, to keep the players challenged. Every GM should get an idea of what types of challenges their players do and do not enjoy. Some example templates are provided to inspire GMs to think of even crazier templates and monster mechanics that are more specific to their campaigns.
+
+It is recommended that the only way player-characters can possess certain information about a monster's templates and special mechanics is through the Libra spell, or equivalent effect.
+
+**Countering:**
+
+- The monster counterattacks against any physical damage.
 
 **Dragon:**
 
@@ -120,9 +126,24 @@ Non-Average monsters should be mixed in with average ones, to keep the players c
 - Defense is doubled.
 - Magic Defense is halved.
 
+**Multiattacking:**
+
+- Attacks twice per action.
+
 **Poisonous:**
 
 - The monster's attacks always attempt to cause Poison status on hit.
+
+**Power-Attacking:**
+
+- On the first round of combat, flip a coin. On a heads, the monster attacks during the first round.
+- The monster skips its action every 2nd round.
+- Attack Damage is increased by 50%.
+- Accuracy is increased by 50.
+
+**Raging:**
+
+- The monster enters Berserk status upon taking physical damage.
 
 **Rare:**
 
@@ -139,6 +160,10 @@ Non-Average monsters should be mixed in with average ones, to keep the players c
 - Maximum HP is halved.
 - Evasion and Magic Evasion are increased by 100.
 - Defense is halved.
+
+**Thorny:**
+
+- 10% of all damage done to the monster is also done to the one who caused that damage. No Evasion or Defense is applied.
 
 **Undead:**
 

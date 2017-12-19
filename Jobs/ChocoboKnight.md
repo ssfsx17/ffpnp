@@ -61,7 +61,7 @@ Job Levels:
 
 ### Chocotech T1
 
-Choco Beak (1 AP) (single) - Attack for Strength * Level physical damage.
+Choco Beak (1 AP) (single) - Attack for Strength * Level * 0.8 physical damage.
 
 Choco Regen (1 AP) (single) - Causes Regen status (2).
 

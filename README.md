@@ -25,6 +25,7 @@ Future conditions:
   - [Jewelry](/Trappings/Jewelry.md)
   - [Accessories](/Trappings/Accessories.md)
   - [Items](/Trappings/Items.md)
+  - [Animals, Equipment, and Services](/Trappings/Misc.md)
 7. [Jobs](/Jobs)
 8. [GM Guide](/GMGuide.md)
 9. [Project Constitution](ProjectConstitution.md)
