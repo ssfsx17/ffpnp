@@ -115,6 +115,7 @@
 ## Priceless Items
 
 | Item | Description |
+| ---  | ---         |
 | Gigalixir | restores all HP & MP for the whole party, and does the same effect in the next combat round.
 | Spoon (BDL) | Ninja Throw item that attacks for Agility * 160 damage
 | Fork (BDL) | Ninja Throw item that attacks for Agility * 180 damage
