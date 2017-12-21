@@ -85,7 +85,7 @@ Job Levels:
 - Bio Strike (12 MP) (single) - Attack with physical poison element, and attempt to cause Poison-Plus status.
 - Darkra Strike (18 MP) (single) - Attack with physical dark element, ignoring Defense.
 - Drain Strike (12 MP) (single) - Attack with physical non-elemental element. Half of the damage is gained by you as HP.
-- Silence Buster (10 MP) (single) - Attack and attempt to cause Silence status (12). +50 Accuracy for the status component.
+- Silence Buster (10 MP) (single) - Attack and attempt to cause Silence status (12). +50 Accuracy for the status component, if the attack hits.
 - Stonera Strike (18 MP) (single) - Attack with physical earth element, ignoring Defense.
 - Watera Strike (18 MP) (single) - Attack with physical water element, ignoring Defense.
 

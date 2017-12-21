@@ -70,6 +70,8 @@ First Aid (1 AP) (self only) - Removes Poison status, and restores an amount of 
 
 Advanced Aid (1 AP) (single) - As First Aid, but can be done on someone else. The HP healing is based on your own experience level.
 
+Boost (1 AP) (single) - Causes Boost Attack status (2).
+
 ### Soldier Tech T3
 
 Gauge (1 AP) (single) - Acts as the White Magic spell Libra.

@@ -9,7 +9,7 @@ Actions:
 - Charge
 - 1 x Choice
 - Time Magic
-- Oracle Magic
+- Mystic Arts
 - Temple Sword Tech
 - Item
 

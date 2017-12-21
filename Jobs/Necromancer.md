@@ -67,14 +67,18 @@ Oath (5 AP) - Summons a random undead creature to do one action. Roll a 1d6 to d
 
 1. Skeleton (single) - Intellect * Level magical lightning damage.
 2. Flamemancer (single) - Intellect * Level magical fire damage.
-3. Rajiformes (multi) - Intellect * Level magical water damage.
-4. Zombie Dragon (multi) - Intellect * Level magical poison damage, and attempt to cause Poison status.
-5. Emerald Carbuncle (multi) - Intellect * Level magical wind damage.
+3. Rajiformes (multi) - Intellect * Level * 0.5 magical water damage.
+4. Zombie Dragon (multi) - Intellect * Level * 0.5 magical poison damage, and attempt to cause Poison status.
+5. Emerald Carbuncle (multi) - Intellect * Level * 0.5 magical wind damage.
 6. Eos (special) - Causes Boost Magic status (2). Targeted at the character who got this result with Oath, and their allies.
+
+Zombify (6 MP) (single) - Attempts to cause Zombie status.
 
 ### Dark Arts T2
 
 Dark Haze (18 MP) (multi) - Intellect * Level magical non-elemental damage, and attempt to cause Old and Confuse statuses (8).
+
+Sinews (6 MP) (single/multi) - Restores Intellect * Level * 0.5 HP. Works normally on undead.
 
 ### Dark Arts T3
 
@@ -84,11 +88,17 @@ Deep Freeze (38 MP) (single) - Intellect * Level * 2 magical ice damage, and att
 
 Evil Mist (38 MP) (multi) - Intellect * Level * 2 magical poison damage, and attempt to cause Poison-Plus status.
 
+Necrotic Preservation (18 MP) (single/multi) - Restores Intellect * Level HP. Works normally on undead.
+
 ### Dark Arts T5
 
 Meltdown (38 MP) (multi) - Intellect * Level * 3 magical fire damage, and attempt to cause Sap status (6).
 
+Necrosis Wave (18 MP) (multi) - Attempts to cause Zombie status.
+
 ### Dark Arts T6
+
+Cancerous Regeneration (36 MP) (single/multi) - Restores Intellect * Level * 1.5 HP. Works normally on undead.
 
 Hellwind (38 MP) (multi) - Intellect * Level * 3 magical wind damage, and attempt to cause Petrify status (4).
 
@@ -100,10 +110,14 @@ Chaos Drive (38 MP) (multi) - Intellect * Level * 3 magical lightning damage, an
 
 Curse (42 MP) (single) - Causes Addle, Curse, Old, Poison-Plus, Sap, Virus, and Zombie statuses (6).
 
+Paleblood Injection (80 MP) (single/multi) - Restores Intellect * Level * 2 HP. Works normally on undead.
+
 ### Dark Arts T9
 
 Dark Flare (52 MP) (multi) - Intellect * Level * 3 magical dark damage, ignoring Magic Defense.
 
 ### Dark Arts T10
+
+Desecration of Physique (36 MP) (multi) - Attempts to cause Zombie status at +50 Magic Accuracy.
 
 Doomsday (66 MP, 2 AP) (multi) - Intellect * Level * 5 magical non-elemental damage, and ends Reflect status. This spell cannot be reflected.

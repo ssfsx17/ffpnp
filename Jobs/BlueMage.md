@@ -73,6 +73,7 @@ Job Levels:
 - Dragon Force (8 MP) (single) - Causes Brave and Faith statuses (6).
 - Flame Thrower (5 MP) (multi) - Intellect * Level * 0.5 magical fire damage.
 - Flash (7 MP) (multi) - Attempts to cause Blind status.
+- Healing Breeze (15 MP) (multi) - Restores Spirit * Level * 0.5 HP. Effect is reversed against undead.
 - Moon Flute (3 MP) (special) - Causes Berserk status on the whole party (6).
 - War Dance (12 MP) (multi) - Causes Brave status (6).
 
@@ -87,7 +88,7 @@ Job Levels:
 ### Blue Magic T4
 
 - 1000 Needles (25 MP) (single) - 1000 damage. Ignores Magic Evasion and Magic Defense.
-- Doom (10 MP) (single) - Attempts to cause Doom status (6).
+- Death Sentence (10 MP) (single) - Attempts to cause Doom status (6).
 - Transfusion (13 MP) (special) - Sacrifice self, in order to fully restore one target's HP and MP.
 - Unction (8 MP) (multi) - Attempts to cause Oil status (10).
 
@@ -104,17 +105,21 @@ Job Levels:
 - Gorgon Gaze (20 MP) (single) - Attempt to cause Petrify status (4).
 - Level 2 Old (11 MP) (special) - Attempt to cause Old status (10) on enemies whose level is a multiple of 2.
 - Night (22 MP) (special) - Attempt to cause Sleep status to everyone (both enemies and allies) except for yourself.
+- Voracious Trunk (5 MP) (single) - Attempt to steal one positive status condition.
 
 ### Blue Magic T7
 
 - Aqua Breath (38 MP) (multi) - Intellect * Level * 1.5 magical water damage.
+- Cimicine Discharge (20 MP) (multi) - Attempt to cause Slow status (6).
 - Eerie Sound Wave (8 MP) (single) - End all positive statuses, including Reflect. This spell cannot be reflected.
 - Level 4 Graviga (9 MP) (special) - Attempt to do the Graviga effect on enemies whose level is a multiple of 4.
 - Time Slip (9 MP) (single) - Attempt to cause Old and Sleep status (10).
 
 ### Blue Magic T8
 
+- Benthic Typhoon (40 MP) (single) - Intellect * Level wind damage, and attempt to cause Broken Armor and Broken Helmet statuses.
 - Death Claw (21 MP) (single) - Attempt to reduce the target to 1 HP and cause Stop status (6). This is at -50 Magic Accuracy.
+- Fantod (40 MP) (single) - Causes Boost Attack and Boost Magic statuses (4).
 - Mind Blast (6 MP) (single) - Intellect * Level magical non-elemental damage, and attempts to cause Sap and Stop status (6).
 - White Wind (28 MP) (multi) - Restore an amount of HP equal to your current HP (before White Wind was cast).
 

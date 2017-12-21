@@ -62,13 +62,13 @@ Job Levels:
 
 ### Scholastic Tech T1
 
-Physick (3 AP) (single) - Intellect * Level * 0.5 healing.
+Physick (2 AP) (single) - Intellect * Level * 0.5 healing.
 
 Study (single) - Acts as the White Magic spell Libra.
 
 ### Scholastic Tech T2
 
-Resurrection (4 AP) (single) - Revives a downed ally with 10% HP. Against undead, it causes Stun status (2).
+Resurrection (4 AP) (single) - Revives a downed ally with 10% HP. Against undead, it attempts to cause Stun status (2).
 
 Sublimation (self-only) - Lose an amount of HP equal to your experience level * 100, in order to regain an amount of MP equal to your experience level * 10.
 
@@ -110,8 +110,12 @@ Piercing Sight (1 AP) (single) - Acts as the White Magic spell Libra, and gives 
 
 ### Scholastic Tech T9
 
+Broil (8 AP) (single) - Intellect * Level * 1.5 magical non-elemental damage.
+
 Caper Emissarius (5 AP) (multi) - All affected targets must spend their next action doing a normal attack against you. This attempt uses Magic Accuracy and is opposed by Magic Evasion.
 
 ### Scholastic Tech T10
 
 Force Tome (10 AP) (multi) - Causes Resilient status (6).
+
+Revive (10 AP) (single) - Acts as the White Magic spell Arise.

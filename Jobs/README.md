@@ -1,4 +1,6 @@
-Jobs can be freely changed during sleep, as long as characters meet the requirements.
+# Jobs
+
+Jobs can be freely changed during a full rest, as long as characters meet the requirements.
 
 The price of a job level in JP is equal to the level multiplied by 10. The following table is provided for convenience:
 
@@ -27,9 +29,9 @@ The price of a job level in JP is equal to the level multiplied by 10. The follo
 
 Improving a Job to Job Level 10 will gain a Prestige Job Title, indicating great expertise compared to any mortal. Improving a Job to Job level 20 makes it Mastered.
 
-All Jobs are inherently magical. Their abilities might express this magic in different ways. There is no such thing as a person who can slice all enemies in a single stroke without the aid of magic. If someone can slice all enemies in a single stroke, they are getting some sort of constant magical power from their Job.
+All Jobs are inherently magical. Their abilities might express this magic in different ways. There is no such thing as a person who can slice all enemies in a single stroke without the aid of magic. If someone can slice all enemies in a single stroke, they are getting some sort of constant magical power from their Job. Furthermore, it is possible that Jobs can change clothing style, equipment detailing, hairstyle, makeup, and other such visible features. For example, if someone is currently a Knight and they change jobs to Dark Knight, then their armor could suddenly turn black and grow a bunch of sharp edges and spikes.
 
-If a job has an action from another job, then that action is usable according to what has been unlocked for choice, as opposed to what has been unlocked for job use. For example, you must have White Mage 20 (mastered) in order to use White Magic T10 with any other job that has the White Magic action.
+If a job has an action from another job, then that action is usable according to what has been unlocked for choice, as opposed to what has been unlocked for job use. For example, you must have White Mage 20 (mastered) in order to use White Magic T10 with any other job that has the White Magic action, such as Devout or Paladin.
 
 ## Optional: Plotline Job Requirements
 
@@ -41,13 +43,40 @@ The GM could also require the Player Characters to seek out hidden masters, anci
 
 The GM may choose to require that Player Characters spend an entire game session without changing jobs. Furthermore, all JP earned for that session are allocated only to the jobs they were playing. Jobs can still be changed outside of game sessions.
 
+## Optional: Job Level Capped by Experience Level
+
+The GM may choose to impose a cap of Job Level being no higher than Experience Level * 0.2. In that case, the maximum job level would be according to the following table:
+
+| Experience Level | Maximum Job Level | Other Notes |
+| ---              | ---               | ---         |
+| 1                | 1                 |
+| 10 | 2 |
+| 15 | 3 |
+| 20 | 4 |
+| 25 | 5 |
+| 30 | 6 |
+| 35 | 7 |
+| 40 | 8 |
+| 45 | 9 |
+| 50 | 10 |
+| 55 | 11 |
+| 60 | 12 |
+| 65 | 13 |
+| 70 | 14 |
+| 75 | 15 |
+| 80 | 16 |
+| 85 | 17 |
+| 90 | 18 |
+| 95 | 19 |
+| - | 20 | Most likely requires a sidequest to unlock |
+
 ## Job Description Format
 
 Requires: Which other job levels must be purchased, before the first job level in this job can be.
 
-Actions: In most cases, this is Attack, Defend, Charge, Item, and something unique to the job or a prerequisite job. If the action comes from a different job, then it is only usable according to what has been unlocked for general choices. For example, the Magus job has the Black Magic action. In order to cast a spell from Black Magic T10, you would need Black Mage Job Level 20.
+Actions: In most cases, this is Attack, Defend, Charge, Item, and something unique to the job or a prerequisite job. If the action comes from a different job, then it is only usable according to what has been unlocked for general choices. For example, the Magus job has the Black Magic action. In order for a Magus to cast a spell from Black Magic T10, you would need Black Mage Job Level 20.
 
-Supports: Passive abilities.
+Supports: Passive abilities that are always on.
 
 Reactions: Tend to require AP to trigger. The descriptions of various reactions will also imply specific conditions under which they can be triggered.
 

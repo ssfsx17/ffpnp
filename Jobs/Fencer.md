@@ -62,7 +62,7 @@ Job Levels:
 
 ### Fencing Techs T1
 
-Swarmstrike (1 AP) (single) - Attack for half damage, and attempt to cause Poison status.
+Swarmstrike (1 AP) (single) - Attack, and attempt to cause Poison status.
 
 ### Fencing Techs T2
 
@@ -88,7 +88,11 @@ Manastrike (1 AP) (single) - Attack, and 1/10th of HP damage is also dealt to MP
 
 Piercing Blow (2 AP) (special) - Attack one target in the front row and one target in the back row.
 
+Quick Hit (50 MP) (single) - Attack twice.
+
 ### Fencing Techs T8
+
+Dismissal (5 AP) (single) - Attack, and attempt to cause Addle status (2).
 
 Nighthawk (5 AP) (single) - Attack for double damage, with the physical dark element.
 
@@ -96,6 +100,10 @@ Nighthawk (5 AP) (single) - Attack for double damage, with the physical dark ele
 
 Shadowbind Strike (10 AP) (single) - Attack, and attempt to cause Stop status (6).
 
+Tempo Flurry (10 AP) (single) - Attack twice, and attempt to cause Slow status (6).
+
 ### Fencing Techs T10
+
+Dervish (10 AP) (special) - Attack an enemy, and cause Haste status to self (4).
 
 Ultima Masher (32 MP, 20 AP) (BDL) (single) - Ten attacks on one target. Evasion is ignored.

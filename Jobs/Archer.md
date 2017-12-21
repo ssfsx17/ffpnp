@@ -83,7 +83,7 @@ Cupid Shot (2 AP) (single) - Attack, and attempt to cause Charm status (6).
 
 ### Archery T5
 
-Burial (2 AP) (single) - Attack, and attempt to instantly destroy undead.
+Burial (2 AP) (single) - Attack, and if the target is undead then attempt to instantly destroy it.
 
 Charge Shot 5 (10 AP) (single) - Attack with +100 Agility.
 

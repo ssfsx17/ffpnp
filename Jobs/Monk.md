@@ -125,6 +125,8 @@ Razor Gale (7 AP) (multi) - Vitality * Level * 2 magical air damage.
 
 Elixir Field (9 AP) (multi) - Attack all enemies, ignoring Evasion.
 
+Fists of Earth (4 AP) (self-only) - Defend action that also causes Protect status (4).
+
 Phantom Rush (9 AP) (single) - Melee attack for double damage, ignoring Evasion and Defense.
 
 ### Chi Tech T10

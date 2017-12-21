@@ -8,7 +8,7 @@ Actions:
 - Defend
 - Charge
 - Speechcraft
-- Catch (2 AP) - Attempt to catch an enemy that is at 1/4th HP or less, using Magic Accuracy and opposed by Magic Evasion. If successful, you now own that creature, and it is added to the Party Bestiary. The target's Level must be less than or equal to yours.
+- Catch (1 AP) - Attempt to catch an enemy that is at 1/4th HP or less, using Magic Accuracy and opposed by Magic Evasion. If successful, you now own that creature, and it is added to the Party Bestiary. The target's Level must be less than or equal to yours.
 - Release - Release one of your caught monsters. It does one action of your choice, then flees.
 - Item
 

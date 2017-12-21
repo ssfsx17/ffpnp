@@ -143,11 +143,12 @@ Job Levels:
 
 ### White Magic T9
 
+- Curaise (60 MP) (single) - Raise, then Curaja, on a single target.
 - Fullhealing Cure (40 MP) (single) - Fully restores HP. Against undead, it does an amount of non-elemental damage equal to the target's maximum HP, and Magic Defense is applied.
 - Implosion (60 MP) (single) - Spirit * Level * 3 magical non-elemental damage.
 - Mass Cure (70 MP) (single/multi) - Spirit * Level * 3 healing. Against undead, it becomes a non-elemental damaging spell.
 - Mirror Images (56 MP) (single/multi) - Causes Blink status (12).
-- Sunlight (60 MP) (multi) - Attempt to instantly-destroy all undead at +50 Magic Accuracy.
+- Sunlight (60 MP) (special) - Attempt to instantly-destroy all undead at +50 Magic Accuracy. If this effect fails, then it still attempts Spirit * Level * 2 magical non-elemental damage on all undead at +50 Magic Accuracy.
 
 ### White Magic T10
 

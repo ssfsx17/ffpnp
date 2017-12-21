@@ -62,7 +62,9 @@ Job Levels:
 
 ### Bardsong T1
 
-Flowing Melody (multi) - Causes Watered status (2).
+Flowing Melody (multi) - Attempt to cause Watered status (2).
+
+Peloton (multi) - Causes Boost Evasion status (2).
 
 Requiem (multi) - Attempt to instantly-kill undead at -50 Magic Accuracy.
 
@@ -97,6 +99,8 @@ Rousing Melody (multi) - Causes Haste status (2).
 Soul Etude (multi) - Restores 100 HP, and removes Poison, Poison-Plus, Sap, and Virus statuses.
 
 ### Bardsong T7
+
+Invigorate (multi) - Causes Meditation status (1).
 
 Lovely Lullaby (multi) - Causes Sleep status (2).
 

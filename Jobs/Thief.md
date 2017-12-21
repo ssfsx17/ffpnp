@@ -62,42 +62,48 @@ Job Levels:
 
 ### Thievery Tech T1
 
-Steal Gil - Attempt to steal Level * 10 gil. Opposed by the target's Evasion.
+Steal Gil (single) - Attempt to steal Level * 10 gil. Opposed by the target's Evasion.
 
 ### Thievery Tech T2
 
-Steal Item - Attempt to steal a usable item. Opposed by the target's Evasion.
+Leg Sweep (2 AP) (single) - Attempt to cause Stun status (1), using Accuracy and opposed by Evasion.
+
+Steal Item (single) - Attempt to steal a usable item. Opposed by the target's Evasion.
 
 ### Thievery Tech T3
 
-Steal Equipment - Attempt to steal a piece of equipment. Opposed by the target's Evasion.
+Steal Equipment (single) - Attempt to steal a piece of equipment. Opposed by the target's Evasion.
 
 ### Thievery Tech T4
 
-Steal Heart - Causes Charm status (2). Opposed by the target's Evasion.
+Steal Heart (single) - Causes Charm status (2). Opposed by the target's Evasion.
+
+Trick Attack (2 AP) (single) - Attack, and do double damage if the target has Stun or Addle statuses.
 
 ### Thievery Tech T5
 
-Mug Gil (2 AP) - Attack and attempt to steal Level * 20 gil.
+Goad (10 AP) (single) - Give a different party member 5 AP.
+
+Mug Gil (2 AP) (single) - Attack and attempt to steal Level * 20 gil.
 
 ### Thievery Tech T6
 
-Mug Item (2 AP) - Attack and attempt to steal a usable item.
+Mug Item (2 AP) (single) - Attack and attempt to steal a usable item.
 
 ### Thievery Tech T7
 
-Mug Equipment (2 AP) - Attack and attempt to steal a piece of equipment.
+Mug Equipment (2 AP) (single) - Attack and attempt to steal a piece of equipment.
 
 ### Thievery Tech T8
 
-Mug Heart (2 AP) - Attack and attempt to cause Charm status (4).
+Mug Heart (2 AP) (single) - Attack and attempt to cause Charm status (4).
 
 ### Thievery Tech T9
 
-Godspeed Strike (2 AP) - Attack that ignores Evasion.
+Godspeed Strike (2 AP) (single) - Attack that ignores Evasion.
 
 ### Thievery Tech T10
 
-Raid (20 AP) - Give each party member 5 AP, except for yourself.
+Raid (20 AP) (multi) - Give each party member 5 AP, except for yourself.
 
 Shake Down (10 AP) (multi) - Mug Item against all enemies.

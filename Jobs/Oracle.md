@@ -93,7 +93,7 @@ Disbelief (6 MP) (single) - Attempt to cause Atheist status (6).
 
 ### Mystic Arts T6
 
-Corruption (20 MP) (single) - Attempt to cause Zombie status (6).
+Corruption (20 MP) (single) - Attempt to cause Zombie status.
 
 ### Mystic Arts T7
 

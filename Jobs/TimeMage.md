@@ -137,4 +137,5 @@ Job Levels:
 - Meteor (99 MP, 10 AP) (multi) - Intellect * Level * 2 non-elemental magical damage, and attempt to cause Addle, Broken Helmet, Sleep, and Stun statuses (2).
 - Quarterga (80 MP) (multi) - Attempt to cause an amount of non-elemental magical damage equal to 50% of the target's maximum HP. Magic Defense is ignored.
 - Regenaja (80 MP) (single/multi) - Causes Regen-Plus status (20).
+- Young (99 MP, 10 AP) (single) - Removes Old status, and makes the target 1 day younger.
 - Z-Zone (70 MP) (multi) - Attempt to cause X-Zone status.

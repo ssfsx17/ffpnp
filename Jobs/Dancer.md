@@ -70,7 +70,7 @@ Samba of Silence (multi) - Attempt to cause Silence status (2).
 
 ### Dance T3
 
-Magical Masque (multi) - Attempt to cause Shell status (2).
+Magical Masque (multi) - Causes Shell status (2).
 
 ### Dance T4
 
@@ -80,7 +80,7 @@ Sleepy Shuffle (multi) - Attempt to cause Sleep status (2).
 
 Blade Dance (single) - Two attacks at -50 Accuracy.
 
-Carnival Cancan (multi) - Attempt to cause Bubble status (2).
+Carnival Cancan (multi) - Causes Bubble status (2).
 
 ### Dance T6
 
@@ -96,7 +96,7 @@ Mincing Minuet (multi) - Intellect * Level * 0.1 magical non-elemental damage, i
 
 ### Dance T8
 
-Jitterbug (multi) - Attempt to cause Haste status (2).
+Jitterbug (multi) - Causes Haste status (2).
 
 Polka (multi) - Attempt to cause Broken Weapon status (2).
 

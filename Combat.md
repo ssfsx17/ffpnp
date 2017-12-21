@@ -87,6 +87,8 @@ Blink - Evasion is infinite. But, each incoming attack reduces the duration of t
 
 Boost Attack - Physical damage output is doubled.
 
+Boost Evasion - Evasion is increased by 50.
+
 Boost Magic - Magical damage output and healing is doubled.
 
 Brave - Physical damage output is increased by 50%, but Defense is halved.

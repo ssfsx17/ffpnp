@@ -7,9 +7,6 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Archery Tech
-- Fencing Tech
-- Ninjutsu
 - Assassination Tech
 - Item
 
@@ -62,39 +59,39 @@ Job Levels:
 
 ### Assassination Tech T1
 
-Shadowbind (12 MP) (single) - Causes Stop status (10).
+Shadowbind (12 MP) (single) - Attempt to cause Stop status (10), using Magic Accuracy and opposed by Magic Evasion.
 
 ### Assassination Tech T2
 
-Last Breath (18 MP) (single) - Attempts to instantly-kill.
+Last Breath (18 MP) (single) - Attempts to instantly-kill, using Magic Accuracy and opposed by Magic Evasion.
 
 ### Assassination Tech T3
 
-Aphonia (12 MP) (single) - Causes Silence status at +50 Magic Accuracy.
+Aphonia (12 MP) (single) - Attempt to cause Silence status at +50 Magic Accuracy, using Magic Accuracy and opposed by Magic Evasion.
 
 ### Assassination Tech T4
 
-Nightmare (8 MP) (single) - Causes Sleep and Doom status (4).
+Nightmare (8 MP) (single) - Attempt to cause Sleep and Doom status (4), using Magic Accuracy and opposed by Magic Evasion.
 
 ### Assassination Tech T5
 
-Ague (12 MP) (single) - Causes Slow status (20) at +50 Magic Accuracy.
+Ague (12 MP) (single) - Attempt to cause Slow status (20) at +50 Magic Accuracy.
 
 ### Assassination Tech T6
 
-Rockseal (22 MP) (single) - Causes Petrify status.
+Rockseal (22 MP) (single) - Attempt to cause Petrify status, using Magic Accuracy and opposed by Magic Evasion.
 
 ### Assassination Tech T7
 
-Oblivion (12 MP) (single) - Causes Addle status (10) at +50 Magic Accuracy.
+Oblivion (12 MP) (single) - Attempt to cause Addle status (10) at +50 Magic Accuracy.
 
 ### Assassination Tech T8
 
-Magic Bullet (15 MP) (single) - Causes Trouble status (10) at +50 Magic Accuracy.
+Magic Bullet (15 MP) (single) - Attempt to cause Trouble status (10) at +50 Magic Accuracy.
 
 ### Assassination Tech T9
 
-Marked for Death (20 MP) (single) - Causes Locked-On status (6) at +50 Magic Accuracy.
+Marked for Death (20 MP) (single) - Attempt to cause Locked-On status (6) at +50 Magic Accuracy.
 
 ### Assassination Tech T10
 
