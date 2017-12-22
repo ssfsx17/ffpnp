@@ -6,7 +6,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Sketch - Attempts to create a copy of an enemy that lasts for the current battle. Uses Magic Accuracy and is opposed by Magic Evasion. The GM may designate "boss" enemies who cannot be sketched.
+- Sketch - Attempts to create a copy of an enemy that lasts for the current battle. Uses Magic Accuracy and is opposed by Magic Evasion. The GM may designate "boss" enemies who cannot be sketched. The Sketch functions as a party member for the current battle.
 - Item
 
 Supports:

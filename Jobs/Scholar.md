@@ -62,7 +62,7 @@ Job Levels:
 
 ### Scholastic Tech T1
 
-Physick (2 AP) (single) - Intellect * Level * 0.5 healing.
+Physick (2 AP) (single) - Restores Intellect * Level * 0.5 HP. Against undead, it is a magical attack with non-elemental damage.
 
 Study (single) - Acts as the White Magic spell Libra.
 
@@ -74,7 +74,7 @@ Sublimation (self-only) - Lose an amount of HP equal to your experience level * 
 
 ### Scholastic Tech T3
 
-Adloqium (6 AP) (single) - Intellect * Level healing.
+Adloqium (6 AP) (single) - Restores Intellect * Level HP. Against undead, it is a magical attack with non-elemental damage.
 
 Natural Selection (special) - Intellect * Level non-elemental magical damage to everyone of your own race. Which includes you.
 
@@ -86,7 +86,7 @@ Rouse (6 AP) (single) - Causes Boost Magic status (4).
 
 ### Scholastic Tech T5
 
-Lustrate (8 AP) (single) - Intellect * Level * 2 healing.
+Lustrate (8 AP) (single) - Restores Intellect * Level * 2 HP. Against undead, it is a magical attack with non-elemental damage.
 
 Rime Bolt Tome (special) - Intellect * Level ice damage to everyone.
 
@@ -104,7 +104,7 @@ Shadow Shade Tome (special) - Intellect * Level dark damage to everyone.
 
 ### Scholastic Tech T8
 
-Chain Stratagem (8 AP) (single) - Causes Critical Vulnerability status (6).
+Chain Stratagem (8 AP) (single) - Attempts to cause Critical Vulnerability status (6).
 
 Piercing Sight (1 AP) (single) - Acts as the White Magic spell Libra, and gives the target a random elemental weakness.
 

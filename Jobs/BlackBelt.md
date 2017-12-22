@@ -14,7 +14,7 @@ Actions:
 Supports:
 
 - 2 x Choice
-- HP Plus - Maximum HP is increased by 50%. If this support ability is unequipped, extra HP are counted as excess healing.
+- Inner Strength - Maximum HP is increased by 50%. If this support ability is unequipped, extra HP are counted as excess healing.
 - Black Belt Vitality +20
 - Black Belt Speed +20
 
@@ -46,7 +46,7 @@ Job Levels:
 | 9 | 
 | 10 | Prestige Job Title: Grandmaster Black Belt
 |    | Job Support: Lifefont - Always have Regen status in combat. Out of combat, always restore full HP during a rest.
-|    | Support Unlock: HP Plus
+|    | Support Unlock: Inner Strength
 | 11 | 
 | 12 | 
 | 13 | 
