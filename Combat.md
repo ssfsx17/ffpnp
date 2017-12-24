@@ -109,7 +109,7 @@ Broken Weapon - Physical damage output is zero. If this status happens to a play
 
 Bubble - Maximum HP is doubled. When this status ends, HP above the normal maximum are counted as excess healing.
 
-Burning - Lose an amount of HP per round equal to 10% of maximum HP. Magic Defense is not applied. Also causes damage every minute outside of combat.
+Burning - Lose an amount of HP per round equal to 10% of maximum HP. Magic Defense is not applied. Also causes damage every minute outside of combat. This status is ended by water or ice damage.
 
 Charm - Attack your own team randomly. Ended by physical damage.
 

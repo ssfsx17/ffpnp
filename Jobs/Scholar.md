@@ -74,7 +74,7 @@ Sublimation (self-only) - Lose an amount of HP equal to your experience level * 
 
 ### Scholastic Tech T3
 
-Adloqium (6 AP) (single) - Restores Intellect * Level HP. Against undead, it is a magical attack with non-elemental damage.
+Adloqium (4 AP) (single) - Restores Intellect * Level HP. Against undead, it is a magical attack with non-elemental damage.
 
 Natural Selection (special) - Intellect * Level non-elemental magical damage to everyone of your own race. Which includes you.
 
@@ -86,7 +86,7 @@ Rouse (6 AP) (single) - Causes Boost Magic status (4).
 
 ### Scholastic Tech T5
 
-Lustrate (8 AP) (single) - Restores Intellect * Level * 2 HP. Against undead, it is a magical attack with non-elemental damage.
+Lustrate (6 AP) (single) - Restores Intellect * Level * 1.5 HP. Against undead, it is a magical attack with non-elemental damage.
 
 Rime Bolt Tome (special) - Intellect * Level ice damage to everyone.
 
@@ -110,7 +110,7 @@ Piercing Sight (1 AP) (single) - Acts as the White Magic spell Libra, and gives 
 
 ### Scholastic Tech T9
 
-Broil (8 AP) (single) - Intellect * Level * 1.5 magical non-elemental damage.
+Broil (8 AP) (single) - Intellect * Level * 2 magical non-elemental damage.
 
 Caper Emissarius (5 AP) (multi) - All affected targets must spend their next action doing a normal attack against you. This attempt uses Magic Accuracy and is opposed by Magic Evasion.
 

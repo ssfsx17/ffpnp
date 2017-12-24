@@ -44,6 +44,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Sharlayan Astrologian
+|    | Job Support: Astronomy and Astrology Are Two Different Things - For your weapon damage and ability effects, you can swap Intellect and Spirit.
 | 11 | 
 | 12 | 
 | 13 | 
@@ -53,5 +54,6 @@ Job Levels:
 | 17 | 
 | 18 | 
 | 19 | 
-| 20 | Support Unlock: Astrologian Vitality +20
+| 20 | Support Unlock: Astronomy and Astrology Are Two Different Things
+|    | Support Unlock: Astrologian Vitality +20
 |    | Support Unlock: Astrologian Spirit +20

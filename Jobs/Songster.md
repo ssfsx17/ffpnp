@@ -15,8 +15,8 @@ Actions:
 Supports:
 
 - 2 x Choice
-- Songster Agility +10
-- Songster Speed +10
+- Songster Agility +20
+- Songster Speed +20
 
 Reactions:
 
@@ -56,5 +56,5 @@ Job Levels:
 | 18 | 
 | 19 | 
 | 20 | Reaction Unlock: Counter Emotion
-|    | Support Unlock: Songster Agility +10
-|    | Support Unlock: Songster Speed +10
+|    | Support Unlock: Songster Agility +20
+|    | Support Unlock: Songster Speed +20

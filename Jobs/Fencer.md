@@ -100,10 +100,10 @@ Nighthawk (5 AP) (single) - Attack for double damage, with the physical dark ele
 
 Shadowbind Strike (10 AP) (single) - Attack, and attempt to cause Stop status (6).
 
-Tempo Flurry (10 AP) (single) - Attack twice, and attempt to cause Slow status (6).
+Tempo Flurry (10 AP) (single) - Attack twice, and attempt to cause Slow status (6) on each successful hit.
 
 ### Fencing Techs T10
 
-Dervish (10 AP) (special) - Attack an enemy, and cause Haste status to self (4).
+Dervish (10 AP) (special) - Attack an enemy, and cause Haste status to self (8).
 
 Ultima Masher (32 MP, 20 AP) (BDL) (single) - Ten attacks on one target. Evasion is ignored.

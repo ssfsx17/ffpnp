@@ -92,6 +92,23 @@ Job Levels: A table of various things that occur at each job level.
 
 Jobs in a higher PR are not necessarily better than ones in a lower PR. PRs are only a descriptor of the length of the requirements chain. In many cases, a job in a lower PR could require more JP to unlock than a job in a higher PR.
 
+Examples of Civilian Jobs (no noteworthy abilities):
+
+- Armorer
+- Blacksmith
+- Botanist
+- Carpenter
+- Culinarian
+- Farmer
+- Fisher
+- Goldsmith
+- Leatherworker
+- Lumberjack
+- Miner
+- Rancher
+- Sailor
+- Weaver
+
 Base Jobs:
 
 - [Chemist](/Jobs/Chemist.md)
