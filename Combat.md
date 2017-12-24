@@ -85,6 +85,8 @@ Blind - Accuracy and Magic Accuracy are reduced by 100.
 
 Blink - Evasion is infinite. But, each incoming attack reduces the duration of the Blink status by one round.
 
+Boost Accuracy - Accuracy is increased by 50.
+
 Boost Attack - Physical damage output is doubled.
 
 Boost Evasion - Evasion is increased by 50.
@@ -92,6 +94,8 @@ Boost Evasion - Evasion is increased by 50.
 Boost Healing - HP restoration received is doubled.
 
 Boost Magic - Magical damage output and healing output is doubled.
+
+Boost Magic Accuracy - Magic Accuracy is increased by 50.
 
 Brave - Physical damage output is increased by 50%, but Defense is halved.
 
@@ -105,13 +109,15 @@ Broken Weapon - Physical damage output is zero. If this status happens to a play
 
 Bubble - Maximum HP is doubled. When this status ends, HP above the normal maximum are counted as excess healing.
 
+Burning - Lose an amount of HP per round equal to 10% of maximum HP. Magic Defense is not applied. Also causes damage every minute outside of combat.
+
 Charm - Attack your own team randomly. Ended by physical damage.
 
 Chicken - Physical damage output is zero.
 
 Confuse - All actions have a flat 50% chance to be done to the opposite team as was originally intended (i.e. coinflip). Confuse is ended by physical damage.
 
-Critical Vulnerability - All successful attacks against you are also critical hits.
+Critical Vulnerability - Successful attacks against you are critical hits if the dice show 80 through 100.
 
 Curse - Physical damage output and Accuracy are zero.
 

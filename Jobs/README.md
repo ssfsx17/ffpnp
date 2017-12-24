@@ -189,6 +189,7 @@ PR4 Jobs:
 
 PR5 Jobs:
 
+- [Astrologian](/Jobs/Astrologian.md)
 - [Holy Avenger](/Jobs/HolyAvenger.md)
 - [Songster](/Jobs/Songster.md)
 - [Thunder God](/Jobs/ThunderGod.md)

@@ -214,6 +214,11 @@
 - Damage = Agility * Item Level * 0.8
 - Price = Item Level * 200
 
+### Globes 2H
+
+- Damage = Intellect * Item Level * 0.8
+- Price = Item Level * 200
+
 ### Harps 2H
 
 - Damage = Spirit * Item Level * 0.8
