@@ -90,23 +90,40 @@ Job Levels: A table of various things that occur at each job level.
 
 ## Job Index
 
-Jobs in a higher PR are not necessarily better than ones in a lower PR. PRs are only a descriptor of the length of the requirements chain. In many cases, a job in a lower PR could require more JP to unlock than a job in a higher PR.
+Jobs in a higher JCT (Job Complexity Tier) are not necessarily better than ones in a lower JCT. JCTs are only a descriptor of the length of the requirements chain. In many cases, a job in a lower JCT could require more JP to unlock than a job in a higher JCT.
+
+Civilian jobs exist in order to help with skill checks for things that would be obvious to normal people. The GM may also rule that achieving Job Level 10 or 20 with civilian jobs can reduce the prices of specific things by 10% to 20%, by spending multiple days to craft the items. For example, mastering the Blacksmith job (Job Level 20) could result in metal weapons being 20% cheaper after a week of work. Mastering the Gemcutter job could result in Globes 2H being 20% cheaper after a week of work. Multiple jobs could stack together to make a production chain.
 
 Examples of Civilian Jobs (no noteworthy abilities):
 
+- Aesthetician
+- Airship Flight Attendant
+- Architect
 - Armorer
 - Blacksmith
+- Bookbinder
 - Botanist
+- Butler
 - Carpenter
+- Charcoal Burner
 - Culinarian
 - Farmer
 - Fisher
+- Gemcutter
+- Glassblower
 - Goldsmith
+- Hairstylist
+- Lamp Lighter
 - Leatherworker
 - Lumberjack
+- Maid
 - Miner
+- Numismatist
+- Paperpresser
 - Rancher
 - Sailor
+- Tailor
+- Train Conductor
 - Weaver
 
 Base Jobs:
@@ -116,7 +133,7 @@ Base Jobs:
 - [Onion Knight](/Jobs/OnionKnight.md)
 - [Squire](/Jobs/Squire.md)
 
-PR1 Jobs:
+JCT1 Jobs:
 
 - [Alchemist](/Jobs/Alchemist.md)
 - [Archer](/Jobs/Archer.md)
@@ -132,7 +149,7 @@ PR1 Jobs:
 - [Thief](/Jobs/Thief.md)
 - [White Mage](/Jobs/WhiteMage.md)
 
-PR2 Jobs:
+JCT2 Jobs:
 
 - [Artist](/Jobs/Artist.md)
 - [Ashigaru](/Jobs/Ashigaru.md)
@@ -159,7 +176,7 @@ PR2 Jobs:
 - [Time Mage](/Jobs/TimeMage.md)
 - [Viking](/Jobs/Viking.md)
 
-PR3 Jobs:
+JCT3 Jobs:
 
 - [Animist](/Jobs/Animist.md)
 - [Beast Tamer](/Jobs/BeastTamer.md)
@@ -186,7 +203,7 @@ PR3 Jobs:
 - [Summoner](/Jobs/Summoner.md)
 - [Temporal Lord](/Jobs/TemporalLord.md)
 
-PR4 Jobs:
+JCT4 Jobs:
 
 - [Archmage](/Jobs/Archmage.md)
 - [Assassin](/Jobs/Assassin.md)
@@ -204,7 +221,7 @@ PR4 Jobs:
 - [Tinker](/Jobs/Tinker.md)
 - [WhiteSummoner](/Jobs/WhiteSummoner.md)
 
-PR5 Jobs:
+JCT5 Jobs:
 
 - [Astrologian](/Jobs/Astrologian.md)
 - [Holy Avenger](/Jobs/HolyAvenger.md)

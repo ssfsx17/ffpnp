@@ -144,32 +144,32 @@ Combination Suggestion Table:
 
 ### Geomancy T8
 
-- Earth + Fire: Earth's Embrace (2 AP) (multi) - Intellect * Level magical non-elemental damage, and attempt to cause Disable status (6).
-- Earth + Wood: Nature's Embrace (2 AP) (multi) - Intellect * Level * 2 magical earth damage.
-- Fire + Wind: Shining Flare (2 AP) (multi) - Intellect * Level * 2 magical fire damage.
+- Earth + Fire: Earth's Embrace (2 AP) (multi) - Intellect * Level * 0.5 magical non-elemental damage, and attempt to cause Disable status (6).
+- Earth + Wood: Nature's Embrace (2 AP) (multi) - Intellect * Level * 1.5 magical earth damage.
+- Fire + Wind: Shining Flare (2 AP) (multi) - Intellect * Level * 1.5 magical fire damage.
 - Water + Wind: Venom Squall (2 AP) (multi) - Intellect * Level magical poison damage, and attempt to cause Poison-Plus status.
-- Wind + Wood: Life's Embrace (2 AP) (multi) - Intellect * Level physical damage, and attempt to cause Immobilize status (6).
-- Magic + Earth: Artifice's Embrace (2 AP) (multi) - Intellect * Level physical damage, and attempt to cause Slow status (6).
+- Wind + Wood: Life's Embrace (2 AP) (multi) - Intellect * Level * 0.5 physical damage, and attempt to cause Immobilize status (6).
+- Magic + Earth: Artifice's Embrace (2 AP) (multi) - Intellect * Level * 0.5 physical damage, and attempt to cause Slow status (6).
 
 ### Geomancy T9
 
-- Earth: Stalactite (2 AP) (single) - Intellect * Level * 4 magical earth damage.
+- Earth: Stalactite (2 AP) (single) - Intellect * Level * 2 magical earth damage.
 - Fire: Ignus Fatuus (2 AP) (single) - Intellect * Level * 2 magical fire damage, and attempt to cause Confuse status (6) at +50 Magic Accuracy.
 - Water: Whirlpool (2 AP) (single) - Attempt to reduce the target's HP to 10, at -50 Magic Accuracy.
 - Wind: Tornado (2 AP) (single) - Attempt to reduce the target's HP to 10, at -50 Magic Accuracy.
-- Wood: Branch Spear (2 AP) (single) - Intellect * Level * 4 physical damage.
-- Magic: Mist Storm (2 AP) (multi) - Intellect * Level * 2 magical dark damage.
+- Wood: Branch Spear (2 AP) (single) - Intellect * Level * 2 physical damage.
+- Magic: Mist Storm (2 AP) (multi) - Intellect * Level * 1.5 magical dark damage.
 
 ### Geomancy T10
 
-- Earth: Contortion (3 AP) (multi) - Intellect * Level * 3 magical earth damage, and attempt to cause Petrify status (2).
-- Earth: Sinkhole (3 AP) (multi) - Intellect * Level * 3 magical earth damage, and attempt to cause Immobilize status (8).
-- Earth + Fire: Magma Surge (3 AP) (multi) - Intellect * Level * 3 magical fire damage, and attempt to instantly-kill at -50 Magic Accuracy.
-- Earth + Water: Quicksand (3 AP) (multi) - Intellect * Level * 3 magical water damage, and attempt to cause Doom status (4).
-- Earth + Wood: Hell's Ivy (3 AP) (multi) - Intellect * Level * 3 physical damage, and attempt to cause Stop status (2).
-- Fire + Wind: Sandstorm (3 AP) (multi) - Intellect * Level * 3 magical wind damage, and attempt to cause Blind status.
-- Fire + Wood: Demon Fire (3 AP) (multi) - Intellect * Level * 3 magical fire damage, and attempt to cause Sleep status.
-- Water: Torrent (3 AP) (multi) - Intellect * Level * 3 magical water damage, and attempt to cause Toad status.
-- Water + Wind: Snowstorm (3 AP) (multi) - Intellect * Level * 3 magical ice damage, and attempt to cause Silence status.
-- Wind: Kamaitachi (3 AP) (multi) - Intellect * Level * 3 magical wind damage, and attempt to cause Disable status (4).
-- Wind + Wood: Wind Blast (3 AP) (multi) - Intellect * Level * 3 magical wind damage, and attempt to cause Slow status (6).
+- Earth: Contortion (3 AP) (multi) - Intellect * Level * 1.5 magical earth damage, and attempt to cause Petrify status (2).
+- Earth: Sinkhole (3 AP) (multi) - Intellect * Level * 1.5 magical earth damage, and attempt to cause Immobilize status (8).
+- Earth + Fire: Magma Surge (3 AP) (multi) - Intellect * Level * 1.5 magical fire damage, and attempt to instantly-kill at -50 Magic Accuracy.
+- Earth + Water: Quicksand (3 AP) (multi) - Intellect * Level * 1.5 magical water damage, and attempt to cause Doom status (4).
+- Earth + Wood: Hell's Ivy (3 AP) (multi) - Intellect * Level * 1.5 physical damage, and attempt to cause Stop status (2).
+- Fire + Wind: Sandstorm (3 AP) (multi) - Intellect * Level * 1.5 magical wind damage, and attempt to cause Blind status.
+- Fire + Wood: Demon Fire (3 AP) (multi) - Intellect * Level * 1.5 magical fire damage, and attempt to cause Sleep status.
+- Water: Torrent (3 AP) (multi) - Intellect * Level * 1.5 magical water damage, and attempt to cause Toad status.
+- Water + Wind: Snowstorm (3 AP) (multi) - Intellect * Level * 1.5 magical ice damage, and attempt to cause Silence status.
+- Wind: Kamaitachi (3 AP) (multi) - Intellect * Level * 1.5 magical wind damage, and attempt to cause Disable status (4).
+- Wind + Wood: Wind Blast (3 AP) (multi) - Intellect * Level * 1.5 magical wind damage, and attempt to cause Slow status (6).
