@@ -16,8 +16,8 @@
 | Rulers 1H                | Intellect * Item Level * 0.4               | Item Level * 100
 | Spears 1H                | (Strength + Vitality) * Item Level * 0.25  | Item Level * 120 | Reach weapon
 | Swords 1H                | Strength * Item Level * 0.5                | Item Level * 100
-| Tanto 1H                 | (Agility + Intellect) * Item Level * 0.25  | Item Level * 120
-| Wakizashi 1H             | (Strength + Intellect) * Item Level * 0.25 | Item Level * 120
+| Tanto 1H                 | (Agility + Intellect) * Item Level * 0.20  | Item Level * 100
+| Wakizashi 1H             | (Strength + Intellect) * Item Level * 0.25 | Item Level * 100
 
 ## 2-Handed Melee Weapons
 
@@ -25,7 +25,7 @@
 | ---    | ---    | ---   | ---     |
 | Axes 2H                 | Strength * Item Level * 0.1 * 1d12       | Item Level * 160
 | Festival Toys 2H        | Speed * Item Level * 0.8                 | Item Level * 180
-| Forks 2H                | Vitality * Item Level * 0.8              | Item Level * 160
+| Forks 2H                | Vitality * Item Level * 0.8              | Item Level * 180
 | Gunblades 2H            | (Strength + Agility) * Item Level * 0.4  | Item Level * 160
 | Hammers 2H              | (Strength + Spirit) * Item Level * 0.4   | Item Level * 160
 | Katana 2H               | (Intellect + Agility) * Item Level * 0.4 | Item Level * 180
@@ -45,7 +45,7 @@
 | Weapon | Damage | Price | Special |
 | ---    | ---    | ---   | ---     |
 | Bells 1H        | Intellect * Item Level * 0.4             | Item Level * 160
-| Bombsticks 1H   | Agility * Item Level * 0.1 * 1d8         | Item Level * 140
+| Bombsticks 1H   | Agility * Item Level * 0.1 * 1d8         | Item Level * 160
 | Boomerangs 1H   | (Strength + Agility) * Item Level * 0.2  | Item Level * 140
 | Cards 1H        | Speed * Item Level * 0.4                 | Item Level * 160
 | Handguns 1H     | Agility * Item Level * 0.4               | Item Level * 160
@@ -63,4 +63,4 @@
 | Magitek Cannons 2H | Agility * Item Level | Item Level * 300 | Requires a full Magitek equipment set
 | Megaphones 2H      | Vitality * Item Level * 0.8 | Item Level * 220
 | Rackets 2H         | Spirit * Item Level * 0.6 | Item Level * 240 | Spirit bonus of Item Level * 0.2
-| Rifles 2H          | (Agility + Intellect) * Item Level * 0.4 | Item Level * 200
+| Rifles 2H          | (Agility + Intellect) * Item Level * 0.4 | Item Level * 220
