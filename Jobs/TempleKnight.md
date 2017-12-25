@@ -79,7 +79,7 @@ Rasp (8 MP) (multi) - Causes an amount of MP damage equal to your Level, at -50 
 
 Discipline (4 AP) (self-only) - Causes Boost Attack status (4).
 
-Zombie (14 MP) (single) - Causes Zombie status (8).
+Zombie (14 MP) (single) - Attempt to cause Zombie status (8).
 
 ### Temple Sword Tech T5
 

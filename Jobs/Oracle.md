@@ -13,6 +13,7 @@ Actions:
 Supports:
 
 - 1 x Choice
+- Absorb MP (1 AP) - Upon receiving damage from an MP-using ability, you regain an amount of MP equal to the ability's MP cost.
 
 Reactions:
 
@@ -43,6 +44,7 @@ Job Levels:
 | 10 | Prestige Job Title: Mystic Oracle
 |    | Job Support: Manafont - Always have the Meditation status.
 |    | Action Unlock: Mystic Arts T5
+|    | Reaction Unlock: Absorb MP
 | 11 | Job Action: Mystic Arts T6
 | 12 | Action Unlock: Mystic Arts T6
 | 13 | Job Action: Mystic Arts T7
@@ -73,7 +75,7 @@ Quiescence (16 MP) (multi) - Attempt to cause Silence status (4).
 
 ### Mystic Arts T3
 
-Condemn 2 (3 MP, 5 AP) - Refer to the Condemnation Table to determine what happens.
+Condemn 2 (6 MP, 5 AP) - Refer to the Condemnation Table to determine what happens.
 
 Invigration (16 MP) (single) - Attempt to drain Spirit * Level HP. The effect is reversed against undead.
 
@@ -87,7 +89,7 @@ Repose (24 MP) (multi) - Attempt to cause Sleep status at +50 Magic Accuracy.
 
 ### Mystic Arts T5
 
-Condemn 3 (7 MP, 1 AP) - Refer to the Condemnation Table to determine what happens.
+Condemn 3 (14 MP, 1 AP) - Refer to the Condemnation Table to determine what happens.
 
 Disbelief (6 MP) (single) - Attempt to cause Atheist status (6).
 

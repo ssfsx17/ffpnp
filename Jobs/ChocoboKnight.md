@@ -67,7 +67,7 @@ Choco Regen (1 AP) (single) - Causes Regen status (2).
 
 ### Chocotech T2
 
-Choco Cure (2 AP) (multi) - Restores an amount of HP equal to ten times your Level.
+Choco Cure (1 AP) (multi) - Restores an amount of HP equal to ten times your Level.
 
 ### Chocotech T3
 

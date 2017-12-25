@@ -80,7 +80,7 @@ Preach (1 AP) (single) - Causes Faith status (6).
 
 ### Speechcraft T6
 
-Enlighten (1 AP) (single) - Causes Atheist status (6).
+Enlighten (1 AP) (single) - Attempt to cause Atheist status (6).
 
 ### Speechcraft T7
 

@@ -9,13 +9,13 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Geomancy (1 AP) - Restricted by the environment. Each geomancy tech specifies which environment it is for.
+- Geomancy (1 AP) - Restricted by the environment. Each geomancy tech specifies which environment it is for. Some forms of Geomancy have AP costs, which stack with this action's cost.
 - Item
 
 Supports:
 
 - 1 x Choice
-- Light Step - Ignore all harmful effects from traps and from special types of floor.
+- Light Step - Ignore all harmful effects from ground traps and from special types of floor.
 
 Reactions:
 

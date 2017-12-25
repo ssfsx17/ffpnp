@@ -76,7 +76,7 @@ Clean Wipe (1 AP) (self-only) - Ends Blind, Poison, and Silence.
 
 ### Fundaments T3
 
-Tailwind (5 AP) (single) - Causes Haste status (2).
+Tailwind (4 AP) (single) - Causes Haste status (2).
 
 ### Fundaments T4
 
