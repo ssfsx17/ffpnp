@@ -144,7 +144,8 @@ Job Levels:
 ### White Magic T9
 
 - Curaise (60 MP) (single) - Raise, then Curaja, on a single target.
-- Fullhealing Cure (40 MP) (single) - Fully restores HP. Against undead, it does an amount of non-elemental damage equal to the target's maximum HP, and Magic Defense is applied.
+- Esunaja (60 MP) (single) - Removes all harmful status conditions.
+- Curada (60 MP) (single/multi) - In single-target form, this spell fully restores HP. In multi-target form, this spell restores an amount of HP equal to half of maximum HP. Against undead, it acts as a magical attack for magical non-elemental damage, and Magic Defense is applied.
 - Implosion (60 MP) (single) - Spirit * Level * 3 magical non-elemental damage.
 - Mass Cure (70 MP) (single/multi) - Spirit * Level * 3 healing. Against undead, it becomes a non-elemental damaging spell.
 - Mirror Images (56 MP) (single/multi) - Causes Blink status (12).
@@ -155,7 +156,8 @@ Job Levels:
 - Arisega (80 MP) (multi) - Revives all downed allies with full HP. Against undead, it attempts to destroy all undead instantly.
 - Diadem (60 MP) (single/multi) - Intellect * Level * 3 holy damage.
 - Disjunctionga (90 MP) (multi) - Ends all statuses, and attempts to instantly-kill summoned creatures. If the targeted team has any members with the X-Zone status, then their statuses are ended too, thus bringing them back. Cannot be reflected.
+- Esunada (120 MP) (multi) - Removes all harmful status conditions.
 - Holy (60 MP) (single/multi) - Spirit * Level * 3 holy damage.
 - Hurricane (60 MP) (single/multi) - Spirit * Level * 3 wind damage.
 - Rearise (70 MP) (single) - Causes Rearise status (10).
-- Renew (98 MP) (multi) - Fully restores HP. Against undead, it does an amount of non-elemental damage equal to the target's maximum HP, and Magic Defense is applied.
+- Renew (98 MP) (multi) - Fully restores HP. Against undead, it acts as a magical attack for an amount of non-elemental damage equal to the target's maximum HP, and Magic Defense is applied.

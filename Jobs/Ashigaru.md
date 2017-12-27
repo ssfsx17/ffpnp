@@ -65,9 +65,13 @@ Ashura (single) - Break a Level 1 Katana 2H. Magical attack for Intellect * Leve
 
 Dispatch (2 AP) (single) - Attack that ignores Evasion.
 
+Mirror of Equity (16 MP) (single) - Calculate how much HP you are missing compared to your maximum. Do an attack with this number added to the damage.
+
 ### Bushido Tech T2
 
 Kotetsu (multi) - Break a Level 10 Katana 2H. Magical attack for Intellect * Level * 0.5 magical dark damage.
+
+Magicide (4 MP) (single) - Attempt to do an amount of MP damage equal to 5% of your attack damage. Defense is not applied.
 
 Retort (4 AP) (special) - Defend action in which you get a free counter against one attack. Your counter ignores Evasion and Defense.
 
@@ -120,6 +124,8 @@ Eclipse (12 AP) (multi) - Attack all enemies for non-elemental magical damage, a
 Kiku-ichimonji (multi) - Break a Level 70 Katana 2H. Magical attack for Intellect * Level * 3 fire damage.
 
 ### Bushido Tech T9
+
+Hayate (20 MP) (self-only) - Causes Boost Evasion and Haste status (2).
 
 Masamune (multi) - Break a Level 80 Katana 2H. Causes Regen, Regen-Plus, and Haste statuses (10).
 

@@ -7,8 +7,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Cover - Choose one ally. All physical attacks against the ally are instead directed towards you. You can only Cover for one ally at a time.
-- Remove - Ends Cover.
+- Cover or Remove - Choose one ally. All physical attacks against the ally are instead directed towards you. You can only Cover for one ally at a time. This action can also be used to end the effect of Cover.
 - Holy Sword
 - Item
 
@@ -45,8 +44,7 @@ Job Levels:
 | 9 | Job Action: Holy Sword T5
 | 10 | Prestige Job Title: Holy Guardian
 |    | Action Unlock: Holy Sword T5
-|    | Action Unlock: Cover
-|    | Action Unlock: Remove
+|    | Action Unlock: Cover or Remove
 |    | Reaction Unlock: Sentinel
 | 11 | Job Action: Holy Sword T6
 | 12 | Action Unlock: Holy Sword T6

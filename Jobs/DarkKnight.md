@@ -9,7 +9,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Taunt - The next enemy must do a normal attack against you.
+- Taunt - The next enemy must do a normal attack against you. This attempt uses Accuracy and is opposed by Evasion.
 - Dark Sword Tech
 - Item
 
@@ -104,7 +104,7 @@ Infernal Strike (10 AP) (single) - Attack for double damage, ignoring Evasion. D
 
 ### Dark Sword Tech T7
 
-Last Resort (10 MP) (self-only) - Causes Doom, Boost Power, and Boost Magic statuses (6).
+Last Resort (10 MP) (self-only) - Causes Doom, Boost Power, and Boost Magic statuses (4).
 
 Memento Mori (2 AP) (single) - Attack and attempt to cause Doom status (6).
 

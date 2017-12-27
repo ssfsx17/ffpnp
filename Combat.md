@@ -71,6 +71,14 @@ Damage, after Defense is applied, cannot exceed 9,999. This is called the Damage
 
 Abilities or equipment may specify that they have "BDL". This stands for "Break Damage Limit", allowing damage up to 99,999. "BDL+" allows damage up to 999,999.
 
+## Shield HP
+
+Shield HP is used before normal HP for attack damage, ability damage, and spell damage. Shield HP is not used for damage caused by status conditions, HP reduction effects, instant death, own abilities, or any other such damage source.
+
+The maximum possible amount of Shield HP is equal to normal maximum HP.
+
+Shield HP is cut in half in every status phase. Therefore, it is a "use it or lose it" type of HP pool.
+
 ## Statuses
 
 Addle - Cannot use any actions other than Attack, Defend, or Item.
@@ -152,6 +160,8 @@ Mini - Evasion is increased by 50, but Defense is zero. Physical damage output i
 Oil - Take double damage from Fire element.
 
 Old - Each attribute is decreased by 10 per round. When the status ends, the attributes are restored to normal.
+
+Paralyze - Unable to act. Evasion and Magic Evasion are zero.
 
 Petrify - Unable to act. Evasion and Magic Evasion are zero. Initiative is zero. Defense is doubled.
 

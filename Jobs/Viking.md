@@ -63,21 +63,31 @@ Job Levels:
 
 Intimidating Pressure (2 AP) (single) - Attempt to cause Immobilize status (2), using Magic Accuracy and opposed by Magic Evasion.
 
+Mad Rush (6 MP) (single) - Attack for double damage, at -50 Accuracy.
+
 Pillage Gil (1 AP) (single) - Attack, and 5% of the damage is gained as Gil.
 
 ### Viking Tech T2
+
+Cripple (1 AP, 6 MP) (single) - Attempt to cut the target's HP in half, at -50 Accuracy.
 
 Pillage Item (1 AP) (single) - Attack, and take one item that the target had ready for use.
 
 ### Viking Tech T3
 
+Crackdown (6 MP) (single) - Attack, and remove Shell, Protect, and Reflect statuses on hit.
+
 Pillage Armor (1 AP) (single) - Attack, and take one piece of head gear, body gear, arm gear, or leg gear the target was wearing.
 
 ### Viking Tech T4
 
+Eject (8 MP) (single) - Attempt to force an enemy to flee combat, using Accuracy and opposed by Evasion. Beware that the enemy could come back later.
+
 Pillage Accessory (1 AP) (single) - Attack, and take an accessory that the target was wearing.
 
 ### Viking Tech T5
+
+Envenom (10 MP) (single) - Attack, and attempt to cause Poison-Plus status.
 
 Pillage Rare (1 AP) (single) - Attack, and take a rare item that the target possessed.
 
@@ -100,3 +110,5 @@ Critical Order (5 AP) (multi) - Causes Critical Vulnerability status (2).
 ### Viking Tech T10
 
 Aegir (10 AP) (multi) - Strength * Level physical water damage, and 1% of the damage is also dealt to MP.
+
+Howl (10 AP) (self-only) - Causes Bubble status (10).

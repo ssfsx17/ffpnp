@@ -82,6 +82,8 @@ Yahtzee Roll (30 gil) (special) - Play one round of Yahtzee. For every 10 points
 
 Blackjack Hand (210 gil) (single) - Play one hand of Blackjack. If you get 21 and the dealer does not, then attack one target for double damage, ignoring Evasion and Defense. If you win a normal hand, then attack one target, ignoring Evasion and Defense. If you lose a normal hand, then the target gets an extra attack against you. If you bust, then the target attacks you and ignores your Evasion and Defense.
 
+Luck (8 MP) (self-only) - Causes Resilient status (4).
+
 ### Gambling Tech T5
 
 Nickel Slots (50 gil) (special) - Play the Slots system. The top and bottom rows are used. You choose one of the two given effects.
@@ -107,6 +109,8 @@ Quarter Slots (250 gil) - Play the Slots system. Three rows and two diagonals ar
 ### Gambling Tech T10
 
 Dollar Slots (1,000 gil) - Play the Slots system. Three rows and two diagonals are used. The center row uses the High-Power Effects. You choose one of the five given effects.
+
+Felicity (8 MP) (multi) - Causes Resilient status (4).
 
 Mahjong Hand (2,000 Gil) (BDL) - Play a solitaire game of Mahjong, according to Japanese Riichi rules, and attempt to form a hand with only 28 draws. On a failure to make a Mahjong, each party member suffers 2,000 damage, ignoring Magic Evasion and Magic Defense. On a success, do an amount of damage to all enemies equal to the points value of the hand, ignoring Magic Evasion and Magic Defense. There are possible additional effects depending on components of the hand.
 

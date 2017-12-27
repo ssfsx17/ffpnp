@@ -116,8 +116,8 @@ Job Levels:
 ### Red Magic T9
 
 - Balefrost
+- Curada
 - Flare
-- Fullhealing Cure
 - Luminaire
 
 ### Red Magic T10

@@ -88,19 +88,27 @@ Mug Gil (2 AP) (single) - Attack and attempt to steal Level * 20 gil.
 
 ### Thievery Tech T6
 
+Borrowed Time (4 AP) (single) - Attempt to cause Stop status (2).
+
 Mug Item (2 AP) (single) - Attack and attempt to steal a usable item.
 
 ### Thievery Tech T7
 
 Mug Equipment (2 AP) (single) - Attack and attempt to steal a piece of equipment.
 
+Pilfer HP (single) - Attempt to drain an amount of HP equal to Level * 10. The effect is reversed against undead.
+
 ### Thievery Tech T8
 
 Mug Heart (2 AP) (single) - Attack and attempt to cause Charm status (4).
 
+Pilfer MP (single) - Attempt to drain an amount of MP equal to half your Level. The effect is reversed against undead.
+
 ### Thievery Tech T9
 
 Godspeed Strike (2 AP) (single) - Attack that ignores Evasion.
+
+Steal Will (2 AP) (single) - Attempt to cause Chicken status (4).
 
 ### Thievery Tech T10
 

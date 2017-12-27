@@ -23,6 +23,19 @@ How other types of stories might be Final Fantasized:
 
 - **Cthulhu** - Its name is not mentioned for at least 4/5ths of the story. The entire city of Boston has to be evacuated in the introduction, before characters have even been created. Deep Ones overrun the entire North American continent in the first half of the story. A humongous crater is blown through Mount Everest at some point in the second half of the story. It ends with the heroes going to Cthulhu's lair underneath the ocean, waking it up, and killing it. Yeah, that's right, killing it.
 
+## The Day to Day Stuff
+
+### Long Rests
+
+How long is a long rest? Long enough for a potential consequence. Usually, a long rest is roughly eight hours, but it could be longer or shorter depending on the dramatic situation. The Player-Characters should be careful of doing too many long rests, or trying to use multiple cheaper resting items rather than the latest ones.
+
+Examples of what can happen during a long rest:
+
+- Predatory monsters come to attack the party.
+- A distant town loses an important battle.
+- The Evil Empire's scouts discover where the party is resting, and plan a rapid response that arrives in the middle or end of the long rest.
+- The Ultimate Evil is able to do one plot-critical action.
+
 ## Monsters
 
 In video games, you can grind mobs for a few hours and put the story on hold. In pen & paper role-playing games, that is possible, but it would not be bringing out the strengths of this beautiful medium.

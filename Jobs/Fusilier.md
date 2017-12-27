@@ -72,6 +72,8 @@ Reload (self-only) - Charge action with double effectiveness, but the AP can onl
 
 ### Gunmanship T2
 
+Anti-Tank Round (self-only) - Your next firearm attack ignores Defense.
+
 Boltshot (self-only) - Your next firearm attack will be of the lightning element.
 
 Foresight (self-only) - On your next firearm attack, do two attacks instead of one.
@@ -104,7 +106,7 @@ Target (self-only) - Doubles the damage of your next firearm attack.
 
 ### Gunmanship T7
 
-Potion Shell (1 AP) (single) - Restores 600 HP.
+Potion Shell (single) - Restores 600 HP.
 
 Silenceshot (self-only) - Your next firearm attack causes Silence status at +50 Accuracy.
 

@@ -88,9 +88,7 @@ Job Levels: A table of various things that occur at each job level.
 - Action/Support/Reaction/Proficiency Unlock: Made available as a choice option. In many cases, Action unlocks will also expand the abilities and spells that are available to certain other jobs.
 - Prestige Job Title: New job title. Purely cosmetic, although the GM may create situations in which the job title is important.
 
-## Job Index
-
-Jobs in a higher JCT (Job Complexity Tier) are not necessarily better than ones in a lower JCT. JCTs are only a descriptor of the length of the requirements chain. In many cases, a job in a lower JCT could require more JP to unlock than a job in a higher JCT.
+## Civilian Jobs
 
 Civilian jobs exist in order to help with skill checks for things that would be obvious to normal people. The GM may also rule that achieving Job Level 10 or 20 with civilian jobs can reduce the prices of specific things by 10% to 20%, by spending multiple days to craft the items. For example, mastering the Blacksmith job (Job Level 20) could result in metal weapons being 20% cheaper after a week of work. Mastering the Gemcutter job could result in Globes 2H being 20% cheaper after a week of work. Multiple jobs could stack together to make a production chain.
 
@@ -125,6 +123,10 @@ Examples of Civilian Jobs (no noteworthy abilities):
 - Tailor
 - Train Conductor
 - Weaver
+
+## Job Index
+
+Jobs in a higher JCT (Job Complexity Tier) are not necessarily better than ones in a lower JCT. JCTs are only a descriptor of the length of the requirements chain. In many cases, a job in a lower JCT could require more JP to unlock than a job in a higher JCT.
 
 Base Jobs:
 
@@ -172,6 +174,7 @@ JCT2 Jobs:
 - [Oracle](/Jobs/Oracle.md)
 - [Ranger](/Jobs/Ranger.md)
 - [Red Mage](/Jobs/RedMage.md)
+- [Rogue](/Jobs/Rogue.md)
 - [Rune Knight](/Jobs/RuneKnight.md)
 - [Time Mage](/Jobs/TimeMage.md)
 - [Viking](/Jobs/Viking.md)

@@ -73,7 +73,7 @@ Job Levels:
 - Dragon Force (8 MP) (single) - Causes Brave and Faith statuses (6).
 - Flame Thrower (5 MP) (multi) - Intellect * Level * 0.5 magical fire damage.
 - Flash (7 MP) (multi) - Attempts to cause Blind status.
-- Healing Breeze (15 MP) (multi) - Restores Spirit * Level * 0.5 HP. Effect is reversed against undead.
+- Healing Breeze (15 MP) (multi) - Restores Spirit * Level * 0.5 HP. Against undead, it acts as a magical attack for magical non-elemental damage.
 - Moon Flute (3 MP) (special) - Causes Berserk status on the whole party (6).
 - War Dance (12 MP) (multi) - Causes Brave status (6).
 
@@ -88,6 +88,7 @@ Job Levels:
 ### Blue Magic T4
 
 - 1000 Needles (25 MP) (single) - 1000 damage. Ignores Magic Evasion and Magic Defense.
+- Blaster (15 MP) (single) - Attempt to cause Paralyze status (6).
 - Death Sentence (10 MP) (single) - Attempts to cause Doom status (6).
 - Transfusion (13 MP) (special) - Sacrifice self, in order to fully restore one target's HP and MP.
 - Unction (8 MP) (multi) - Attempts to cause Oil status (10).
@@ -118,10 +119,11 @@ Job Levels:
 ### Blue Magic T8
 
 - Benthic Typhoon (40 MP) (single) - Intellect * Level wind damage, and attempt to cause Broken Armor and Broken Helmet statuses.
+- Blaster, Coeurl's (40 MP) (single) - Attempt to instantly kill the target. If this effect fails, then attempt to cause Paralyze status (6) at +50 Magic Accuracy.
 - Death Claw (21 MP) (single) - Attempt to reduce the target to 1 HP and cause Stop status (6). This is at -50 Magic Accuracy.
 - Fantod (40 MP) (single) - Causes Boost Attack and Boost Magic statuses (4).
 - Mind Blast (6 MP) (single) - Intellect * Level magical non-elemental damage, and attempts to cause Sap and Stop status (6).
-- White Wind (28 MP) (multi) - Restore an amount of HP equal to your current HP (before White Wind was cast).
+- White Wind (28 MP) (multi) - Restore an amount of HP equal to your current HP (before White Wind was cast). Against undead, this acts as a magical attack for magical non-elemental damage.
 
 ### Blue Magic T9
 
@@ -134,7 +136,8 @@ Job Levels:
 ### Blue Magic T10
 
 - Bad Breath, King (99 MP, 10 AP) (multi) - Intellect * Level * 3 magical poison damage, and attempts to cause Blind, Disable, Immobilize, Poison, Poison-Plus, Sap, Silence, and Virus statuses.
-- Black Fang (99 MP, 10 AP) (single) - Attempt to instantly-kill at +50 Magic Accuracy. The effect is not reversed for undead.
+- Black Fang (99 MP, 10 AP) (single) - Attempt to instantly-kill at +50 Magic Accuracy. If this effect fails, then it acts as a magical attack for 9,999 magical non-elemental damage, ignoring Magic Defense. The effect is not reversed for undead.
 - Dark Spark (27 MP) (single) - Attempt to cut the target's experience level in half. Attributes are not affected.
+- Hyper Mighty Guard (99 MP, 10 AP) (multi) - Causes Protect, Shell, Float, Haste, Regen, and Reraise statuses (20).
 - Level 3 Flare (18 MP) (special) - Attempt to do the Flare effect on enemies whose level is a multiple of 3.
 - Level 5 Death (22 MP) (special) - Attempt to instantly kill enemies whose level is a multiple of 5.

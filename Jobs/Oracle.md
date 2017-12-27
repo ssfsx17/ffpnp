@@ -71,6 +71,8 @@ Umbra (4 MP) (multi) - Attempt to cause Blind status (6).
 
 Empowerment (2 MP) (single) - Attempt to drain an amount of MP equal to your Level. Magic Defense is not applied.
 
+Precognitive Precautions (12 MP) (single) - Gives an amount of Shield HP equal to Spirit * Level.
+
 Quiescence (16 MP) (multi) - Attempt to cause Silence status (4).
 
 ### Mystic Arts T3
@@ -97,6 +99,8 @@ Disbelief (6 MP) (single) - Attempt to cause Atheist status (6).
 
 Corruption (20 MP) (single) - Attempt to cause Zombie status.
 
+Fate Barrier (48 MP) (multi) (single) - Gives an amount of Shield HP equal to Spirit * Level.
+
 ### Mystic Arts T7
 
 Fervor (16 MP) (single) - Attempt to cause Berserk status (12).
@@ -107,7 +111,7 @@ Delirium (20 MP) (single) - Attempt to cause Confuse status (12).
 
 ### Mystic Arts T9
 
-Harmony (34 MP) (single) - Removes Float, Reraise, Rearise, Vanish, Regen, Protect, Shell, Haste, Faith, and Reflect. This occurs at +50 Magic Accuracy. Cannot be reflected.
+Harmony (34 MP) (single) - Removes Float, Reraise, Rearise, Vanish, Regen, Protect, Shell, Haste, Faith, and Reflect statuses. This occurs at +50 Magic Accuracy. Cannot be reflected.
 
 ### Mystic Arts T10
 

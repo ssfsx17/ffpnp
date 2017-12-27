@@ -89,7 +89,7 @@ On the Level (12 MP) (single) - Level * Level physical damage.
 
 ### Gunplay T7
 
-Burst Shot (12 MP) (single) - Attack that ignores Evasion, and is guaranteed to be a critical hit.
+Burst Shot (12 MP) (single) - Attack that ignores Evasion, and is considered to be a critical hit if the dice show 80 through 100.
 
 ### Gunplay T8
 
@@ -101,6 +101,6 @@ Scattershot (8 MP) (multi) - Attack all enemies for half damage, ignoring Evasio
 
 ### Gunplay T10
 
-Scatterburst (36 MP) (multi) - Attack all enemies. Successful hits are automatically considered to be critical hits.
+Scatterburst (36 MP) (multi) - Attack all enemies. Successful hits are considered to be critical hits if the dice show 80 through 100.
 
 Trigger Happy (20 AP) (BDL) (single) - Do a number of attacks equal to your passive AP gain at the start of the round.

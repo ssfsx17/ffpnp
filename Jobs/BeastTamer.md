@@ -7,8 +7,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Catch (single) - Attempt to catch an enemy that is at 25% HP or less, using Magic Accuracy and opposed by Magic Evasion. If successful, you now own that creature, and it is added to the Party Bestiary. The target's Level must be less than or equal to yours.
-- Release - Release one of your caught monsters. It does one action of your choice, then flees.
+- Catch or Release (single) - This action can be used in one of two ways: Catch or Release. Catch attempts to catch an enemy that is at 25% HP or less, using Magic Accuracy and opposed by Magic Evasion. If successful, you now own that creature, and it is added to the Party Bestiary. The target's Level must be less than or equal to yours. The Release action will let out one of your caught monsters. It does one action of your choice, then flees.
 - Spirit Pet - Create a pet that functions as a party member. The pet has the attributes and statistics of a monster of your Experience Level, with modifiers as described in the Spirit Pet Types section. You can only have a maximum of two pets in play at a time, with no duplicated Spirit Pet Types.
 - Item
 
@@ -48,8 +47,7 @@ Job Levels:
 | 10 | Prestige Job Title: Beastmaster
 |    | Job Support: Critical Haste - Always in Haste status while at 25% HP or less.
 |    | Job Support: Advanced Spirit Pet - You gain access to the pet types that are marked as "Advanced"
-|    | Action Unlock: Catch
-|    | Action Unlock: Release
+|    | Action Unlock: Catch or Release
 |    | Action Unlock: Spirit Pet
 |    | Support Unlock: Beast Tongue
 | 11 | 
@@ -83,9 +81,36 @@ Abilities:
 Abilities:
 
 - Gouge (single) - Attack with physical earth damage.
-- Shining Topaz (2 AP) (multi) - Attack all eemies for half physical earth damage.
-- Curl (2 AP) (self-only) - Causes Protect status (2).
+- Shining Topaz (2 AP) (multi) - Attack all enemies for half physical earth damage.
+- Curl (2 AP) (self-only) - Causes Protect status (4).
 - Storm (1 AP) (single) - Attack with physical earth damage, and attempt to cause Stun status (1).
+
+### Kogoro the Hound
+
+Abilities:
+
+- Holy Kogoro (18 MP) (single) - Attack with physical holy damage.
+- Doom Kogoro (6 MP) (single) - Attempt to cause Doom status (6).
+- Kogoro Cure (10 MP) (single) - Restores Spirit * Level * 0.5 HP. Against undead, it acts as a magical non-elemental attack.
+- Kogoro Remedy (10 MP, 4 AP) (single) - Remove all harmful status conditions.
+
+### Ghiki the Monkey
+
+Abilities:
+
+- Ghiki Gag (8 MP) (single) - Attack, and attempt to cause Silence status.
+- Mugger Ghiki (12 MP) (single) - Attack, and attempt to steal a useful item.
+- Bully Ghiki (8 MP) (single) - Attack, and attempt to cause Slow status (2).
+- Ghiki Cheer (4 AP) (single) - Causes Boost Attack and Protect status (4).
+
+### Flurry the Hawk
+
+Abilities:
+
+- Flurry Speed (10 MP, 2 AP) (single) - Restores Spirit * Level * 0.5 HP and causes Haste status (4). Against undead, it acts as a magical non-elemental attack but the Haste status still works normally.
+- Flurry Guard (10 MP, 2 AP) (single) - Restores Spirit * Level * 0.5 HP and causes Protect status (6). Against undead, it acts as a magical non-elemental attack but the Protect status still works normally.
+- Flurry Shield (10 MP, 2 AP) (single) - Restores Spirit * Level * 0.5 HP and causes Shell status (6). Against undead, it acts as a magical non-elemental attack but the Shell status still works normally.
+- Maulwings! (24 MP) (single) - Attack twice.
 
 ### Garuda-Egi (Advanced)
 
@@ -127,7 +152,7 @@ Abilities:
 - Flaming Crush (10 AP) (multi) - Attack all enemies with physical fire damage.
 - Inferno (20 AP) (multi) - Attack all enemies for double physical fire damage.
 
-### Eos (Advanced)
+### Eos the Fairy (Advanced)
 
 Maximum MP: Increased by 25%.
 
@@ -138,7 +163,7 @@ Abilities:
 - Fey Covenant (20 MP) (multi) - Causes Shell status (6).
 - Fey Illumination (30 MP) (multi) - Causes Boost Healing status (6).
 
-### Selene (Advanced)
+### Selene the Fairy (Advanced)
 
 Maximum HP: Increased by 50%.
 

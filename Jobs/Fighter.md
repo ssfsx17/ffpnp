@@ -89,7 +89,7 @@ Psychstrike (1 AP) (single) - Attack against Magic Evasion and Magic Defense.
 
 Air Blast (5 AP) (multi) - Strength * Level * 0.5 physical air damage to all enemies.
 
-Beat Down (1 AP) (single) - Attack with double damage and half Accuracy.
+Beat Down (1 AP) (single) - Attack with double damage and -50 Accuracy.
 
 ### Fighter Tech T7
 

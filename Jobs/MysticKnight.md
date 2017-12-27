@@ -94,6 +94,7 @@ Job Levels:
 - Aeroga Strike (30 MP) (single) - Attack with physical air element for double damage, ignoring Defense.
 - Aspir Strike (20 MP) (single) - Attack, and 10% of the damage is also done to the target's MP. Half of the MP damage is drained back to you.
 - Blizzaga Strike (30 MP) (single) - Attack with physical ice element for double damage, ignoring Defense.
+- Delay Attack (10 MP) (single) - Attack, and attempt to cause Slow status (2).
 - Firaga Strike (30 MP) (single) - Attack with physical fire element for double damage, ignoring Defense.
 - Thundaga Strike (30 MP) (single) - Attack with physical lightning element for double damage, ignoring Defense.
 
@@ -129,6 +130,7 @@ Job Levels:
 
 ### Spellblade Magic T10
 
+- Delay Buster (16 MP) (single) - Attack, and attempt to cause Slow status (6).
 - Drown Strike (60 MP) (single) - Attack with physical water element for quadruple damage, ignoring Evasion and Defense.
 - Interment Strike (60 MP) (single) - Attack with physical dark element for quadruple damage, ignoring Evasion and Defense.
 - Landslide Strike (60 MP) (single) - Attack with physical earth element for quadruple damage, ignoring Evasion and Defense.
