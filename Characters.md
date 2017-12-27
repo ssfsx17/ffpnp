@@ -12,7 +12,7 @@ Example Character Sheets:
 3. Allocate 100 attribute points. No attribute may have more than double the points allocated to it than the lowest one.
 4. Start with Job Level 1 in one Civilian job of choice.
 5. Start with Job Level 1 in all base jobs: [Chemist](/Jobs/Chemist.md), [Freelancer](/Jobs/Freelancer.md), [Onion Knight](/Jobs/OnionKnight.md), and [Squire](/Jobs/Squire.md).
-6. Start with 500 gil.
+6. Start with 500 gil to buy [Trappings such as weapons, armor, and potions](/Trappings/README.md)
 
 ## Three Things
 
