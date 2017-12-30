@@ -74,7 +74,7 @@ Since monsters have no inherent rewards, the GM is free to give incentives if th
 
 Suggested traits for boss monsters:
 
-- HP is multiplied by 10 or more.
+- HP is multiplied by 10, 20, 50, or more.
 - MP is multiplied by 5 or more.
 - +50 Evasion and Magic Evasion against status effects and HP-reducing effects, or halved effectiveness of these.
 - Successful instant-death effects are converted to 9999 damage.

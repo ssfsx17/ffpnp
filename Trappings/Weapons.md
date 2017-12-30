@@ -11,7 +11,7 @@ Precalculated weapons are available:
 | ---    | ---    | ---   | ---     |
 | Axes 1H                  | Strength * Item Level * 0.1 * 1d8          | Item Level * 100
 | Books 1H                 | Intellect * Item Level * 0.3               | Item Level * 120 | Intellect bonus of Item Level * 0.2
-| Daggers 1H               | Agility * Item Level * 0.3                 | Item Level * 80
+| Daggers 1H               | Agility * Item Level * 0.3                 | Item Level * 120 | Speed bonus of Item Level * 0.2
 | Festival Toys 1H         | Speed * Item Level * 0.5                   | Item Level * 120
 | Fists 1H                 | Strength * Item Level * 0.5                | Item Level * 100
 | Flutes 1H                | Spirit * Item Level * 0.4                  | Item Level * 100
