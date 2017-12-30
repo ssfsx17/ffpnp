@@ -1,5 +1,10 @@
 # Weapons
 
+Precalculated weapons are available:
+
+- [LibreOffice Calc format](/Trappings/Weapons.ods)
+- [Google Drive format](https://docs.google.com/spreadsheets/d/1Cf6kvtm3MPHSmJZkzmI-hXgUCSGoM-wJ0CPwkN39cjg/edit?usp=sharing)
+
 ## 1-Handed Melee Weapons
 
 | Weapon | Damage | Price | Special |

@@ -23,6 +23,12 @@ How other types of stories might be Final Fantasized:
 
 - **Cthulhu** - Its name is not mentioned for at least 4/5ths of the story. The entire city of Boston has to be evacuated in the introduction, before characters have even been created. Deep Ones overrun the entire North American continent in the first half of the story. A humongous crater is blown through Mount Everest at some point in the second half of the story. It ends with the heroes going to Cthulhu's lair underneath the ocean, waking it up, and killing it. Yeah, that's right, killing it.
 
+## Higher Starting Levels
+
+Character levels 1 through 20 are meant to help both the players and the GM get used to the rules. If the players make use of every possible rule that could help them, then the suggested numbers for monsters could be excessively easy at these levels. Character "builds" do not become especially unique until experience level 20, either.
+
+If both the GM and the players are already comfortable with the rules, then the GM can simply start on a higher session number, according to the suggested rewards table. To start on experience level 10, use the accumulated rewards of session 6. To start on experience level 20, use the accumulated rewards of session 10.
+
 ## The Day to Day Stuff
 
 ### Long Rests
@@ -55,28 +61,32 @@ On the other hand, the Ultimate Evil of the game is highly likely to use brute f
 The suggested average monster has the following statistics:
 
 - Monster Level = the party's average Experience Level
-- Maximum HP = M-Level * M-Level * 2
+- Average Attributes = M-Level + 10
+- Maximum HP = (M-Level + 10) * M-Level * 2
 - Maximum MP = M-Level * 10
-- Physical Damage = M-Level * M-Level
-- Accuracy & Magic Accuracy = M-Level * 2
-- Evasion & Magic Evasion = M-Level * 1.5
-- Defense & Magic Defense = M-Level * M-Level * 0.5
+- Damage Output = (M-Level + 20) * M-Level
+- Accuracy & Magic Accuracy = (M-Level * 2) + 10
+- Evasion & Magic Evasion = (M-Level * 1.5) + 20
+- Defense & Magic Defense = (M-Level + 20) * M-Level * 0.5, or half of damage output
 - Monster HP is not subject to the HP Limit
 
-Since monsters have no inherent rewards, the GM is free to give XP and JP incentives if the party seeks out tougher-than-average monsters, or to reduce XP and JP awards if the party seeks out weaker-than-average monsters.
+Since monsters have no inherent rewards, the GM is free to give incentives if the party seeks out tougher-than-average monsters, or to reduce rewards if the party seeks out weaker-than-average monsters.
 
 Suggested traits for boss monsters:
 
-- HP is multiplied by 20 or more.
-- MP is multiplied by 5 or more
+- HP is multiplied by 10 or more.
+- MP is multiplied by 5 or more.
 - +50 Evasion and Magic Evasion against status effects and HP-reducing effects, or halved effectiveness of these.
-- Successful instant-death are converted to 9999 damage.
-- Successful HP-reducing effects are capped at 9999 damage.
+- Successful instant-death effects are converted to 9999 damage.
+- Successful HP-reducing effects, or other damages based on maximum HP, are capped at 9999 damage.
+- Attacks twice per action.
 
 Precalculated average monsters and bosses are provided in the following formats:
 
 - [LibreOffice Calc](/FFPNP_Suggested_Average_Monsters.ods)
 - [Google Drive](https://docs.google.com/spreadsheets/d/1jI1CjCPBuhVCI4bKV9r5uEl5KE1PVM5n6Z-foHFVYt0/edit?usp=sharing)
+
+Ultimately, the given numbers are **suggestions** assuming average comfort with rules and numbers. The GM can write whatever they want. The GM can choose to round off the ones places, tens places, or even hundreds places of numbers. If all of the players must be reminded to buy new gear, and they dare not perform actions other than "attack," then the GM can just halve some numbers. If all of the players spend their entire free time between sessions on planning their characters, then the GM can just increase some numbers by 50% or 100%, or whatever other fudging. The end goal is to make the players feel good that they expanded their minds and used mental effort in order to overcome challenges.
 
 ### Examples of Non-Average Templates
 
@@ -184,123 +194,67 @@ It is recommended that the only way player-characters can possess certain inform
 
 ## Suggested Rewards per Session
 
-XP: Experience Level * Experience Level * 1,000
+The suggested rewards are based on the estimate that groups who play indie and hobbyist games will want to try a new one every half year, as such groups are likely to have a ratio of 10 RPG books owned per 1 book actually used. If the group cycles through games every six to eight weeks, then the suggested rewards should also be sufficient to give a taste of nearly every single aspect of the game's rules.
 
-- A table is provided for easier referencing.
-- This means that, assuming a pace of 1 session per week, level 99 can be reached in roughly one year using the suggested XP rewards. GMs should adjust this to fit the planned length of their campaigns.
+XP: Session Number * Session Number * 500
 
-JP: Experience Level * 10
+- This means that level 99 will be reached in roughly 31 sessions using the suggested XP rewards.
 
-Gil: Experience Level * 2,000
+JP: Session Number * 10
 
-Additional XP and JP can be incentivized through a variety of options:
+Gil: Session Number * 1,000
+
+Additional rewards can be incentivized through a variety of options:
 
 - The players perform good roleplaying, play their characters to the hilt, entertain each other, and make for a good time overall.
 - The players write character journals.
 - The players actively participate in the Story Point system.
 - The party seeks out sidequests.
-- The party seeks to train, grind mobs, and challenge themselves. The GM should make the combats much harder for such a session, or impose conditions such as "get a monster to 10% HP but don't kill it".
+- The party seeks to train and challenge themselves. The GM should make the combats much harder for such a session, or impose conditions such as "get a monster to 10% HP but don't kill it".
 
-### Suggested XP Rewards Table
+### Epic-Length Campaigns
 
-| Level | Experience |
-| ---   | ---        |
-|	1	|	1000
-|	2	|	4000
-|	3	|	9000
-|	4	|	16000
-|	5	|	25000
-|	6	|	36000
-|	7	|	49000
-|	8	|	64000
-|	9	|	81000
-|	10	|	100000
-|	11	|	121000
-|	12	|	144000
-|	13	|	169000
-|	14	|	196000
-|	15	|	225000
-|	16	|	256000
-|	17	|	289000
-|	18	|	324000
-|	19	|	361000
-|	20	|	400000
-|	21	|	441000
-|	22	|	484000
-|	23	|	529000
-|	24	|	576000
-|	25	|	625000
-|	26	|	676000
-|	27	|	729000
-|	28	|	784000
-|	29	|	841000
-|	30	|	900000
-|	31	|	961000
-|	32	|	1024000
-|	33	|	1089000
-|	34	|	1156000
-|	35	|	1225000
-|	36	|	1296000
-|	37	|	1369000
-|	38	|	1444000
-|	39	|	1521000
-|	40	|	1600000
-|	41	|	1681000
-|	42	|	1764000
-|	43	|	1849000
-|	44	|	1936000
-|	45	|	2025000
-|	46	|	2116000
-|	47	|	2209000
-|	48	|	2304000
-|	49	|	2401000
-|	50	|	2500000
-|	51	|	2601000
-|	52	|	2704000
-|	53	|	2809000
-|	54	|	2916000
-|	55	|	3025000
-|	56	|	3136000
-|	57	|	3249000
-|	58	|	3364000
-|	59	|	3481000
-|	60	|	3600000
-|	61	|	3721000
-|	62	|	3844000
-|	63	|	3969000
-|	64	|	4096000
-|	65	|	4225000
-|	66	|	4356000
-|	67	|	4489000
-|	68	|	4624000
-|	69	|	4761000
-|	70	|	4900000
-|	71	|	5041000
-|	72	|	5184000
-|	73	|	5329000
-|	74	|	5476000
-|	75	|	5625000
-|	76	|	5776000
-|	77	|	5929000
-|	78	|	6084000
-|	79	|	6241000
-|	80	|	6400000
-|	81	|	6561000
-|	82	|	6724000
-|	83	|	6889000
-|	84	|	7056000
-|	85	|	7225000
-|	86	|	7396000
-|	87	|	7569000
-|	88	|	7744000
-|	89	|	7921000
-|	90	|	8100000
-|	91	|	8281000
-|	92	|	8464000
-|	93	|	8649000
-|	94	|	8836000
-|	95	|	9025000
-|	96	|	9216000
-|	97	|	9409000
-|	98	|	9604000
-|	99	|	9801000
+Cutting the XP reward to 20% (i.e. Session Number * Session Number * 100) will result in reaching level 99 in 53 sessions.
+
+The GM can also choose to not hand out XP at all. Instead, the GM would declare that characters improve 1 experience level per 1 to 3 sessions, and cut JP and Gil rewards in half.
+
+### Suggested Rewards Table
+
+A longer table showing some XP reward variations is also available:
+
+- [LibreOffice Calc](/Suggested_Session_Rewards.ods)
+- [Google Drive](https://docs.google.com/spreadsheets/d/15Me7Dy-aNJRIm0dBfsiar99oJBt0JFGuxsaV7hfaSgE/edit?usp=sharing)
+
+|	Session Number	|	XP Reward	|	JP	|	Gil	|	Total XP	|	Total JP	|	Total Gil	|	Resulting Experience Level	|
+|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|
+|	1	|	500	|	10	|	1000	|	500	|	10	|	1000	|	1	|
+|	2	|	2000	|	20	|	2000	|	2500	|	30	|	3000	|	2	|
+|	3	|	4500	|	30	|	3000	|	7000	|	60	|	6000	|	4	|
+|	4	|	8000	|	40	|	4000	|	15000	|	100	|	10000	|	6	|
+|	5	|	12500	|	50	|	5000	|	27500	|	150	|	15000	|	7	|
+|	6	|	18000	|	60	|	6000	|	45500	|	210	|	21000	|	10	|
+|	7	|	24500	|	70	|	7000	|	70000	|	280	|	28000	|	12	|
+|	8	|	32000	|	80	|	8000	|	102000	|	360	|	36000	|	14	|
+|	9	|	40500	|	90	|	9000	|	142500	|	450	|	45000	|	17	|
+|	10	|	50000	|	100	|	10000	|	192500	|	550	|	55000	|	20	|
+|	11	|	60500	|	110	|	11000	|	253000	|	660	|	66000	|	23	|
+|	12	|	72000	|	120	|	12000	|	325000	|	780	|	78000	|	26	|
+|	13	|	84500	|	130	|	13000	|	409500	|	910	|	91000	|	29	|
+|	14	|	98000	|	140	|	14000	|	507500	|	1050	|	105000	|	32	|
+|	15	|	112500	|	150	|	15000	|	620000	|	1200	|	120000	|	35	|
+|	16	|	128000	|	160	|	16000	|	748000	|	1360	|	136000	|	39	|
+|	17	|	144500	|	170	|	17000	|	892500	|	1530	|	153000	|	42	|
+|	18	|	162000	|	180	|	18000	|	1054500	|	1710	|	171000	|	46	|
+|	19	|	180500	|	190	|	19000	|	1235000	|	1900	|	190000	|	50	|
+|	20	|	200000	|	200	|	20000	|	1435000	|	2100	|	210000	|	54	|
+|	21	|	220500	|	210	|	21000	|	1655500	|	2310	|	231000	|	58	|
+|	22	|	242000	|	220	|	22000	|	1897500	|	2530	|	253000	|	61	|
+|	23	|	264500	|	230	|	23000	|	2162000	|	2760	|	276000	|	65	|
+|	24	|	288000	|	240	|	24000	|	2450000	|	3000	|	300000	|	70	|
+|	25	|	312500	|	250	|	25000	|	2762500	|	3250	|	325000	|	75	|
+|	26	|	338000	|	260	|	26000	|	3100500	|	3510	|	351000	|	79	|
+|	27	|	364500	|	270	|	27000	|	3465000	|	3780	|	378000	|	83	|
+|	28	|	392000	|	280	|	28000	|	3857000	|	4060	|	406000	|	88	|
+|	29	|	420500	|	290	|	29000	|	4277500	|	4350	|	435000	|	92	|
+|	30	|	450000	|	300	|	30000	|	4727500	|	4650	|	465000	|	97	|
+|	31	|	480500	|	310	|	31000	|	Maximum	|	4960	|	496000	|	99	|

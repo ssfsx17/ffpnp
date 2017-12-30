@@ -47,3 +47,7 @@ Jewelry always has a prefix, material, and suffix.
 | of Sneaking | Item Level * 0.5 Evasion
 | of Soothing | Item Level * 0.2 Spirit
 | of Striking | Item Level * 0.2 Strength
+
+## Optional: Jewelry Can Never Be Purchased
+
+The GM may rule that the only way to acquire jewelry is by special rewards, or by seeking out difficult challenges outside of the main story.

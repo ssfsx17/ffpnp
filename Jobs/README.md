@@ -41,7 +41,9 @@ The GM could also require the Player Characters to seek out hidden masters, anci
 
 ## Optional: Job Usage Requirements
 
-The GM may choose to require that Player Characters spend an entire game session without changing jobs. Furthermore, all JP earned for that session are allocated only to the jobs they were playing. Jobs can still be changed outside of game sessions.
+The GM may choose to require that Player Characters spend an entire game session without changing jobs. Furthermore, all JP earned for that session are allocated only to the jobs they were playing, or to buy Job Level 1 in jobs that they have the requirements for. Jobs can still be changed outside of game sessions.
+
+The restrictions could also be softened slightly by the GM. Perhaps the GM instead says that the maximum possible job level is the maximum that any one character possesses. So, if one character has White Mage 10, then the others would need to wear the White Mage job and earn more JP towards it in order to improve White Mage higher than job level 10.
 
 ## Optional: Job Level Capped by Experience Level
 

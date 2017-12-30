@@ -65,7 +65,7 @@ Any changes that are considered to be just plain better, rather than a matter of
 
 # Differences to other Final Fantasy-inspired RPGs:
 
-This is not the first attempt to write a role-playing game based on the Final Fantasy franchise, nor will it be the last. In fact it is quite good for hobbyist scenes when more people get into them and make their own take, so that everyone in the scene can learn from each other and change their own ideas of perfection.
+This is not the first attempt to write a role-playing game based on the Final Fantasy franchise, nor will it be the last. In fact it is quite good for hobbyist scenes when more people get into them and make their own take, so that everyone in the scene can learn from each other and change their own ideas of perfection. Considering how large the franchise is, it would be more worrying if people somehow did *not* have varying opinions.
 
 The key points of difference are listed below:
 

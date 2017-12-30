@@ -61,7 +61,7 @@ Job Levels:
 
 ### Bushido Tech T1
 
-Ashura (single) - Break a Level 1 Katana 2H. Magical attack for Intellect * Level magical non-elemental damage.
+Ashura (single) - Break a Level 5 Katana 2H. Magical attack for Intellect * Level magical non-elemental damage.
 
 Dispatch (2 AP) (single) - Attack that ignores Evasion.
 
@@ -79,7 +79,7 @@ Retort (4 AP) (special) - Defend action in which you get a free counter against 
 
 Fang (2 AP) (single) - Attack that ignores Evasion and Defense.
 
-Osafune (multi) - Break a Level 20 Katana 2H. Magical attack that attempts to drain Intellect * Level * 0.1 MP from each target. Magic Defense is not applied.
+Osafune (multi) - Break a Level 20 Katana 2H. Magical attack that attempts to drain Intellect * Level * 0.01 MP from each target. Magic Defense is not applied.
 
 Slash (6 AP) (single) - Attempt to halve the current HP of the target and cause Sap status (10), at -50 Accuracy.
 
