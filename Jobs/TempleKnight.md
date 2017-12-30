@@ -33,7 +33,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Temple Sword Tech T1
 | 2 | Action Unlock: Temple Sword Tech T1
 | 3 | Job Action: Temple Sword Tech T2
 | 4 | Action Unlock: Temple Sword Tech T2

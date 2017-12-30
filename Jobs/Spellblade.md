@@ -9,7 +9,7 @@ Actions:
 - Charge
 - 1 x Choice
 - Spellblade Magic
-- Spellblade Magic Amp (2 AP) - Double the MP cost in order to do double damage.
+- Spellblade Magic Amp (2 AP) - Double the MP cost of a Spellblade Magic Spell in order to do double damage.
 - Item
 
 Supports:
@@ -45,7 +45,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Jobe: Warmage Spellblade
-|    | Job Support: Auto-Aspir Blade - Start each battle with one free Aspir Strike.
+|    | Job Support: Auto-Aspir Blade - Start each battle with one free Aspir Strike. This requires that you have Spellblade Magic as a job or choice action.
 |    | Action Unlock: Spellblade Magic Amp
 | 11 | 
 | 12 | 

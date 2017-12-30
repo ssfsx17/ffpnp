@@ -33,7 +33,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Dragoon Tech T1
 | 2 | Action Unlock: Dragoon Tech T1
 |   | Proficiency Unlock: Spears 1H
 | 3 | Job Action: Dragoon Tech T2

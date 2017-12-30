@@ -32,7 +32,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Soldier Tech T1
 | 2 | Action Unlock: Soldier Tech T1
 |   | Proficiency Unlock: Gunblades 2H
 | 3 | Job Action: Soldier Tech T2

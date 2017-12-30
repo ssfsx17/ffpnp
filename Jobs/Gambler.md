@@ -33,7 +33,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Gambling Tech T1
 | 2 | Action Unlock: Gambling Tech T1
 |   | Proficiency Unlock: Cards 1H
 | 3 | Job Action: Gambling Tech T2

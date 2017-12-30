@@ -31,6 +31,7 @@ Job Levels:
 | JL | Notes |
 | --- | --- |
 | 1 | Base Job
+|   | Job Action: Onion Tech T1
 | 2 | Action Unlock: Onion Tech T1
 |   | Proficiency Unlock: Light Shoes
 | 3 | Job Action: Onion Tech T2

@@ -22,7 +22,7 @@ Supports:
 Reactions:
 
 - 2 x Choice
-- Dragonheart (5 AP) - Upon taking damage, gain Reraise status (2).
+- Dragonheart (4 AP) - Upon taking damage, gain Reraise status (4).
 
 Proficiencies:
 

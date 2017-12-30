@@ -32,7 +32,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Dark Arts T1
 | 2 | Action Unlock: Dark Arts T1
 | 3 | Job Action: Dark Arts T2
 | 4 | Action Unlock: Dark Arts T2

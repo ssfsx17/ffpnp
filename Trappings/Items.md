@@ -5,7 +5,7 @@
 | 1 | Tonic | 10 | restores 25 HP
 |   | Bandage | 20 | restores 25 HP, also heals undead
 |   | Tincture | 1,000 | restores 10 MP
-|   | Phoenix Down | 100 | casts Standup
+|   | Phoenix Down | 100 | casts Life
 |   | Alarm Clock | 10 gil | removes Sleep
 |   | Antidote | 40 | removes Poison
 |   | Bestiary | 50 | casts Libra

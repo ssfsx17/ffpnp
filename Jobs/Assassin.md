@@ -31,7 +31,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Assassination Tech T1
 | 2 | Action Unlock: Assassination Tech T1
 | 3 | Job Action: Assassination Tech T2
 | 4 | Action Unlock: Assassination Tech T2

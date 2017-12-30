@@ -18,7 +18,7 @@ Supports:
 Reactions:
 
 - 1 x Choice
-- Riposte (1 AP) - If an attack misses you, then you do a weapon action against the one who missed. The AP cost for the weapon action also applies.
+- Riposte (1 AP) - If a physical action misses you, then you do a weapon action against the one who missed. The AP cost for the weapon action also applies.
 
 Proficiencies:
 
@@ -33,7 +33,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Fencing Tech T1
 | 2 | Action Unlock: Fencing Tech T1
 |   | Proficiency Unlock: Rapiers 1H
 | 3 | Job Action: Fencing Tech T2
@@ -70,11 +70,11 @@ Shadowstick (1 AP) (single) - Attack, and attempt to cause Slow status (6).
 
 ### Fencing Techs T3
 
-Checkmate (5 AP) (single) - Attack, and attempt to cause Doom status (8).
+Checkmate (5 AP) (single) - Attack, and attempt to cause Doom status (6).
 
 ### Fencing Techs T4
 
-Featherblow (1 AP) (single) - Attack for half damage that ignores Evasion and Defense.
+Featherblow (single) - Attack for half damage that ignores Evasion and Defense.
 
 ### Fencing Techs T5
 
@@ -92,13 +92,13 @@ Quick Hit (50 MP) (single) - Attack twice.
 
 ### Fencing Techs T8
 
-Dismissal (5 AP) (single) - Attack, and attempt to cause Addle status (2).
+Dismissal (4 AP) (single) - Attack, and attempt to cause Addle status (2).
 
 Nighthawk (5 AP) (single) - Attack for double damage, with the physical dark element.
 
 ### Fencing Techs T9
 
-Shadowbind Strike (10 AP) (single) - Attack, and attempt to cause Stop status (6).
+Shadowbind Strike (8 AP) (single) - Attack, and attempt to cause Stop status (6).
 
 Tempo Flurry (10 AP) (single) - Attack twice, and attempt to cause Slow status (6) on each successful hit.
 

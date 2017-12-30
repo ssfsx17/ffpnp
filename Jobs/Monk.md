@@ -32,7 +32,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Chi Tech T1
 | 2 | Action Unlock: Chi Tech T1
 | 3 | Job Action: Chi Tech T2
 | 4 | Action Unlock: Chi Tech T2
@@ -131,6 +131,6 @@ Phantom Rush (9 AP) (single) - Melee attack for double damage, ignoring Evasion 
 
 ### Chi Tech T10
 
-Musou Tensei (20 AP) (special) - Create ghostly copies of four allies who have died permanently in the storyline, for the remainder of combat. Out of combat, allows consulting them for advice, although limited by what they knew when they were alive.
+Musou Tensei (20 AP) (special) - Create ghostly copies of four allies who have died permanently in the storyline, for the remainder of combat. They possess the same attributes and statistics that they had in life. Out of combat, this ability allows consulting them for advice, although limited by what they knew when they were alive.
 
 Tenketsu (10 AP) (single) - Melee attack for double damage, and attempt to instantly-kill. If the instant-kill effect fails, then attempt to cause Doom status (4).

@@ -31,7 +31,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Archery T1
 | 2 | Action Unlock: Archery Tech T1
 |   | Proficiency Unlock: Bows 2H
 | 3 | Job Action: Archery Tech T2

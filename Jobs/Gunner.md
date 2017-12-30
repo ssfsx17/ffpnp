@@ -33,7 +33,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Gunplay T1
 | 2 | Action Unlock: Gunplay T1
 |   | Proficiency Unlock: Handguns 1H
 | 3 | Job Action: Gunplay T2
@@ -93,7 +93,7 @@ Burst Shot (12 MP) (single) - Attack that ignores Evasion, and is considered to 
 
 ### Gunplay T8
 
-Table-Turner (8 MP) (single) - Attack, and the target's Defense is added to the damage rather than decreasing it.
+Table-Turner (8 MP) (single) - Attack, and the target's Defense is added to the damage rather than decreasing it. This counts as a Death status attempt, if the target has increased resistance to such.
 
 ### Gunplay T9
 
@@ -103,4 +103,4 @@ Scattershot (8 MP) (multi) - Attack all enemies for half damage, ignoring Evasio
 
 Scatterburst (36 MP) (multi) - Attack all enemies. Successful hits are considered to be critical hits if the dice show 80 through 100.
 
-Trigger Happy (20 AP) (BDL) (single) - Do a number of attacks equal to your passive AP gain at the start of the round.
+Trigger Happy (20 AP) (BDL) (single) - Do a number of attacks equal to your passive AP gain at the start of the round. Evasion is ignored.

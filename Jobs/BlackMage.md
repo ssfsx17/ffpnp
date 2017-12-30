@@ -31,7 +31,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Black Magic T1
 | 2 | Action Unlock: Black Magic T1
 |   | Proficiency Unlock: Rods
 | 3 | Job Action: Black Magic T2

@@ -31,7 +31,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Calculation T1
 | 2 | Action Unlock: Calculation T1
 |   | Proficiency Unlock: Rulers 1H
 | 3 | Job Action: Calculation T2

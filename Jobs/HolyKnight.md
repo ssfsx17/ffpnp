@@ -33,7 +33,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Holy Sword T1
 | 2 | Action Unlock: Holy Sword T1
 | 3 | Job Action: Holy Sword T2
 | 4 | Action Unlock: Holy Sword T2

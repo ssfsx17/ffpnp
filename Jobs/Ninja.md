@@ -32,7 +32,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Ninjutsu T1
 | 2 | Action Unlock: Ninjutsu T1
 |   | Proficiency Unlock: Tanto 1H
 | 3 | Job Action: Ninjutsu T2

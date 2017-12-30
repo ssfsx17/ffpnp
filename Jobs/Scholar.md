@@ -13,7 +13,7 @@ Actions:
 Supports:
 
 - 1 x Choice
-- Spellbound - Status effects on you, both helpful and harmful, have their durations increased by 2.
+- Spellbound - Status effects on you, both helpful and harmful, have their durations increased by 2. The exceptions are Doom, Gradual Petrify, and Quick statuses.
 
 Reactions:
 
@@ -43,7 +43,7 @@ Job Levels:
 | 8 | Action Unlock: Scholastic Tech T4
 | 9 | Job Action: Scholastic Tech T5
 | 10 | Prestige Job Title: Librarian
-|    | Job Support: Careful Study - You take half damage from your own actions, before Defense and Magic Defense are applied.
+|    | Job Support: Careful Study - You take half damage from your own Scholastic Tech, before Defense and Magic Defense are applied.
 |    | Action Unlock: Scholastic Tech T5
 |    | Support Unlock: Spellbound
 | 11 | Job Action: Scholastic Tech T6
@@ -62,7 +62,7 @@ Job Levels:
 
 ### Scholastic Tech T1
 
-Physick (2 AP) (single) - Restores Intellect * Level * 0.5 HP. Against undead, it is a magical attack with non-elemental damage.
+Physick (2 AP) (single) - Restores Intellect * Level * 0.5 HP. Against undead, it is a magical attack with non-elemental damage. Outside of combat, this allows full restoration of one target's HP during a long rest.
 
 Study (single) - Acts as the White Magic spell Libra.
 
@@ -74,7 +74,7 @@ Sublimation (self-only) - Lose an amount of HP equal to your experience level * 
 
 ### Scholastic Tech T3
 
-Adloqium (3 AP) (single) - Restores Intellect * Level * 0.5 HP, and grants an equal amount of Shield HP. Against undead, it is a magical attack with non-elemental damage, but the Shield HP works normally.
+Adloqium (3 AP) (single) - Restores Intellect * Level * 0.5 HP, and grants an equal amount of Shield HP. Against undead, it is a magical attack with non-elemental damage, but the Shield HP works normally. Outside of combat, this allows full restoration of one target's HP during a long rest.
 
 Natural Selection (special) - Intellect * Level non-elemental magical damage to everyone of your own race. Which includes you.
 
@@ -86,21 +86,19 @@ Rouse (6 AP) (single) - Causes Boost Magic status (4).
 
 ### Scholastic Tech T5
 
-Lustrate (4 AP) (single) - Restores Intellect * Level HP. Against undead, it is a magical attack with non-elemental damage.
+Lustrate (4 AP) (single) - Restores Intellect * Level HP. Against undead, it is a magical attack with non-elemental damage. Outside of combat, this allows full restoration of one target's HP during a long rest.
 
 Rime Bolt Tome (special) - Intellect * Level ice damage to everyone.
 
-Succor (6 AP) (multi) - Restores Intellect * Level * 0.5 HP, and grants an equal amount of Shield HP. Against undead, it is a magical attack with non-elemental damage, but the Shield HP works normally.
+Succor (6 AP) (multi) - Restores Intellect * Level * 0.5 HP, and grants an equal amount of Shield HP. Against undead, it is a magical attack with non-elemental damage, but the Shield HP works normally. Outside of combat, this allows restoration of half of the party's HP during a long rest.
 
 ### Scholastic Tech T6
 
-Excogitation (4 AP) (single) - Causes Reraise status (8).
+Excogitation (4 AP) (single) - Causes Reraise status (6).
 
 Thunder Flare Tome (special) - Intellect * Level lightning damage to everyone.
 
 ### Scholastic Tech T7
-
-Indomitability (10 AP) (multi) - Restores Intellect * Level HP. Against undead, it is a magical attack with non-elemental damage.
 
 Sacred Soil (6 AP) (multi) - Causes Protect status (6).
 
@@ -109,6 +107,8 @@ Shadow Shade Tome (special) - Intellect * Level dark damage to everyone.
 ### Scholastic Tech T8
 
 Chain Stratagem (8 AP) (single) - Attempts to cause Critical Vulnerability status (6).
+
+Indomitability (10 AP) (multi) - Restores Intellect * Level HP. Against undead, it is a magical attack with non-elemental damage. Outside of combat, this allows restoration of all of the party's HP during a long rest.
 
 Piercing Sight (1 AP) (single) - Acts as the White Magic spell Libra, and gives the target a random elemental weakness.
 

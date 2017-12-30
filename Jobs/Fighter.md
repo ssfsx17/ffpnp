@@ -31,7 +31,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Fighter Tech T1
 | 2 | Action Unlock: Fighter Tech T1
 | 3 | Job Action: Fighter Tech T2
 | 4 | Action Unlock: Fighter Tech T2

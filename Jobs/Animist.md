@@ -33,7 +33,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Animism Calling T1
 | 2 | Action Unlock: Animism Calling T1
 | 3 | Job Action: Animism Calling T2
 | 4 | Action Unlock: Animism Calling T2

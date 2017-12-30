@@ -32,7 +32,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Speechcraft T1
 | 2 | Action Unlock: Speechcraft T1
 |   | Proficiency Unlock: Whips 2H
 | 3 | Job Action: Speechcraft T2

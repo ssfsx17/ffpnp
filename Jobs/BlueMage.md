@@ -32,7 +32,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Blue Magic T1
 | 2 | Action Unlock: Blue Magic T1
 | 3 | Job Action: Blue Magic T2
 | 4 | Action Unlock: Blue Magic T2

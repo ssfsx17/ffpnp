@@ -32,7 +32,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Bardsong T1
 | 2 | Action Unlock: Bardsong T1
 |   | Proficiency Unlock: Flutes 1H
 | 3 | Job Action: Bardsong T2

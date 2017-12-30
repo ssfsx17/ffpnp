@@ -13,7 +13,7 @@ Actions:
 Supports:
 
 - 1 x Choice
-- Awareness - Gain a bonus of +100 to skill checks to avoid back attacks, surprise attacks, and pincer attacks.
+- Awareness - Gain a bonus of +50 to skill checks to avoid back attacks, surprise attacks, and pincer attacks.
 
 Reactions:
 
@@ -32,7 +32,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Thievery Tech T1
 | 2 | Action Unlock: Thievery Tech T1
 |   | Proficiency Unlock: Daggers 1H
 | 3 | Job Action: Thievery Tech T2

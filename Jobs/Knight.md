@@ -31,7 +31,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Knight Tech T1
 | 2 | Action Unlock: Knight Tech T1
 |   | Proficiency Unlock: Heavy Greaves
 | 3 | Job Action: Knight Tech T2

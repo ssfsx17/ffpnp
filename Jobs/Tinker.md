@@ -31,7 +31,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Machine T1
 | 2 | Action Unlock: Machine T1
 | 3 | Job Action: Machine T2
 | 4 | Action Unlock: Machine T2

@@ -32,7 +32,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Dance T1
 | 2 | Action Unlock: Dance T1
 |   | Proficiency Unlock: Sashes 2H
 | 3 | Job Action: Dance T2

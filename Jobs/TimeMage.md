@@ -31,7 +31,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Time Magic T1
 | 2 | Action Unlock: Time Magic T1
 | 3 | Job Action: Time Magic T2
 | 4 | Action Unlock: Time Magic T2

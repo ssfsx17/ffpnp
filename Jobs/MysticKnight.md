@@ -31,7 +31,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Spellblade Magic T1
 | 2 | Action Unlock: Spellblade Magic T1
 | 3 | Job Action: Spellblade Magic T2
 | 4 | Action Unlock: Spellblade Magic T2

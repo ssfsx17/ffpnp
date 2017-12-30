@@ -33,7 +33,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Illusion Magic T1
 | 2 | Action Unlock: Illusion Magic T1
 | 3 | Job Action: Illusion Magic T2
 | 4 | Action Unlock: Illusion Magic T2

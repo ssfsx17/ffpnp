@@ -33,7 +33,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Chocotech T1
 | 2 | Action Unlock: Chocotech T1
 | 3 | Job Action: Chocotech T2
 | 4 | Action Unlock: Chocotech T2

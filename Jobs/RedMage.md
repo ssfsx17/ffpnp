@@ -7,7 +7,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Red Magic - If the spell is not unlocked via Black Mage or White Mage, then its MP cost is doubled.
+- Red Magic - If the spell is not unlocked for choice action via Black Mage or White Mage, then its MP cost is doubled.
 - Item
 
 Supports:
@@ -31,7 +31,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Red Magic T1
 | 2 | Action Unlock: Red Magic T1
 | 3 | Job Action: Red Magic T2
 | 4 | Action Unlock: Red Magic T2

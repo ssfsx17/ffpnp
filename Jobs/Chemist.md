@@ -32,6 +32,7 @@ Job Levels:
 | JL | Notes |
 | --- | --- |
 | 1 | Base Job
+|   | Job Action: Chemistry Tech T1
 | 2 | Action Unlock: Chemistry Tech T1
 |   | Proficiency Unlock: Magic Shoes
 | 3 | Job Action: Chemistry Tech T2

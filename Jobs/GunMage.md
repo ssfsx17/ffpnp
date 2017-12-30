@@ -32,7 +32,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Fiend Hunter T1
 | 2 | Action Unlock: Fiend Hunter T1
 | 3 | Job Action: Fiend Hunter T2
 | 4 | Action Unlock: Fiend Hunter T2

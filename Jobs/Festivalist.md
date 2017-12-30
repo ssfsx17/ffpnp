@@ -34,7 +34,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Festivities T1
 | 2 | Action Unlock: Festivities T1
 |   | Proficiency Unlock: Festival Toys 1H
 | 3 | Job Action: Festivities T2
@@ -112,5 +112,5 @@ Job Levels:
 
 ### Festivities T10
 
-- Holy Fish (20 MP) (single) - Intellect * Level * (1 + Fish Counter) magical holy damage, and adds one Fish counter to the target.
+- Holy Fish (20 MP) (single) - Intellect * Level * (Fish Counter) magical holy damage, and adds one Fish counter to the target.
 - Ultima Sandals (BDL) (24 MP, 20 AP) (multi) - Intellect * Level * 1d10 magical non-elemental damage.

@@ -32,7 +32,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Magitek Systems T1
 | 2 | Action Unlock: Magitek Systems T1
 |   | Proficiency Unlock: Magitek Legs
 | 3 | Job Action: Magitek Systems T2
@@ -110,4 +110,4 @@ Repair System (2 AP) (self-only) - Restores Agility * Level HP.
 
 Napalm (5 AP) (single) - Agility * Level * 3 physical fire damage.
 
-Link Attack (10 AP) (single) - Attack, then the rest of the party gets a free attack against the same target.
+Link Attack (10 AP) (single) - Attack. Then, the rest of the party gets a free attack against the same target at -50 Accuracy.

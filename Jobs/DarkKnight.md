@@ -35,7 +35,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Dark Sword Tech T1
 | 2 | Action Unlock: Dark Sword Tech T1
 | 3 | Job Action: Dark Sword Tech T2
 | 4 | Action Unlock: Dark Sword Tech T2
@@ -106,13 +106,13 @@ Infernal Strike (10 AP) (single) - Attack for double damage, ignoring Evasion. D
 
 Last Resort (10 MP) (self-only) - Causes Doom, Boost Power, and Boost Magic statuses (4).
 
-Memento Mori (2 AP) (single) - Attack and attempt to cause Doom status (6).
+Memento Mori (2 AP) (single) - Attack and attempt to cause Doom status (4).
 
 ### Dark Sword Tech T8
 
 Final Thrust (16 MP) (single) - Requires that you are at 20% or less HP. Do an amount of magical dark damage equal to your maximum HP. Magic Defense is not applied.
 
-Onyx Wave (multi) - Use an amount of HP equal to 20% of your maximum, to do a magical attack for Strength * Level * 2 dark damage.
+Onyx Wave (1 AP) (multi) - Use an amount of HP equal to 20% of your maximum, to do a magical attack for Strength * Level * 2 dark damage.
 
 ### Dark Sword Tech T9
 
@@ -122,6 +122,6 @@ Salted Earth (2 AP) (special) - Defend action. Enemies who cause damage to you d
 
 ### Dark Sword Tech T10
 
-Amok (BDL+) (single) - Repeatedly do attacks that take 10% HP each, until you die and exhaust all Reraise & Rearise statuses.
+Amok (2 AP) (BDL+) (single) - Repeatedly do attacks that take 10% HP each, until you die and exhaust all Reraise & Rearise statuses.
 
-Unholy Sacrifice (multi) - Use an amount of HP equal to 75% of your maximum, to do a magical attack for Strength * Level * 5 dark damage.
+Unholy Sacrifice (2 AP) (multi) - Use an amount of HP equal to 75% of your maximum, to do a magical attack for Strength * Level * 5 dark damage.

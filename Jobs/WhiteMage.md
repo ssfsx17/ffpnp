@@ -31,7 +31,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: White Magic T1
 | 2 | Action Unlock: White Magic T1
 |   | Proficiency Unlock: Staves 2H
 | 3 | Job Action: White Magic T2

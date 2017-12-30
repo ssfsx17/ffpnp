@@ -29,7 +29,7 @@ Proficiencies:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Summon T1
 | 2 | Action Unlock: Summon T1
 | 3 | Job Action: Summon T2
 | 4 | Action Unlock: Summon T2
@@ -125,5 +125,5 @@ Proficiencies:
 ### Summons T10
 
 - Bahamut ZERO: Teraflare (BDL+) (180 MP, 10 AP) (multi) - Intellect * Level * 10 non-elemental damage.
-- Knights of the Round (BDL+) (250 MP, 10 AP) (multi) - Thirteen physical attacks against all enemies that each do Strength * Level * 3 damage.
+- Knights of the Round (BDL+) (250 MP, 10 AP) (multi) - Thirteen physical attacks against all enemies that each do Strength * Level damage.
 - Zodiark: Darkening Cloud (BDL+) (99 MP, 10 AP) (multi) - Intellect * Level * 8 dark damage.

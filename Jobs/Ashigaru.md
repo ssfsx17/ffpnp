@@ -31,7 +31,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Bushido Tech T1
 | 2 | Action Unlock: Bushido Tech T1
 |   | Proficiency Unlock: Wakizashi 1H
 | 3 | Job Action: Bushido Tech T2

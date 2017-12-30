@@ -32,7 +32,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Gunmanship T1
 | 2 | Action Unlock: Gunmanship T1
 |   | Proficiency Unlock: Cannons 2H
 | 3 | Job Action: Gunmanship T2

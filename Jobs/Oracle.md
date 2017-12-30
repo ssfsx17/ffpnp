@@ -32,7 +32,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Mystic Arts T1
 | 2 | Action Unlock: Mystic Arts T1
 | 3 | Job Action: Mystic Arts T2
 | 4 | Action Unlock: Mystic Arts T2

@@ -31,7 +31,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Viking Tech T1
 | 2 | Action Unlock: Viking Tech T1
 |   | Proficiency Unlock: Axes 1H
 | 3 | Job Action: Viking Tech T2

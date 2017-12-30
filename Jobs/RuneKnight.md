@@ -6,7 +6,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Runic - When targeted by a magic spell (regardless of beneficial or harmful), the MP is absorbed and the spell has no effect. This activation cancels the Runic.
+- Runic - Places yourself into a Runic state. When targeted by a magic spell (regardless of beneficial or harmful), the MP is absorbed and the spell has no effect. This activation cancels the Runic.
 - Black Magic
 - Item
 

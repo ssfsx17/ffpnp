@@ -66,7 +66,7 @@ Job Levels:
 
 ### Fundaments T1
 
-Stone Toss (single) - Ranged attack dealing Strength * Level * 0.2 damage.
+Stone Toss (single) - Ranged attack dealing Strength * Level * 0.2 damage. On a critical hit, the enemy is knocked to the back row.
 
 Tackle (single) - Melee attack dealing Strength * Level * 0.2 damage. On a successful hit, the enemy is knocked to the back row.
 
@@ -96,7 +96,7 @@ Great Tailwind (10 AP) (multi) - Causes Haste status (2).
 
 ### Fundaments T8
 
-Great Chant (10 AP) (multi) - Sacrifice an amount of HP equal to Level * 10 in order to restore double that much to the whole party.
+Great Chant (5 AP) (multi) - Sacrifice an amount of HP equal to Level * 10 in order to restore double that much to the whole party.
 
 ### Fundaments T9
 

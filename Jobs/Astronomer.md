@@ -33,7 +33,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Astrology Tech T1
 | 2 | Action Unlock: Astrology Tech T1
 |   | Proficiency Unlock: Globes 2H
 | 3 | Job Action: Astrology Tech T2

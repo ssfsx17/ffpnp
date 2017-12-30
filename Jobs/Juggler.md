@@ -95,8 +95,8 @@ Food Toss (1 AP) (single) - Attempt to cause Stun, Disable, and Immobilize statu
 
 ### Acrobatics T9
 
-Trapeze Toss (10 AP) (special) - Attempt to place half the party members (which can include yourself) on the other side of the enemy team, thus forming a pincer attack. This is an Accuracy check opposed by the enemy with the best Defense.
+Trapeze Toss (10 AP) (special) - Attempt to place half the party members (which can include yourself) on the other side of the enemy team, thus forming a pincer attack. This is an Accuracy check opposed by the enemy with the best Evasion.
 
 ### Acrobatics T10
 
-Juggle Combo (20 AP) (BDL+) (single) - Attack, and if it is a critical hit, then attack again. The attacks continue until a miss or a normal hit.
+Juggle Combo (20 AP) (BDL+) (single) - Attack, and if it is a critical hit, then attack again. The attacks continue until a miss or a normal hit. Attacks from Juggle Combo are considered a critical hit if the dice show 80 through 100 (i.e. +10 critical range).

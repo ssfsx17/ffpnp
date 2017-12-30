@@ -31,7 +31,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Psionics T1
 | 2 | Action Unlock: Psionics T1
 | 3 | Job Action: Psionics T2
 | 4 | Action Unlock: Psionics T2
@@ -95,4 +95,4 @@ Physics Guard (28 MP) (self-only) - Causes Protect status (12).
 
 ### Psionics T10
 
-Stand (99 MP, 10 AP) (self-only) - Creates a psychic copy of yourself which acts independently and lasts for the current combat. It shares HP with you, so that if it takes damage, you likewise take damage.
+Stand (99 MP, 10 AP) (self-only) - Creates a psychic copy of yourself which acts independently and lasts for the current combat. It shares HP and MP with you, so that if it takes damage, you likewise take damage.
