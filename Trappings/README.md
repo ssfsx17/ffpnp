@@ -11,10 +11,17 @@ All trappings have an Item Level. Trappings above Item Level 99 are impossible t
 
 If the GM wishes to have challenge sidequests with bosses who are many times harder than the actual story boss, then such priceless equipment should in fact be a requirement to finish these sidequests. The process of finding the priceless equipment would itself be a large set of sidequests.
 
-## Suggested Material Descriptions
+## Precalculated Examples
 
-| Item Level | Suggested Rigid Material Description | Suggested Flexible Material Description |
-| ---        | ---                                  | ---                                     |
+- [Weapons (LibreOffice Calc)](/Trappings/Weapons.ods)
+- [Weapons (Google Drive)](https://docs.google.com/spreadsheets/d/1Cf6kvtm3MPHSmJZkzmI-hXgUCSGoM-wJ0CPwkN39cjg/edit?usp=sharing)
+- [Armor (LibreOffice Calc)](/Trappings/Armor.ods)
+- [Armor (Google Drive)](https://docs.google.com/spreadsheets/d/1vAIvAEO5u4lUip9Vw72w8Loi_yOCCRDFeTvHjJ5CRCY/edit?usp=sharing)
+
+## Examples of Material Descriptions
+
+| Item Level | Example Rigid Material Description | Example Flexible Material Description |
+| ---        | ---                                | ---                                     |
 | 1 | Wood | Canvas
 | 5 | Stone | Flaxen
 | 10 | Copper | Wool

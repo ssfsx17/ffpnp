@@ -124,6 +124,7 @@ It is recommended that the only way player-characters can possess certain inform
 
 **Humanoid:**
 
+- The monster starts with at least 1 AP.
 - The monster has job abilities, with a maximum job level equal to the player-characters' highest job level.
 - The monster drops a piece of equipment upon death, appropriate for its job.
 
@@ -139,6 +140,7 @@ It is recommended that the only way player-characters can possess certain inform
 
 **Mechanical:**
 
+- Attack Damage is increased by 50%.
 - Defense is doubled.
 - The monster always suffers from Stun status (1) upon taking lightning damage.
 - The monster takes double damage from Thief and Tinker abilities.
@@ -203,6 +205,8 @@ XP: Session Number * Session Number * 500
 JP: Session Number * 10
 
 Gil: Session Number * 1,000
+
+Donations from NPCs: Half of Gil reward in value
 
 Additional rewards can be incentivized through a variety of options:
 

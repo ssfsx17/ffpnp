@@ -29,9 +29,9 @@ The price of a job level in JP is equal to the level multiplied by 10. The follo
 
 Improving a Job to Job Level 10 will gain a Prestige Job Title, indicating great expertise compared to any mortal. Improving a Job to Job level 20 makes it Mastered.
 
-All Jobs are inherently magical. Their abilities might express this magic in different ways. There is no such thing as a person who can slice all enemies in a single stroke without the aid of magic. If someone can slice all enemies in a single stroke, they are getting some sort of constant magical power from their Job. Furthermore, it is possible that Jobs can change clothing style, equipment detailing, hairstyle, makeup, and other such visible features. For example, if someone is currently a Knight and they change jobs to Dark Knight, then their armor could suddenly turn black and grow a bunch of sharp edges and spikes.
+All Jobs are inherently magical. Their abilities might express this magic in different ways. There is no such thing as a person who can slice all enemies in a single stroke without the aid of supernatural power. If someone can slice all enemies in a single stroke, they are getting some sort of constant magical power from their Job. Furthermore, it is possible that Jobs can change clothing style, equipment detailing, hairstyle, makeup, and other such visible features. For example, if someone is currently a Knight and they change jobs to Dark Knight, then their armor could suddenly turn black and grow a bunch of sharp edges and spikes.
 
-If a job has an action from another job, then that action is usable according to what has been unlocked for choice, as opposed to what has been unlocked for job use. For example, you must have White Mage 20 (mastered) in order to use White Magic T10 with any other job that has the White Magic action, such as Devout or Paladin.
+If a job has an action from another job, then that action is usable according to what has been unlocked for choice, as opposed to what has been unlocked for job use. For example, you must have White Mage 20 (mastered) in order to use White Magic T10 with any other job that has the White Magic action, such as Devout or Paladin. Whereas it is possible to use White Magic T10 while wearing White Mage 19.
 
 ## Optional: Plotline Job Requirements
 
@@ -43,7 +43,7 @@ The GM could also require the Player Characters to seek out hidden masters, anci
 
 The GM may choose to require that Player Characters spend an entire game session without changing jobs. Furthermore, all JP earned for that session are allocated only to the jobs they were playing, or to buy Job Level 1 in jobs that they have the requirements for. Jobs can still be changed outside of game sessions.
 
-The restrictions could also be softened slightly by the GM. Perhaps the GM instead says that the maximum possible job level is the maximum that any one character possesses. So, if one character has White Mage 10, then the others would need to wear the White Mage job and earn more JP towards it in order to improve White Mage higher than job level 10.
+The restrictions could also be softened slightly by the GM. Perhaps the GM instead says that the maximum possible job level is the maximum that any one character possesses. So, if one character has White Mage 10, then the others would need to wear the White Mage job and earn more JP towards it in order to improve the party's White Mage cap higher than job level 10.
 
 ## Optional: Job Level Capped by Experience Level
 
@@ -70,7 +70,7 @@ The GM may choose to impose a cap of Job Level being no higher than Experience L
 | 85 | 17 |
 | 90 | 18 |
 | 95 | 19 |
-| - | 20 | Most likely requires a sidequest to unlock |
+| - | 20 | Most likely requires a sidequest to unlock for each job |
 
 ## Job Description Format
 

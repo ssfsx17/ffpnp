@@ -8,11 +8,11 @@ Example Character Sheets:
 ## Character Creation Procedure
 
 1. Write the Three Things about your character.
-2. Choose your character's race.
+2. Choose your character's [race](/Races.md).
 3. Allocate 100 attribute points. No attribute may have more than double the points allocated to it than the lowest one.
-4. Start with Job Level 1 in one Civilian job of choice.
-5. Start with Job Level 1 in all base jobs: [Chemist](/Jobs/Chemist.md), [Freelancer](/Jobs/Freelancer.md), [Onion Knight](/Jobs/OnionKnight.md), and [Squire](/Jobs/Squire.md).
-6. Start with 500 gil to buy [Trappings such as weapons, armor, and potions](/Trappings/README.md)
+4. Start with Job Level 1 in one Civilian [job](/Jobs/README.md) of choice.
+5. Start with Job Level 1 in all base [jobs](/Jobs/README.md): [Chemist](/Jobs/Chemist.md), [Freelancer](/Jobs/Freelancer.md), [Onion Knight](/Jobs/OnionKnight.md), and [Squire](/Jobs/Squire.md).
+6. Start with 500 gil to buy [Trappings](/Trappings/README.md) such as [weapons](/Trappings/Weapons.md), [armor](/Trappings/Armor.md), and [potions](/Trappings/Items.md)
 
 ## Three Things
 
@@ -39,7 +39,7 @@ Examples:
 
 ## Attributes
 
-Characters start with 100 attribute points, and gain 5 at every level after the first.
+Characters start with 100 attribute points, and gain 10 at every level after the first.
 
 No attribute can have more than double the number of points allocated to it than any other. This includes the points gained by experience levels. Support abilities and status effects do not count towards this restriction.
 
@@ -54,11 +54,11 @@ No attribute can have more than double the number of points allocated to it than
 
 Maximum HP = Vitality * Level
 
-- The absolute maximum amount of HP is 99,999.
+- The absolute maximum amount of HP for characters is 99,999.
 
 Maximum MP = Spirit * Level * 0.1
 
-- The absolute maximum amount of MP is 9,999.
+- The absolute maximum amount of MP for characters is 9,999.
 
 Accuracy = Agility
 

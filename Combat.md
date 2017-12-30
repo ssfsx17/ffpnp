@@ -43,15 +43,21 @@ Roll 1d100 + Accuracy. If the result is higher than the enemy's Evasion, then th
 
 There are many damaging and status-inflicting abilities that state that they do magical damage. For these, the magical counterparts of the statistics are used: Magic Accuracy, Magic Evasion, and Magic Defense.
 
-Multi-Target Attacks: The attacker only rolls once. Then, the accuracy result is compared to the evasion of each of the targets separately.
+**Multi-Target Attacks**: The attacker only rolls once per effect. Then, the accuracy result is compared to the evasion of each of the targets separately.
 
-Healing & Harming in One Action: This is possible in specific circumstances. For example, casting Cure on the whole party, but one of the party members has the Zombie status. In such a case, the actor is considered to be doing a Magical Attack against everyone whom their action would harm.
+**Healing & Harming in One Action**: This is possible in specific circumstances. For example, casting Cure on the whole party, but one of the party members has the Zombie status. In such a case, the actor is considered to be doing a Magical Attack against everyone whom their action would harm.
 
-Single/Multi: If something has both a single-target and multi-target option, then the multi-target option has half the effect and duration.
+**Single/Multi**: If something has both a single-target and multi-target option, then the multi-target option has half the effect and duration.
+
+#### Optional: Guaranteed Minimum Damage
+
+The GM may rule that damage can never be reduced below 10%, regardless of the target's Defense or Magic Defense. The GM may also rule that only monsters benefit from the guaranteed minimum damage, while Player-Characters do not.
 
 ### Defend
 
-Incoming damage is halved, before Defense and Magic Defense are applied. Evasion and Magic Evasion are increased by 50.
+The Defend action puts the combatant in a defending state until their next action.
+
+While defending, incoming damage is halved, before Defense and Magic Defense are applied. Evasion and Magic Evasion are increased by 50.
 
 ### Charge
 
