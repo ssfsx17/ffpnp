@@ -10,8 +10,8 @@ Example Character Sheets:
 1. Write the Three Things about your character.
 2. Choose your character's [race](/Races.md).
 3. Allocate 100 attribute points. No attribute may have more than double the points allocated to it than the lowest one.
-4. Start with Job Level 1 in one Civilian [job](/Jobs/README.md) of choice.
-5. Start with Job Level 1 in all base [jobs](/Jobs/README.md): [Chemist](/Jobs/Chemist.md), [Freelancer](/Jobs/Freelancer.md), [Onion Knight](/Jobs/OnionKnight.md), and [Squire](/Jobs/Squire.md).
+4. Start with Job Level 1 in one Civilian [job](/JobsREADME.md) of choice.
+5. Start with Job Level 1 in all base [jobs](/JobsREADME.md): [Chemist](/Jobs/JobDetails/Chemist.md), [Freelancer](/Jobs/JobDetails/Freelancer.md), [Onion Knight](/Jobs/JobDetails/OnionKnight.md), and [Squire](/Jobs/JobDetails/Squire.md).
 6. Start with 500 gil to buy [Trappings](/Trappings/README.md) such as [weapons](/Trappings/Weapons.md), [armor](/Trappings/Armor.md), and [potions](/Trappings/Items.md)
 
 ## Three Things
