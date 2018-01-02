@@ -89,7 +89,7 @@ Zombie (14 MP) (single) - Attempt to cause Zombie status (8).
 
 Berserk (16 MP) (single) - Attempt to cause Berserk status (6).
 
-Inertial Pillar (10 MP) (single) - Give an amount of Shield HP equal to your weapon damage.
+Inertial Pillar (6 MP) (single) - Give an amount of Shield HP equal to your weapon damage.
 
 Lifebreak (6 AP) (single) - Calculate the difference between your current and maximum HP. Deal this much magical dark damage to the target. Magic Defense is not applied.
 
@@ -117,4 +117,4 @@ Break (24 MP) (single) - Attempt to cause Petrify status (20).
 
 Big Chicken (36 MP) (multi) - Attempt to cause Chicken status (12).
 
-Inertial Fortress (40 MP) (multi) - Give an amount of Shield HP equal to your weapon damage.
+Inertial Fortress (18 MP) (multi) - Give an amount of Shield HP equal to your weapon damage.
