@@ -166,6 +166,7 @@ JCT2 Jobs:
 - [Gladiator](/Jobs/JobDetails/Gladiator.md)
 - [General](/Jobs/JobDetails/General.md)
 - [Gunner](/Jobs/JobDetails/Gunner.md)
+- [Heritor](/Jobs/JobDetails/Heritor.md)
 - [Illusionist](/Jobs/JobDetails/Illusionist.md)
 - [Magitek Pilot](/Jobs/JobDetails/MagitekPilot.md)
 - [Magus](/Jobs/JobDetails/Magus.md)

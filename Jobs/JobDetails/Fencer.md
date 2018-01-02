@@ -5,6 +5,7 @@ Requires: [Onion Knight](/Jobs/JobDetails/OnionKnight.md) 2, [Squire](/Jobs/JobD
 Leads to:
 
 - [Assassin](/Jobs/JobDetails/Assassin.md) ([Archer](/Jobs/JobDetails/Archer.md) 8, Fencer 8, [Ninja](/Jobs/JobDetails/Ninja.md) 8)
+- [Heritor](/Jobs/JobDetails/Heritor.md) (Fencer 4, [Juggler](/Jobs/JobDetails/Juggler.md) 4, [Thief](/Jobs/JobDetails/Thief.md) 4)
 - [Red Mage](/Jobs/JobDetails/RedMage.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 2, Fencer 2, [White Mage](/Jobs/JobDetails/WhiteMage.md) 2)
 
 Actions:

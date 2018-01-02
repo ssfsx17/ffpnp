@@ -163,7 +163,7 @@ Meditation - Regain Level * 0.5 MP every round.
 
 Mini - Evasion is increased by 50, but Defense is zero. Physical damage output is zero.
 
-Oil - Take double damage from Fire element.
+Oil - Take double damage from Fire element. Also doubles the damage suffered from Burning status.
 
 Old - Each attribute is decreased by 10 per round. When the status ends, the attributes are restored to normal.
 
@@ -215,7 +215,7 @@ Vanish - Evasion is infinite, but Magic Evasion is zero.
 
 Virus - Poison effect, except that it also prevents healing. Poison and Virus both do damage separately.
 
-Watered - Take double damage from Lightning element.
+Watered - Take double damage from Lightning element. This status is ended by fire damage.
 
 X-Zone - Removed from the realm. There are various ways to end this status, come back, or take advantage of the new situation.
 

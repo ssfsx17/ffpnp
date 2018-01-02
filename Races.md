@@ -3,7 +3,7 @@
 ### Aegyl
 
 - Home Realm: Ivalice (RW)
-- Race Support: Aegyl Wings - Capable of flying, gliding, slowfalling, and staying in Float.
+- Race Support: Aegyl Wings - Capable of flying, gliding, slowfalling, and using an action to stay in Float status.
 - Race Support: Aegyl Strength +5
 - Race Support: Aegyl Agility +5
 
@@ -17,6 +17,7 @@
 ### Bangaa
 
 - Home Realm: Ivalice (TA/XII/TA2)
+- Race Support: Arid Adaptation - Bangaa can survive for weeks without water, and are comfortable in hot temperatures.
 - Race Support: Bangaa Strength +10
 - Race Reaction: Not Lizard - Enter Berserk status upon being called a lizard.
 
@@ -29,7 +30,7 @@
 ### Chocoling
 
 - Home Realm: Fabula Nova Crystallis (XIII)
-- Race Support: Chocoform - Out of combat, capable of transforming into a chocobo. Entering combat will result in being forced back into humanoid shape.
+- Race Support: Chocoform - Out of combat, capable of transforming into a yellow chocobo. Entering combat will result in being forced back into humanoid shape.
 - Race Support: Chocoling Speed +10
 
 ### Dwarf
@@ -44,17 +45,19 @@
 - Home Realm: Hydaelyn (XIV)
 - Race Support: Elezen Agility +5
 - Race Support: Elezen Intellect +5
-- Race Support: Elezen Role Skill - Elezen gain a bonus of +50 to all skill checks relating to forests and ancient lore.
+- Race Support: Elezen Role Skill - Elezen gain a bonus of +50 to all skill checks relating to forests, snow, and ancient lore.
 
 ### Elf
 
 - Home Realm: Time Mobius (I)
+- Race Support: Plant Speech - Elves can talk to plants.
 - Race Support: Elf Intellect +5
 - Race Support: Elf Speed +5
 
 ### Elvaan
 
 - Home Realm: Vana'Diel (XI)
+- Race Action: Elvaan 2-hour Burst - Do an action for double damage and/or healing. This is only useable once every 2 hours.
 - Race Support: Elvaan Speed +10
 
 ### Esper
@@ -82,18 +85,20 @@
 ### Gria
 
 - Home Realm: Ivalice (TA2)
-- Race Support: Gria Wings - Capable of gliding and slowfalling.
+- Race Support: Gria Wings - Capable of flying, gliding, slowfalling, and using an action to stay in Float status.
 - Race Support: Gria Agility +5
 - Race Support: Gria Speed +5
 
 ### Guado
 
 - Home Realm: Spira (X)
+- Race Support: Guado Resistance - The Guado gain a bonus of +50 to Evasion and Magic Evasion against Poison, Poison-Plus, and Sleep statuses.
 - Race Support: Guado Agility +10
 
 ### Human
 
 - Home Realm: All (Core)
+- Race Support: Human Dominance - Humans are the most common and populous race.
 - Race Support: Human Intellect +5
 - Race Support: Human Speed +5
 
@@ -127,7 +132,7 @@
 ### Mechanical
 
 - Home Realm: All (Core)
-- Race Action: Self-Destruct-Plus (BDL) - Record your current HP. You die, and cause double that much magical fire damage to the target. Magic Defense is ignored.
+- Race Action: Self-Destruct-Plus (BDL) (single) - Record your current HP. You die, and cause that much magical fire damage to the target. Magic Defense is ignored.
 - Race Support: Mechanical Agility +5
 - Race Support: Mechanical Speed +5
 
@@ -149,13 +154,14 @@
 ### Moogle
 
 - Home Realm: All (Core)
-- Race Support: Moogle Wings - Able to glide and slowfall.
+- Race Support: Moogle Wings - Able to glide, slowfall, and use an action to maintain Float status.
 - Race Support: Moogle Intellect +5
 - Race Support: Moogle Spirit +5
 
 ### Nu Mou
 
 - Home Realm: Ivalice (TA/XII/TA2)
+- Race Support: Magical Speech - Nu Mou are able to talk to elementals and other magical creatures.
 - Race Support: Nu Mou Intellect +10
 
 ### Qu
@@ -168,12 +174,14 @@
 ### Ratling
 
 - Home Realm: Gaia (IX)
+- Race Reaction: Ratling Trance (2 AP) - Upon taking enough damage to go to 25% or less HP, attack all enemies in the front row.
 - Race Support: Ratling Agility +5
 - Race Support: Ratling Vitality +5
 
 ### Red
 
 - Home Realm: Mako (VII)
+- Race Action: Cosmic Power (4 AP) (single) - Magical attack for Vitality * Level * 0.5 non-elemental damage.
 - Race Support: Red Speed +10
 
 ### Roegadyn
@@ -186,18 +194,21 @@
 ### Ronso
 
 - Home Realm: Spira (X)
+- Race Support: Ronso Drain Resistance - Ronso gain a bonus of +50 to Evasion and Magic Evasion against HP and MP drain.
 - Race Support: Ronso Vitality +10
 
 ### Seeq
 
 - Home Realm: Ivalice (XII/TA2)
+- Race Support: Critical Berserk - Seeq are able to enter Berserk status while at 25% or less HP. This cannot be done while in Faith status.
+- Race Support: Critical Faith - Seeq are able to enter Faith status while at 25% or less HP. This cannot be done while in Berserk status.
 - Race Support: Seeq Strength +5
 - Race Support: Seeq Vitality +5
 
 ### Tarutaru
 
 - Home Realm: Vana'Diel (XI)
-- Race Action: Tarutaru 2-hour Burst - Regain all MP. This is only useable once every 2 hours.
+- Race Action: Tarutaru 2-hour Burst - Do an action and ignore its MP cost. This is only useable once every 2 hours.
 - Race Support: Tarutaru Intellect +5
 - Race Support: Tarutaru Spirit +5
 
@@ -212,10 +223,12 @@
 
 - Home Realm: Ivalice (TA/XII/TA2)
 - Race Support: Viera Agility +10
+- Race Support: Viera Hearing - Viera have a bonus of +50 to pick out individual sounds, as well as to listen for soft sounds.
 - Race Reaction: Mist Sensitivity - Enter Berserk status in the presence of great magical power.
 
 ### Yeti
 
 - Home Realm: War of the Magi (VI)
 - Race Action: Yeti Battle Fury - You do a normal attack, then enter Berserk status for the rest of combat.
+- Race Action: Yeti Snowstorm (5 AP) (multi) - Magical attack for Vitality * Level * 0.5 magical ice damage. While in Berserk status, you will do this action whenever you have enough AP.
 - Race Support: Yeti Strength +10

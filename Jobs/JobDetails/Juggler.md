@@ -6,6 +6,7 @@ Leads to:
 
 - [Festivalist](/Jobs/JobDetails/Festivalist.md) ([Artist](/Jobs/JobDetails/Artist.md) 2, [Black Mage](/Jobs/JobDetails/BlackMage.md) 2, Juggler 2)
 - [Gambler](/Jobs/JobDetails/Gambler.md) ([Thief](/Jobs/JobDetails/Thief.md) 4, Juggler 4)
+- [Heritor](/Jobs/JobDetails/Heritor.md) ([Fencer](/Jobs/JobDetails/Fencer.md) 4, Juggler 4, [Thief](/Jobs/JobDetails/Thief.md) 4)
 - [Mime](/Jobs/JobDetails/Mime.md) ([Artist](/Jobs/JobDetails/Artist.md) 4, [Feral](/Jobs/JobDetails/Feral.md) 4, Juggler 4)
 
 Actions:

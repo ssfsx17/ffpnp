@@ -18,7 +18,7 @@
 | 5 | Potion | 30 | restores 100 HP
 |   | Needle & Thread | 60 | restores 100 HP, also heals undead
 |   | Ether | 10,000 | restores 40 MP
-|   | Sleeping Bag | 50 | used during a Full Rest, restores 1,000 HP and 100 MP to one character
+|   | Sleeping Bag | 50 | used during a long rest, restores 1,000 HP and 100 MP to one character
 |   | Annoyntment | 150 | removes Trouble
 |   | Cross | 100 | removes Curse
 |   | Crutch | 50 | removes Immobilize
@@ -120,3 +120,15 @@
 | Spoon (BDL) | Ninja Throw item that attacks for Agility * 160 damage
 | Fork (BDL) | Ninja Throw item that attacks for Agility * 180 damage
 | Frying Pan (BDL+) | Ninja Throw item that attacks for Agility * 200 damage
+| Silver Apple | Permanently increases maximum HP by 50
+| Golden Apple | Permanently increases maximum HP by 100
+| Soma Drop | Permanently increases maximum MP by 10
+| Discovery Book | Permanently increases maximum MP by 50
+| Strength Mote | Permanently increases Strength by 1
+| Agility Mote | Permanently increases Agility by 1
+| Vitality Mote | Permanently increases Vitality by 1
+| Intellect Mote | Permanently increases Intellect by 1
+| Spirit Mote | Permanently increases Spirit by 1
+| Speed Mote | Permanently increases Speed by 1
+| Adamantite | Can be used by a crafter to reinforce gear, increasing its item level by 5. An item cannot have more than one Adamantite reinforcement.
+| Scarletite | Can be used by a crafter to reinforce gear, increasing its item level by 5. An item cannot have more than one Scarletite reinforcement.

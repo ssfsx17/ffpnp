@@ -19,7 +19,7 @@ All chocobos are capable of running fast enough to evade random monsters.
 
 | Equipment | Price | Description |
 | ---       | ---   | ---         |
-| Linkpearl | 1,000 | Links to only one other linkdevice, determined upon its creation. Placed next to the ear to allow speaking and listening.
+| Linkpearl | 1,000 | Links to only one other linkdevice, determined upon the linkpearl's creation. Placed next to the ear to allow speaking and listening.
 | Linkshell | 8,000 | Capable of having any number of linkpearls created with a bond to it. It can connect to one Linknautilus at a time. Typically weighs about 20 pounds.
 | Linknautilus | 50,000 | Capable of connecting to up to ten linkshells at a time. Requires a specialized pool or lake of water as well as feed to keep alive.
 | Orchestrion Roll | 5,000 | Scroll made of thick rigid paper, with high-precision-cut holes. Fed into orchestrion machines to produce music.
@@ -33,7 +33,7 @@ All chocobos are capable of running fast enough to evade random monsters.
 | Aetheryte Teleportation | 1,000 | 10 second travel time to an aetheryte crystal that you are attuned to. This is only possible in worlds that have teleportation anchor aetherytes.
 | Airship Travel | 200 per trip | Passenger airship travel to a major city with an airship port. This is only possible in worlds that have fully-fledged civilian airship companies.
 | Chocobo Porter | 100 per trip | Chocobo travel to another chocobo porter station that you are registered with. This is only possible in worlds that have chocobo porters.
-| Culinarian Meal | 100 per meal | Magically-infused food service that may give a small bonus for a half hour. The GM should define the bonus in a way that shows the personality of the culinarian and of the dish.
+| Culinarian Meal | 100 per meal | Magically-infused food service that may give a small attribute bonus for a half hour, usually +5 to +10 to one attribute. The GM should define the bonus in a way that shows the personality of the culinarian and of the dish.
 | Inn, Common | 100 per person per day | Allows full restoration of HP and MP during a long rest
 | Inn, Luxury | 500 per person per day | Also includes an orchestrion machine, an equipment armoire, a summoning bell for servants, a service bell for aestheticians, and on and on.
 | Linkwhale subscription | 1,000 per month | Sentient cetaceans who can create any sound possible within the linksystem, using only their thoughts. Each linkwhale has a collection of linknautiluses that they use to provide specialized services. Some linkwhales broadcast music, some linkwhales can encrypt messages just by hearing them, some linkwhales can converse with hundreds of people at a time, and on and on.
