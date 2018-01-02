@@ -169,4 +169,4 @@ Job Levels:
 - Exterminate (30 MP) (special) - Intellect * Level * 3 dark damage to everyone who has the Poison, Poison-Plus, Sap, or Virus status. Ignores Magic Evasion and Magic Defense.
 - Interment (60 MP) (single/multi) - Intellect * Level * 3 dark damage.
 - Landslide (60 MP) (single/multi) - Intellect * Level * 3 earth damage.
-- Ultima (99 MP, 10 AP) (multi) - 9999 damage. Magic Evasion and Magic Defense are not applied.
+- Ultima (99 MP, 10 AP) (multi) - 9999 damage, and removes Shell status. Magic Evasion, Magic Defense, and Shell are not applied.

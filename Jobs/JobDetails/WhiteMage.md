@@ -156,9 +156,9 @@ Job Levels:
 
 ### White Magic T9
 
+- Curada (60 MP) (single/multi) - In single-target form, this spell fully restores HP. In multi-target form, this spell restores an amount of HP equal to half of maximum HP. Against undead, it acts as a magical attack for magical non-elemental damage, and Magic Defense is applied.
 - Curaise (60 MP) (single) - Raise, then Curaja, on a single target.
 - Esunaja (60 MP) (single) - Removes all harmful status conditions.
-- Curada (60 MP) (single/multi) - In single-target form, this spell fully restores HP. In multi-target form, this spell restores an amount of HP equal to half of maximum HP. Against undead, it acts as a magical attack for magical non-elemental damage, and Magic Defense is applied.
 - Implosion (60 MP) (single) - Spirit * Level * 3 magical non-elemental damage.
 - Mass Cure (70 MP) (single/multi) - Spirit * Level * 3 healing. Against undead, it becomes a non-elemental damaging spell.
 - Mirror Images (56 MP) (single/multi) - Causes Blink status (12).
