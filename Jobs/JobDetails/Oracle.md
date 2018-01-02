@@ -1,6 +1,11 @@
 # Oracle
 
-Requires: White Mage 2
+Requires: [White Mage](/Jobs/JobDetails/WhiteMage.md) 4
+
+Leads to:
+
+- [Calculator](/Jobs/JobDetails/Calculator.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 4, Oracle 4, [Time Mage](/Jobs/JobDetails/TimeMage.md) 4, [White Mage](/Jobs/JobDetails/WhiteMage.md) 4)
+- [Temple Knight](/Jobs/JobDetails/TempleKnight.md) (Oracle 4, [Knight](/Jobs/JobDetails/Knight.md) 8, [Time Mage](/Jobs/JobDetails/TimeMage.md) 4)
 
 Actions:
 

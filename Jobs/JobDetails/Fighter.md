@@ -1,6 +1,13 @@
 # Fighter
 
-Requires: Squire 2
+Requires: [Squire](/Jobs/JobDetails/Squire.md) 2
+
+Leads to:
+
+- [Ashigaru](/Jobs/JobDetails/Ashigaru.md) (Fighter 4, [Soldier](/Jobs/JobDetails/Soldier.md) 4)
+- [Gladiator](/Jobs/JobDetails/Gladiator.md) (specialization) (Fighter 10)
+- [Monk](/Jobs/JobDetails/Monk.md) ([Archer](/Jobs/JobDetails/Archer.md) 4, Fighter 4)
+- [Viking](/Jobs/JobDetails/Viking.md) (Fighter 4, [Thief](/Jobs/JobDetails/Thief.md) 4)
 
 Actions:
 

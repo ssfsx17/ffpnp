@@ -1,6 +1,6 @@
 # Gladiator
 
-Requires: Fighter 10
+Requires: [Fighter](/Jobs/JobDetails/Fighter.md) 10
 
 Actions:
 
@@ -19,7 +19,7 @@ Supports:
 Reactions:
 
 - 2 x Choice
-- Counter (1 AP) - Retaliate after taking damage from a melee attack.
+- Counter (1 AP) - Upon taking damage, do a weapon action. The AP cost of the weapon action also applies.
 
 Proficiencies:
 
@@ -44,7 +44,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Champion
-|    | Job Action: Double-Attack (2 AP) (single) - Attack twice. Each rolls Accuracy separately.
+|    | Job Action: Double-Attack (2 AP) (single) - Do two weapon actions. Each rolls Accuracy separately. Their AP costs stack.
 |    | Reaction Unlock: Counter
 | 11 | 
 | 12 | 

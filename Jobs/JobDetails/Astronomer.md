@@ -2,7 +2,11 @@
 
 **Warning:** Astrology Tech involves some special mechanics that may take a lot of luck and multiple actions to get decent results from.
 
-Requires: Calculator 4, Scholar 4, Time Mage 4
+Requires: [Calculator](/Jobs/JobDetails/Calculator.md) 4, [Scholar](/Jobs/JobDetails/Scholar.md) 4, [Time Mage](/Jobs/JobDetails/TimeMage.md) 4
+
+Leads to:
+
+- [Astrologian](/Jobs/JobDetails/Astrologian.md) (specialization) (Astronomer 10)
 
 Actions:
 

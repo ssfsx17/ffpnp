@@ -1,6 +1,6 @@
 # Astrologian
 
-Requires: Astronomer 10
+Requires: [Astronomer](/Jobs/JobDetails/Astronomer.md) 10
 
 Actions:
 

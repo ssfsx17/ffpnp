@@ -1,6 +1,6 @@
 # Pictomancer
 
-Requires: Artist 10
+Requires: [Artist](/Jobs/JobDetails/Artist.md) 10
 
 Actions:
 

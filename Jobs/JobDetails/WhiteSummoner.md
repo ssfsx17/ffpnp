@@ -1,6 +1,6 @@
 # White Summoner
 
-Requires: White Mage 2, Summoner 2
+Requires: [White Mage](/Jobs/JobDetails/WhiteMage.md) 2, [Summoner](/Jobs/JobDetails/Summoner.md) 2
 
 Actions:
 

@@ -1,6 +1,6 @@
 # Ranger
 
-Requires: Archer 10
+Requires: [Archer](/Jobs/JobDetails/Archer.md) 10
 
 Actions:
 

@@ -1,6 +1,11 @@
 # Viking
 
-Requires: Fighter 4, Thief 4
+Requires: [Fighter](/Jobs/JobDetails/Fighter.md) 4, [Thief](/Jobs/JobDetails/Thief.md) 4
+
+Leads to:
+
+- [Berserker](/Jobs/JobDetails/Berserker.md) (Viking 4)
+- [Dark Knight](/Jobs/JobDetails/DarkKnight.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 4, [Knight](/Jobs/JobDetails/Knight.md) 8, Viking 4)
 
 Actions:
 

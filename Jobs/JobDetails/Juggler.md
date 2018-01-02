@@ -1,6 +1,12 @@
 # Juggler
 
-Requires: Onion Knight 2
+Requires: [Onion Knight](/Jobs/JobDetails/OnionKnight.md) 2
+
+Leads to:
+
+- [Festivalist](/Jobs/JobDetails/Festivalist.md) ([Artist](/Jobs/JobDetails/Artist.md) 2, [Black Mage](/Jobs/JobDetails/BlackMage.md) 2, Juggler 2)
+- [Gambler](/Jobs/JobDetails/Gambler.md) ([Thief](/Jobs/JobDetails/Thief.md) 4, Juggler 4)
+- [Mime](/Jobs/JobDetails/Mime.md) ([Artist](/Jobs/JobDetails/Artist.md) 4, [Feral](/Jobs/JobDetails/Feral.md) 4, Juggler 4)
 
 Actions:
 
@@ -32,7 +38,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 | Job Action: Acrobatics T1
 | 2 | Action Unlock: Acrobatics T1
 |   | Proficiency Unlock: Bombsticks 1H
 | 3 | Job Action: Acrobatics T2
@@ -44,7 +50,7 @@ Job Levels:
 | 8 | Action Unlock: Acrobatics T4
 | 9 | Job Action: Acrobatics T5
 | 10 | Prestige Job Title: Prestidigitator
-|    | Job Reaction: Return Fire (1 AP) - Catch an incoming ranged attack and do it right back at the enemy.
+|    | Job Reaction: Return Fire (1 AP) - Catch an incoming ranged attack, or an item that causes damage, and do it right back at the enemy.
 |    | Action Unlock: Acrobatics T5
 |    | Reaction Unlock: Sticky Fingers
 | 11 | Job Action: Acrobatics T6

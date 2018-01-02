@@ -1,6 +1,11 @@
 # Evoker
 
-Requires: Time Mage 4
+Requires: [Time Mage](/Jobs/JobDetails/TimeMage.md) 4
+
+Leads to:
+
+- [Bard](/Jobs/JobDetails/Bard.md) (Evoker 4, [Mediator](/Jobs/JobDetails/Mediator.md) 4)
+- [Summoner](/Jobs/JobDetails/Summoner.md) (specialization) ([Evoker](/Jobs/JobDetails/Evoker.md) 10)
 
 Actions:
 
@@ -59,7 +64,7 @@ Proficiencies:
 - Chocobo: Chocobo Kick (7 MP, 1 AP) (single) - Intellect * Level physical damage.
 - Goblin: Goblin Punch (1 MP) (single) - Strength * Level * 0.5 physical damage.
 - Moogle: Moogle Charm (8 MP, 1 AP) (multi) - Restores Spirit * Level * 0.5 HP.
-- Remora: Constrict (2 MP) (single) - Causes Immobilize status (4).
+- Remora: Constrict (2 MP) (single) - Attempt to cause Immobilize status (4).
 - Valefor: Energy Blast (10 MP, 1 AP) (multi) - Intellect * Level * 0.5 wind damage.
 
 ### Summons T2
@@ -67,20 +72,20 @@ Proficiencies:
 - Cockatrice: Petrifying Beak (15 MP, 2 AP) (multi) - Agility * Level non-elemental damage, and attempts to cause Gradual Petrify status (6).
 - Golem: Earthen Wall (18 MP, 2 AP) (multi) - Causes Protect status (8).
 - Kirin: Holy Aura (18 MP, 2 AP) (multi) - Causes Regen status (12).
-- Mindflayer: Mind Blast (18 MP, 2 AP) (multi) - Intellect * Level non-elemental damage and attempts to cause Addle and Stun status (4).
+- Mindflayer: Mind Blast (18 MP, 2 AP) (multi) - Intellect * Level non-elemental damage, and attempts to cause Addle and Stun status (4).
 - Siren: Lunatic Voice (16 MP, 2 AP) (multi) - Causes Silence status at +50 Magic Accuracy.
 
 ### Summons T3
 
 - Cait Sith: Cat Rain (28 MP, 3 AP) (multi) - Causes Confuse status (6) at +50 Magic Accuracy.
 - Faerie: Fey Light (28 MP, 3 AP) (multi) - Restores Speed * Level * 2 HP.
-- Ravana: Fourfold Blade (30 MP, 3 AP) (single) - The character using this ability does four melee attacks to one target, ignoring Evasion.
+- Ravana: Fourfold Blade (30 MP, 3 AP) (single) - The character using this ability does four melee attacks to one target.
 - Sylph: Whispering Wind (25 MP, 3 AP) (special) - Magical attack against one target for Intellect * Level non-elemental damage, and if it hits, then it restores half that much HP to each party member.
 - Unicorn: Heal Horn (30 MP, 3 AP) (multi) - Removes all harmful status conditions.
 
 ### Summons T4
 
-- Catoblepas (33 MP, 4 AP) (multi) - Causes Petrify status.
+- Catoblepas: Stone Breath (33 MP, 4 AP) (multi) - Causes Petrify status.
 - Ifrit: Hellfire (30 MP, 4 AP) (multi) - Strength * Level * 2 fire damage.
 - Mist Dragon: Radiant Breath (35 MP, 4 AP) (multi) - Vitality * Level * 2 wind damage.
 - Ramuh: Judgment Bolt (30 MP, 4 AP) (multi) - Intellect * Level * 2 lightning damage.
@@ -90,7 +95,7 @@ Proficiencies:
 
 ### Summons T5
 
-- Asura: Asura's Boon (40 MP, 5 AP) (multi) - Restores Spirit * Level * 2 HP and casts Raise on all dead party members.
+- Asura: Asura's Boon (40 MP, 5 AP) (multi) - Restores Spirit * Level * 2 HP, then casts Raise on all dead party members.
 - Carbuncle: Ruby Light (45 MP, 5 AP) (multi) - Causes Reflect and Shell statuses (12).
 - Lich: Descending Darkness (40 MP, 5 AP) (multi) - Intellect * Level * 3 dark damage.
 - Odin: Zantetsuken (45 MP, 5 AP) (multi) - Speed * Level * 2 physical damage, and attempt to instantly-kill.
@@ -104,16 +109,16 @@ Proficiencies:
 
 ### Summons T7
 
-- Alexander: Divine Shot (BDL) (64 MP, 7 AP) (multi) - Intellect * Level * 5 holy damage.
-- Bahamut: Megaflare (BDL) (60 MP, 7 AP) (multi) - Intellect * Level * 5 non-elemental damage.
-- Cyclops: Climactic Fear (BDL) (62 MP, 7 AP) (multi) - Physical attack against all enemies for Strength * Level * 3 damage, and causes Chicken and Broken Weapon statuses (8) at +50 Accuracy.
-- Diabolos: Evil Messenger (BDL) (64 MP, 7 AP) (multi) - Intellect * Level * 5 dark damage.
-- Valigarmanda: Tri-Disaster (BDL) (68 MP, 7 AP) (multi) - Three magic attacks that each are guaranteed to hit. First magical attack does Intellect * Level * 3 fire damage. Second magical attack does Intellect * Level * 3 ice damage. Third magical attack does Intellect * Level * 3 lightning damage.
+- Alexander: Divine Shot (64 MP, 7 AP) (multi) - Intellect * Level * 5 holy damage.
+- Bahamut: Megaflare (60 MP, 7 AP) (multi) - Intellect * Level * 5 non-elemental damage.
+- Cyclops: Climactic Fear (62 MP, 7 AP) (multi) - Physical attack against all enemies for Strength * Level * 3 damage, and causes Chicken and Broken Weapon statuses (8) at +50 Accuracy.
+- Diabolos: Evil Messenger (64 MP, 7 AP) (multi) - Intellect * Level * 5 dark damage.
+- Valigarmanda: Tri-Disaster (68 MP, 7 AP) (multi) - Three magic attacks that each ignore Magic Evasion. First magical attack does Intellect * Level * 2 fire damage. Second magical attack does Intellect * Level * 2 ice damage. Third magical attack does Intellect * Level * 2 lightning damage.
 
 ### Summons T8
 
 - Anima: Oblivion (BDL) (75 MP, 8 AP) (multi) - Intellect * Level * 5 non-elemental damage, and ends all positive status conditions, including Reflect.
-- Magus Sisters: Delta Attack (BDL) (75 MP, 8 AP) (multi) - Three magic attacks that each ignore Magic Evasion. First magical attack does Intellect * Level * 3 fire damage. Second magical attack does Intellect * Level * 3 wind damage. Third magical attack does Intellect * Level * 3 non-elemental damage.
+- Magus Sisters: Delta Attack (75 MP, 8 AP) (multi) - Three magic attacks that each ignore Magic Evasion. First magical attack does Intellect * Level * 3 fire damage. Second magical attack does Intellect * Level * 3 wind damage. Third magical attack does Intellect * Level * 3 non-elemental damage.
 - Yojimbo: Zanmato (50,000 gil, 8 AP) (multi) - Attack all enemies for double damage, and attempt to instantly-kill them at +50 Accuracy.
 
 ### Summons T9

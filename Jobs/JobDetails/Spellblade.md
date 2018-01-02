@@ -1,6 +1,6 @@
 # Spellblade
 
-Requires: Mystic Knight 10
+Requires: [Mystic Knight](/Jobs/JobDetails/MysticKnight.md) 10
 
 Actions:
 

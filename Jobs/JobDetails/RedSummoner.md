@@ -1,6 +1,6 @@
 # Red Summoner
 
-Requires: Red Mage 2, Summoner 2
+Requires: [Red Mage](/Jobs/JobDetails/RedMage.md) 2, [Summoner](/Jobs/JobDetails/Summoner.md) 2
 
 Actions:
 
@@ -45,7 +45,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Rouge Summoner
-|    | Job Action: Double Summon (10 AP) - Two summon actions.
+|    | Job Action: Double Summon (5 AP) - Two summon actions. The AP costs stack.
 | 11 | 
 | 12 | 
 | 13 | 

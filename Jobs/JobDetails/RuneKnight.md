@@ -1,6 +1,6 @@
 # Rune Knight
 
-Requires: Black Mage 2, Knight 2
+Requires: [Black Mage](/Jobs/JobDetails/BlackMage.md) 4, [Knight](/Jobs/JobDetails/Knight.md) 4
 
 Actions:
 - Attack

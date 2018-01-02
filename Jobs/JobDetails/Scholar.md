@@ -1,6 +1,11 @@
 # Scholar
 
-Requires: Red Mage 2
+Requires: [Red Mage](/Jobs/JobDetails/RedMage.md) 4
+
+Leads to:
+
+- [Astronomer](/Jobs/JobDetails/Astronomer.md) ([Calculator](/Jobs/JobDetails/Calculator.md) 4, Scholar 4, [Time Mage](/Jobs/JobDetails/TimeMage.md) 4)
+- [Tinker](/Jobs/JobDetails/Tinker.md) ([Fusilier](/Jobs/JobDetails/Fusilier.md) 2, Scholar 2)
 
 Actions:
 

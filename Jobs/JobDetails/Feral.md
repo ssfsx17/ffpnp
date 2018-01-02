@@ -1,6 +1,11 @@
 # Feral
 
-Requires: Blue Mage 2
+Requires: [Blue Mage](/Jobs/JobDetails/BlueMage.md) 2
+
+Leads to:
+
+- [Mascot](/Jobs/JobDetails/Mascot.md) (specialization) (Feral 10)
+- [Mime](/Jobs/JobDetails/Mime.md) ([Artist](/Jobs/JobDetails/Artist.md) 4, Feral 4, [Juggler](/Jobs/JobDetails/Juggler.md) 4)
 
 Actions:
 

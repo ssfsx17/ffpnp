@@ -1,6 +1,6 @@
 # Black Summoner
 
-Requires: Black Mage 2, Summoner 2
+Requires: [Black Mage](/Jobs/JobDetails/BlackMage.md) 2, [Summoner](/Jobs/JobDetails/Summoner.md) 2
 
 Actions:
 
@@ -45,7 +45,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Obsidian Summoner
-|    | Job Action: Grand Summon (BDL) - Double the MP and AP costs in order to double damage, healing, and durations. The Grand Summon action also applies BDL, even if the summon originally did not have it.
+|    | Job Action: Grand Summon (BDL) - Double the MP and AP costs of a summon in order to perform it with double the damage, healing, and durations. The Grand Summon action also applies BDL, even if the summon originally did not have it.
 | 11 | 
 | 12 | 
 | 13 | 

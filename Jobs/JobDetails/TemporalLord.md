@@ -1,6 +1,6 @@
 # Temporal Lord
 
-Requires: Time Mage 10
+Requires: [Time Mage](/Jobs/JobDetails/TimeMage.md) 10
 
 Actions:
 

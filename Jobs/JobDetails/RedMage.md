@@ -1,13 +1,19 @@
 # Red Mage
 
-Requires: Black Mage 2, Fencer 2, White Mage 2
+Requires: [Black Mage](/Jobs/JobDetails/BlackMage.md) 2, [Fencer](/Jobs/JobDetails/Fencer.md) 2, [White Mage](/Jobs/JobDetails/WhiteMage.md) 2
+
+Leads to:
+
+- [Red Summoner](/Jobs/JobDetails/RedSummoner.md) (Red Mage 2, [Summoner](/Jobs/JobDetails/Summoner.md) 2)
+- [Sage](/Jobs/JobDetails/Sage.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 8, Red Mage 4, [Time Mage](/Jobs/JobDetails/TimeMage.md) 8, [White Mage](/Jobs/JobDetails/WhiteMage.md) 8)
+- [Scholar](/Jobs/JobDetails/Scholar.md) (Red Mage 4)
 
 Actions:
 
 - Attack
 - Defend
 - Charge
-- Red Magic - If the spell is not unlocked for choice action via Black Mage or White Mage, then its MP cost is doubled.
+- Red Magic - If the spell is not unlocked for choice action via Black Mage or White Mage, then its MP cost is doubled. The double-cost versions of spells have different names, prefixed with "ver". For example, the double-cost version of Fire is named Verfire.
 - Item
 
 Supports:

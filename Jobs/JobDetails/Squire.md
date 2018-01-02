@@ -1,5 +1,14 @@
 # Squire
 
+Leads to:
+
+- [Dragoon](/Jobs/JobDetails/Dragoon.md) ([Knight](/Jobs/JobDetails/Knight.md) 4, [Onion Knight](/Jobs/JobDetails/OnionKnight.md) 4, Squire 4)
+- [Fencer](/Jobs/JobDetails/Fencer.md) ([Onion Knight](/Jobs/JobDetails/OnionKnight.md) 2, Squire 2)
+- [Fighter](/Jobs/JobDetails/Fighter.md) (Squire 2)
+- [Knight](/Jobs/JobDetails/Knight.md) (Squire 2)
+- [Lord](/Jobs/JobDetails/Lord.md) (specialization) (Squire 10)
+- [Soldier](/Jobs/JobDetails/Soldier.md) (Squire 2)
+
 Actions:
 
 - Attack
@@ -96,7 +105,7 @@ Great Tailwind (10 AP) (multi) - Causes Haste status (2).
 
 ### Fundaments T8
 
-Great Chant (5 AP) (multi) - Sacrifice an amount of HP equal to Level * 10 in order to restore double that much to the whole party.
+Great Chant (4 AP) (multi) - Sacrifice an amount of HP equal to Level * 10 in order to restore double that much to the whole party.
 
 ### Fundaments T9
 

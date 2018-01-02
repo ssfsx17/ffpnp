@@ -1,6 +1,14 @@
 # Archer
 
-Requires: Onion Knight 2
+Requires: [Onion Knight](/Jobs/JobDetails/OnionKnight.md) 2
+
+Leads to:
+
+- [Assassin](/Jobs/JobDetails/Assassin.md) (Archer 8, [Fencer](/Jobs/JobDetails/Fencer.md) 8, [Ninja](/Jobs/JobDetails/Ninja.md) 8)
+- [Geomancer](/Jobs/JobDetails/Geomancer.md) (Archer 4, [Knight](/Jobs/JobDetails/Knight.md) 4, [Monk](/Jobs/JobDetails/Monk.md) 4, [Thief](/Jobs/JobDetails/Thief.md) 4)
+- [Gunner](/Jobs/JobDetails/Gunner.md) (Archer 4, [Soldier](/Jobs/JobDetails/Soldier.md) 4)
+- [Monk](/Jobs/JobDetails/Monk.md) (Archer 4, [Fighter](/Jobs/JobDetails/Fighter.md) 4)
+- [Ranger](/Jobs/JobDetails/Ranger.md) (specialization) (Archer 10)
 
 Actions:
 

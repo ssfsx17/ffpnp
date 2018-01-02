@@ -2,7 +2,7 @@
 
 **Warning:** The Festivalist involves a lot of dice rolling and other special mechanics.
 
-Requires: Artist 2, Black Mage 2, Juggler 2
+Requires: [Artist](/Jobs/JobDetails/Artist.md) 2, [Black Mage](/Jobs/JobDetails/BlackMage.md) 2, [Juggler](/Jobs/JobDetails/Juggler.md) 2
 
 Actions:
 

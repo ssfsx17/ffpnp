@@ -1,13 +1,13 @@
 # Blue Cook
 
-Requires: Blue Mage 2
+Requires: [Blue Mage](/Jobs/JobDetails/BlueMage.md) 2
 
 Actions:
 
 - Attack
 - Defend
 - Charge
-- Eat (1 AP) - Attack, and if this kills the target, then all Blue Magic spells known by the target are learned, and the target is also added to the Party Bestiary.
+- Eat (1 AP) - Attack, and if this kills the target, then all Blue Magic spells known by the target are learned, and the target is also added to the Party Bestiary. You also regain an amount of HP equal to 10% of the eaten target's maximum HP.
 - Blue Magic
 - Item
 
@@ -42,7 +42,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Blue Chef
-|    | Job Action: Cook (5 AP) - Attempt to instantly-kill a target that is at 50% HP or less, at -50 Accuracy. If this succeeds, then the target is considered to have been eaten.
+|    | Job Action: Cook (3 AP) - Attempt to instantly-kill a target that is at 50% HP or less, at -50 Accuracy. If this succeeds, then the target is considered to have been eaten.
 | 11 | 
 | 12 | 
 | 13 | 

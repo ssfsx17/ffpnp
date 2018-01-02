@@ -1,6 +1,13 @@
 # Dragoon
 
-Requires: Knight 4, Onion Knight 4, Squire 4
+Requires: [Knight](/Jobs/JobDetails/Knight.md) 4, [Onion Knight](/Jobs/JobDetails/OnionKnight.md) 4, [Squire](/Jobs/JobDetails/Squire.md) 4
+
+Leads to:
+
+- [Chocobo Knight](/Jobs/JobDetails/ChocoboKnight.md) ([Animist](/Jobs/JobDetails/Animist.md) 2, Dragoon 2)
+- [Dancer](/Jobs/JobDetails/Dancer.md) (Dragoon 4, [Geomancer](/Jobs/JobDetails/Geomancer.md) 4)
+- [Dark Dragoon](/Jobs/JobDetails/DarkDragoon.md) ([Dark Knight](/Jobs/JobDetails/DarkKnight.md) 10, Dragoon 10)
+- [Holy Dragoon](/Jobs/JobDetails/HolyDragoon.md) (Dragoon 10, [Holy Knight](/Jobs/JobDetails/HolyKnight.md) 10)
 
 Actions:
 
@@ -22,7 +29,7 @@ Reactions:
 
 Proficiencies:
 
-- Weapons: Axes 1H, Spears 1H, Swords 1H, Axes 2H, Javelins 1H, Spears 2H, 1 x Choice
+- Weapons: Axes 1H, Spears 1H, Swords 1H, Axes 2H, Spears 2H, 1 x Choice
 - Shields: Medium Shields
 - Head Gear: Medium Coifs, Heavy Helmets
 - Body Gear: Medium Chainmail, Heavy Plate Armor

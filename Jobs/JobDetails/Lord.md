@@ -1,6 +1,6 @@
 # Lord
 
-Requires: Squire 10
+Requires: [Squire](/Jobs/JobDetails/Squire.md) 10
 
 Actions:
 

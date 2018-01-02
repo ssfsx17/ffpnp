@@ -1,6 +1,10 @@
 # Fusilier
 
-Requires: Gunner 4
+Requires: [Gunner](/Jobs/JobDetails/Gunner.md) 4
+
+Leads to:
+
+- [Tinker](/Jobs/JobDetails/Tinker.md) (Fusilier 2, [Scholar](/Jobs/JobDetails/Scholar.md) 2)
 
 Actions:
 

@@ -1,6 +1,6 @@
 # Magitek Pilot
 
-Requires: Black Mage 2, Knight 2, Soldier 2
+Requires: [Black Mage](/Jobs/JobDetails/BlackMage.md) 2, [Knight](/Jobs/JobDetails/Knight.md) 2, [Soldier](/Jobs/JobDetails/Soldier.md) 2
 
 Actions:
 

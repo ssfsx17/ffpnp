@@ -1,6 +1,10 @@
 # Animist
 
-Requires: Mediator 2
+Requires: [Mediator](/Jobs/JobDetails/Mediator.md) 2
+
+Leads to:
+
+- [Chocobo Knight](/Jobs/JobDetails/ChocoboKnight.md) (Animist 2, [Dragoon](/Jobs/JobDetails/Dragoon.md) 2)
 
 Actions:
 

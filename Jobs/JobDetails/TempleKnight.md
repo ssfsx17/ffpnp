@@ -1,6 +1,10 @@
 # Temple Knight
 
-Requires: Oracle 4, Knight 8, Time Mage 4
+Requires: [Oracle](/Jobs/JobDetails/Oracle.md) 4, [Knight](/Jobs/JobDetails/Knight.md) 8, [Time Mage](/Jobs/JobDetails/TimeMage.md) 4
+
+Leads to:
+
+- [Order Knight](/Jobs/JobDetails/OrderKnight.md) (specialization) (Temple Knight 10)
 
 Actions:
 

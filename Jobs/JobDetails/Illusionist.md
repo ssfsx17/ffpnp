@@ -1,13 +1,16 @@
 # Illusionist
 
-Requires: Black Mage 2
+Requires: [Black Mage](/Jobs/JobDetails/BlackMage.md) 4
+
+Leads to:
+
+- [Psychic](/Jobs/JobDetails/Psychic.md) (Illusionist 4, [Time Mage](/Jobs/JobDetails/TimeMage.md) 4)
 
 Actions:
 
 - Attack
 - Defend
 - Charge
-- Black Magic
 - Illusion Magic
 - Item
 
@@ -62,21 +65,37 @@ Job Levels:
 
 ### Illusion Magic T1
 
+Dye (10 MP) (utility) - Change the apparent color of an object, up to the size of a person.
+
 Prominence (28 MP) (multi) - Intellect * Level * 2 fire damage. Magic Defense is doubled against it.
 
+Sounds of Ghosts (10 MP) (utility) - Create soft sounds of any type you can imagine, no louder than a whisper.
+
 ### Illusion Magic T2
+
+Glamour (20 MP) (utility) - Change the appearance of a piece of equipment to something of the same equipment type. For example, making a zweihander look like a golden flamberge.
+
+Rewrite Page (20 MP) (utility) - Change the appearance of a paper, poster, or book cover.
 
 Tempest (28 MP) (multi) - Intellect * Level * 2 lightning damage. Magic Defense is doubled against it.
 
 ### Illusion Magic T3
 
+Facechange (40 MP) (utility) - Change the apparent face, colors, hair, birthmarks, tattoos, and other features of a person to that of a different person.
+
 Freezeblink (28 MP) (multi) - Intellect * Level * 2 ice damage. Magic Defense is doubled against it.
 
 ### Illusion Magic T4
 
+Room Rearrange (60 MP) (utility) - Change the appearance of a room and all furniture within it.
+
 Star Cross (28 MP) (multi) - Intellect * Level * 2 holy damage. Magic Defense is doubled against it.
 
 ### Illusion Magic T5
+
+Repose (50 MP) (multi) - Attempt to cause Sleep status at +50 Magic Accuracy.
+
+Revocalize (60 MP) (utility) - Change the sounds and accents of a person's voice.
 
 Stardust (28 MP) (multi) - Intellect * Level * 2 non-elemental damage. Magic Defense is doubled against it.
 
@@ -84,18 +103,28 @@ Stardust (28 MP) (multi) - Intellect * Level * 2 non-elemental damage. Magic Def
 
 Deluge (28 MP) (multi) - Intellect * Level * 2 water damage. Magic Defense is doubled against it.
 
+Soma (80 MP) (utility) - Change the appearance of a person, including apparent height and weight.
+
 ### Illusion Magic T7
+
+Colors of Insanity (40 MP) (multi) - Attempt to cause Confuse status. If this fails, then attempt to cause Stun status (1) at +50 Magic Accuracy.
 
 Rockfall (28 MP) (multi) - Intellect * Level * 2 earth damage. Magic Defense is doubled against it.
 
 ### Illusion Magic T8
 
+Vertigo (20 MP) (single) - Attempt to cause the target to change rows.
+
 Wild Tornado (28 MP) (multi) - Intellect * Level * 2 wind damage. Magic Defense is doubled against it.
 
 ### Illusion Magic T9
 
-Laugh Hideously (30 MP) (multi) - Attempt to cause Addle status (2) at +50 Magic Accuracy.
+Domination (80 MP) (multi) - Attempt to cause Charm status (4) at +50 Magic Accuracy.
+
+Laugh Hideously (50 MP) (multi) - Attempt to cause Addle status (2) at +50 Magic Accuracy.
 
 ### Illusion Magic T10
 
 Phantasm Slayer (99 MP, 10 AP) (multi) - Attempt to instantly-kill all enemies at +50 Magic Accuracy.
+
+Terrain Hallucination (200 MP) (utility) - Change the appearance, smells, and sounds of a square mile of terrain.

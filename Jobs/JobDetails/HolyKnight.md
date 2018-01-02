@@ -1,6 +1,12 @@
 # Holy Knight
 
-Requires: Bishop 4, Knight 8, White Mage 4
+Requires: [Bishop](/Jobs/JobDetails/Bishop.md) 4, [Knight](/Jobs/JobDetails/Knight.md) 8, [White Mage](/Jobs/JobDetails/WhiteMage.md) 4
+
+Leads to:
+
+- [Holy Avenger](/Jobs/JobDetails/HolyAvenger.md) ([Dark Avenger](/Jobs/JobDetails/DarkAvenger.md) 2, Holy Knight 2)
+- [Holy Dragoon](/Jobs/JobDetails/HolyDragoon.md) ([Dragoon](/Jobs/JobDetails/Dragoon.md) 10, Holy Knight 10)
+- [Paladin](/Jobs/JobDetails/Paladin.md) (specialization) [Holy Knight](/Jobs/JobDetails/HolyKnight.md) 10
 
 Actions:
 

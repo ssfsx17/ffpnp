@@ -1,6 +1,6 @@
 # Magus
 
-Requires: Black Mage 10
+Requires: [Black Mage](/Jobs/JobDetails/BlackMage.md) 10
 
 Actions:
 
@@ -44,7 +44,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Dark Magus
-|    | Job Support: Elemental Exploitation - When you hit an elemental weakness, damage is tripled rather than doubled.
+|    | Job Support: Elemental Exploitation - When you hit an elemental weakness, the action affects the target twice as many times.
 |    | Reaction Unlock: Counter-Magic
 | 11 | 
 | 12 | 

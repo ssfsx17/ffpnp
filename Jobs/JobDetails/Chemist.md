@@ -1,5 +1,12 @@
 # Chemist
 
+Leads to:
+
+- [Alchemist](/Jobs/JobDetails/Alchemist.md) (specialization) (Chemist 10)
+- [Black Mage](/Jobs/JobDetails/BlackMage.md) (Chemist 2)
+- [Blue Mage](/Jobs/JobDetails/BlueMage.md) (Chemist 2)
+- [White Mage](/Jobs/JobDetails/WhiteMage.md) (Chemist 2)
+
 Actions:
 
 - Fight

@@ -1,6 +1,12 @@
 # Mediator
 
-Requires: Blue Mage 2
+Requires: [Blue Mage](/Jobs/JobDetails/BlueMage.md) 2
+
+Leads to:
+
+- [Animist](/Jobs/JobDetails/Animist.md) (broadening) (Mediator 2)
+- [Bard](/Jobs/JobDetails/Bard.md) ([Evoker](/Jobs/JobDetails/Evoker.md) 4, Mediator 4)
+- [Beast Tamer](/Jobs/JobDetails/BeastTamer.md) (Mediator 2)
 
 Actions:
 

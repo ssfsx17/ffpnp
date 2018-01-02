@@ -1,6 +1,6 @@
 # Dark Dragoon
 
-Requires: Dark Knight 10, Dragoon 10
+Requires: [Dark Knight](/Jobs/JobDetails/DarkKnight.md) 10, [Dragoon](/Jobs/JobDetails/Dragoon.md) 10
 
 Actions:
 
@@ -8,7 +8,7 @@ Actions:
 - Defend
 - Charge
 - 1 x Choice
-- Black Magic
+- Jump
 - Dragoon Tech
 - Dark Sword Tech
 - Item
@@ -25,7 +25,7 @@ Reactions:
 
 Proficiencies:
 
-- Weapons: Axes 1H, Spears 1H, Swords 1H, Axes 2H, Javelins 1H, Spears 2H, 1 x Choice
+- Weapons: Axes 1H, Spears 1H, Swords 1H, Axes 2H, Spears 2H, 1 x Choice
 - Shields: Medium Shields, Heavy Greatshields
 - Head Gear: Medium Coifs, Heavy Helmets
 - Body Gear: Medium Chainmail, Heavy Plate Armor

@@ -2,7 +2,12 @@
 
 **Warning:** This job involves many calculations based on percentages of your maximum HP.
 
-Requires: Black Mage 4, Knight 8, Viking 4
+Requires: [Black Mage](/Jobs/JobDetails/BlackMage.md) 4, [Knight](/Jobs/JobDetails/Knight.md) 8, [Viking](/Jobs/JobDetails/Viking.md) 4
+
+Leads to:
+
+- [Dark Avenger](/Jobs/JobDetails/DarkAvenger.md) (specialization) (Dark Knight 10)
+- [Dark Dragoon](/Jobs/JobDetails/DarkDragoon.md) (Dark Knight 10, [Dragoon](/Jobs/JobDetails/Dragoon.md) 10)
 
 Actions:
 

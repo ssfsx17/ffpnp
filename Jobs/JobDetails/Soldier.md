@@ -1,6 +1,13 @@
 # Soldier
 
-Requires: Squire 2
+Requires: [Squire](/Jobs/JobDetails/Squire.md) 2
+
+Leads to:
+
+- [Ashigaru](/Jobs/JobDetails/Ashigaru.md) ([Fighter](/Jobs/JobDetails/Fighter.md) 4, Soldier 4)
+- [General](/Jobs/JobDetails/General.md) (specialization) (Soldier 10)
+- [Gunner](/Jobs/JobDetails/Gunner.md) ([Archer](/Jobs/JobDetails/Archer.md) 4, Soldier 4)
+- [Magitek Pilot](/Jobs/JobDetails/MagitekPilot.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 2, [Knight](/Jobs/JobDetails/Knight.md) 2, Soldier 2)
 
 Actions:
 
@@ -17,7 +24,7 @@ Supports:
 Reactions:
 
 - 1 x Choice
-- Elastic Defense (1 AP) - After taking damage, do a Defend action.
+- Elastic Defense (1 AP) - After taking damage, do a Defend action. If you choose a type of Defend action that has an AP cost, then that cost also applies.
 
 Proficiencies:
 
@@ -112,6 +119,6 @@ Vigilance (1 AP) (self only) - Defend action, and any enemy who damages you is a
 
 ### Soldier Tech T10
 
-Barrage (1 AP) (multi) - Attack all enemies for half damage.
+Barrage (2 AP) (multi) - Attack all enemies for half damage.
 
-Fire Mission (1 AP) (multi) - Attempt to cause Locked-On status (2) to all enemies.
+Fire Mission (2 AP) (multi) - Attempt to cause Locked-On status (2) to all enemies.

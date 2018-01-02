@@ -1,6 +1,11 @@
 # Ashigaru
 
-Requires: Fighter 4, Soldier 4
+Requires: [Fighter](/Jobs/JobDetails/Fighter.md) 4, [Soldier](/Jobs/JobDetails/Soldier.md) 4
+
+Leads to:
+
+- [Ninja](/Jobs/JobDetails/Ninja.md) (Ashigaru 4, [Monk](/Jobs/JobDetails/Monk.md) 4, [Thief](/Jobs/JobDetails/Thief.md) 4)
+- [Samurai](/Jobs/JobDetails/Samurai.md) (specialization) (Ashigaru 8, [Knight](/Jobs/JobDetails/Knight.md) 4)
 
 Actions:
 

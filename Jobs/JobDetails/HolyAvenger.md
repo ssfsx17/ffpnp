@@ -1,6 +1,6 @@
 # Holy Avenger
 
-Requires: Dark Avenger 2, Holy Knight 2
+Requires: [Dark Avenger](/Jobs/JobDetails/DarkAvenger.md) 2, [Holy Knight](/Jobs/JobDetails/HolyKnight.md) 2
 
 Actions:
 

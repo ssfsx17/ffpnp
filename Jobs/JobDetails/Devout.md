@@ -1,6 +1,6 @@
 # Devout
 
-Requires: White Mage 10
+Requires: [White Mage](/Jobs/JobDetails/WhiteMage.md) 10
 
 Actions:
 - Attack

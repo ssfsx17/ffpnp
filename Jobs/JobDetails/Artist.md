@@ -1,12 +1,18 @@
 # Artist
 
-Requires: Blue Mage 2, Onion Knight 2
+Requires: [Blue Mage](/Jobs/JobDetails/BlueMage.md) 2, [Onion Knight](/Jobs/JobDetails/OnionKnight.md) 2
+
+Leads to:
+
+- [Festivalist](/Jobs/JobDetails/Festivalist.md) (Artist 2, [Black Mage](/Jobs/JobDetails/BlackMage.md) 2, [Juggler](/Jobs/JobDetails/Juggler.md) 2)
+- [Mime](/Jobs/JobDetails/Mime.md) (Artist 4, [Feral](/Jobs/JobDetails/Feral.md) 4, [Juggler](/Jobs/JobDetails/Juggler.md) 4)
+- [Pictomancer](/Jobs/JobDetails/Pictomancer.md) (specialization) (Artist 10)
 
 Actions:
 - Attack
 - Defend
 - Charge
-- Sketch - Attempts to create a copy of an enemy that lasts for the current battle. Uses Magic Accuracy and is opposed by Magic Evasion. The GM may designate "boss" enemies who cannot be sketched. The Sketch functions as a party member for the current battle.
+- Sketch - Attempts to create a copy of an enemy that lasts for the current battle. Uses Magic Accuracy and is opposed by Magic Evasion. The GM may designate "boss" enemies who cannot be sketched. The Sketch functions as a party member for the current battle. You can only maintain one sketched monster at a time.
 - Item
 
 Supports:

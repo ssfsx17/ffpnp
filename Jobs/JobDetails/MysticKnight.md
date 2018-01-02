@@ -1,6 +1,10 @@
 # Mystic Knight
 
-Requires: Black Mage 4, Knight 4
+Requires: [Black Mage](/Jobs/JobDetails/BlackMage.md) 4, [Knight](/Jobs/JobDetails/Knight.md) 4
+
+Leads to:
+
+- [Spellblade](/Jobs/JobDetails/Spellblade.md) (specialization) (Mystic Knight 10)
 
 Actions:
 

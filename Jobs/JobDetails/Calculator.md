@@ -1,13 +1,17 @@
 # Calculator
 
-Requires: Black Mage 4, Oracle 4, Time Mage 4, White Mage 4
+Requires: [Black Mage](/Jobs/JobDetails/BlackMage.md) 4, [Oracle](/Jobs/JobDetails/Oracle.md) 4, [Time Mage](/Jobs/JobDetails/TimeMage.md) 4, [White Mage](/Jobs/JobDetails/WhiteMage.md) 4
+
+Leads to:
+
+- [Astronomer](/Jobs/JobDetails/Astronomer.md) (Calculator 4, [Scholar](/Jobs/JobDetails/Scholar.md) 4, [Time Mage](/Jobs/JobDetails/TimeMage.md) 4)
 
 Actions:
 
 - Attack
 - Defend
 - Charge
-- Calculation (10 AP) - Use a magic spell without any MP cost, and no additional AP cost. It is cast multi-targeted on everyone who fits certain criteria, specified by the Calculation type.
+- Calculation (10 AP) - Use a magic spell without any MP cost, and no additional AP cost. It is cast multi-targeted on everyone who fits certain criteria, specified by the Calculation type. It also ignores Magic Evasion for the damage components of spells.
 - Item
 
 Supports:

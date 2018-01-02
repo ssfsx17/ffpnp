@@ -1,6 +1,11 @@
 # Dark Avenger
 
-Requires: Dark Knight 10
+Requires: [Dark Knight](/Jobs/JobDetails/DarkKnight.md) 10
+
+Leads to:
+
+- [Holy Avenger](/Jobs/JobDetails/HolyAvenger.md) (Dark Avenger 2, [Holy Knight](/Jobs/JobDetails/HolyKnight.md) 2)
+- [Thunder God](/Jobs/JobDetails/ThunderGod.md) (Dark Avenger 2, [Knight](/Jobs/JobDetails/Knight.md) 10, [Order Knight](/Jobs/JobDetails/OrderKnight.md) 2, [Paladin](/Jobs/JobDetails/Paladin.md) 2)
 
 Actions:
 

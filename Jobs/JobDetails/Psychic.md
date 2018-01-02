@@ -1,6 +1,6 @@
 # Psychic
 
-Requires: Illusionist 2, Time Mage 2
+Requires: [Illusionist](/Jobs/JobDetails/Illusionist.md) 4, [Time Mage](/Jobs/JobDetails/TimeMage.md) 4
 
 Actions:
 
@@ -17,6 +17,7 @@ Supports:
 Reactions:
 
 - 1 x Choice
+- Element Eater (2 AP) - Absorb fire, ice, lightning, or water damage as HP.
 
 Proficiencies:
 
@@ -41,7 +42,7 @@ Job Levels:
 | 8 | Action Unlock: Psionics T4
 | 9 | Job Action: Psionics T5
 | 10 | Prestige Job Title: Class-S Psychic
-|    | Job Support: Gravity Eater - +50 Magic Evasion against gravity and HP-reduction effects.
+|    | Job Support: Gravity Eater - +50 Magic Evasion against gravity and HP-reduction effects. The Element Eater reaction can also be applied to gravity and HP-reduction effects.
 |    | Action Unlock: Psionics T5
 | 11 | Job Action: Psionics T6
 | 12 | Action Unlock: Psionics T6

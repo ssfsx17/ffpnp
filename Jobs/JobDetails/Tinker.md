@@ -1,6 +1,10 @@
 # Tinker
 
-Requires: Fusilier 2, Scholar 2
+Requires: [Fusilier](/Jobs/JobDetails/Fusilier.md) 2, [Scholar](/Jobs/JobDetails/Scholar.md) 2
+
+Leads to:
+
+- [Engineer](/Jobs/JobDetails/Engineer.md) (specialization) (Tinker 10)
 
 Actions:
 
@@ -75,44 +79,44 @@ Noiseblaster (2 AP) (multi) - Attempt to cause Confuse status (6).
 
 Bioblaster (3 AP) (multi) - Agility * Level * 0.5 physical poison damage, and attempts to cause Poison status.
 
-Green Gear (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Causes Poison-Plus status.
+Green Gear (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Attempts to cause Poison-Plus status.
 
 ### Machine T4
 
 Drill (4 AP) (single) - Strength * Level * 0.5 damage, ignoring Evasion and Defense.
 
-Silver Disc (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Causes Blind status.
+Silver Disc (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Attempts to cause Blind status.
 
 ### Machine T5
 
 Flash (5 AP) (multi) - Agility * Level * 0.5 magical non-elemental damage, and attempts to cause Blind status.
 
-Gold Battery (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Restores Level * Intellect * 0.5 HP.
+Gold Battery (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Restores Intellect * Level * 0.5 HP.
 
 ### Machine T6
 
-Black Ingot (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Causes Doom status (6).
+Black Ingot (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Attempts to cause Doom status (4).
 
 Chainsaw (6 AP) (single) - Strength * Level physical damage, and attempt to instantly-kill at -50 Accuracy.
 
 ### Machine T7
 
-Chroma Gem (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Causes Sleep status.
+Chroma Gem (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Attempts to cause Sleep status.
 
 Debilitator (7 AP) (single) - Attempts to cause a random elemental weakness. This uses Accuracy and is opposed by Evasion.
 
 ### Machine T8
 
-Air Anchor (8 AP) (single) - Attempt to cause Heat status (10) at +50 Accuracy.
+Air Anchor (8 AP) (single) - Attempt to cause Heat status (6) at +50 Accuracy.
 
 Gold Moogletron (8 MP) (special) - Flip a coin. If it comes up heads, this ability targets the party (including yourself). Otherwise, it targets all enemies. Causes Protect and Shell status (6).
 
 ### Machine T9
 
-Bio Grenade (15 AP) (multi) - Attack all enemies twice for physical poison damage, and attempt to cause Poison-Plus, Sap, and Virus statuses.
+Bio Grenade (15 AP) (multi) - Attack all enemies twice for physical poison damage, and attempt to cause Poison-Plus, Sap, and Virus statuses on each hit.
 
-Flamethrower (10 AP) (multi) - Agility * Level * 1.5 magical fire damage.
+Flamethrower (10 AP) (multi) - Magical attack for Agility * Level * 1.5 magical fire damage.
 
 ### Machine T10
 
-Penalty Snipe (20 AP) (BDL) (multi) - Attack all enemies, and double damage for each negative status effect on the target (to a maximum multiplier of 8).
+Penalty Snipe (20 AP) (BDL) (multi) - Attack all enemies, and double damage for each negative status effect on the target, to a maximum multiplier of 8.

@@ -1,13 +1,13 @@
 # Mime
 
-Requires: Mascot 4, Pictomancer 4
+Requires: [Artist](/Jobs/JobDetails/Artist.md) 4, [Feral](/Jobs/JobDetails/Feral.md) 4, [Juggler](/Jobs/JobDetails/Juggler.md) 4
 
 Actions:
 
 - Attack
 - Defend
 - Charge
-- Mimic - Perform the most recent action done by a party member. You must pay the AP and MP costs, or else your action is wasted.
+- Mimic - Perform the most recent action done by a party member. You must pay the AP and MP costs for the action. Any support abilities that changed the costs or mechanics of the action when the party member did it will continue to apply when you mimic it.
 - Item
 
 Supports:
@@ -41,7 +41,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Impersonator
-|    | Job Support: Continuous Mimicry - Choose one party member. You have the same Supports and Reactions as that person. This can only be changed during rest.
+|    | Job Support: Continuous Mimicry - Choose one party member. You have the same equipment proficiencies, Supports, and Reactions as that person. This can only be changed during a long rest.
 | 11 | 
 | 12 | 
 | 13 | 

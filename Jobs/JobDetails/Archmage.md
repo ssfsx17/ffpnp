@@ -1,6 +1,6 @@
 # Archmage
 
-Requires: Sage 10
+Requires: [Sage](/Jobs/JobDetails/Sage.md) 10
 
 Actions:
 

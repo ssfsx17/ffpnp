@@ -1,6 +1,6 @@
 # Black Belt
 
-Requires: Monk 10
+Requires: [Monk](/Jobs/JobDetails/Monk.md) 10
 
 Actions:
 

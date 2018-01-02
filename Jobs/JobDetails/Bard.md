@@ -1,6 +1,10 @@
 # Bard
 
-Requires: Evoker 4, Mediator 4
+Requires: [Evoker](/Jobs/JobDetails/Evoker.md) 4, [Mediator](/Jobs/JobDetails/Mediator.md) 4
+
+Leads to:
+
+- [Songster](/Jobs/JobDetails/Songster.md) (Bard 4, [Dancer](/Jobs/JobDetails/Dancer.md) 4)
 
 Actions:
 

@@ -1,6 +1,6 @@
 # Scallion
 
-Requires: Onion Knight 10
+Requires: [Onion Knight](/Jobs/JobDetails/OnionKnight.md) 10
 
 Actions:
 

@@ -1,6 +1,10 @@
 # Order Knight
 
-Requires: Temple Knight 10
+Requires: [Temple Knight](/Jobs/JobDetails/TempleKnight.md) 10
+
+Leads to:
+
+- [Thunder God](/Jobs/JobDetails/ThunderGod.md) ([Dark Avenger](/Jobs/JobDetails/DarkAvenger.md) 2, [Knight](/Jobs/JobDetails/Knight.md) 10, Order Knight 2, [Paladin](/Jobs/JobDetails/Paladin.md) 2)
 
 Actions:
 

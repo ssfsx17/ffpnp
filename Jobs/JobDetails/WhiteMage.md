@@ -1,6 +1,18 @@
 # White Mage
 
-Requires: Chemist 2
+Requires: [Chemist](/Jobs/JobDetails/Chemist.md) 2
+
+Leads to:
+
+- [Bishop](/Jobs/JobDetails/Bishop.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 2, White Mage 2, [Thief](/Jobs/JobDetails/Thief.md) 2)
+- [Calculator](/Jobs/JobDetails/Calculator.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 4, [Oracle](/Jobs/JobDetails/Oracle.md) 4, [Time Mage](/Jobs/JobDetails/TimeMage.md) 4, White Mage 4)
+- [Devout](/Jobs/JobDetails/Devout.md) (specialization) (White Mage 10)
+- [Holy Knight](/Jobs/JobDetails/HolyKnight.md) ([Bishop](/Jobs/JobDetails/Bishop.md) 4, [Knight](/Jobs/JobDetails/Knight.md) 8, White Mage 4)
+- [Oracle](/Jobs/JobDetails/Oracle.md) (White Mage 4)
+- [Red Mage](/Jobs/JobDetails/RedMage.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 2, [Fencer](/Jobs/JobDetails/Fencer.md) 2, White Mage 2)
+- [Sage](/Jobs/JobDetails/Sage.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 8, [Red Mage](/Jobs/JobDetails/RedMage.md) 4, [Time Mage](/Jobs/JobDetails/TimeMage.md) 8, White Mage 8)
+- [Time Mage](/Jobs/JobDetails/TimeMage.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 2, White Mage 2)
+- [White Summoner](/Jobs/JobDetails/WhiteSummoner.md) (White Mage 2, [Summoner](/Jobs/JobDetails/Summoner.md) 2)
 
 Actions:
 

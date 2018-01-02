@@ -1,6 +1,6 @@
 # Alchemist
 
-Requires: Chemist 10
+Requires: [Chemist](/Jobs/JobDetails/Chemist.md) 10
 
 Actions:
 

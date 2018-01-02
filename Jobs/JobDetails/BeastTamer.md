@@ -1,6 +1,6 @@
 # Beast Tamer
 
-Requires: Mediator 2
+Requires: [Mediator](/Jobs/JobDetails/Mediator.md) 2
 
 Actions:
 

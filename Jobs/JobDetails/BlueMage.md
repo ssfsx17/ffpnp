@@ -1,6 +1,14 @@
 # Blue Mage
 
-Requires: Chemist 2
+Requires: [Chemist](/Jobs/JobDetails/BlueMage.md) 2
+
+Leads to:
+
+- [Artist](/Jobs/JobDetails/Artist.md) (Blue Mage 2, [Onion Knight](/Jobs/JobDetails/OnionKnight.md) 2)
+- [Blue Cook](/Jobs/JobDetails/BlueCook.md) (Blue Mage 2)
+- [Feral](/Jobs/JobDetails/Feral.md) (Blue Mage 2)
+- [Gun Mage](/Jobs/JobDetails/GunMage.md) (Blue Mage 4, [Gunner](/Jobs/JobDetails/Gunner.md) 4)
+- [Mediator](/Jobs/JobDetails/Mediator.md) (Blue Mage 2)
 
 Actions:
 

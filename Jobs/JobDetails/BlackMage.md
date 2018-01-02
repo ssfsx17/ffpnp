@@ -1,6 +1,23 @@
 # Black Mage
 
-Requires: Chemist 2
+Requires: [Chemist](/Jobs/JobDetails/Chemist.md) 2
+
+Leads to:
+
+- [Bishop](/Jobs/JobDetails/Bishop.md) (Black Mage 2, [White Mage](/Jobs/JobDetails/WhiteMage.md) 2, [Thief](/Jobs/JobDetails/Thief.md) 2)
+- [Black Summoner](/Jobs/JobDetails/BlackSummoner.md) (Black Mage 2, [Summoner](/Jobs/JobDetails/Summoner.md) 2)
+- [Calculator](/Jobs/JobDetails/Calculator.md) (Black Mage 4, [Oracle](/Jobs/JobDetails/Oracle.md) 4, [Time Mage](/Jobs/JobDetails/TimeMage.md) 4, [White Mage](/Jobs/JobDetails/WhiteMage.md) 4)
+- [Dark Knight](/Jobs/JobDetails/DarkKnight.md) (Black Mage 4, [Knight](/Jobs/JobDetails/Knight.md) 8, [Viking](/Jobs/JobDetails/Viking.md) 4)
+- [Festivalist](/Jobs/JobDetails/Festivalist.md) ([Artist](/Jobs/JobDetails/Artist.md) 2, Black Mage 2, [Juggler](/Jobs/JobDetails/Juggler.md) 2)
+- [Illusionist](/Jobs/JobDetails/Illusionist.md) (Black Mage 4)
+- [Magitek Pilot](/Jobs/JobDetails/MagitekPilot.md) (Black Mage 2, [Knight](/Jobs/JobDetails/Knight.md) 2, [Soldier](/Jobs/JobDetails/Soldier.md) 2)
+- [Magus](/Jobs/JobDetails/Magus.md) (specialization) (Black Mage 10)
+- [Mystic Knight](/Jobs/JobDetails/MysticKnight.md) (Black Mage 4, [Knight](/Jobs/JobDetails/Knight.md) 4)
+- [Necromancer](/Jobs/JobDetails/Necromancer.md) (Black Mage 4)
+- [Red Mage](/Jobs/JobDetails/RedMage.md) (Black Mage 2, [Fencer](/Jobs/JobDetails/Fencer.md) 2, [White Mage](/Jobs/JobDetails/WhiteMage.md) 2)
+- [Rune Knight](/Jobs/JobDetails/RuneKnight.md) (Black Mage 4, [Knight](/Jobs/JobDetails/Knight.md) 4)
+- [Sage](/Jobs/JobDetails/Sage.md) (Black Mage 8, [Red Mage](/Jobs/JobDetails/RedMage.md) 4, [Time Mage](/Jobs/JobDetails/TimeMage.md) 8, [White Mage](/Jobs/JobDetails/WhiteMage.md) 8)
+- [Time Mage](/Jobs/JobDetails/TimeMage.md) (Black Mage 2, [White Mage](/Jobs/JobDetails/WhiteMage.md) 2)
 
 Actions:
 
@@ -64,7 +81,7 @@ Job Levels:
 - Blizzard (5 MP) (single/multi) - Intellect * Level * 0.5 ice damage.
 - Fire (5 MP) (single/multi) - Intellect * Level * 0.5 fire damage.
 - Poison (2 MP) (single/multi) - Intellect * Level * 0.1 poison damage, and attempts to cause Poison status.
-- Sleep (12 MP) (single/multi) - Attempts to cause Sleep status.
+- Sleep (12 MP) (single/multi) - Attempts to cause Sleep status. If this spell is cast multi-targeted then it functions at -50 Magic Accuracy.
 - Thunder (5 MP) (single/multi) - Intellect * Level * 0.5 lightning damage.
 
 ### Black Magic T2
@@ -95,7 +112,7 @@ Job Levels:
 - Osmose (0 MP) (single) - Absorb Intellect * Level * 0.01 MP from the target. The effect is reversed against undead.
 - Ruina (18 MP) (single/multi) - Intellect * Level non-elemental damage
 - Shake (18 MP) (multi) - Attempts to cause Stun status (1).
-- Sleepga (36 MP) (multi) - Attempts to cause Sleep status at +50 Magic Accuracy.
+- Sleepga (36 MP) (single/multi) - Attempts to cause Sleep status at +50 Magic Accuracy. If this spell is cast multi-targeted then it functions at normal Magic Accuracy.
 - Stonera (18 MP) (single/multi) - Intellect * Level earth damage.
 - Watera (18 MP) (single/multi) - Intellect * Level water damage.
 

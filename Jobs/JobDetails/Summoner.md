@@ -1,6 +1,12 @@
 # Summoner
 
-Requires: Evoker 10
+Requires: [Evoker](/Jobs/JobDetails/Evoker.md) 10
+
+Leads to:
+
+- [Black Summoner](/Jobs/JobDetails/BlackSummoner.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 2, Summoner 2)
+- [Red Summoner](/Jobs/JobDetails/RedSummoner.md) ([Red Mage](/Jobs/JobDetails/RedMage.md) 2, Summoner)
+- [White Summoner](/Jobs/JobDetails/WhiteSummoner.md) ([White Mage](/Jobs/JobDetails/WhiteMage.md) 2, Summoner 2)
 
 Actions:
 

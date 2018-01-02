@@ -1,6 +1,6 @@
 # General
 
-Requires: Soldier 10
+Requires: [Soldier](/Jobs/JobDetails/Soldier.md) 10
 
 Actions:
 

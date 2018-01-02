@@ -1,6 +1,6 @@
 # Samurai
 
-Requires: Ashigaru 8, Knight 4
+Requires: [Ashigaru](/Jobs/JobDetails/Ashiguaru.md) 8, [Knight](/Jobs/JobDetails/Knight.md) 4
 
 Actions:
 
@@ -20,7 +20,7 @@ Supports:
 Reactions:
 
 - 1 x Choice
-- Shirahadori (1 AP) - Stop a melee attack against you, and attempt to cause Broken Weapon status (2) to the attacker.
+- Shirahadori (1 AP) - +50 Evasion against a melee attack. If the attack misses, then attempt to cause Broken Weapon status to the attacker.
 
 Proficiencies:
 

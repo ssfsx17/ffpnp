@@ -1,6 +1,15 @@
 # Thief
 
-Requires: Onion Knight 2
+Requires: [Onion Knight](/Jobs/JobDetails/OnionKnight.md) 2
+
+Leads to:
+
+- [Bishop](/Jobs/JobDetails/Bishop.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 2, [White Mage](/Jobs/JobDetails/WhiteMage.md) 2, Thief 2)
+- [Gambler](/Jobs/JobDetails/Gambler.md) (Thief 4, [Juggler](/Jobs/JobDetails/Juggler.md) 4)
+- [Geomancer](/Jobs/JobDetails/Geomancer.md) ([Archer](/Jobs/JobDetails/Archer.md) 4, [Knight](/Jobs/JobDetails/Knight.md) 4, [Monk](/Jobs/JobDetails/Monk.md) 4, Thief 4)
+- [Ninja](/Jobs/JobDetails/Ninja.md) ([Ashigaru](/Jobs/JobDetails/Ashigaru.md) 4, [Monk](/Jobs/JobDetails/Monk.md) 4, Thief 4)
+- [Rogue](/Jobs/JobDetails/Rogue.md) (specialization) (Thief 10)
+- [Viking](/Jobs/JobDetails/Viking.md) ([Fighter](/Jobs/JobDetails/Fighter.md) 4, Thief 4)
 
 Actions:
 

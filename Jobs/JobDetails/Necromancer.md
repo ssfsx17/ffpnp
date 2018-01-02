@@ -1,6 +1,6 @@
 # Necromancer
 
-Requires: Black Mage 4
+Requires: [Black Mage](/Jobs/JobDetails/BlackMage.md) 4
 
 Actions:
 
@@ -61,13 +61,13 @@ Job Levels:
 
 ### Dark Arts T1
 
-Corpse Explosion (10 MP) (single) - You destroy one of your undead minions instantly. It causes an amount of magical dark damage to a single enemy equal to the minion's maximum HP, ignoring Magic Evasion.
+Corpse Explosion (5 MP) (single) - You destroy one of your undead minions instantly. It causes an amount of magical dark damage to a single enemy equal to the minion's maximum HP, ignoring Magic Evasion.
 
-Create Skull (30 MP) (special) - Creates a floating skull. It has average monster stats of your experience level, except it is undead, it always has Float status, and its maximum HP is halved. You can only maintain one skull at a time.
+Create Skull (30 MP) (special) - Creates a floating skull. It has average monster stats of your experience level, except it is undead, it always has Float status, and its maximum HP is cut to one-fourth. You can only maintain one skull at a time.
 
 Drain Touch (15 MP) (single) - Intellect * Level magical dark damage, and drain that HP. The effect is reversed against undead.
 
-Oath (5 AP) - Summons a random undead creature to do one action. Roll a 1d6 to determine what happens.
+Oath (5 AP) (special) - Summons a random undead creature to do one action. Roll a 1d6 to determine what happens.
 
 1. Skeleton (single) - Intellect * Level magical lightning damage.
 2. Flamemancer (single) - Intellect * Level magical fire damage.
@@ -86,7 +86,7 @@ Sinews (6 MP) (single/multi) - Restores Intellect * Level * 0.5 HP. Works normal
 
 ### Dark Arts T3
 
-Create Skeleton (60 MP) (special) - Creates a skeleton. It has average monster stats of your experience level, except it is undead. You can only maintain one skeleton at a time.
+Create Skeleton (60 MP) (special) - Creates a skeleton. It has average monster stats of your experience level, except it is undead, and its maximum HP is half. You can only maintain one skeleton at a time.
 
 Deep Freeze (38 MP) (single) - Intellect * Level * 2 magical ice damage, and attempt to cause Freeze and Stop statuses (6).
 
@@ -98,7 +98,7 @@ Necrotic Preservation (18 MP) (single/multi) - Restores Intellect * Level HP. Wo
 
 ### Dark Arts T5
 
-Create Zombie (90 MP) (special) - Creates a zombie. It has average monster stats of your experience level, except it is undead, it has zero Speed, its initiative is always 1, and its maximum HP is doubled. You can only maintain one zombie at a time.
+Create Zombie (90 MP) (special) - Creates a zombie. It has average monster stats of your experience level, except it is undead, it has zero Speed, its initiative is always 1, and it always has Broken Helmet status. You can only maintain one zombie at a time.
 
 Meltdown (38 MP) (multi) - Intellect * Level * 1.5 magical fire damage, and attempt to cause Sap status (6).
 
@@ -112,7 +112,7 @@ Hellwind (38 MP) (multi) - Intellect * Level * 3 magical wind damage, and attemp
 
 ### Dark Arts T7
 
-Create Rage Zombie (120 MP) - Creates a rage zombie. It has average monster stats of your experience level, except it is undead, and its maximum HP is doubled. You can only maintain one rage zombie at a time.
+Create Rage Zombie (120 MP) (special) - Creates a rage zombie. It has average monster stats of your experience level, except it is undead, and it always has Broken Helmet status. You can only maintain one rage zombie at a time.
 
 Chaos Drive (38 MP) (multi) - Intellect * Level * 3 magical lightning damage, and attempt to cause Disable and Immobilize statuses (12).
 
@@ -124,13 +124,13 @@ Paleblood Injection (80 MP) (single/multi) - Restores Intellect * Level * 2 HP. 
 
 ### Dark Arts T9
 
-Create Vampire (150 MP) - Creates a vampire. It has average monster stats of your experience level, except it is undead, and it drains 10% of its attack damage as HP restoration to itself. You can only maintain one vampire at a time.
+Create Vampire (150 MP) (special) - Creates a vampire. It has average monster stats of your experience level, except it is undead, it drains 10% of its attack damage as HP restoration to itself, and its maximum HP is half. You can only maintain one vampire at a time.
 
 Dark Flare (52 MP) (multi) - Intellect * Level * 3 magical dark damage, ignoring Magic Defense.
 
 ### Dark Arts T10
 
-Create Ghost (180 MP) - Creates a ghost. It has average monster stats of your experience level, except it is undead, and it always has Vanish status. You can only maintain one ghost at a time.
+Create Ghost (180 MP) (special) - Creates a ghost. It has average monster stats of your experience level, except it is undead, it always has Vanish status, and its maximum HP is half. You can only maintain one ghost at a time.
 
 Desecration of Physique (36 MP) (multi) - Attempts to cause Zombie status at +50 Magic Accuracy.
 

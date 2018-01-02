@@ -1,6 +1,10 @@
 # Ninja
 
-Requires: Ashigaru 4, Monk 4, Thief 4
+Requires: [Ashigaru](/Jobs/JobDetails/Ashigaru.md) 4, [Monk](/Jobs/JobDetails/Monk.md) 4, [Thief](/Jobs/JobDetails/Thief.md) 4
+
+Leads to:
+
+- [Assassin](/Jobs/JobDetails/Assassin.md) ([Archer](/Jobs/JobDetails/Archer.md) 8, [Fencer](/Jobs/JobDetails/Fencer.md) 8, Ninja 8)
 
 Actions:
 
@@ -69,7 +73,7 @@ Job Levels:
 
 ### Ninjutsu T2
 
-- Flash (7 MP) (multi) - Causes Blind status.
+- Flash (7 MP) (multi) - Attempt to cause Blind status.
 - Heal Pill (6 MP) (single) - Restores Speed * Level * 0.5 HP.
 - Smoke (7 MP) (special) - The whole party flees from battle.
 
@@ -119,4 +123,4 @@ Job Levels:
 ### Ninjutsu T10
 
 - Bhavacakra (60 MP) (multi) - Speed * Level * 2 magical non-elemental damage.
-- Ultima Shot (BDL) (99 MP, 10 AP) (single) - 10 attacks on one target.
+- Ultima Shot (BDL) (99 MP, 10 AP) (single) - 5 attacks on one target.

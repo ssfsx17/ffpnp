@@ -1,6 +1,6 @@
 # Rogue
 
-Requires: Thief 10
+Requires: [Thief](/Jobs/JobDetails/Rogue.md) 10
 
 Actions:
 
@@ -43,7 +43,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Shadow Rogue
-|    | Job Support: Initiative - Your initiative is doubled.
+|    | Job Support: Initiative Mastery - Your initiative is doubled.
 | 11 | 
 | 12 | 
 | 13 | 
@@ -53,6 +53,6 @@ Job Levels:
 | 17 | 
 | 18 | 
 | 19 | 
-| 20 | Support Unlock: Initiative
+| 20 | Support Unlock: Initiative Mastery
 |    | Support Unlock: Rogue Agility +20
 |    | Support Unlock: Rogue Speed +20

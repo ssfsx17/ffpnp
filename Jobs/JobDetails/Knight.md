@@ -1,6 +1,19 @@
 # Knight
 
-Requires: Squire 2
+Requires: [Squire](/Jobs/JobDetails/Squire.md) 2
+
+Leads to:
+
+- [Dark Knight](/Jobs/JobDetails/DarkKnight.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 4, Knight 8, [Viking](/Jobs/JobDetails/Viking.md) 4)
+- [Dragoon](/Jobs/JobDetails/Dragoon.md) (Knight 4, [Onion Knight](/Jobs/JobDetails/OnionKnight.md) 4, [Squire](/Jobs/JobDetails/Squire.md) 4)
+- [Geomancer](/Jobs/JobDetails/Geomancer.md) ([Archer](/Jobs/JobDetails/Archer.md) 4, Knight 4, [Monk](/Jobs/JobDetails/Monk.md) 4, [Thief](/Jobs/JobDetails/Thief.md) 4)
+- [Holy Knight](/Jobs/JobDetails/HolyKnight.md) (Bishop 4, [Knight](/Jobs/JobDetails/Knight.md) 8, [White Mage](/Jobs/JobDetails/WhiteMage.md) 4)
+- [Magitek Pilot](/Jobs/JobDetails/MagitekPilot.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 2, Knight 2, [Soldier](/Jobs/JobDetails/Soldier.md) 2)
+- [Mystic Knight](/Jobs/JobDetails/MysticKnight.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 4, Knight 4)
+- [Rune Knight](/Jobs/JobDetails/RuneKnight.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 4, Knight 4)
+- [Samurai](/Jobs/JobDetails/Samurai.md) ([Ashigaru](/Jobs/JobDetails/Ashiguaru.md) 8, Knight 4)
+- [Temple Knight](/Jobs/JobDetails/TempleKnight.md) ([Oracle](/Jobs/JobDetails/Oracle.md) 4, Knight 8, [Time Mage](/Jobs/JobDetails/TimeMage.md) 4)
+- [Thunder God](/Jobs/JobDetails/ThunderGod.md) ([Dark Avenger](/Jobs/JobDetails/DarkAvenger.md) 2, Knight 10, [Order Knight](/Jobs/JobDetails/OrderKnight.md) 2, [Paladin](/Jobs/JobDetails/Paladin.md) 2)
 
 Actions:
 

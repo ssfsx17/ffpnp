@@ -1,6 +1,10 @@
-# Job Title
+# Bishop
 
-Requires: Black Mage 2, White Mage 2, Thief 2
+Requires: [Black Mage](/Jobs/JobDetails/BlackMage.md) 2, [White Mage](/Jobs/JobDetails/WhiteMage.md) 2, [Thief](/Jobs/JobDetails/Thief.md) 2
+
+Leads to:
+
+- [Holy Knight](/Jobs/JobDetails/HolyKnight.md) (Bishop 4, [Knight](/Jobs/JobDetails/Knight.md) 8, [White Mage](/Jobs/JobDetails/WhiteMage.md) 4)
 
 Actions:
 

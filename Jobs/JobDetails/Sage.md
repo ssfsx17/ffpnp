@@ -1,6 +1,10 @@
 # Sage
 
-Requires: Black Mage 8, Red Mage 4, Time Mage 8, White Mage 8
+Requires: [Black Mage](/Jobs/JobDetails/BlackMage.md) 8, [Red Mage](/Jobs/JobDetails/RedMage.md) 4, [Time Mage](/Jobs/JobDetails/TimeMage.md) 8, [White Mage](/Jobs/JobDetails/WhiteMage.md) 8
+
+Leads to:
+
+- [Archmage](/Jobs/JobDetails/Archmage.md) (specialization) (Sage 10)
 
 Actions:
 

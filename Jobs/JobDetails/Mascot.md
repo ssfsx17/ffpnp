@@ -1,6 +1,6 @@
 # Mascot
 
-Requires: Feral 10
+Requires: [Feral](/Jobs/JobDetails/Feral.md) 10
 
 Actions:
 

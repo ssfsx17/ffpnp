@@ -1,6 +1,6 @@
 # Songster
 
-Requires: Bard 4, Dancer 4
+Requires: [Bard](/Jobs/JobDetails/Bard.md) 4, [Dancer](/Jobs/JobDetails/Dancer.md) 4
 
 Actions:
 
@@ -45,7 +45,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Pop Idol
-|    | Job Reaction: Counter Emotion (1 AP) - Upon taking damage, do a Bardsong or Dance action. You must have Bardsong or Dance as job or choice actions.
+|    | Job Reaction: Counter Emotion (1 AP) - Upon taking damage, do a Bardsong or Dance action. The AP costs of the action stack. You must have Bardsong or Dance as job or choice actions.
 | 11 | 
 | 12 | 
 | 13 | 

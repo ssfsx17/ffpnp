@@ -1,6 +1,16 @@
 # Time Mage
 
-Requires: Black Mage 2, White Mage 2
+Requires: [Black Mage](/Jobs/JobDetails/BlackMage.md) 2, [White Mage](/Jobs/JobDetails/WhiteMage.md) 2
+
+Leads to:
+
+- [Astronomer](/Jobs/JobDetails/Astronomer.md) ([Calculator](/Jobs/JobDetails/Calculator.md) 4, [Scholar](/Jobs/JobDetails/Scholar.md) 4, Time Mage 4)
+- [Calculator](/Jobs/JobDetails/Calculator.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 4, [Oracle](/Jobs/JobDetails/Oracle.md) 4, Time Mage 4, [White Mage](/Jobs/JobDetails/WhiteMage.md) 4)
+- [Evoker](/Jobs/JobDetails/Evoker.md) (Time Mage 4)
+- [Psychic](/Jobs/JobDetails/Psychic.md) ([Illusionist](/Jobs/JobDetails/Illusionist.md) 4, Time Mage 4)
+- [Sage](/Jobs/JobDetails/Sage.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 8, [Red Mage](/Jobs/JobDetails/RedMage.md) 4, Time Mage 8, [White Mage](/Jobs/JobDetails/WhiteMage.md) 8)
+- [Temple Knight](/Jobs/JobDetails/TempleKnight.md) ([Oracle](/Jobs/JobDetails/Oracle.md) 4, [Knight](/Jobs/JobDetails/Knight.md) 8, Time Mage 4)
+- [Temporal Lord](/Jobs/JobDetails/TemporalLord.md) (specialization) (Time Mage 10)
 
 Actions:
 
@@ -59,7 +69,7 @@ Job Levels:
 
 ### Time Magic T1
 
-- Disk (1 MP) (utility) - creates a floating disk that can be used to carry personal loads at a walking pace for a day
+- Disk (1 MP) (utility) - creates a floating disk that can be towed to carry personal loads at a walking pace for a day
 - Immobilize (5 MP) (single/multi) - Attempt to cause Immobilized status (4).
 - Regen (10 MP) (single/multi) - Causes Regen status (6).
 - Slow (5 MP) (single/multi) - Attempt to cause Slow status (4).
@@ -76,7 +86,7 @@ Job Levels:
 
 ### Time Magic T3
 
-- Diskara (3 MP) (utility) - creates a floating disk that can be used to carry heavy loads at a running pace for a day
+- Diskara (3 MP) (utility) - creates a floating disk that can be towed to carry heavy loads at a running pace for a day
 - Extend (8 MP) (single) - Extend all status durations by 1.
 - Gravity (10 MP) (single) - Attempt to cause an amount of non-elemental magical damage equal to 10% of the target's maximum HP. Magic Defense is not applied.
 - Reflect (22 MP) (single/multi) - Causes Reflect status (6).
@@ -95,7 +105,7 @@ Job Levels:
 ### Time Magic T5
 
 - Disabalaga (20 MP) (single/multi) - Attempt to cause Disabled status (8).
-- Diskaga (6 MP) (utility) - creates a floating disk that can be used to carry wagon-sized loads at a galloping pace for a day
+- Diskaga (6 MP) (utility) - creates a floating disk that can be towed to carry wagon-sized loads at a galloping pace for a day
 - Graviga (30 MP) (multi) - Attempt to cause an amount of non-elemental magical damage equal to 10% of the target's maximum HP. Magic Defense is not applied.
 - Hastega (30 MP) (single/multi) - Causes Haste status (20).
 - Asteroid (30 MP) (multi) - Intellect * Level non-elemental damage, and attempt to cause Stun status (2).
@@ -113,7 +123,7 @@ Job Levels:
 ### Time Magic T7
 
 - Demi (33 MP) - Attempt to cause an amount of non-elemental magical damage equal to 25% of the target's maximum HP. Magic Defense is not applied.
-- Diskaja (9 MP) (utility) - creates a floating disk that can be used to carry house-sized loads at a vehicle pace for a day
+- Diskaja (9 MP) (utility) - creates a floating disk that can be towed to carry house-sized loads at a vehicle pace for a day
 - Reflectga (50 MP) (single/multi) - Causes Reflect status (20).
 - Regenaga (60 MP) (single/multi) - Causes Regen-Plus status (6).
 - Vanish (24 MP) (single/multi) - Causes Vanish status (4).
@@ -128,7 +138,7 @@ Job Levels:
 ### Time Magic T9
 
 - Demiga (50 MP) (multi) - Attempt to cause an amount of non-elemental magical damage equal to half the target's maximum HP. Magic Defense is not applied.
-- Full Tension Disk (18 MP) (utility) - creates a floating disk that can be used to carry building-sized loads at a supersonic pace for a day
+- Full Tension Disk (18 MP) (utility) - creates a floating disk that can be towed to carry building-sized loads at a supersonic pace for a day
 - Quarter (48 MP) (single) - Attempt to cause an amount of non-elemental magical damage equal to 50% of the target's maximum HP. Magic Defense is not applied.
 - Vanishga (60 MP) (single/multi) - Causes Vanish status (12).
 

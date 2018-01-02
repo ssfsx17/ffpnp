@@ -2,7 +2,7 @@
 
 **Warning** - The Gambler is complex and involves a lot of dice rolling.
 
-Requires: Thief 4
+Requires: [Thief](/Jobs/JobDetails/Thief.md) 4, [Juggler](/Jobs/JobDetails/Juggler.md) 4
 
 Actions:
 
@@ -125,7 +125,7 @@ Mahjong Hand (2,000 Gil) (BDL) - Play a solitaire game of Mahjong, according to 
 - 9+ tiles of Sou/Bam/Bamboo - Restores Spirit * Level * 5 HP to the party.
 - 9+ tiles of Pin/Dot/Circles - Additional magical attack for Intellect * Level * 5 non-elemental damage to all enemies.
 - Seven Pairs hand - Restores Level * 10 MP to the party.
-- Thirteen Orphans hand - Attempt to instantly-kill all enemies at +50 Magic Accuracy.
+- Thirteen Orphans hand - Attempt to instantly-kill all enemies at +50 Magic Accuracy. Against bosses, this is changed to an attempt to do an additional 30,000 damage.
 
 ## Slots System
 

@@ -1,5 +1,15 @@
 # Onion Knight
 
+Leads to:
+
+- [Archer](/Jobs/JobDetails/Archer.md) (Onion Knight 2)
+- [Artist](/Jobs/JobDetails/Artist.md) ([Blue Mage](/Jobs/JobDetails/BlueMage.md) 2, Onion Knight 2)
+- [Dragoon](/Jobs/JobDetails/Dragoon.md) ([Knight](/Jobs/JobDetails/Knight.md) 4, Onion Knight 4, [Squire](/Jobs/JobDetails/Squire.md) 4)
+- [Fencer](/Jobs/JobDetails/Fencer.md) (Onion Knight 2, [Squire](/Jobs/JobDetails/Squire.md) 2)
+- [Juggler](/Jobs/JobDetails/Juggler.md) (Onion Knight 2)
+- [Scallion](/Jobs/JobDetails/Scallion.md) (specialization) (Onion Knight 10)
+- [Thief](/Jobs/JobDetails/Thief.md) (Onion Knight 2)
+
 Actions:
 
 - Fight
@@ -64,40 +74,40 @@ Job Levels:
 
 ### Onion Tech T1
 
-Sidestep - Evasion and Magic Evasion are infinite against the next incoming attack. After this, however, Evasion and Magic Evasion are zero until your next action.
+Sidestep (self-only) - Evasion and Magic Evasion are infinite against the next incoming attack. After this, however, Evasion and Magic Evasion are zero until your next action.
 
 ### Onion Tech T2
 
-Row Swap - Change rows, and force another party member to also change rows.
+Row Swap (special) - Change rows, and force another party member to also change rows.
 
 ### Onion Tech T3
 
-Expert Reach (1 AP) - Attack as if ranged.
+Expert Reach (1 AP) (single) - Attack as if ranged.
 
 ### Onion Tech T4
 
-Expert Strike (1 AP) - Attack with Accuracy increased by the user's total job levels.
+Expert Strike (1 AP) (special) - Do a weapon action with Accuracy increased by the user's total job levels. The weapon action's AP costs also apply.
 
 ### Onion Tech T5
 
-Expert Cast (1 AP) - Cast a magic spell with Magic Accuracy increased by the user's total job levels.
+Expert Cast (1 AP) (special) - Cast a magic spell with Magic Accuracy increased by the user's total job levels. If the magic spell has an AP cost then it also applies.
 
 ### Onion Tech T6
 
-Expert Initiative (1 AP) - The user's next initiative roll gains a bonus equal to the user's total job levels.
+Expert Initiative (1 AP) (self-only) - The user's next initiative roll gains a bonus equal to the user's total job levels.
 
 ### Onion Tech T7
 
-EX Job Change (5 AP) - Change jobs in the middle of combat. Any equipment that the new job is not proficient in is instantly unequipped.
+EX Job Change (5 AP) (self-only) - Change jobs in the middle of combat. Any equipment that the new job is not proficient in is instantly unequipped.
 
 ### Onion Tech T8
 
-Prestige Sidestep (1 AP) - Evasion and Magic Evasion are infinite against the next incoming attack. After this, Evasion and Magic Evasion return to normal.
+Prestige Sidestep (1 AP) (self-only) - Evasion and Magic Evasion are infinite against the next incoming attack. After this, Evasion and Magic Evasion return to normal.
 
 ### Onion Tech T9
 
-Prestige Charge (1 AP) - Charge action, with Speed increased by the user's total job levels.
+Prestige Charge (2 AP) (self-only) - Charge action, with Speed increased by the user's total job levels.
 
 ### Onion Tech T10
 
-Prestige Strike (20 AP) - Attack with weapon level increased by the user's total job levels.
+Prestige Strike (20 AP) (BDL) (single) - Attack with weapon level increased by the user's total job levels.

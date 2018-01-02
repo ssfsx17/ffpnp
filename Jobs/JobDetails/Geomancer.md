@@ -2,7 +2,11 @@
 
 Geomancers draw power from their surroundings, and therefore need little AP or MP to cause great effects. On the other hand, it is highly likely that the type of power they could evoke from the terrain would be something that the local monsters would have adapted to already. Therefore, Geomancers are most powerful when they lure enemies into other terrains.
 
-Requires: Archer 4, Knight 4, Monk 4, Thief 4
+Requires: [Archer](/Jobs/JobDetails/Archer.md) 4, [Knight](/Jobs/JobDetails/Knight.md) 4, [Monk](/Jobs/JobDetails/Monk.md) 4, [Thief](/Jobs/JobDetails/Thief.md) 4
+
+Leads to:
+
+- [Dancer](/Jobs/JobDetails/Dancer.md) ([Dragoon](/Jobs/JobDetails/Dragoon.md) 4, Geomancer 4)
 
 Actions:
 
@@ -71,14 +75,14 @@ According to geomancy, the elements of terrain are as follows:
 
 Combination Suggestion Table:
 
-| Type      | Earth                  | Fire          | Water        | Wind               | Wood       
-| ---       | ---                    | ---           | ---          | ---                | ---       
-| **Earth** | .                      | Lava, Glass   | Swamp        | Mountaintop        | Grasslands, Greattrees
-| **Fire**  | Lava, Glass            | .             | Steam, fog   | Deserts            | Coal      
-| **Water** | Swamp                  | Steam, fog    | .            | Rain, Snow         | Jungle, Kelp
-| **Wind**  | Mountaintop            | Deserts       | Rain, Snow   | .                  | Rooftops, Treetops
-| **Wood**  | Grasslands, Greattrees | Coal          | Jungle, Kelp | Rooftops, Treetops | .
-| **Magic** | Crystal, Moon          | Chaos, Energy | Lifestream   | Void, Mist         | World-Tree
+| Type      | Earth                  | Fire          | Water        | Wind               | Wood                    | Magic |
+| ---       | ---                    | ---           | ---          | ---                | ---                     | ---   |
+| **Earth** | .                      | Lava, Glass   | Swamp        | Mountaintop        | Grasslands, Greattrees  | Crystal, Moon
+| **Fire**  | Lava, Glass            | .             | Steam, fog   | Deserts            | Coal                    | Chaos, Energy
+| **Water** | Swamp                  | Steam, fog    | .            | Rain, Snow         | Jungle, Kelp            | Lifestream
+| **Wind**  | Mountaintop            | Deserts       | Rain, Snow   | .                  | Rooftops, Treetops      | Void, Mist
+| **Wood**  | Grasslands, Greattrees | Coal          | Jungle, Kelp | Rooftops, Treetops | .                       | World-Tree
+| **Magic** | Crystal, Moon          | Chaos, Energy | Lifestream   | Void, Mist         | World-Tree              | .  |
 
 ## Geomancy
 

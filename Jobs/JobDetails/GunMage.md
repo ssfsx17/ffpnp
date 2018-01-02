@@ -1,6 +1,6 @@
 # Gun Mage
 
-Requires: Blue Mage 2, Gunner 2
+Requires: [Blue Mage](/Jobs/JobDetails/BlueMage.md) 4, [Gunner](/Jobs/JobDetails/Gunner.md) 4
 
 Actions:
 
@@ -8,7 +8,7 @@ Actions:
 - Defend
 - Charge
 - Blue Bullet - Use a Blue Magic spell that you do not yet know. Its MP cost is doubled.
-- Fiend Hunter (6 MP) (single) - Attack for +50 Accuracy against a specific family of enemies. The possible targets are based on Fiend Hunting tier.
+- Fiend Hunter (6 MP) (single) - Do a weapon action for +50 Accuracy against a specific family of enemies. The possible targets are based on Fiend Hunting tier.
 - Item
 
 Supports:
@@ -71,6 +71,7 @@ Job Levels:
 ### Fiend Hunter T3
 
 - Bees
+- Hornets
 - Wasps
 
 ### Fiend Hunter T4

@@ -1,6 +1,6 @@
 # Assassin
 
-Requires: Archer 8, Fencer 8, Ninja 8
+Requires: [Archer](/Jobs/JobDetails/Archer.md) 8, [Fencer](/Jobs/JobDetails/Fencer.md) 8, [Ninja](/Jobs/JobDetails/Ninja.md) 8
 
 Actions:
 

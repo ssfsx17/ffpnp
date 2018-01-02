@@ -1,6 +1,10 @@
 # Dancer
 
-Requires: Dragoon 4, Geomancer 4
+Requires: [Dragoon](/Jobs/JobDetails/Dragoon.md) 4, [Geomancer](/Jobs/JobDetails/Geomancer.md) 4
+
+Leads to:
+
+- [Songster](/Jobs/JobDetails/Songster.md) ([Bard](/Jobs/JobDetails/Bard.md) 4, Dancer 4)
 
 Actions:
 

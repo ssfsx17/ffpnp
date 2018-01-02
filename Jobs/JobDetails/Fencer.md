@@ -1,6 +1,11 @@
 # Fencer
 
-Requires: Onion Knight 2, Squire 2
+Requires: [Onion Knight](/Jobs/JobDetails/OnionKnight.md) 2, [Squire](/Jobs/JobDetails/Squire.md) 2
+
+Leads to:
+
+- [Assassin](/Jobs/JobDetails/Assassin.md) ([Archer](/Jobs/JobDetails/Archer.md) 8, Fencer 8, [Ninja](/Jobs/JobDetails/Ninja.md) 8)
+- [Red Mage](/Jobs/JobDetails/RedMage.md) ([Black Mage](/Jobs/JobDetails/BlackMage.md) 2, Fencer 2, [White Mage](/Jobs/JobDetails/WhiteMage.md) 2)
 
 Actions:
 

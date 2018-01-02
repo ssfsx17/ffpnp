@@ -1,6 +1,11 @@
 # Gunner
 
-Requires: Archer 2, Soldier 2
+Requires: [Archer](/Jobs/JobDetails/Archer.md) 4, [Soldier](/Jobs/JobDetails/Soldier.md) 4
+
+Leads to:
+
+- [Fusilier](/Jobs/JobDetails/Fusilier.md) (Gunner 4)
+- [Gun Mage](/Jobs/JobDetails/GunMage.md) ([Blue Mage](/Jobs/JobDetails/BlueMage.md) 4, Gunner 4)
 
 Actions:
 

@@ -1,6 +1,12 @@
 # Monk
 
-Requires: Archer 4, Fighter 4
+Requires: [Archer](/Jobs/JobDetails/Archer.md) 4, [Fighter](/Jobs/JobDetails/Fighter.md) 4
+
+Leads to:
+
+- [Black Belt](/Jobs/JobDetails/BlackBelt.md) (specialization) (Monk 10)
+- [Geomancer](/Jobs/JobDetails/Geomancer.md) ([Archer](/Jobs/JobDetails/Archer.md) 4, [Knight](/Jobs/JobDetails/Knight.md) 4, Monk 4, [Thief](/Jobs/JobDetails/Thief.md) 4)
+- [Ninja](/Jobs/JobDetails/Ninja.md) ([Ashigaru](/Jobs/JobDetails/Ashigaru.md) 4, Monk 4, [Thief](/Jobs/JobDetails/Thief.md) 4)
 
 Actions:
 
@@ -13,7 +19,7 @@ Actions:
 Supports:
 
 - 1 x Choice
-- Barehanded - Weaponless attacks are considered to be Fists 1H of twenty levels lower.
+- Barehanded - Weaponless attacks are considered to be Fists 1H of ten levels lower.
 
 Reactions:
 
@@ -109,7 +115,7 @@ Raging Fist (3 AP) (single) - Do a melee attack that ignores Evasion and Defense
 
 ### Chi Tech T7
 
-Chakra (6 AP) (self-only) - Restores Vitality * Level * 0.5 HP, and Spirit * Level * 0.01 MP.
+Chakra (6 AP) (self-only) - Restores Vitality * Level * 0.5 HP, and Spirit * Level * 0.01 MP. Out-of-combat, this allows you to restore all HP and half MP during a long rest.
 
 Meteor Strike (4 AP) (single) - Do a melee attack, and attempt to cause Addle status (8).
 
@@ -132,5 +138,7 @@ Phantom Rush (9 AP) (single) - Melee attack for double damage, ignoring Evasion 
 ### Chi Tech T10
 
 Musou Tensei (20 AP) (special) - Create ghostly copies of four allies who have died permanently in the storyline, for the remainder of combat. They possess the same attributes and statistics that they had in life. Out of combat, this ability allows consulting them for advice, although limited by what they knew when they were alive.
+
+Seventh Chakra (20 AP) (multi) - Restores Vitality * Level * 0.5 HP, and Spirit * Level * 0.01 MP. Out-of-combat, this allows you to restore all HP and half MP during a long rest.
 
 Tenketsu (10 AP) (single) - Melee attack for double damage, and attempt to instantly-kill. If the instant-kill effect fails, then attempt to cause Doom status (4).

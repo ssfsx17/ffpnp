@@ -1,6 +1,10 @@
 # Paladin
 
-Requires: Holy Knight 10
+Requires: [Holy Knight](/Jobs/JobDetails/HolyKnight.md) 10
+
+Leads to:
+
+- [Thunder God](/Jobs/JobDetails/ThunderGod.md) ([Dark Avenger](/Jobs/JobDetails/DarkAvenger.md) 2, [Knight](/Jobs/JobDetails/Knight.md) 10, [Order Knight](/Jobs/JobDetails/OrderKnight.md) 2, Paladin 2)
 
 Actions:
 
@@ -8,9 +12,8 @@ Actions:
 - Defend
 - Charge
 - 1 x Choice
-- Cover
-- Remove
-- Holy Sword Tech
+- Cover or Remove
+- Holy Sword
 - White Magic
 - Item
 

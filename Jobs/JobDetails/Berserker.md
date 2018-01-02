@@ -1,6 +1,6 @@
 # Berserker
 
-Requires: Viking 2
+Requires: [Viking](/Jobs/JobDetails/Viking.md) 4
 
 Actions:
 

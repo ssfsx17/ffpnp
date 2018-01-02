@@ -1,6 +1,6 @@
 # Thunder God
 
-Requires: Dark Avenger 2, Knight 10, Order Knight 2, Paladin 2
+Requires: [Dark Avenger](/Jobs/JobDetails/DarkAvenger.md) 2, [Knight](/Jobs/JobDetails/Knight.md) 10, [Order Knight](/Jobs/JobDetails/OrderKnight.md) 2, [Paladin](/Jobs/JobDetails/Paladin.md) 2
 
 Actions:
 

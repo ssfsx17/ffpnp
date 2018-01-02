@@ -1,6 +1,6 @@
 # Chocobo Knight
 
-Requires: Animist 2, Dragoon 2
+Requires: [Animist](/Jobs/JobDetails/Animist.md) 2, [Dragoon](/Jobs/JobDetails/Dragoon.md) 2
 
 Actions:
 
@@ -22,7 +22,7 @@ Reactions:
 
 Proficiencies:
 
-- Weapons: Spears 1H, Swords 1H, Spears 2H, Swords 2H, Handguns 1H, Javelins 1H, Bows 2H
+- Weapons: Spears 1H, Swords 1H, Spears 2H, Swords 2H, Handguns 1H, Bows 2H
 - Shields: Medium Shields
 - Head Gear: Medium Coifs
 - Body Gear: Medium Chainmail
