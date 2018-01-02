@@ -15,7 +15,7 @@ Actions:
 - Defend
 - Charge
 - Jump (1 AP) - Jump into the air, no longer able to be targeted by anything. Status conditions continue to behave normally. On your next turn, you land on the enemy and do an attack for double damage, but this uses up your action. Jump is therefore effectively two actions.
-- Dragoon Tech
+- Draconic Soul
 - Item
 
 Supports:
@@ -40,54 +40,54 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | Job Action: Dragoon Tech T1
-| 2 | Action Unlock: Dragoon Tech T1
+| 1 | Job Action: Draconic Soul T1
+| 2 | Action Unlock: Draconic Soul T1
 |   | Proficiency Unlock: Spears 1H
-| 3 | Job Action: Dragoon Tech T2
-| 4 | Action Unlock: Dragoon Tech T2
+| 3 | Job Action: Draconic Soul T2
+| 4 | Action Unlock: Draconic Soul T2
 |   | Proficiency Unlock: Spears 2H
-| 5 | Job Action: Dragoon Tech T3
-| 6 | Action Unlock: Dragoon Tech T3
+| 5 | Job Action: Draconic Soul T3
+| 6 | Action Unlock: Draconic Soul T3
 |   | Proficiency Unlock: Javelins 1H
-| 7 | Job Action: Dragoon Tech T4
-| 8 | Action Unlock: Dragoon Tech T4
-| 9 | Job Action: Dragoon Tech T5
+| 7 | Job Action: Draconic Soul T4
+| 8 | Action Unlock: Draconic Soul T4
+| 9 | Job Action: Draconic Soul T5
 | 10 | Prestige Job Title: Draconic Dragoon
 |    | Action Unlock: Jump
-|    | Action Unlock: Dragoon Tech T5
+|    | Action Unlock: Draconic Soul T5
 |    | Support Unlock: Jump +3
-| 11 | Job Action: Dragoon Tech T6
-| 12 | Action Unlock: Dragoon Tech T6
-| 13 | Job Action: Dragoon Tech T7
-| 14 | Action Unlock: Dragoon Tech T7
-| 15 | Job Action: Dragoon Tech T8
-| 16 | Action Unlock: Dragoon Tech T8
-| 17 | Job Action: Dragoon Tech T9
-| 18 | Action Unlock: Dragoon Tech T9
-| 19 | Job Action: Dragoon Tech T10
-| 20 | Action Unlock: Dragoon Tech T10
+| 11 | Job Action: Draconic Soul T6
+| 12 | Action Unlock: Draconic Soul T6
+| 13 | Job Action: Draconic Soul T7
+| 14 | Action Unlock: Draconic Soul T7
+| 15 | Job Action: Draconic Soul T8
+| 16 | Action Unlock: Draconic Soul T8
+| 17 | Job Action: Draconic Soul T9
+| 18 | Action Unlock: Draconic Soul T9
+| 19 | Job Action: Draconic Soul T10
+| 20 | Action Unlock: Draconic Soul T10
 
-## Dragoon Tech
+## Draconic Soul
 
-### Dragoon Tech T1
+### Draconic Soul T1
 
 Lancer (10 MP, 1 AP) (single) - Attack that restores an amount of MP to the user equal to 1% of the damage. The MP drain effect is reversed against undead.
 
-### Dragoon Tech T2
+### Draconic Soul T2
 
 Reis's Wind (12 MP, 4 AP) (multi) - Causes Regen status (6).
 
-### Dragoon Tech T3
+### Draconic Soul T3
 
 Dragon Breath (78 MP) (special) - Choose one enemy. Calculate the difference between that enemy's current and maximum HP. Do a magical attack for this amount of magical non-elemental damage, to all enemies. Magic Defense is applied.
 
-### Dragoon Tech T4
+### Draconic Soul T4
 
 Roar (19 MP) (multi) - Attempt to cause Stun status (1).
 
 White Draw (36 MP, 1 AP) (special) - Attack and do an amount of MP damage equal to the enemy's level. The MP damage ignores Defense. Restore half this much MP to each party member.
 
-### Dragoon Tech T5
+### Draconic Soul T5
 
 Dragonfire Dive (10 AP) (multi) - Attack all enemies. The damage of your attack is changed to magical fire.
 
@@ -95,7 +95,7 @@ Lancet (8 MP, 1 AP) (single) - Attack, drain 10% of the damage as HP, drain 1% o
 
 Luna (12 MP) (special) - Attempt to cause Berserk status (4) to everyone.
 
-### Dragoon Tech T6
+### Draconic Soul T6
 
 Fire Breath (5 AP) (multi) - Vitality * Level * 0.5 magical fire damage.
 
@@ -114,25 +114,25 @@ Six Dragons (28 MP) (multi) - Choose either the party or all enemies as the targ
 
 Thunder Breath (5 AP) (multi) - Vitality * Level * 0.5 magical lightning damage.
 
-### Dragoon Tech T7
+### Draconic Soul T7
 
 Cherry Blossom (46 MP) (multi) - Magical attack for Vitality * Level * 1.5 magical non-elemental damage.
 
 Healing Breath (18 MP) (multi) - Restores Vitality * Level * 0.5 HP.
 
-### Dragoon Tech T8
+### Draconic Soul T8
 
 Dragon's Charm (10 AP) (single) - Attempt to cause Charm status (20).
 
 Dragon's Crest (16 MP) (multi) - Magical attack that does an amount of physical damage equal to the number of dragons the party has killed in their current lifetime, squared. Magic Defense is applied.
 
-### Dragoon Tech T9
+### Draconic Soul T9
 
 Dragon's Gift (single) - Use an amount of HP equal to 10% of your maximum HP to remove Blind, Confuse, Silence, Oil, Berserk, Toad, Poison, Poison-Plus, Stop, Sleep, Immobilize, and Disable statuses.
 
 Dragon's Might (10 AP) (single) - Causes Brave, Faith, and Haste status (4).
 
-### Dragoon Tech T10
+### Draconic Soul T10
 
 Dragon's Speed (10 AP) (single) - Causes Quick status (1).
 

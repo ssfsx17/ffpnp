@@ -15,7 +15,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Archery Tech
+- Archery
 - Item
 
 Supports:
@@ -40,32 +40,32 @@ Job Levels:
 | JL | Notes |
 | --- | --- |
 | 1 | Job Action: Archery T1
-| 2 | Action Unlock: Archery Tech T1
+| 2 | Action Unlock: Archery T1
 |   | Proficiency Unlock: Bows 2H
-| 3 | Job Action: Archery Tech T2
-| 4 | Action Unlock: Archery Tech T2
+| 3 | Job Action: Archery T2
+| 4 | Action Unlock: Archery T2
 |   | Proficiency Unlock: Crossbows 2H
-| 5 | Job Action: Archery Tech T3
-| 6 | Action Unlock: Archery Tech T3
-| 7 | Job Action: Archery Tech T4
-| 8 | Action Unlock: Archery Tech T4
-| 9 | Job Action: Archery Tech T5
+| 5 | Job Action: Archery T3
+| 6 | Action Unlock: Archery T3
+| 7 | Job Action: Archery T4
+| 8 | Action Unlock: Archery T4
+| 9 | Job Action: Archery T5
 | 10 | Prestige Job Title: Sniper
 |    | Job Support: Concentration - Accuracy is increased by Level * 0.5
-|    | Action Unlock: Archery Tech T5
-| 11 | Job Action: Archery Tech T6
-| 12 | Action Unlock: Archery Tech T6
-| 13 | Job Action: Archery Tech T7
-| 14 | Action Unlock: Archery Tech T7
-| 15 | Job Action: Archery Tech T8
-| 16 | Action Unlock: Archery Tech T8
-| 17 | Job Action: Archery Tech T9
-| 18 | Action Unlock: Archery Tech T9
-| 19 | Job Action: Archery Tech T10
-| 20 | Action Unlock: Archery Tech T10
+|    | Action Unlock: Archery T5
+| 11 | Job Action: Archery T6
+| 12 | Action Unlock: Archery T6
+| 13 | Job Action: Archery T7
+| 14 | Action Unlock: Archery T7
+| 15 | Job Action: Archery T8
+| 16 | Action Unlock: Archery T8
+| 17 | Job Action: Archery T9
+| 18 | Action Unlock: Archery T9
+| 19 | Job Action: Archery T10
+| 20 | Action Unlock: Archery T10
 |    | Support Unlock: Concentration
 
-## Archery Tech
+## Archery
 
 ### Archery T1
 

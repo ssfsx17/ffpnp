@@ -7,7 +7,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Thievery Tech
+- Thievery
 - Item
 
 Supports:

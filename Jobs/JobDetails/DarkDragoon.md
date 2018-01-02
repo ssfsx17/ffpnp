@@ -9,8 +9,8 @@ Actions:
 - Charge
 - 1 x Choice
 - Jump
-- Dragoon Tech
-- Dark Sword Tech
+- Draconic Soul
+- Dark Sword
 - Item
 
 Supports:

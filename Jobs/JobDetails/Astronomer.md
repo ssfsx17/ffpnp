@@ -1,6 +1,6 @@
 # Astronomer
 
-**Warning:** Astrology Tech involves some special mechanics that may take a lot of luck and multiple actions to get decent results from.
+**Warning:** Astrology involves some special mechanics that may take a lot of luck and multiple actions to get decent results from.
 
 Requires: [Calculator](/Jobs/JobDetails/Calculator.md) 4, [Scholar](/Jobs/JobDetails/Scholar.md) 4, [Time Mage](/Jobs/JobDetails/TimeMage.md) 4
 
@@ -13,7 +13,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Astrology Tech
+- Astrology
 - Item
 
 Supports:
@@ -37,32 +37,32 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | Job Action: Astrology Tech T1
-| 2 | Action Unlock: Astrology Tech T1
+| 1 | Job Action: Astrology T1
+| 2 | Action Unlock: Astrology T1
 |   | Proficiency Unlock: Globes 2H
-| 3 | Job Action: Astrology Tech T2
-| 4 | Action Unlock: Astrology Tech T2
-| 5 | Job Action: Astrology Tech T3
-| 6 | Action Unlock: Astrology Tech T3
-| 7 | Job Action: Astrology Tech T4
-| 8 | Action Unlock: Astrology Tech T4
-| 9 | Job Action: Astrology Tech T5
+| 3 | Job Action: Astrology T2
+| 4 | Action Unlock: Astrology T2
+| 5 | Job Action: Astrology T3
+| 6 | Action Unlock: Astrology T3
+| 7 | Job Action: Astrology T4
+| 8 | Action Unlock: Astrology T4
+| 9 | Job Action: Astrology T5
 | 10 | Prestige Job Title: Doctorate Astronomer
-|    | Action Unlock: Astrology Tech T5
-| 11 | Job Action: Astrology Tech T6
-| 12 | Action Unlock: Astrology Tech T6
-| 13 | Job Action: Astrology Tech T7
-| 14 | Action Unlock: Astrology Tech T7
-| 15 | Job Action: Astrology Tech T8
-| 16 | Action Unlock: Astrology Tech T8
-| 17 | Job Action: Astrology Tech T9
-| 18 | Action Unlock: Astrology Tech T9
-| 19 | Job Action: Astrology Tech T10
-| 20 | Action Unlock: Astrology Tech T10
+|    | Action Unlock: Astrology T5
+| 11 | Job Action: Astrology T6
+| 12 | Action Unlock: Astrology T6
+| 13 | Job Action: Astrology T7
+| 14 | Action Unlock: Astrology T7
+| 15 | Job Action: Astrology T8
+| 16 | Action Unlock: Astrology T8
+| 17 | Job Action: Astrology T9
+| 18 | Action Unlock: Astrology T9
+| 19 | Job Action: Astrology T10
+| 20 | Action Unlock: Astrology T10
 
-## Astrology Tech
+## Astrology
 
-### Astrology Tech T1
+### Astrology T1
 
 Benefic (1 AP, 3 MP) (single/multi) - Restores Spirit * Level HP. Acts as a magical non-elemental attack against undead.
 
@@ -72,53 +72,53 @@ Malefic (1 AP, 5 MP) (single/multi) - Intellect * Level magical non-elemental da
 
 Use Card - Uses a Tarot Card in either your main hand or your off-hand.
 
-### Astrology Tech T2
+### Astrology T2
 
 Combust (1 AP, 5 MP) (single) - Attempt to cause Burning status (6).
 
 Helios (2 AP, 9 MP) (single/multi) - Restores Spirit * Level * 1.5 HP. Acts as a magical non-elemental attack against undead.
 
-### Astrology Tech T3
+### Astrology T3
 
 Ascend (2 AP, 8 MP) (single) - Revives a downed ally with full HP. Against undead, it attempts to destroy the undead instantly.
 
 Lightspeed (2 AP, 15 MP) (single) - Causes Meditation and Haste status (2).
 
-### Astrology Tech T4
+### Astrology T4
 
 Diurnal Sect (2 AP, 20 MP) (single/multi) - Causes Boost Healing status (4).
 
 Essential Dignity (2 AP, 18 MP) (single/multi) - Restores Spirit * Level * 2 HP. Acts as a magical non-elemental attack against undead.
 
-### Astrology Tech T5
+### Astrology T5
 
 Celestial Stasis (10 AP) (multi) - Magical attempt to cause Stop status (4).
 
 Royal Road - Discard your current main hand Tarot Card for a special effect on the next card usage, as described in the Tarot Cards table. Only one Royal Road effect can be stored up at a time. Usage of a card also empties the Royal Road effect.
 
-### Astrology Tech T6
+### Astrology T6
 
 Nocturnal Sect (3 AP, 20 MP) (single/multi) - Causes Boost Healing status (8).
 
 Time Dilation (3 AP, 20 MP) (single/multi) - Extend all status durations by 4.
 
-### Astrology Tech T7
+### Astrology T7
 
 Celestial Opposition (3 AP, 10 MP) (multi) - Attempt to cause Stun status (2).
 
 Collective Unconscious (3 AP, 10 MP) (multi) - Causes Regen status (10).
 
-### Astrology Tech T8
+### Astrology T8
 
 Earthly Star (4 AP, 25 MP) (multi) - No immediate effect. Immediately before your next action, attempts to cause Intellect * Level * 2 magical non-elemental damage.
 
 Spread - Move your current Tarot Card to your off-hand, or move a Tarot Card from your off-hand to your main hand. You can have a maximum of 1 Tarot Card in your off-hand at a time.
 
-### Astrology Tech T9
+### Astrology T9
 
 Minor Arcana - Rerolls both your main hand and off-hand Tarot Cards. You choose which rolls to stick with.
 
-### Astrology Tech T10
+### Astrology T10
 
 Celestial Stasis Plus (20 AP) (multi) - Magical attempt to cause Stop status (4) at +50 Magic Accuracy.
 

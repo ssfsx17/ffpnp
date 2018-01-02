@@ -7,7 +7,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Fighter Tech
+- Fighting Arts
 - Item
 
 Supports:

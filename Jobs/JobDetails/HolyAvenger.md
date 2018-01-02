@@ -11,7 +11,7 @@ Actions:
 - Taunt
 - Black Magic
 - White Magic
-- Holy Sword Tech
+- Holy Sword
 - Item
 
 Supports:

@@ -7,7 +7,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Soldier Tech
+- Field Manual Procedures
 - Shock (10 AP) (multi) - Intellect * Level * 0.5 magical non-elemental damage, and ends Vanish status. Ignores Magic Evasion.
 - Item
 

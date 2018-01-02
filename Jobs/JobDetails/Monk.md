@@ -13,7 +13,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Chi Tech
+- Martial Arts
 - Item
 
 Supports:
@@ -38,34 +38,34 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | Job Action: Chi Tech T1
-| 2 | Action Unlock: Chi Tech T1
-| 3 | Job Action: Chi Tech T2
-| 4 | Action Unlock: Chi Tech T2
-| 5 | Job Action: Chi Tech T3
-| 6 | Action Unlock: Chi Tech T3
-| 7 | Job Action: Chi Tech T4
-| 8 | Action Unlock: Chi Tech T4
-| 9 | Job Action: Chi Tech T5
+| 1 | Job Action: Martial Arts T1
+| 2 | Action Unlock: Martial Arts T1
+| 3 | Job Action: Martial Arts T2
+| 4 | Action Unlock: Martial Arts T2
+| 5 | Job Action: Martial Arts T3
+| 6 | Action Unlock: Martial Arts T3
+| 7 | Job Action: Martial Arts T4
+| 8 | Action Unlock: Martial Arts T4
+| 9 | Job Action: Martial Arts T5
 | 10 | Prestige Job Title: Wise Monk
 |    | Job Support: Qigong Iron Body - Being unarmored is equivalent to wearing Light armor of 20 levels lower.
-|    | Action Unlock: Chi Tech T5
+|    | Action Unlock: Martial Arts T5
 |    | Support Unlock: Barehanded
-| 11 | Job Action: Chi Tech T6
-| 12 | Action Unlock: Chi Tech T6
-| 13 | Job Action: Chi Tech T7
-| 14 | Action Unlock: Chi Tech T7
-| 15 | Job Action: Chi Tech T8
-| 16 | Action Unlock: Chi Tech T8
-| 17 | Job Action: Chi Tech T9
-| 18 | Action Unlock: Chi Tech T9
-| 19 | Job Action: Chi Tech T10
-| 20 | Action Unlock: Chi Tech T10
+| 11 | Job Action: Martial Arts T6
+| 12 | Action Unlock: Martial Arts T6
+| 13 | Job Action: Martial Arts T7
+| 14 | Action Unlock: Martial Arts T7
+| 15 | Job Action: Martial Arts T8
+| 16 | Action Unlock: Martial Arts T8
+| 17 | Job Action: Martial Arts T9
+| 18 | Action Unlock: Martial Arts T9
+| 19 | Job Action: Martial Arts T10
+| 20 | Action Unlock: Martial Arts T10
 |    | Support Unlock: Qigong Iron Body
 
-## Chi Tech
+## Martial Arts
 
-### Chi Tech T1
+### Martial Arts T1
 
 Aurabolt (3 AP) (single) - Vitality * Level * 0.5 magical holy damage, ignoring Magic Defense.
 
@@ -73,7 +73,7 @@ Internal Release (2 AP) (self-only) - Causes Boost Attack status (2).
 
 Pummel (3 AP) (single) - Strength * Level * 0.5 physical damage, ignoring Defense.
 
-### Chi Tech T2
+### Martial Arts T2
 
 Suplex (4 AP) (single) - Do a melee attack, and attempt to cause Stun status (1).
 
@@ -81,7 +81,7 @@ Fire Dance (4 AP) (multi) - Vitality * Level * 0.25 magical fire damage.
 
 Mantra (6 AP) (multi) - Restores Vitality * Level * 0.5 HP and removes Blind, Poison, Silence, and Sap statuses. Out of combat, restore 25% HP during a rest and do the same removal of status conditions.
 
-### Chi Tech T3
+### Martial Arts T3
 
 Air Blade (7 AP) (multi) - Vitality * Level * 0.5 magical air damage.
 
@@ -89,7 +89,7 @@ Kick (5 AP) (multi) - Attack all enemies for half damage, ignoring Evasion.
 
 Spiraler (6 AP) (special) - Lose all HP, MP, and AP. Restores Vitality * Level HP to the party. Removes Blind, Zombie, Poison, Imp, Petrify, Doom, Silence, Berserk, Confuse, Sap, Sleep, Slow, Stop, and Freeze statuses.
 
-### Chi Tech T4
+### Martial Arts T4
 
 Cyclone (5 AP) (special) - Do a melee attack against all enemies in the front row.
 
@@ -97,7 +97,7 @@ Focus Attack (4 AP) (single) - Attack for double damage.
 
 Shockwave (5 AP) (multi) - Vitality * Level * 0.5 magical earth damage.
 
-### Chi Tech T5
+### Martial Arts T5
 
 Brace (4 AP) (self-only) - Defend action that also causes Protect status (2).
 
@@ -105,7 +105,7 @@ Bum Rush (9 AP) (single) - Strength * Level * 2 physical damage.
 
 Doom Fist (5 AP) (single) - Causes Doom status (4).
 
-### Chi Tech T6
+### Martial Arts T6
 
 Aura Cannon (3 AP) (single) - Vitality * Level * 0.5 magical holy damage, ignoring Magic Evasion and Magic Defense.
 
@@ -113,7 +113,7 @@ One Ilm Punch (2 AP) (single) - Attack, and attempt to cause Stun status (1).
 
 Raging Fist (3 AP) (single) - Do a melee attack that ignores Evasion and Defense.
 
-### Chi Tech T7
+### Martial Arts T7
 
 Chakra (6 AP) (self-only) - Restores Vitality * Level * 0.5 HP, and Spirit * Level * 0.01 MP. Out-of-combat, this allows you to restore all HP and half MP during a long rest.
 
@@ -121,13 +121,13 @@ Meteor Strike (4 AP) (single) - Do a melee attack, and attempt to cause Addle st
 
 Rising Phoenix (5 AP) (multi) - Vitality * Level magical fire damage.
 
-### Chi Tech T8
+### Martial Arts T8
 
 Purification (10 AP) (multi) - Remove Petrify, Blind, Confuse, Silence, Berserk, Toad, Poison, Poison-Plus, Sleep, Immobilize, and Disable.
 
 Razor Gale (7 AP) (multi) - Vitality * Level * 1.5 magical air damage.
 
-### Chi Tech 9
+### Martial Arts 9
 
 Elixir Field (9 AP) (multi) - Attack all enemies, ignoring Evasion.
 
@@ -135,7 +135,7 @@ Fists of Earth (4 AP) (self-only) - Defend action that also causes Protect statu
 
 Phantom Rush (9 AP) (single) - Melee attack for double damage, ignoring Evasion and Defense.
 
-### Chi Tech T10
+### Martial Arts T10
 
 Musou Tensei (20 AP) (special) - Create ghostly copies of four allies who have died permanently in the storyline, for the remainder of combat. They possess the same attributes and statistics that they had in life. Out of combat, this ability allows consulting them for advice, although limited by what they knew when they were alive.
 

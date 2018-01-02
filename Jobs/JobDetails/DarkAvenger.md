@@ -15,7 +15,7 @@ Actions:
 - 1 x Choice
 - Black Magic
 - Taunt
-- Dark Sword Tech
+- Dark Sword
 - Item
 
 Supports:

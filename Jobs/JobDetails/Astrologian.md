@@ -7,7 +7,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Astrology Tech
+- Astrology
 - 1 x Choice
 - Item
 

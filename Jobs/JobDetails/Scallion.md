@@ -8,7 +8,7 @@ Actions:
 - Defend
 - Charge
 - 1 x Choice
-- Onion Tech
+- Allium Arts
 - Item
 
 Supports:

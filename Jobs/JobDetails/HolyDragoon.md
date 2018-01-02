@@ -9,7 +9,7 @@ Actions:
 - Charge
 - 1 x Choice
 - Jump
-- Dragoon Tech
+- Draconic Soul
 - White Magic
 - Item
 

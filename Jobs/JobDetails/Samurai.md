@@ -8,7 +8,7 @@ Actions:
 - Defend
 - Charge
 - 1 x Choice
-- Bushido Tech
+- Bushido
 - Item
 
 Supports:

@@ -7,7 +7,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Archery Tech
+- Archery
 - Animals (10 AP) - Roll a 1d100 for the Animals Table. A roll that is higher than your Level has no effect.
 - Item
 

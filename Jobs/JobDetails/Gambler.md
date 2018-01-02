@@ -9,7 +9,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Gambling Tech
+- Gambling
 - Item
 
 Supports:
@@ -33,80 +33,80 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | Job Action: Gambling Tech T1
-| 2 | Action Unlock: Gambling Tech T1
+| 1 | Job Action: Gambling T1
+| 2 | Action Unlock: Gambling T1
 |   | Proficiency Unlock: Cards 1H
-| 3 | Job Action: Gambling Tech T2
-| 4 | Action Unlock: Gambling Tech T2
-| 5 | Job Action: Gambling Tech T3
-| 6 | Action Unlock: Gambling Tech T3
-| 7 | Job Action: Gambling Tech T4
-| 8 | Action Unlock: Gambling Tech T4
-| 9 | Job Action: Gambling Tech T5
+| 3 | Job Action: Gambling T2
+| 4 | Action Unlock: Gambling T2
+| 5 | Job Action: Gambling T3
+| 6 | Action Unlock: Gambling T3
+| 7 | Job Action: Gambling T4
+| 8 | Action Unlock: Gambling T4
+| 9 | Job Action: Gambling T5
 | 10 | Prestige Job Title: Professional Gambler
-|    | Action Unlock: Gambling Tech T5
+|    | Action Unlock: Gambling T5
 |    | Job Support: Casino Comps - You now keep track of all money spent on Gambling abilities, recorded as "compensation value". These comps are usable for all casino activities that do not win money.
-| 11 | Job Action: Gambling Tech T6
-| 12 | Action Unlock: Gambling Tech T6
-| 13 | Job Action: Gambling Tech T7
-| 14 | Action Unlock: Gambling Tech T7
-| 15 | Job Action: Gambling Tech T8
-| 16 | Action Unlock: Gambling Tech T8
-| 17 | Job Action: Gambling Tech T9
-| 18 | Action Unlock: Gambling Tech T9
-| 19 | Job Action: Gambling Tech T10
-| 20 | Action Unlock: Gambling Tech T10
+| 11 | Job Action: Gambling T6
+| 12 | Action Unlock: Gambling T6
+| 13 | Job Action: Gambling T7
+| 14 | Action Unlock: Gambling T7
+| 15 | Job Action: Gambling T8
+| 16 | Action Unlock: Gambling T8
+| 17 | Job Action: Gambling T9
+| 18 | Action Unlock: Gambling T9
+| 19 | Job Action: Gambling T10
+| 20 | Action Unlock: Gambling T10
 |    | Support Unlock: Casino Comps
 
-## Gambling Tech
+## Gambling
 
-### Gambling Tech T1
+### Gambling T1
 
 Gil Toss (single) - Throw gil to deal physical damage, at a ratio of 1 gil to 1 damage. Evasion is ignored.
 
 Coin Flip (1 gil) (single) - Grab a coin. Guess whether it will turn up heads or tails. Flip the coin onto the table. If you guessed correctly, you do an attack for double damage. Otherwise, your action is wasted.
 
-### Gambling Tech T2
+### Gambling T2
 
 Bribe (single) - Pay the target an amount of gil equal to ten times its level to make it leave the battle.
 
 Odds or Evens (12 gil) (multi) - Grab two dice. Guess whether the sum will be odd or even. Roll the dice. If you guessed correctly, you attack all enemies for half damage, ignoring Evasion. Otherwise, each member of the party takes 100 damage, ignoring Evasion and Defense.
 
-### Gambling Tech T3
+### Gambling T3
 
 Penny Slots (10 gil) (special) - Play the Slots system. Only the center row is used.
 
 Yahtzee Roll (30 gil) (special) - Play one round of Yahtzee. For every 10 points of score, do an attack for half damage against a random enemy, ignoring Evasion and Defense.
 
-### Gambling Tech T4
+### Gambling T4
 
 Blackjack Hand (210 gil) (single) - Play one hand of Blackjack. If you get 21 and the dealer does not, then attack one target for double damage, ignoring Evasion and Defense. If you win a normal hand, then attack one target, ignoring Evasion and Defense. If you lose a normal hand, then the target gets an extra attack against you. If you bust, then the target attacks you and ignores your Evasion and Defense.
 
 Luck (8 MP) (self-only) - Causes Resilient status (4).
 
-### Gambling Tech T5
+### Gambling T5
 
 Nickel Slots (50 gil) (special) - Play the Slots system. The top and bottom rows are used. You choose one of the two given effects.
 
 Poker Hand (20 gil) (special) - Draw 7 cards and attempt to make a hand with 5 cards. If you only make one pair or worse, then you die instantly. Otherwise, you do Agility * Level magical non-elemental damage to all enemies, ignoring Magic Evasion.
 
-### Gambling Tech T6
+### Gambling T6
 
 Texas Hold'em Hand (50 gil) (special) - Draw 5 cards and attempt to make a hand with 3 cards. Then, the GM draws 2 cards and presents them face-up. If you only make one pair or worse, then you die instantly. Otherwise, you do Agility * Level * 2 magical non-elemental damage to all enemies, ignoring Magic Evasion.
 
-### Gambling Tech T7
+### Gambling T7
 
 Dime Slots (100 gil) (special) - Play the Slots system. Three rows are used. You choose one out of the three given effects.
 
-### Gambling Tech T8
+### Gambling T8
 
 Chocobo Racing (1,000 gil) (special) - Play the Chocobo Race Betting system.
 
-### Gambling Tech T9
+### Gambling T9
 
 Quarter Slots (250 gil) - Play the Slots system. Three rows and two diagonals are used. You choose one of the five given effects.
 
-### Gambling Tech T10
+### Gambling T10
 
 Dollar Slots (1,000 gil) - Play the Slots system. Three rows and two diagonals are used. The center row uses the High-Power Effects. You choose one of the five given effects.
 

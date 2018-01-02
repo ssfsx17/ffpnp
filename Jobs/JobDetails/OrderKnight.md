@@ -14,7 +14,7 @@ Actions:
 - 1 x Choice
 - Time Magic
 - Mystic Arts
-- Temple Sword Tech
+- Temporal Blade
 - Item
 
 Supports:

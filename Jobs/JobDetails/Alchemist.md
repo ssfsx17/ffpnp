@@ -8,8 +8,8 @@ Actions:
 - Defend
 - Charge
 - 1 x Choice
-- Salve
-- Chemistry Tech
+- Salve (1 AP)
+- Chemistry
 - Item
 - Item-Plus (1 AP) - Use an item, and double its effects and duration.
 

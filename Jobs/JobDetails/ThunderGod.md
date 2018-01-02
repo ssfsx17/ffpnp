@@ -8,10 +8,10 @@ Actions:
 - Defend
 - Charge
 - 1 x Choice
-- Dark Sword Tech
-- Holy Sword Tech
-- Knight Tech
-- Temple Sword Tech
+- Dark Sword
+- Holy Sword
+- Battle Arts
+- Temporal Blade
 - Item
 
 Supports:
