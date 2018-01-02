@@ -119,6 +119,6 @@ Vigilance (1 AP) (self only) - Defend action, and any enemy who damages you is a
 
 ### Soldier Tech T10
 
-Barrage (2 AP) (multi) - Attack all enemies for half damage.
+Barrage (2 AP) (multi) - Attack all enemies for half damage, ignoring Defense.
 
 Fire Mission (2 AP) (multi) - Attempt to cause Locked-On status (2) to all enemies.

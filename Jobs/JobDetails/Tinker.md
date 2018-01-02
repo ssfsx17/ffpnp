@@ -119,4 +119,4 @@ Flamethrower (10 AP) (multi) - Magical attack for Agility * Level * 1.5 magical 
 
 ### Machine T10
 
-Penalty Snipe (20 AP) (BDL) (multi) - Attack all enemies, and double damage for each negative status effect on the target, to a maximum multiplier of 8.
+Penalty Snipe (20 AP) (BDL) (multi) - Attack all enemies, and double the damage for each negative status effect on the target, to a maximum multiplier of 8.

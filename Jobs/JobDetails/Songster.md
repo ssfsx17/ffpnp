@@ -8,8 +8,8 @@ Actions:
 - Defend
 - Charge
 - 1 x Choice
-- Bardsong
-- Dance
+- Bardsong (1 AP)
+- Dance (1 AP)
 - Item
 
 Supports:

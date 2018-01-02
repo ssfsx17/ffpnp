@@ -12,7 +12,7 @@ Actions:
 - Defend
 - Charge
 - Flirt (single) - Attempt to cause Charm and Stun status (1). Uses Magic Accuracy, and is opposed by Magic Evasion.
-- Dance
+- Dance (1 AP)
 - Item
 
 Supports:

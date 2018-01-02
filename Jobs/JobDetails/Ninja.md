@@ -123,4 +123,4 @@ Job Levels:
 ### Ninjutsu T10
 
 - Bhavacakra (60 MP) (multi) - Speed * Level * 2 magical non-elemental damage.
-- Ultima Shot (BDL) (99 MP, 10 AP) (single) - 5 attacks on one target.
+- Ultima Jutsu (99 MP, 10 AP) (single) - 5 attack actions on one target.

@@ -29,7 +29,7 @@ Reactions:
 
 Proficiencies:
 
-- Weapons: Axes 1H, Spears 1H, Swords 1H, Axes 2H, Spears 2H, 1 x Choice
+- Weapons: Axes 1H, Spears 1H, Swords 1H, Axes 2H, Spears 2H, Javelins 1H, 1 x Choice
 - Shields: Medium Shields
 - Head Gear: Medium Coifs, Heavy Helmets
 - Body Gear: Medium Chainmail, Heavy Plate Armor
@@ -71,27 +71,27 @@ Job Levels:
 
 ### Dragoon Tech T1
 
-Lancer (10 MP) (single) - Attack that restores an amount of MP to the user equal to 1/100th of the damage.
+Lancer (10 MP, 1 AP) (single) - Attack that restores an amount of MP to the user equal to 1% of the damage. The MP drain effect is reversed against undead.
 
 ### Dragoon Tech T2
 
-Reis's Wind (12 MP) (multi) - Causes Regen status (6).
+Reis's Wind (12 MP, 4 AP) (multi) - Causes Regen status (6).
 
 ### Dragoon Tech T3
 
-Dragon Breath (78 MP) (special) - Choose one enemy. Calculate the difference between that enemy's current and maximum HP. Deal this amount of magical non-elemental damage to all enemies. Magic Defense is applied.
+Dragon Breath (78 MP) (special) - Choose one enemy. Calculate the difference between that enemy's current and maximum HP. Do a magical attack for this amount of magical non-elemental damage, to all enemies. Magic Defense is applied.
 
 ### Dragoon Tech T4
 
 Roar (19 MP) (multi) - Attempt to cause Stun status (1).
 
-White Draw (36 MP) (special) - Attack and do an amount of MP damage equal to the enemy's level, ignoring Magic Defense. Restore half this much MP to each party member.
+White Draw (36 MP, 1 AP) (special) - Attack and do an amount of MP damage equal to the enemy's level. The MP damage ignores Defense. Restore half this much MP to each party member.
 
 ### Dragoon Tech T5
 
 Dragonfire Dive (10 AP) (multi) - Attack all enemies. The damage of your attack is changed to magical fire.
 
-Lancet (8 MP) (single) - Attack, drain 10% of the damage as HP, drain 1% of the damage as MP. The effect is reversed against undead.
+Lancet (8 MP, 1 AP) (single) - Attack, drain 10% of the damage as HP, drain 1% of the damage as MP. The draining effects are reversed against undead.
 
 Luna (12 MP) (special) - Attempt to cause Berserk status (4) to everyone.
 
@@ -101,14 +101,16 @@ Fire Breath (5 AP) (multi) - Vitality * Level * 0.5 magical fire damage.
 
 Ice Breath (5 AP) (multi) - Vitality * Level * 0.5 magical ice damage.
 
-Six Dragons (28 MP) (multi) - Roll a 1d6:
+Six Dragons (28 MP) (multi) - Choose either the party or all enemies as the targets. Then, roll a 1d6:
 
+0. Nothing happens (this result is only possible with Twelve Dragons)
 1. Restore all HP
 2. Restore all MP
 3. Restore all HP and MP.
 4. Reduce HP to 1. Acts as a magic attack.
 5. Reduce MP to 1. Acts as a magic attack.
 6. Reduce HP and MP to 1. Acts as a magic attack at -50 Magic Accuracy.
+7. Nothing happens (this result is only possible with Twelve Dragons)
 
 Thunder Breath (5 AP) (multi) - Vitality * Level * 0.5 magical lightning damage.
 
@@ -122,7 +124,7 @@ Healing Breath (18 MP) (multi) - Restores Vitality * Level * 0.5 HP.
 
 Dragon's Charm (10 AP) (single) - Attempt to cause Charm status (20).
 
-Dragon's Crest (16 MP) (multi) - Magical attack that does an amount of physical damage equal to the number of dragons killed, squared. Magic Defense is applied.
+Dragon's Crest (16 MP) (multi) - Magical attack that does an amount of physical damage equal to the number of dragons the party has killed in their current lifetime, squared. Magic Defense is applied.
 
 ### Dragoon Tech T9
 

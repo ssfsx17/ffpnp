@@ -13,7 +13,7 @@ Actions:
 - Defend
 - Charge
 - Leap - Take note of the monsters in the current combat. Leave combat. Several days later, you rejoin the party knowing the Rages of the monsters who were in that combat which Leap was used in, as well as any other monsters who are typical of that combat's region.
-- Rage - Behave exactly like a monster whose Rage you have learned, randomly using possible actions. You use the monster's attributes and equipment rather than your own - including elemental resistances and weaknesses - except for maximum HP and MP. Rage is limited by the level of the monster, however.
+- Rage - Enter a Rage state. During this state, you behave exactly like a monster whose Rage you have learned, randomly using possible actions. You use the monster's attributes and equipment rather than your own - including elemental resistances and weaknesses - except for maximum HP and MP. Rage is limited by the level of the monster, however. The ending of combat will also end Rage.
 - Item
 
 Supports:

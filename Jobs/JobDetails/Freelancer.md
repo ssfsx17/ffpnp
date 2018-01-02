@@ -41,7 +41,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Ultima Freelancer
-|    | Job Support: Double Choices - All "Choice" options are now double the number of choice slots. Double Choices takes zero support slots.
+|    | Job Support: Double Choices - All "Choice" options are now double the number of choice slots. The Double Choices support takes zero support slots itself.
 | 11 | 
 | 12 | 
 | 13 | 

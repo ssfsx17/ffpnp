@@ -78,7 +78,7 @@ Kotetsu (multi) - Break a Level 10 Katana 2H. Magical attack for Intellect * Lev
 
 Magicide (4 MP) (single) - Attempt to do an amount of MP damage equal to 5% of your attack damage. Defense is not applied.
 
-Retort (4 AP) (special) - Defend action in which you get a free counter against one attack. Your counter ignores Evasion and Defense.
+Retort (4 AP) (special) - Defend action in which you get a free counter against one attack. Your counter ignores Evasion.
 
 ### Bushido Tech T3
 
@@ -94,15 +94,15 @@ Murasame (multi) - Break a Level 30 Katana 2H. Restores Intellect * Level HP.
 
 Quadra Slam (8 AP) (special) - Attack four random enemies.
 
-Sky (4 AP) (special) - Defend action in which you get a free counter against one attack. Your counter does double damage and ignores Evasion and Defense.
+Sky (4 AP) (special) - Defend action in which you get a free counter against one attack. Your counter does double damage and ignores Evasion.
 
 ### Bushido Tech T5
 
 Ama-no-Murakumo (multi) - Break a Level 40 Katana 2H. Magical attack for Intellect * Level non-elemental damage, and attempt to cause Slow status (6).
 
-Empowerer (10 AP) (single) - Attack that drains HP, as well as an amount of MP equal to 1/10th of the HP damage after Defense was applied.
+Empowerer (10 AP) (single) - Attack that drains half of the damage as HP, as well as an amount of MP equal to 1/10th of the HP damage after Defense was applied.
 
-Tiger (6 AP) (single) - Attempt to havle the current HP of the target and cause Sap status (10).
+Tiger (6 AP) (single) - Attempt to halve the current HP of the target and cause Sap status (10).
 
 ### Bushido Tech T6
 
@@ -114,7 +114,7 @@ Stunner (12 AP) (multi) - Attack all enemies for non-elemental magical damage, a
 
 ### Bushido Tech T7
 
-Dragon (10 AP) (single) - Attack for double damage that drains HP, as well as an amount of MP equal to 1/10th of the HP damage after defense was applied.
+Dragon (10 AP) (single) - Attack that drains half of the damage as HP, as well as an amount of MP equal to 1/10th of the HP damage after defense was applied. This ability ignores Evasion and Defense.
 
 Muramasa (multi) - Break a Level 60 Katana 2H. Attempt to cause Confuse and Doom statuses (4).
 
@@ -142,4 +142,4 @@ Chirijiraden (multi) - Break a Level 90 Katana 2H. Magical attack for Intellect 
 
 Oblivion (16 AP) (multi) - Attempt to instantly-kill all enemies.
 
-Oboromuramasa (single) (BDL+) - Break a priceless Katana 2H. Do 20 attacks on the target.
+Oboromuramasa (single) (BDL) - Break a priceless Katana 2H. Do 10 attacks on the target which each have Break Damage Limit.

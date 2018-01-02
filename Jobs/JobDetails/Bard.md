@@ -12,7 +12,7 @@ Actions:
 - Defend
 - Charge
 - Hide - Leave the battle until your next action. Status effects continue to work normally.
-- Bardsong
+- Bardsong (1 AP)
 - Item
 
 Supports:
@@ -132,4 +132,4 @@ Alluring Air (multi) - Causes Confuse status (2).
 
 Matador's Song (multi) - Causes Blink status (2).
 
-Nature's Minne (multi) - Spirit * Level * 0.5 healing.
+Nature's Minne (multi) - Spirit * Level * 0.5 healing. Out-of-combat, this allows full restoration of HP during a long rest.

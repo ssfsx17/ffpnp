@@ -91,13 +91,13 @@ Rend Armor (4 AP) (single) - Attack and attempt to cause Broken Armor status.
 
 ### Knight Tech T4
 
-Break Accessory (2 AP) (single) - Cause Broken Accessory status.
+Break Accessory (2 AP) (single) - Attempt to cause Broken Accessory status.
 
 Rend Helmet (4 AP) (single) - Attack and attempt to cause Broken Helmet status.
 
 ### Knight Tech T5
 
-Break MP (2 AP) (single) - Attempt to do an amount of MP damage equal to your Level. Defense is ignored.
+Break MP (2 AP) (single) - Attempt to do an amount of MP damage equal to your Level. The MP damage ignores Defense.
 
 Rend Weapon (4 AP) (single) - Attack and attempt to cause Broken Weapon status.
 
@@ -121,10 +121,10 @@ Icewolf Bite (6 AP) (single) - Attack for double damage and attempt to cause Bro
 
 ### Knight Tech T9
 
-Skullcracker Driver (6 AP) (single) - Attack, and 1/10th of the damage is also dealt to MP.
+Skullcracker Driver (6 AP) (single) - Attack, and 1/10th of the damage is also dealt to MP. The MP damage ignores Defense.
 
-Stock Break (20 AP) (multi) - Attack all enemies, and attempt to reduce them to 1 HP. The HP reduction effect is at -50 Accuracy.
+Stock Break (20 AP) (multi) - Attack all enemies, and attempt to reduce them to 1 HP. The HP reduction effect is at -50 Accuracy. The HP reduction effect is considered a gravity effect.
 
 ### Knight Tech T10
 
-Climhazzard (20 AP) (BDL) (multi) - Attack all enemies for double damage, ignoring Evasion and Defense.
+Climhazzard (20 AP) (multi) - Attack all enemies for double damage, ignoring Evasion and Defense.

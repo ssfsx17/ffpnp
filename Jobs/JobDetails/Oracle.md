@@ -120,19 +120,23 @@ Harmony (34 MP) (single) - Removes Float, Reraise, Rearise, Vanish, Regen, Prote
 
 ### Mystic Arts T10
 
+Condemn 4 (40 MP) - Refer to the Condemnation Table to determine what happens. You can adjust the d10 roll by 1.
+
 Induration (16 MP) (single) - Attempt to cause Petrify status at +50 Magic Accuracy.
 
 ## Condemnation Table
 
 Roll a 1d10.
 
+0. Roll again - This result is only possible with Condemn 4.
 1. Pestilence (multi) - Spirit * Level magical poison damage to the party (including yourself), and attempts to cause Poison status.
 2. Healing Wind (multi) - Restores Spirit * Level HP to the party (including yourself), and also acts as Esunaga.
 3. Blessing (multi) - Restores Spirit * Level HP to the party (including yourself), and also causes Regen status (10).
-4. Divine Judgement (special) - Spirit * Level * 0.5 magical holy damage to all enemies. Spirit * Level * 0.5 HP restored to the party.
+4. Divine Judgement (special) - Spirit * Level * 0.5 magical holy damage to all enemies. Restores Spirit * Level * 0.5 HP to the party.
 5. Deluge (special) - Spirit * Level * 0.5 magical water damage to everyone (including yourself), and attempts to cause Toad status.
 6. Eruption (special) - Spirit * Level * 0.5 magical fire damage to everyone (including yourself), and attempts to cause Sap status (6).
 7. Hurricane (special) - Spirit * Level * 0.5 magical wind damage to everyone (including yourself), and attempts to cause Silence status.
 8. Rockslide (special) - Spirit * Level * 0.5 magical earth damage to everyone (including yourself), and attempts to cause Stun status (1).
 9. Starfall (special) - Attempts to instantly-kill everyone (including yourself) at -50 Magic Accuracy.
 10. Cleansing (multi) - Spirit * Level * 5 magical non-elemental damage to all enemies.
+11. Roll again - This result is only possible with Condemn 4.

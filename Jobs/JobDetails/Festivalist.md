@@ -113,4 +113,4 @@ Job Levels:
 ### Festivities T10
 
 - Holy Fish (20 MP) (single) - Intellect * Level * (Fish Counter) magical holy damage, and adds one Fish counter to the target.
-- Ultima Sandals (BDL) (24 MP, 20 AP) (multi) - Intellect * Level * 1d10 magical non-elemental damage.
+- Ultima Sandals (BDL) (24 MP, 20 AP) (multi) - Intellect * Level * 1d12 magical non-elemental damage.

@@ -125,7 +125,7 @@ Rising Phoenix (5 AP) (multi) - Vitality * Level magical fire damage.
 
 Purification (10 AP) (multi) - Remove Petrify, Blind, Confuse, Silence, Berserk, Toad, Poison, Poison-Plus, Sleep, Immobilize, and Disable.
 
-Razor Gale (7 AP) (multi) - Vitality * Level * 2 magical air damage.
+Razor Gale (7 AP) (multi) - Vitality * Level * 1.5 magical air damage.
 
 ### Chi Tech 9
 

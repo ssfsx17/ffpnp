@@ -14,7 +14,7 @@ Actions:
 Supports:
 
 - 2 x Choice
-- Controlled Rage - You have complete control over your actions during Rage, except for ending your current Rage.
+- Controlled Rage - You have complete control over your actions during Rage, except that you still cannot end your Rage state unless combat has ended.
 - Mascot Agility +20
 - Mascot Vitality +20
 

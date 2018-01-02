@@ -1,6 +1,6 @@
 # Blue Mage
 
-Requires: [Chemist](/Jobs/JobDetails/BlueMage.md) 2
+Requires: [Chemist](/Jobs/JobDetails/Chemist.md) 2
 
 Leads to:
 
@@ -143,7 +143,7 @@ Job Levels:
 
 ### Blue Magic T10
 
-- Bad Breath, King (99 MP, 10 AP) (multi) - Intellect * Level * 3 magical poison damage, and attempts to cause Blind, Disable, Immobilize, Poison, Poison-Plus, Sap, Silence, and Virus statuses.
+- Bad Breath, King (99 MP, 10 AP) (multi) - Intellect * Level * 3 magical poison damage, and attempts to cause Addle, Blind, Confuse, Disable, Immobilize, Poison, Poison-Plus, Sap, Silence, Stun, and Virus statuses.
 - Black Fang (99 MP, 10 AP) (single) - Attempt to instantly-kill at +50 Magic Accuracy. If this effect fails, then it acts as a magical attack for 9,999 magical non-elemental damage, ignoring Magic Defense. The effect is not reversed for undead.
 - Dark Spark (27 MP) (single) - Attempt to cut the target's experience level in half. Attributes are not affected.
 - Hyper Mighty Guard (99 MP, 10 AP) (multi) - Causes Protect, Shell, Float, Haste, Regen, and Reraise statuses (20).

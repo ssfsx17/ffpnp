@@ -18,7 +18,7 @@ Actions:
 Supports:
 
 - 1 x Choice
-- Evasion Up - Evasion increased by Level * 0.5
+- Evasion Up - Evasion is increased by Level * 0.5
 
 Reactions:
 
@@ -111,4 +111,4 @@ Tempo Flurry (10 AP) (single) - Attack twice, and attempt to cause Slow status (
 
 Dervish (10 AP) (special) - Attack an enemy, and cause Haste status to self (8).
 
-Ultima Masher (32 MP, 20 AP) (BDL) (single) - Ten attacks on one target. Evasion is ignored.
+Ultima Masher (32 MP, 20 AP) (single) - Five melee attacks on one target, ignoring Defense.

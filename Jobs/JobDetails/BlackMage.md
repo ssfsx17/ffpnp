@@ -158,7 +158,7 @@ Job Levels:
 - Flare (50 MP) (single/multi) - Intellect * Level * 2.5 fire damage.
 - Luminaire (50 MP) (single/multi) - Intellect * Level * 2.5 lightning damage.
 - Scourge (60 MP) (single/multi) - Intellect * Level * 2.5 non-elemental damage, and attempt to cause Sap status (6).
-- Tornado (25 MP) (single/multi) - Attempts to reduce the target to 10 HP, at -25 Magic Accuracy
+- Tornado (25 MP) (single/multi) - Attempts to reduce the target to 10 HP. If cast multi-targeted, then it is at -50 Magic Accuracy. This is considered a gravity effect.
 - Toxic (50 MP) (single/multi) - Intellect * Level * 2.5 poison damage, and attempts to cause Sap and Virus status (20).
 
 ### Black Magic T10
@@ -166,7 +166,7 @@ Job Levels:
 - Ardor (70 MP) (single/multi) - Intellect * Level * 3 fire damage, and attempt to cause Heat status (2).
 - Demolish (60 MP) (single/multi) - Intellect * Level * 3 non-elemental damage.
 - Drown (60 MP) (single/multi) - Intellect * Level * 3 water damage.
-- Exterminate (30 MP) (special) - Intellect * Level * 3 dark damage to everyone who has the Poison, Poison-Plus, Sap, or Virus status.
+- Exterminate (30 MP) (special) - Intellect * Level * 3 dark damage to everyone who has the Poison, Poison-Plus, Sap, or Virus status. Ignores Magic Evasion and Magic Defense.
 - Interment (60 MP) (single/multi) - Intellect * Level * 3 dark damage.
 - Landslide (60 MP) (single/multi) - Intellect * Level * 3 earth damage.
 - Ultima (99 MP, 10 AP) (multi) - 9999 damage. Magic Evasion and Magic Defense are not applied.

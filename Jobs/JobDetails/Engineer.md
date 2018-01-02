@@ -19,6 +19,7 @@ Supports:
 Reactions:
 
 - 1 x Choice
+- Rejigger (2 AP) - When a Machine ability involving a coin toss occurs, you can choose to flip the coin one more time. You must stick with the second coin toss result.
 
 Proficiencies:
 
@@ -44,6 +45,7 @@ Job Levels:
 | 9 |
 | 10 | Prestige Job Title: Industrial-Scale Engineer
 |    | Job Action: Turret (20 AP) - Create a turret that can use the same Machine abilities as you, as well as perform ranged attacks. It has average monster statistics for your experience level, except that it always has Immobilize status. You can only maintain one turret at a time. Once the turret is created, you can use both hands to do one of the following actions: pick it up, walk while carrying it, or set it back down.
+|    | Reaction Unlock: Rejigger
 | 11 |
 | 12 |
 | 13 |

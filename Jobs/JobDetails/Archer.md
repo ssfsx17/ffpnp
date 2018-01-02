@@ -69,11 +69,11 @@ Job Levels:
 
 ### Archery T1
 
-Charge Shot 1 (2 AP) (single) - Attack with +20 Agility.
+Charge Shot 1 (2 AP) (single) - Attack with +10 Strength and Agility.
 
 ### Archery T2
 
-Charge Shot 2 (4 AP) (single) - Attack with +40 Agility.
+Charge Shot 2 (4 AP) (single) - Attack with +20 Strength and Agility.
 
 Leg Shot (2 AP) (single) - Attack, and attempt to cause Immobilize status (6).
 
@@ -81,11 +81,11 @@ Leg Shot (2 AP) (single) - Attack, and attempt to cause Immobilize status (6).
 
 Arm Shot (2 AP) (single) - Attack, and attempt to cause Disable status (6).
 
-Charge Shot 3 (6 AP) (single) - Attack with +60 Agility.
+Charge Shot 3 (6 AP) (single) - Attack with +30 Strength and Agility.
 
 ### Archery T4
 
-Charge Shot 4 (8 AP) (single) - Attack with +80 Agility.
+Charge Shot 4 (8 AP) (single) - Attack with +40 Strength and Agility.
 
 Cupid Shot (2 AP) (single) - Attack, and attempt to cause Charm status (6).
 
@@ -93,13 +93,13 @@ Cupid Shot (2 AP) (single) - Attack, and attempt to cause Charm status (6).
 
 Burial (2 AP) (single) - Attack, and if the target is undead then attempt to instantly destroy it.
 
-Charge Shot 5 (10 AP) (single) - Attack with +100 Agility.
+Charge Shot 5 (10 AP) (single) - Attack with +50 Strength and Agility.
 
 Sonic Boom (10 AP) (multi) - Attack all enemies in the front row.
 
 ### Archery T6
 
-Charge Shot 6 (12 AP) (single) - Attack with +120 Agility.
+Charge Shot 6 (12 AP) (single) - Attack with +60 Strength and Agility.
 
 Lightning Strike (2 AP) (single) - Attack without triggering a reaction.
 
@@ -111,22 +111,22 @@ Advice (5 AP) (single) - Causes Critical Focus status (2).
 
 Blackout (2 AP) (single) - Attack, and attempt to cause Blind status (6).
 
-Charge Shot 7 (14 AP) (single) - Attack with +140 Agility.
+Charge Shot 7 (14 AP) (single) - Attack with +70 Strength and Agility.
 
 ### Archery T8
 
-Charge Shot 8 (16 AP) (single) - Attack with +160 Agility.
+Charge Shot 8 (16 AP) (single) - Attack with +80 Strength and Agility.
 
 Hunting Shot (5 AP) (single) - Attack, and if it kills the target, then gain three useful body parts or items.
 
 ### Archery T9
 
-Charge Shot 9 (18 AP) (BDL) (single) - Attack with +180 Agility.
+Charge Shot 9 (18 AP) (BDL) (single) - Attack with +90 Strength and Agility.
 
 Sidewinder (10 AP) (single) - Attack and do double damage to a living target.
 
 ### Archery T10
 
-Charge Shot 10 (20 AP) (BDL+) (single) - Attack with +200 Agility.
+Charge Shot 10 (20 AP) (BDL) (single) - Attack with +100 Strength and Agility.
 
-Ultima Shot (32 MP, 20 AP) (BDL) (single) - Five attacks on one target. Evasion and Defense are ignored.
+Ultima Shot (99 MP, 20 AP) (single) - Five attack actions on one target. Evasion and Defense are ignored.

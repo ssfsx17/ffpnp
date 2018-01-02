@@ -88,7 +88,7 @@ Job Levels:
 
 - Diskara (3 MP) (utility) - creates a floating disk that can be towed to carry heavy loads at a running pace for a day
 - Extend (8 MP) (single) - Extend all status durations by 1.
-- Gravity (10 MP) (single) - Attempt to cause an amount of non-elemental magical damage equal to 10% of the target's maximum HP. Magic Defense is not applied.
+- Gravity (10 MP) (single) - Attempt to cut the target's HP to 75% of its current HP. Magic Defense is not applied. This is considered a gravity effect.
 - Reflect (22 MP) (single/multi) - Causes Reflect status (6).
 - Stop (24 MP) (single) - Attempt to cause Stop status (2).
 - Teleport (10 MP) - Move up or down by one floor. Only floors that have been previously-visited can be teleported to.
@@ -106,9 +106,9 @@ Job Levels:
 
 - Disabalaga (20 MP) (single/multi) - Attempt to cause Disabled status (8).
 - Diskaga (6 MP) (utility) - creates a floating disk that can be towed to carry wagon-sized loads at a galloping pace for a day
-- Graviga (30 MP) (multi) - Attempt to cause an amount of non-elemental magical damage equal to 10% of the target's maximum HP. Magic Defense is not applied.
+- Graviga (30 MP) (multi) - Attempt to cut each target's HP to 75% of its current HP. Magic Defense is not applied. This is considered a gravity effect.
 - Hastega (30 MP) (single/multi) - Causes Haste status (20).
-- Asteroid (30 MP) (multi) - Intellect * Level non-elemental damage, and attempt to cause Stun status (2).
+- Asteroid (30 MP) (multi) - Intellect * Level * 0.5 non-elemental damage, and attempt to cause Stun status (2).
 - Old (30 MP) (single/multi) - Attempt to cause Old status (8).
 
 ### Time Magic T6
@@ -122,7 +122,7 @@ Job Levels:
 
 ### Time Magic T7
 
-- Demi (33 MP) - Attempt to cause an amount of non-elemental magical damage equal to 25% of the target's maximum HP. Magic Defense is not applied.
+- Demi (33 MP) - Attempt to cut the target's current HP in half. Magic Defense is not applied. This is considered a gravity effect.
 - Diskaja (9 MP) (utility) - creates a floating disk that can be towed to carry house-sized loads at a vehicle pace for a day
 - Reflectga (50 MP) (single/multi) - Causes Reflect status (20).
 - Regenaga (60 MP) (single/multi) - Causes Regen-Plus status (6).
@@ -137,15 +137,15 @@ Job Levels:
 
 ### Time Magic T9
 
-- Demiga (50 MP) (multi) - Attempt to cause an amount of non-elemental magical damage equal to half the target's maximum HP. Magic Defense is not applied.
+- Demiga (50 MP) (multi) - Attempt to cut each target's current HP in half. Magic Defense is not applied. This is considered a gravity effect.
 - Full Tension Disk (18 MP) (utility) - creates a floating disk that can be towed to carry building-sized loads at a supersonic pace for a day
-- Quarter (48 MP) (single) - Attempt to cause an amount of non-elemental magical damage equal to 50% of the target's maximum HP. Magic Defense is not applied.
+- Quarter (48 MP) (single) - Attempt to reduce the target's HP to 25% of its current HP. Magic Defense is not applied. This is considered a gravity effect.
 - Vanishga (60 MP) (single/multi) - Causes Vanish status (12).
 
 ### Time Magic T10
 
-- Meteor (99 MP, 10 AP) (multi) - Intellect * Level * 2 non-elemental magical damage, and attempt to cause Addle, Broken Helmet, Sleep, and Stun statuses (2).
-- Quarterga (80 MP) (multi) - Attempt to cause an amount of non-elemental magical damage equal to 50% of the target's maximum HP. Magic Defense is ignored.
+- Meteor (99 MP, 10 AP) (multi) - Intellect * Level * 2 non-elemental magical damage, and attempt to cause Addle, Broken Helmet, Confuse, Sleep, and Stun statuses (2).
+- Quarterga (80 MP) (multi) - Attempt to reduce each target's HP to 25% of its current HP. Magic Defense is not applied. This is considered a gravity effect.
 - Regenaja (80 MP) (single/multi) - Causes Regen-Plus status (20).
 - Young (99 MP, 10 AP) (single) - Removes Old status, and makes the target 1 day younger.
 - Z-Zone (70 MP) (multi) - Attempt to cause X-Zone status.

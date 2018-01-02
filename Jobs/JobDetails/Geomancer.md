@@ -88,12 +88,12 @@ Combination Suggestion Table:
 
 ### Geomancy T1
 
-- Earth: Pebble (single) - Level * 10 magical earth damage, ignoring Magic Evasion.
-- Fire: Spark (single) - Level * 10 magical fire damage, ignoring Magic Evasion.
-- Water: Squirt (single) - Level * 10 magical water damage, ignoring Magic Evasion.
-- Wind: Breeze (single) - Level * 10 magical wind damage, ignoring Magic Evasion.
-- Wood: Splinter (single) - Level * 10 physical non-elemental damage, ignoring Evasion.
-- Magic: Shine (single) - Level * 10 magical non-elemental damage, ignoring Magic Evasion.
+- Earth: Pebble (single) - Level * 10 magical earth damage, ignoring Magic Evasion and Magic Defense.
+- Fire: Spark (single) - Level * 10 magical fire damage, ignoring Magic Evasion and Magic Defense.
+- Water: Squirt (single) - Level * 10 magical water damage, ignoring Magic Evasion and Magic Defense.
+- Wind: Breeze (single) - Level * 10 magical wind damage, ignoring Magic Evasion and Magic Defense.
+- Wood: Splinter (single) - Level * 10 physical non-elemental damage, ignoring Evasion and Magic Defense.
+- Magic: Shine (single) - Level * 10 magical non-elemental damage, ignoring Magic Evasion and Magic Defense.
 
 ### Geomancy T2
 

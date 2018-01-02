@@ -44,7 +44,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Marshal
-|    | Job Action: Megashock (20 AP) (multi) - Intellect * Level * 2 magical non-elemental damage, and ends Haste, Shell, and Vanish statuses. Ignores Magic Evasion.
+|    | Job Action: Megashock (20 AP) (multi) - Intellect * Level * 2 magical non-elemental damage, and ends Haste, Protect, Shell, and Vanish statuses. Ignores Magic Evasion.
 |    | Action Unlock: Shock
 | 11 | 
 | 12 | 

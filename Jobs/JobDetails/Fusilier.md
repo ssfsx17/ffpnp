@@ -128,6 +128,6 @@ Prepare Shell (10 AP) (self-only) - Perform two self-only Gunmanship abilities. 
 
 ### Gunmanship T10
 
-Crew Served Weapon (5 AP) (single) - Use a self-only Gunmanship ability on a target that has a firearm. AP costs stack.
+Crew Served Weapon (4 AP) (single) - Use a self-only Gunmanship ability on a target that has a firearm. AP costs stack.
 
-Fire For Effect (10 AP) (single) - Attack, then all party members with firearms get a free attack against the same target.
+Fire For Effect (20 AP) (single) - Attack, then all party members who are using firearms get a free firearm attack against the same target.

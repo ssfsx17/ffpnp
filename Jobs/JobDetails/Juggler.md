@@ -105,4 +105,4 @@ Trapeze Toss (10 AP) (special) - Attempt to place half the party members (which 
 
 ### Acrobatics T10
 
-Juggle Combo (20 AP) (BDL+) (single) - Attack, and if it is a critical hit, then attack again. The attacks continue until a miss or a normal hit. Attacks from Juggle Combo are considered a critical hit if the dice show 80 through 100 (i.e. +10 critical range).
+Juggle Combo (20 AP) (BDL) (single) - Attack, and if it is a critical hit, then attack again. The attacks continue until a miss or a normal hit. Attacks from Juggle Combo are considered a critical hit if the dice show 80 through 100 (i.e. +10 critical range). Each attack in Juggle Combo has BDL.

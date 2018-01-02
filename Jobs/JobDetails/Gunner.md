@@ -78,11 +78,11 @@ Cheap Shot (8 MP) (single) - Attack that ignores Defense.
 
 ### Gunplay T3
 
-Enchanted Ammo (8 MP) (single) - Attack with non-elemental damage, opposed by Magic Evasion and Magic Defense.
+Enchanted Ammo (8 MP) (single) - Attack with magical non-elemental damage, opposed by Magic Evasion and Magic Defense.
 
 ### Gunplay T4
 
-Target MP (8 MP) (single) - Attack that does an amount of MP damage equal to 1/10th physical damage. Defense is not applied.
+Target MP (8 MP) (single) - Attack that does an amount of MP damage equal to 1/10th of the physical damage. The MP damage ignores Defense.
 
 ### Gunplay T5
 
@@ -90,7 +90,7 @@ Quarter Pounder (8 MP) (single) - Attempt to do an amount of damage equal to 1/4
 
 ### Gunplay T6
 
-On the Level (12 MP) (single) - Level * Level physical damage.
+On the Level (12 MP) (single) - Attack for Level * Level physical damage.
 
 ### Gunplay T7
 
@@ -98,7 +98,7 @@ Burst Shot (12 MP) (single) - Attack that ignores Evasion, and is considered to 
 
 ### Gunplay T8
 
-Table-Turner (8 MP) (single) - Attack, and the target's Defense is added to the damage rather than decreasing it. This counts as a Death status attempt, if the target has increased resistance to such.
+Table-Turner (8 MP) (single) - Attack, and the target's Defense is added to the damage rather than decreasing it. Adding the target's Defense to the damage counts as a Death status attempt, if the target has increased resistance to such.
 
 ### Gunplay T9
 
@@ -106,6 +106,6 @@ Scattershot (8 MP) (multi) - Attack all enemies for half damage, ignoring Evasio
 
 ### Gunplay T10
 
-Scatterburst (36 MP) (multi) - Attack all enemies. Successful hits are considered to be critical hits if the dice show 80 through 100.
+Scatterburst (36 MP, 2 AP) (multi) - Attack all enemies. Successful hits are considered to be critical hits if the dice show 80 through 100.
 
-Trigger Happy (20 AP) (BDL) (single) - Do a number of attacks equal to your passive AP gain at the start of the round. Evasion is ignored.
+Trigger Happy (20 AP) (single) - Do a number of attacks equal to your passive AP gain at the start of the round. Evasion is ignored.

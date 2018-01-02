@@ -91,12 +91,12 @@ Job Levels:
 - Medica (6 MP) (multi) - Spirit * Level * 0.5 healing. Against undead, it becomes a non-elemental damaging spell.
 - Mini (6 MP) (single) - Toggles Mini status.
 - Protect (9 MP) (single/multi) - Causes Protect status (4).
-- Raise (8 MP) (single) - Revives a downed ally with 10% HP. Against undead, it causes Stun status (2).
+- Raise (8 MP) (single) - Revives a downed ally with 10% HP. Against undead, it attempts to cause Stun status (2).
 
 ### White Magic T3
 
 - Botherga (2 MP) (multi) - Ends Sleep.
-- Cura (9 MP) - Spirit * Level healing. Against undead, it becomes a non-elemental damaging spell.
+- Cura (9 MP) (single/multi) - Spirit * Level healing. Against undead, it becomes a non-elemental damaging spell.
 - Nullga-Element (multi) - Causes Null-Element status (4). The element is chosen at the time of casting.
 - Poisonaga (6 MP) (multi) - Ends Poison and Poison-Plus.
 - Silence (6 MP) (single) - Causes Silence status.
@@ -120,6 +120,7 @@ Job Levels:
 - Cleanse (20 MP) (single) - Ends Poison, Poison-Plus, Virus, and Sap.
 - Confuse (10 MP) (single/multi) - Causes Confuse status (4).
 - Curaga (18 MP) - Spirit * Level * 1.5 healing. Against undead, it becomes a non-elemental damaging spell.
+- Raisega (24 MP) (multi) - Revives downed allies with 10% HP. Against undead, it attempts to cause Stun status (2).
 - Silencega (18 MP) (multi) - Causes Silence status (20).
 - Stonaga (36 MP) (multi) - Ends Petrify and Gradual Petrify.
 - Voxaga (24 MP) (multi) - Ends Silence.

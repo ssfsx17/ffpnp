@@ -127,6 +127,6 @@ Salted Earth (2 AP) (special) - Defend action. Enemies who cause damage to you d
 
 ### Dark Sword Tech T10
 
-Amok (2 AP) (BDL+) (single) - Repeatedly do attacks that take 10% HP each, until you die and exhaust all Reraise & Rearise statuses.
+Amok (2 AP) (single) - Repeatedly do attacks that each use an amount of HP equal to 25% of your maximum, until you die and exhaust all Reraise & Rearise statuses. This ability cannot trigger reactions that cause Reraise, Rearise, HP restoration, or similar effects.
 
 Unholy Sacrifice (2 AP) (multi) - Use an amount of HP equal to 75% of your maximum, to do a magical attack for Strength * Level * 5 dark damage.

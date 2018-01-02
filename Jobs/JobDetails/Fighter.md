@@ -88,7 +88,7 @@ Interject (3 AP) (single) - Attack and attempt to cause Silence status.
 
 ### Fighter Tech T5
 
-Air Render (1 AP) (single) - Do a melee attack as if it were ranged.
+Air Render (1 AP) (single) - Do a melee attack as if it were ranged. If the target has Float status, then do double damage.
 
 Psychstrike (1 AP) (single) - Attack against Magic Evasion and Magic Defense.
 

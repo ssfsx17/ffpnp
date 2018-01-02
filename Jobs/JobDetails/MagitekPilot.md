@@ -96,18 +96,22 @@ Magitek Missile (2 AP) (single) - Attack that ignores Defense, and attempts to c
 
 ### Magitek Systems T7
 
-DD (2 AP) (multi) - No effect when the action first occurs. On your next action, it causes Agility * Level * 0.5 damage, ignoring Evasion and Defense.
+DD (2 AP) (multi) - No effect when the action first occurs. On your next action, it causes Agility * Level * 0.5 physical damage to all enemies, ignoring Evasion and Defense.
 
 ### Magitek Systems T8
 
 Armor Ejection (1 AP) (self-only) - Causes Boost Attack, Float, Haste, Broken Armor, and Broken Helmet status (6).
 
+Photon Stream (2 AP) (special) - Attack all enemies in the front row.
+
 ### Magitek Systems T9
 
-Repair System (2 AP) (self-only) - Restores Agility * Level HP.
+Magitek Core Cannon Blast (4 AP) (special) - Attack all enemies, except for those who have the Float status.
+
+Repair System (3 AP) (self-only) - Restores Agility * Level HP.
 
 ### Magitek Systems T10
 
-Napalm (5 AP) (single) - Agility * Level * 3 physical fire damage.
+Napalm (5 AP) (single) - Agility * Level * 3 physical fire damage, and attempt to cause Burning status.
 
-Link Attack (10 AP) (single) - Attack. Then, the rest of the party gets a free attack against the same target at -50 Accuracy.
+Link Attack (10 AP) (single) - Attack. If successful, then the rest of the party gets a free attack against the same target at -50 Accuracy.

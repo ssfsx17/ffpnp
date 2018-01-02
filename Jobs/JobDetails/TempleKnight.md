@@ -117,4 +117,4 @@ Break (24 MP) (single) - Attempt to cause Petrify status (20).
 
 Big Chicken (36 MP) (multi) - Attempt to cause Chicken status (12).
 
-Inertial Fortress (30 MP) (multi) - Give an amount of Shield HP equal to your weapon damage.
+Inertial Fortress (40 MP) (multi) - Give an amount of Shield HP equal to your weapon damage.

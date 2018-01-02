@@ -71,4 +71,4 @@ Job Levels:
 | 30 - 39 | Falcon (single) | Attempt to do an amount of damage to the target equal to 1/4th of their current HP. Defense is not applied.
 | 40 - 49 | Skunk (multi) | Attempt to causes Blind, Poison, and Sap status.
 | 50 - 59 | Wild Boar (single) | Agility * Level * 2 physical damage.
-| 60 - 99 | Unicorn (multi) | Restores 5,000 HP and 500 MP.
+| 60 - 99 | Unicorn (multi) | Restores 5,000 HP and 50 MP.

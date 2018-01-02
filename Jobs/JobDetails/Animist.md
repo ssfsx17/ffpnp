@@ -69,11 +69,11 @@ Job Levels:
 
 ### Animism Calling T2
 
-Catnip (8 MP) (single) - Causes Berserk status (6).
+Catnip (8 MP) (single) - Attempt to cause Berserk status (6).
 
 ### Animism Calling T3
 
-Chocobo Rush (8 MP) (multi) - Spirit * Level * 0.5 physical damage.
+Chocobo Rush (8 MP) (multi) - Physical attack for Spirit * Level * 0.5 physical damage.
 
 ### Animism Calling T4
 
@@ -93,7 +93,7 @@ Tail Wag (12 MP) (single) - Attempts to cause Charm status (8).
 
 ### Animism Calling T8
 
-Sheep Count (12 MP) (multi) - Causes Sleep status.
+Sheep Count (12 MP) (multi) - Attempt to cause Sleep status.
 
 ### Animism Calling T9
 

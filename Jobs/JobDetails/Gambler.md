@@ -114,14 +114,14 @@ Felicity (8 MP) (multi) - Causes Resilient status (4).
 
 Mahjong Hand (2,000 Gil) (BDL) - Play a solitaire game of Mahjong, according to Japanese Riichi rules, and attempt to form a hand with only 28 draws. On a failure to make a Mahjong, each party member suffers 2,000 damage, ignoring Magic Evasion and Magic Defense. On a success, do an amount of damage to all enemies equal to the points value of the hand, ignoring Magic Evasion and Magic Defense. There are possible additional effects depending on components of the hand.
 
-- Pon/Kan of East Wind (Ton) - Causes Broken Armor status (10) to all enemies at +50 Magic Accuracy.
-- Pon/Kan of South Wind (Nan) - Causes Broken Accessory status (10) to all enemies at +50 Magic Accuracy.
-- Pon/Kan of West Wind (Sha) - Causes Broken Helmet status (10) to all enemies at +50 Magic Accuracy.
-- Pon/Kan of North Wind (Pei) - Causes Broken Weapon status (10) to all enemies at +50 Magic Accuracy.
+- Pon/Kan of East Wind (Ton) - Causes Broken Armor status to all enemies at +50 Magic Accuracy.
+- Pon/Kan of South Wind (Nan) - Causes Broken Accessory status to all enemies at +50 Magic Accuracy.
+- Pon/Kan of West Wind (Sha) - Causes Broken Helmet status to all enemies at +50 Magic Accuracy.
+- Pon/Kan of North Wind (Pei) - Causes Broken Weapon status to all enemies at +50 Magic Accuracy.
 - Pon/Kan of Red Dragon (Chun) - Additional magical attack for Intellect * Level * 3 fire damage to all enemies.
 - Pon/Kan of Green Dragon (Hatsu) - Additional magical attack for Intellect * Level * 3 non-elemental damage to all enemies.
 - Pon/Kan of White Dragon (Haku) - Additional magical attack for Intellect * Level * 3 lightning damage to all enemies.
-- 9+ tiles of Wan/Man/Characters - Causes Addle and Silence status (10) to all enemies at +50 Magic Accuracy.
+- 9+ tiles of Wan/Man/Characters - Causes Addle, Silence, and Stun statuses (10) to all enemies at +50 Magic Accuracy.
 - 9+ tiles of Sou/Bam/Bamboo - Restores Spirit * Level * 5 HP to the party.
 - 9+ tiles of Pin/Dot/Circles - Additional magical attack for Intellect * Level * 5 non-elemental damage to all enemies.
 - Seven Pairs hand - Restores Level * 10 MP to the party.

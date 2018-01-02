@@ -12,7 +12,7 @@ Actions:
 - Fight
 - Defend
 - Charge
-- Salve (1 AP) (special) - Use one item on the whole party. The item has half effect and duration.
+- Salve (1 AP) (multi) - Use one item type on every single member of the party. This uses up a number of that item type equal to the number of party members.
 - Chemistry Tech
 - 1 x Choice
 - Item
@@ -53,7 +53,7 @@ Job Levels:
 |   | Proficiency Unlock: Magic Robes
 | 9 | Job Action: Chemistry Tech T5
 | 10 | Prestige Job Title: Graduate Chemist
-|    | Job Action: Double-Item (1 AP) - Use two items.
+|    | Job Action: Double-Item (1 AP) - Perform two Item actions.
 |    | Action Unlock: Salve
 |    | Action Unlock: Chemistry Tech T5
 |    | Proficiency Unlock: Magic Shields
@@ -73,7 +73,7 @@ Job Levels:
 
 ### Chemistry Tech T1
 
-Astra (8 MP) (single/multi) - Causes Resilient status (4).
+Chemical Astra (8 MP) (single/multi) - Causes Resilient status (4).
 
 Combine Two Tonics into a Potion (full day out-of-combat)
 

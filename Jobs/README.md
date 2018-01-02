@@ -229,6 +229,7 @@ JCT4 Jobs:
 JCT5 Jobs:
 
 - [Astrologian](/Jobs/JobDetails/Astrologian.md)
+- [Engineer](/Jobs/JobDetails/Engineer.md)
 - [Holy Avenger](/Jobs/JobDetails/HolyAvenger.md)
 - [Songster](/Jobs/JobDetails/Songster.md)
 - [Thunder God](/Jobs/JobDetails/ThunderGod.md)

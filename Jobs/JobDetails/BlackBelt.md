@@ -45,7 +45,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Grandmaster Black Belt
-|    | Job Support: Lifefont - Always have Regen status in combat. Out of combat, always restore full HP during a rest.
+|    | Job Support: Lifefont - Always have Regen status in combat. Out of combat, always restore full HP during a long rest.
 |    | Support Unlock: Inner Strength
 | 11 | 
 | 12 | 

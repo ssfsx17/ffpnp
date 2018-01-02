@@ -7,7 +7,7 @@ Actions:
 - Defend
 - Charge
 - White Magic
-- Pray (10 AP) - Roll 1d100 + Spirit against a target number of 100. On a success, the second-best available White Magic healing spell is cast for free on the party, as if it were multi-targeted. If the dice show 90-100, it casts Raise on all unconscious party members first, then does the Pray effect on the party. You must have access to the White Magic action - either as a Job Action or as a Choice Action - in order to use the Pray ability.
+- Pray (10 AP) - Roll 1d100 + Spirit against a target number of 150. On a success, the second-best available White Magic healing spell is cast on the party, as if it were multi-targeted, with no MP cost. If the dice show 90-100, it casts Raise on all unconscious party members first, then does the Pray effect on the party. You must have access to the White or Red Magic action - either as a Job Action or as a Choice Action - in order to use the Pray ability. Out-of-combat, you can pray to restore half of the party's HP during a long rest.
 - Item
 
 Supports:
@@ -43,7 +43,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Holy Devout
-|    | Job Action: Pray-Plus (15 AP) - Pray action, except that on a success, the best available healing spell is used.
+|    | Job Action: Pray-Plus (15 AP) - Pray action, except that the target number is 250, and on a success, the best available healing spell is used.
 |    | Job Support: Half-MP - MP costs are halved.
 |    | Action Unlock: Pray
 | 11 | 

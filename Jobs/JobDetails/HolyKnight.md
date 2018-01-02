@@ -97,7 +97,7 @@ Parley (2 AP) (single) - Convince a target to flee the battle. You must be able 
 
 ### Holy Sword T7
 
-Cleansing Strike (4 AP) (single) - Attack for double holy damage, and attempt to cause Doom status (6).
+Cleansing Strike (4 AP) (single) - Attack for double holy damage, and attempt to cause Doom status (4).
 
 Saint Cross (10 AP) (multi) - Attack all enemies for holy damage. Casts Esuna on yourself.
 
@@ -115,6 +115,6 @@ Sanctify (5 AP) (special) - Attempts to instantly-kill all undead.
 
 ### Holy Sword T10
 
-Divine Ruination (4 AP) (multi) - Attack all enemies for double holy damage, and attempt to cause Confuse status (20).
+Divine Ruination (6 AP) (multi) - Attack all enemies for double holy damage, and attempt to cause Confuse status.
 
 War Cry (5 AP) (multi) - Causes Shell status (6).

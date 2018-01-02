@@ -54,6 +54,7 @@ Precalculated weapons are available:
 | Boomerangs 1H   | (Strength + Agility) * Item Level * 0.2  | Item Level * 140
 | Cards 1H        | Speed * Item Level * 0.4                 | Item Level * 160
 | Handguns 1H     | Agility * Item Level * 0.4               | Item Level * 160
+| Javelins 1H     | Strength * Item Level * 0.5              | Item Level * 180
 | Magitek Guns 1H | Agility * Item Level * 0.6               | Item Level * 240 | Requires a full Magitek equipment set
 
 ## 2-Handed Ranged Weapons

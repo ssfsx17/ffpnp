@@ -8,7 +8,7 @@ Actions:
 - Defend
 - Charge
 - Catch or Release (single) - This action can be used in one of two ways: Catch or Release. Catch attempts to catch an enemy that is at 25% HP or less, using Magic Accuracy and opposed by Magic Evasion. If successful, you now own that creature, and it is added to the Party Bestiary. The target's Level must be less than or equal to yours. The Release action will let out one of your caught monsters. It does one action of your choice, then flees.
-- Spirit Pet - Create a pet that functions as a party member. The pet has the attributes and statistics of a monster of your Experience Level, with modifiers as described in the Spirit Pet Types section. You can only have a maximum of two pets in play at a time, with no duplicated Spirit Pet Types.
+- Spirit Pet - Create a pet that functions as a party member. The pet has the attributes and statistics of a monster of your Experience Level, with modifiers as described in the Spirit Pet Types section. You can only have one spirit pet in play at a time.
 - Item
 
 Supports:
