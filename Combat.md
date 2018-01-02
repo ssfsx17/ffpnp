@@ -177,7 +177,7 @@ Poison - Lose an amount of HP per round equal to Level. Magic Defense is not app
 
 Poison-Plus - Lose an amount of HP per round equal to 10% of maximum HP. Magic Defense is not applied. Also causes damage every minute outside of combat.
 
-Protect - Take half physical damage, before Defense is applied.
+Protect - Take half physical damage, after Defense is applied.
 
 Quick - Get one free action when first affected by this status. For as long as you have the Quick status, additional Quick statuses have no effect.
 
@@ -191,7 +191,7 @@ Resilient - Magic Evasion is increased by 50 against status-causing magic. If th
 
 Sap - Lose an amount of HP equal to ten times your initiative. Magic Defense is not applied.
 
-Shell - Take half magical damage before Magic Defense is applied.
+Shell - Take half magical damage, after Magic Defense is applied.
 
 Silence - Unable to do anything that uses MP.
 
