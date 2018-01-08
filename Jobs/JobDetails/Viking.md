@@ -22,6 +22,7 @@ Supports:
 Reactions:
 
 - 1 x Choice
+- Shirk (1 AP) - You redirect an incoming attack to one of your allies.
 
 Proficiencies:
 
@@ -50,6 +51,7 @@ Job Levels:
 | 10 | Prestige Job Title: Jarl
 |    | Job Support: Doublehand - Able to use a one-handed weapon in both hands, doubling its damage.
 |    | Action Unlock: Brutality T5
+|    | Reaction Unlock: Shirk
 | 11 | Job Action: Brutality T6
 | 12 | Action Unlock: Brutality T6
 | 13 | Job Action: Brutality T7
