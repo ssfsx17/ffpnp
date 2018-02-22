@@ -73,13 +73,19 @@ Stasis Sword (2 AP) (multi) - Attack all enemies for half physical holy damage, 
 
 ### Holy Sword T2
 
+Shield Oath (30 MP) (self-only) - Enter the state of Shield Oath, which causes Boost Healing status. Cancels out Sword Oath.
+
 Split Punch (2 AP) (single) - Attack for physical holy damage, and attempt to cause Doom status (8).
 
 ### Holy Sword T3
 
 Crush Punch (2 AP) (single) - Attack for physical holy damage, and attempt to instantly-kill at -50 Accuracy.
 
+Sword Oath (40 MP) (self-only) - Enter the state of Sword Oath, which causes Boost Accuracy status. Cancels out Shield Oath.
+
 ### Holy Sword T4
+
+Guardbringer (40 MP) (single) - Attack, and add your Defense and Magic Defense to the damage.
 
 Lightning Stab (2 AP) (multi) - Attack all enemies for half physical holy damage, and attempt to cause Silence status at -50 Accuracy.
 
@@ -91,15 +97,15 @@ Nurse (5 AP) (multi) - Restores Level * 10 HP, and removes Poison, Poison-Plus, 
 
 ### Holy Sword T6
 
-Judgment Blade (4 AP) (multi) - Attack all enemies for holy damage, and attempt to cause Stop status (2).
+Judgment Blade (4 AP) (multi) - Attack all enemies for physical holy damage, and attempt to cause Stop status (2).
 
 Parley (2 AP) (single) - Convince a target to flee the battle. You must be able to speak a language the target understands.
 
 ### Holy Sword T7
 
-Cleansing Strike (4 AP) (single) - Attack for double holy damage, and attempt to cause Doom status (4).
+Cleansing Strike (4 AP) (single) - Attack for double physical holy damage, and attempt to cause Doom status (4).
 
-Saint Cross (10 AP) (multi) - Attack all enemies for holy damage. Casts Esuna on yourself.
+Saint Cross (10 AP) (multi) - Attack all enemies for physical holy damage. Casts Esuna on yourself.
 
 ### Holy Sword T8
 
@@ -109,12 +115,16 @@ Northswain's Strike (4 AP) (single) - Attack for double holy damage, and attempt
 
 ### Holy Sword T9
 
+Clemency (4 AP) (single) - Restore an amount of HP equal to weapon damage. Out of combat, this allows full healing of one target during a long rest.
+
 Hallowed Bolt (4 AP) (multi) - Attack all enemies for holy damage, and attempt to cause Silence status.
 
 Sanctify (5 AP) (special) - Attempts to instantly-kill all undead.
 
 ### Holy Sword T10
 
-Divine Ruination (6 AP) (multi) - Attack all enemies for double holy damage, and attempt to cause Confuse status.
+Divine Ruination (8 AP) (multi) - Attack all enemies for double physical holy damage, and attempt to cause Confuse status.
 
-War Cry (5 AP) (multi) - Causes Shell status (6).
+Hallowed Ground (6 AP) (self-only) - Causes Rearise status (6).
+
+Passage of Arms (20 AP) (multi) - Causes Protect, Shell, Boost Magic Evasion, and Resilient statuses (6).

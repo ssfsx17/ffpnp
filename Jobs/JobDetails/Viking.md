@@ -76,7 +76,9 @@ Pillage Gil (1 AP) (single) - Attack, and 5% of the damage is gained as Gil.
 
 ### Brutality T2
 
-Cripple (1 AP, 6 MP) (single) - Attempt to cut the target's HP in half, at -50 Accuracy.
+Cripple (1 AP, 6 MP) (single) - Attempt to cut the target's HP in half, at -50 Accuracy. This is considered a gravity effect.
+
+Holmgang (2 AP) (single) - Attack, and attempt to force the target's next action to be a normal attack against you. If successful, then your next action must be a single-target action against the one you have hit with Holmgang.
 
 Pillage Item (1 AP) (single) - Attack, and take one item that the target had ready for use.
 
@@ -96,17 +98,25 @@ Pillage Accessory (1 AP) (single) - Attack, and take an accessory that the targe
 
 Envenom (10 MP) (single) - Attack, and attempt to cause Poison-Plus status.
 
+Overpower (10 AP) (multi) - Attack all enemies. On hit, attempt to force each enemy to spend their next action doing a normal attack on you. The attempt to force enemy behavior is at -50 Accuracy.
+
 Pillage Rare (1 AP) (single) - Attack, and take a rare item that the target possessed.
 
 ### Brutality T6
+
+Inner Beast (4 AP) (single) - Attack for double damage, ignoring Evasion.
 
 Raider Strike (1 AP) (single) - Attack, and do not trigger any counters.
 
 ### Brutality T7
 
+Deliverance (2 AP) (self-only) - Causes Brave status (6).
+
 Haunting Strike (1 AP) (single) - Attack, and attempt to cause Blind status.
 
 ### Brutality T8
+
+Raw Intuition (4 AP) (self-only) - Causes Boost Evasion status (4).
 
 War Cry (5 AP) (multi) - Causes Protect status (6).
 
@@ -114,8 +124,12 @@ War Cry (5 AP) (multi) - Causes Protect status (6).
 
 Critical Order (5 AP) (multi) - Causes Critical Vulnerability status (2).
 
+Shake it Off (4 AP) (multi) - Causes Protect status (2).
+
 ### Brutality T10
 
 Aegir (10 AP) (multi) - Strength * Level physical water damage, and 1% of the damage is also dealt to MP.
 
 Howl (10 AP) (self-only) - Causes Bubble status (10).
+
+Inner Release (4 AP) (self-only) - Causes Resilient status (10).

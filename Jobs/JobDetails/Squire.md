@@ -113,4 +113,6 @@ Great Steel (10 AP) (multi) - Causes Brave status (6).
 
 ### Fundaments T10
 
+Battle Cry (20 AP) (multi) - Causes Haste, Brave, Faith, Boost Attack, and Boost Magic status (6).
+
 Ultima Yell (20 AP) (special) - 100 * Level magical non-elemental damage to all enemies. Causes Haste status to the whole party (4).

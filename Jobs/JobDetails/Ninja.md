@@ -98,7 +98,7 @@ Job Levels:
 
 ### Ninjutsu T6
 
-- Kassatsu (20 MP) (self-only) - Increases your base Accuracy by 100 for your next attack.
+- Kassatsu (20 MP) (self-only) - Causes Boost Accuracy status (2).
 - Payback Wave (25 MP) (multi) - Calculate the difference between your current and maximum HP. Deal this much magical non-elemental damage to all enemies, ignoring Magic Defense.
 
 ### Ninjutsu T7
@@ -110,7 +110,10 @@ Job Levels:
 
 ### Ninjutsu T8
 
+- Ancestral Reflection (40 MP) (special) - Attack with physical dark damage, and cause Blink status (2) to self.
 - Doppelblade (40 MP) (multi) - Two attacks on all enemies.
+- Duality (40 MP) (special) - Perform two weapon actions. The costs of the weapon actions also apply.
+- Reflecting Pool (40 MP) (special) - Attack with physical water damage, and cause Blink status (2) to self.
 - Stealth Kill (30 MP) (single) - Attack, and attempt to instantly-kill the target.
 
 ### Ninjutsu T9
@@ -123,4 +126,5 @@ Job Levels:
 ### Ninjutsu T10
 
 - Bhavacakra (60 MP) (multi) - Speed * Level * 2 magical non-elemental damage.
+- Ten Chi Jin (40 MP) (self-only) - Causes Haste and Boost Magic statuses (2).
 - Ultima Jutsu (99 MP, 10 AP) (single) - 5 attack actions on one target.

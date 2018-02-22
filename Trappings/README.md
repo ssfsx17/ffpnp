@@ -9,6 +9,8 @@
 
 All trappings have an Item Level. Trappings above Item Level 99 are impossible to buy or sell, but they might still exist if the GM plants them somewhere in the game world.
 
+It is possible that gear of Item Level 100 and higher may require a specific job to be mastered, or else they will be unequippable. Such gear would contain secret job abilities, which can only be used while the gear is equipped.
+
 If the GM wishes to have challenge sidequests with bosses who are many times harder than the actual story boss, then such priceless equipment should in fact be a requirement to finish these sidequests. The process of finding the priceless equipment would itself be a large set of sidequests.
 
 ## Precalculated Examples
@@ -42,3 +44,27 @@ If the GM wishes to have challenge sidequests with bosses who are many times har
 | 85 | Perfect Crystal | Scintillating Crystal-Sparkling
 | 90 | Moonstone | Moondust Weave
 | 95 | Adamant | Adamant Weave
+
+## Optional: Job Soulstones
+
+Job Soulstones are priceless items that can never be bought or sold. They may be handed out by the GM to help a character if their stats were allocated in a "wrong" way. On the other hand, a job soulstone can only be equipped if the character is wearing a specific job.
+
+Job Soulstones imposed a fixed set of attribute numbers. Support abilities for attributes have no effect while a job soulstone is equipped.
+
+| Priority | Number |
+| ---      | ---    |
+| A | 20 + (Experience Level * 2)
+| B | 20 + (Experience Level * 1.5)
+| C | 10 + Experience Level
+
+Examples of Job Soulstones:
+
+| Job Soulstone                   | Jobs | Strength | Agility | Vitality | Intellect | Spirit | Speed |
+| ---                             | ---  | ---      | ---     | ---      | ---       | ---    | ---   |
+| Archer             | Archer and Ranger | B        | A       | B        | C         | B      | B
+| Black Mage      | Black Mage and Magus | C        | B       | C        | A         | A      | B
+| Fighter        | Fighter and Gladiator | A        | A       | B        | C         | C      | B
+| Knight         | Knight                | A        | B       | A        | C         | B      | C
+| Red Mage                    | Red Mage | B        | B       | B        | B         | B      | B
+| Thief                | Thief and Rogue | B        | A       | C        | B         | C      | A
+| White Mage     | White Mage and Devout | C        | C       | A        | B         | A      | B

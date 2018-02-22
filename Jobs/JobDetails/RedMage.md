@@ -68,6 +68,7 @@ Job Levels:
 ### Red Magic T1
 
 - Enchanted Riposte (30 White & Black Mana) (single) - Attack that ignores Evasion and Defense.
+- Manashift (30 MP) (single) - Restore 30 MP to one ally. Generates 15 White and Black Mana.
 - Verblizzard (10 MP) (single/multi) - Intellect * Level * 0.5 ice damage. Generates 5 Black Mana.
 - Vercure (6 MP) (single/multi) - Spirit * Level * 0.5 healing. Against undead, it becomes a non-elemental damaging spell. Generates 3 White Mana.
 - Verfire (10 MP) (single/multi) - Intellect * Level * 0.5 fire damage. Generates 5 Black Mana.
@@ -80,6 +81,7 @@ Job Levels:
 - Veraero (12 MP) (single/multi) - Spirit * Level * 0.5 wind damage. Generates 6 White Mana.
 - Verdia (12 MP) (single/multi) - Intellect * Level * 0.5 holy damage. Generates 6 White Mana.
 - Verraise (16 MP) (single) - Revives a downed ally with 10% HP. Against undead, it attempts to cause Stun status (2). Generates 6 White Mana.
+- Verstone (12 MP) (single/multi) - Intellect * Level * 0.5 earth damage. Generates 6 Black Mana.
 - Verwater (12 MP) (single/multi) - Intellect * Level * 0.5 water damage. Generates 6 Black Mana.
 
 ### Red Magic T3
@@ -96,6 +98,7 @@ Job Levels:
 - Veraera (36 MP) (single/multi) - Spirit * Level wind damage. Generates 18 White Mana.
 - Verdiara (36 MP) (single/multi) - Intellect * Level holy damage. Generates 18 White Mana.
 - Verreraise (56 MP) (single) - Causes Reraise status (10). Generates 28 White Mana.
+- Verstonera (36 MP) (single/multi) - Intellect * Level earth damage. Generates 18 Black Mana.
 - Verwatera (36 MP) (single/multi) - Intellect * Level water damage. Generates 18 Black Mana.
 
 ### Red Magic T5
@@ -110,8 +113,10 @@ Job Levels:
 ### Red Magic T6
 
 - Enchanted Moulinet (30 White & Black Mana) (multi) - Intellect * Level magical non-elemental damage.
+- Manashift II (60 MP) (single) - Restore 60 MP to one ally. Generates 30 White and Black Mana.
 - Veraeroga (72 MP) (single/multi) - Spirit * Level * 1.5 wind damage. Generates 36 White Mana.
 - Verdiaga (72 MP) (single/multi) - Intellect * Level * 1.5 holy damage. Generates 36 White Mana.
+- Verstoneaga (72 MP) (single/multi) - Intellect * Level * 1.5 earth damage. Generates 36 Black Mana.
 - Verwateraga (72 MP) (single/multi) - Intellect * Level * 1.5 water damage. Generates 36 Black Mana.
 
 ### Red Magic T7
@@ -129,6 +134,7 @@ Job Levels:
 - Veraeroja (92 MP) (single/multi) - Spirit * Level * 2 wind damage. Generates 46 White Mana.
 - Verarise (104 MP) (single) - Revives a downed ally with full HP. Against undead, it attempts to destroy the undead instantly. Generates 52 White Mana.
 - Verdiaja (92 MP) (single/multi) - Intellect * Level * 2 holy damage. Generates 46 White Mana.
+- Verstoneaja (98 MP) (single/multi) - Intellect * Level * 2.5 earth damage. Generates 49 Black Mana.
 - Verwateraja (98 MP) (single/multi) - Intellect * Level * 2.5 water damage. Generates 49 Black Mana.
 
 ### Red Magic T9
@@ -142,11 +148,12 @@ Job Levels:
 
 ### Red Magic T10
 
+- Manashift III (180 MP) (single) - Restores 180 MP to one ally. Generates 90 White and Black Mana.
 - Stunning Metamagic (30 White & Black Mana) (special) - Perform an MP-using action, and it attempts to cause Stun status (1).
 - Verarisega (160 MP) (multi) - Revives all downed allies with full HP. Against undead, it attempts to destroy all undead instantly. Generates 80 White Mana.
 - Verdiadem (120 MP) (single/multi) - Intellect * Level * 3 holy damage. Generates 60 White Mana.
 - Verdrown (120 MP) (single/multi) - Intellect * Level * 3 water damage. Generates 60 Black Mana.
-- Verholy (120 MP) (single/multi) - Spirit * Level * 3 holy damage. Generates 60 White Mana.
+- Verholy (120 MP) (single/multi) - Spirit * Level * 2 holy damage, and attempt to cause Addle and Stun status (1). Generates 60 White Mana.
 - Verrearise (140 MP) (single) - Causes Rearise status (10). Generates 70 White Mana.
 - Verrenew (196 MP) (multi) - Fully restores HP. Against undead, it acts as a magical attack for an amount of non-elemental damage equal to the target's maximum HP, and Magic Defense is applied. Generates 98 White Mana.
 - Verultima (200 MP, 10 AP) (multi) - 9999 damage, and removes Shell status. Magic Evasion, Magic Defense, and Shell are not applied. Generates 100 Black Mana.

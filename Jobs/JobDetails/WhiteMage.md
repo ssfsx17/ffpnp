@@ -76,7 +76,7 @@ Job Levels:
 - Bother (1 MP) (single) - Ends Sleep
 - Cure (3 MP) (single/multi) - Spirit * Level * 0.5 healing. Against undead, it becomes a non-elemental damaging spell.
 - Libra (1 MP) (single) - Reveals all pertinent combat-related information about the target. Also reveals what valuable items it is carrying, or could be harvested from its corpse. Adds the target's information to the Party Bestiary.
-- Life (4 MP) (single) - revives a downed ally with 1 HP, or does 5% damage to undead.
+- Life (4 MP) (single) - Revives a downed ally with 1 HP, or does 5% damage to undead.
 - Null-Element (1 MP) (single) - Causes Null-Element status (4). The element is chosen at the time of casting.
 - Poisona (2 MP) (single) - Ends Poison and Poison-Plus.
 - Sight (2 MP) (special) - See the area from very high-up.
@@ -87,6 +87,7 @@ Job Levels:
 - Blindna (1 MP) (single) - ends Blind
 - Dia (6 MP) (single/multi) - Intellect * Level * 0.5 holy damage.
 - Fade (6 MP) (single/multi) - Spirit * Level * 0.5 holy damage.
+- Fluid Aura (2 AP) (single) - Intellect * Level * 0.5 water damage, and attempt to knock the target into the back row.
 - Hold (5 MP) (single) - Causes Disable and Immobilize status (2).
 - Medica (6 MP) (multi) - Spirit * Level * 0.5 healing. Against undead, it becomes a non-elemental damaging spell.
 - Mini (6 MP) (single) - Toggles Mini status.
@@ -99,6 +100,7 @@ Job Levels:
 - Cura (9 MP) (single/multi) - Spirit * Level healing. Against undead, it becomes a non-elemental damaging spell.
 - Nullga-Element (multi) - Causes Null-Element status (4). The element is chosen at the time of casting.
 - Poisonaga (6 MP) (multi) - Ends Poison and Poison-Plus.
+- Presence of Mind (2 AP) (self-only) - Defend action that also regenerates an amount of AP equal to the passive AP gain at the start of the round.
 - Silence (6 MP) (single) - Causes Silence status.
 - Stona (12 MP) (single) - Ends Petrify and Gradual Petrify.
 - Vox (8 MP) (single) - Ends Silence.
@@ -116,6 +118,7 @@ Job Levels:
 
 ### White Magic T5
 
+- Benediction (10 AP) (single) - Restores all HP. Against undead, it attempts to instantly-kill.
 - Blink (8 MP) (single/multi) - Causes Blink status (4).
 - Cleanse (20 MP) (single) - Ends Poison, Poison-Plus, Virus, and Sap.
 - Confuse (10 MP) (single/multi) - Causes Confuse status (4).
@@ -128,6 +131,7 @@ Job Levels:
 ### White Magic T6
 
 - Aeroga (36 MP) (single/multi) - Spirit * Level * 1.5 wind damage.
+- Asylum (10 AP) (multi) - Causes Regen-Asylum status (4).
 - Berserk (18 MP) (single/multi) - Causes Berserk status (4).
 - Bravery (24 MP) (single/multi) - Causes Brave status (6).
 - Diaga (36 MP) (single/multi) - Intellect * Level * 1.5 holy damage.
@@ -138,10 +142,11 @@ Job Levels:
 
 ### White Magic T7
 
+- Assize (12 AP) (special) - Magical attack for Intellect * Level * 0.5 non-elemental magical damage to all enemies. Restores Spirit * Level * 0.5 HP to self and all allies. Restores 1% MP to self. Out of combat, this allows restoration of half of MP during a long rest.
 - Cleansega (50 MP) (multi) - Ends Poison, Poison-Plus, Virus, and Sap.
 - Curaja (40 MP) (single/multi) - Spirit * Level * 2 healing. Against undead, it becomes a non-elemental damaging spell.
 - Float (8 MP) (single/multi) - Causes Float status (6).
-- Medicara (36 MP) (multi) - Spirit * Level * 1.5 healing, and causes Regen status (4). Against undead, it becomes a non-elemental damaging spell.
+- Medicara (36 MP) (multi) - Spirit * Level healing, and causes Regen-Medica status (6). Against undead, it becomes a non-elemental damaging spell.
 - Reraisega (60 MP) (multi) - Causes Reraise status (20).
 - Shellga (40 MP) (single/multi) - Causes Shell status (20).
 
@@ -153,11 +158,13 @@ Job Levels:
 - Disjunction (30 MP) (single) - Ends all statuses, and if the target is a summoned creature then this spell attempts to instantly-kill it. This spell can also be targeted at someone with the X-Zone status, thus ending that status. Cannot be reflected.
 - Dispelga (36 MP) (multi) - Removes all beneficial statuses, including Reflect. Cannot be reflected.
 - Pearl (46 MP) - Spirit * Level * 2 holy damage.
+- Tetragrammaton (4 AP) (single) - Restores Spirit * Level HP. Against undead, it acts as a magical non-elemental attack.
 
 ### White Magic T9
 
 - Curada (60 MP) (single/multi) - In single-target form, this spell fully restores HP. In multi-target form, this spell restores an amount of HP equal to half of maximum HP. Against undead, it acts as a magical attack for magical non-elemental damage, and Magic Defense is applied.
 - Curaise (60 MP) (single) - Raise, then Curaja, on a single target.
+- Divine Benison (2 AP) (single) - Gives Spirit * Level * 0.5 shield HP.
 - Esunaja (60 MP) (single) - Removes all harmful status conditions.
 - Implosion (60 MP) (single) - Spirit * Level * 3 magical non-elemental damage.
 - Mass Cure (70 MP) (single/multi) - Spirit * Level * 3 healing. Against undead, it becomes a non-elemental damaging spell.
@@ -170,7 +177,9 @@ Job Levels:
 - Diadem (60 MP) (single/multi) - Intellect * Level * 3 holy damage.
 - Disjunctionga (90 MP) (multi) - Ends all statuses, and attempts to instantly-kill summoned creatures. If the targeted team has any members with the X-Zone status, then their statuses are ended too, thus bringing them back. Cannot be reflected.
 - Esunada (120 MP) (multi) - Removes all harmful status conditions.
-- Holy (60 MP) (single/multi) - Spirit * Level * 3 holy damage.
+- Holy (60 MP) (single/multi) - Spirit * Level * 2 holy damage, and attempt to cause Addle and Stun status (1).
 - Hurricane (60 MP) (single/multi) - Spirit * Level * 3 wind damage.
+- Medicaga (99 MP, 10 AP) (multi) - Spirit * Level healing, and causes Regen, Regen-Asylum, and Regen-Medica statuses (20). Against undead, it becomes a non-elemental damaging spell.
+- Plenary Indulgence (20 AP) (multi) - Fully restores HP. Against undead, it acts as a magical attack for an amount of non-elemental damage equal to the target's maximum HP, and Magic Defense is applied.
 - Rearise (70 MP) (single) - Causes Rearise status (10).
 - Renew (98 MP) (multi) - Fully restores HP. Against undead, it acts as a magical attack for an amount of non-elemental damage equal to the target's maximum HP, and Magic Defense is applied.

@@ -65,6 +65,8 @@ Job Levels:
 
 Astra (8 MP) (multi) - Causes Resilient status (2).
 
+Inertial Pillar (6 MP) (single) - Give an amount of Shield HP equal to your weapon damage.
+
 Syphon (4 MP) (single) - Drain an amount of MP equal to your Level, at -50 Magic Accuracy. Magic Defense is not applied.
 
 ### Temporal Blade T2
@@ -89,9 +91,7 @@ Zombie (14 MP) (single) - Attempt to cause Zombie status (8).
 
 Berserk (16 MP) (single) - Attempt to cause Berserk status (6).
 
-Inertial Pillar (6 MP) (single) - Give an amount of Shield HP equal to your weapon damage.
-
-Lifebreak (6 AP) (single) - Calculate the difference between your current and maximum HP. Deal this much magical dark damage to the target. Magic Defense is not applied.
+Lifebreak (4 AP) (single) - Calculate the difference between your current and maximum HP. Deal this much magical dark damage to the target. Magic Defense is not applied.
 
 ### Temporal Blade T6
 
@@ -101,7 +101,7 @@ Rampart (4 AP) (multi) - Causes Blink status (2).
 
 ### Temporal Blade T7
 
-Despair (20 MP) (single) - Removes Float, Reraise, Rearise, Vanish, Regen, Regen-Plus, Protect, Shell, Haste, Faith, and Reflect statuses. This ability cannot be reflected.
+Despair (20 MP) (single) - Removes Float, Reraise, Rearise, Vanish, Regen, Regen-Major, Protect, Shell, Haste, Faith, and Reflect statuses. This ability cannot be reflected.
 
 Desperation (3 AP) (single) - Attack, and add your Defense and Magic Defense to the damage. Suffer from Broken Helmet and Broken Armor statuses (2).
 
@@ -109,12 +109,16 @@ Desperation (3 AP) (single) - Attack, and add your Defense and Magic Defense to 
 
 Disable (14 MP) (single) - Attempt to cause Disable status (6).
 
+Inertial Fortress (24 MP) (multi) - Give an amount of Shield HP equal to your weapon damage.
+
 ### Temporal Blade T9
 
 Break (24 MP) (single) - Attempt to cause Petrify status (20).
+
+Entrust (single) - Give all AP to one ally.
 
 ### Temporal Blade T10
 
 Big Chicken (36 MP) (multi) - Attempt to cause Chicken status (12).
 
-Inertial Fortress (18 MP) (multi) - Give an amount of Shield HP equal to your weapon damage.
+Lifesiphon (80 MP) (single) - Attack, and ignore Defense. Gain an amount of AP equal to your passive gain at the start of the round.

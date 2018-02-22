@@ -81,13 +81,15 @@ Vehemence (1 AP) (self-only) - Causes Boost Attack and Broken Armor statuses (6)
 
 Darkness Form (self-only) - Causes Sap and Boost Attack status (4).
 
+Darkside (self-only) - You must be at maximum MP to use this ability. Burn all MP. Causes Boost Attack and Brave statuses (6).
+
 Dusk Blade (5 AP) (single) - Attack, and drain an amount of HP equal to half of the damage. The effect is reversed against undead.
 
 ### Dark Sword T3
 
 Darkness Wave (multi) - Use an amount of HP equal to 20% of your maximum, to do a magical attack for Strength * Level dark damage.
 
-Shadow Blade (5 AP) (single) - Attack, and drain an amount of MP equal to 1/10th of the damage. The effect is reversed against undead.
+Shadow Blade (5 AP) (single) - Attack, and drain an amount of MP equal to 1% of the damage. The effect is reversed against undead.
 
 ### Dark Sword T4
 
@@ -103,9 +105,9 @@ Sanguine Sword (10 AP) (single) - Attack for double damage, ignoring Evasion. Dr
 
 ### Dark Sword T6
 
-Delirium (4 AP) (self-only) - Regain an amount of MP equal to 2% of your maximum HP.
+Delirium (4 AP) (self-only) - Calculate 2% of your maximum HP. Burn this much HP to restore an equal amount of MP.
 
-Infernal Strike (10 AP) (single) - Attack for double damage, ignoring Evasion. Drain an amount of MP equal to 1/10th of the damage. The effect is reversed against undead.
+Infernal Strike (10 AP) (single) - Attack for double damage, ignoring Evasion. Drain an amount of MP equal to 1% of the damage. The effect is reversed against undead.
 
 ### Dark Sword T7
 

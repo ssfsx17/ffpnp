@@ -76,7 +76,7 @@ Steal Gil (single) - Attempt to steal Level * 10 gil. Opposed by the target's Ev
 
 ### Thievery T2
 
-Leg Sweep (2 AP) (single) - Attempt to cause Stun status (1), using Accuracy and opposed by Evasion.
+Leg Sweep (1 AP) (single) - Attempt to cause Stun status (1), using Accuracy and opposed by Evasion.
 
 Steal Item (single) - Attempt to steal a usable item. Opposed by the target's Evasion.
 

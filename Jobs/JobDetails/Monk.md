@@ -79,7 +79,7 @@ Suplex (4 AP) (single) - Do a melee attack, and attempt to cause Stun status (1)
 
 Fire Dance (4 AP) (multi) - Vitality * Level * 0.25 magical fire damage.
 
-Mantra (6 AP) (multi) - Restores Vitality * Level * 0.5 HP and removes Blind, Poison, Silence, and Sap statuses. Out of combat, restore 25% HP during a rest and do the same removal of status conditions.
+Mantra (6 AP) (multi) - Restores Vitality * Level * 0.1 HP and removes Blind, Poison, Silence, and Sap statuses. Out of combat, restore half HP during a long rest and do the same removal of status conditions.
 
 ### Martial Arts T3
 
@@ -123,7 +123,7 @@ Rising Phoenix (5 AP) (multi) - Vitality * Level magical fire damage.
 
 ### Martial Arts T8
 
-Purification (10 AP) (multi) - Remove Petrify, Blind, Confuse, Silence, Berserk, Toad, Poison, Poison-Plus, Sleep, Immobilize, and Disable.
+Purification (10 AP) (multi) - Remove Petrify, Blind, Confuse, Silence, Berserk, Toad, Oil, Poison, Poison-Plus, Sap, Virus, Sleep, Immobilize, and Disable.
 
 Razor Gale (7 AP) (multi) - Vitality * Level * 1.5 magical air damage.
 
@@ -133,9 +133,13 @@ Elixir Field (9 AP) (multi) - Attack all enemies, ignoring Evasion.
 
 Fists of Earth (4 AP) (self-only) - Defend action that also causes Protect status (4).
 
+Perfect Balance (5 AP) (self-only) - Charge action that allows half the AP charged to immediately be used on one Martial Arts action.
+
 Phantom Rush (9 AP) (single) - Melee attack for double damage, ignoring Evasion and Defense.
 
 ### Martial Arts T10
+
+Brotherhood (15 AP) (multi) - Causes Boost Accuracy and Boost Attack status (4).
 
 Musou Tensei (20 AP) (special) - Create ghostly copies of four allies who have died permanently in the storyline, for the remainder of combat. They possess the same attributes and statistics that they had in life. Out of combat, this ability allows consulting them for advice, although limited by what they knew when they were alive.
 

@@ -138,4 +138,4 @@ Dragon's Speed (10 AP) (single) - Causes Quick status (1).
 
 Holy Breath (20 AP) (multi) - Vitality * Level * 3 holy magic damage.
 
-Twelve Dragons (56 MP) (multi) - Acts as Six Dragons, except that after the d6 roll, you can choose to increase or decrease the roll by 1.
+Twelve Dragons (84 MP) (multi) - Acts as Six Dragons, except that after the d6 roll, you can choose to increase or decrease the roll by 1.

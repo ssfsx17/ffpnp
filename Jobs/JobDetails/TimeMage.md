@@ -113,19 +113,19 @@ Job Levels:
 
 ### Time Magic T6
 
-- Aetherial Manipulation (20 MP) - Instantly teleport yourself to an ally, across all distances and dimensional boundaries, if the ally is willing.
+- Aetherial Manipulation (20 MP) (self-only) - Instantly teleport yourself to an ally, across all distances and dimensional boundaries, if the ally is willing.
 - Balance (18 MP) (single) - Calculate the difference between your current and maximum HP. Deal this much magical non-elemental damage. Magic Defense is ignored.
 - Quick (24 MP) (single) - Causes Quick status (1).
 - Rescue (20 MP) (single) - Instantly teleport an ally to you, across all distances and dimensional boundaries, if the ally is willing.
-- Return (30 MP) - Exit a combat, building, or dungeon.
-- Stopga (60 MP) - Attempt to cause Stop status (4).
+- Return (30 MP) (utility) - Exit a combat, building, or dungeon.
+- Stopga (60 MP) (multi) - Attempt to cause Stop status (4).
 
 ### Time Magic T7
 
 - Demi (33 MP) - Attempt to cut the target's current HP in half. Magic Defense is not applied. This is considered a gravity effect.
 - Diskaja (9 MP) (utility) - creates a floating disk that can be towed to carry house-sized loads at a vehicle pace for a day
 - Reflectga (50 MP) (single/multi) - Causes Reflect status (20).
-- Regenaga (60 MP) (single/multi) - Causes Regen-Plus status (6).
+- Regenaga (60 MP) (single/multi) - Causes Regen-Major status (6).
 - Vanish (24 MP) (single/multi) - Causes Vanish status (4).
 
 ### Time Magic T8
@@ -146,6 +146,7 @@ Job Levels:
 
 - Meteor (99 MP, 10 AP) (multi) - Intellect * Level * 2 non-elemental magical damage, and attempt to cause Addle, Broken Helmet, Confuse, Sleep, and Stun statuses (2).
 - Quarterga (80 MP) (multi) - Attempt to reduce each target's HP to 25% of its current HP. Magic Defense is not applied. This is considered a gravity effect.
-- Regenaja (80 MP) (single/multi) - Causes Regen-Plus status (20).
+- Regenaja (80 MP) (single/multi) - Causes Regen and Regen-Major statuses (20).
+- Stopja (99 MP, 10 AP) (multi) - Attempt to cause Stop status (6) at +50 Magic Accuracy. Against bosses, this is changed to an attempt to cause Slow status (6) at +50 Magic Accuracy.
 - Young (99 MP, 10 AP) (single) - Removes Old status, and makes the target 1 day younger.
 - Z-Zone (70 MP) (multi) - Attempt to cause X-Zone status.

@@ -42,6 +42,7 @@ Job Levels:
 | 9 | 
 | 10 | Prestige Job Title: Impersonator
 |    | Job Support: Continuous Mimicry - Choose one party member. You have the same equipment proficiencies, Supports, and Reactions as that person. This can only be changed during a long rest.
+|    | Job Support: Double Reactions - You can apply two reactions to one event. The AP costs of the reactions still apply.
 | 11 | 
 | 12 | 
 | 13 | 
@@ -53,3 +54,4 @@ Job Levels:
 | 19 | 
 | 20 | Action Unlock: Mimic
 |    | Support Unlock: Continuous Mimicry
+|    | Support Unlock: Double Reactions

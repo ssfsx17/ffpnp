@@ -66,7 +66,7 @@ Job Levels:
 
 ### Fighting Arts T1
 
-Advance (1 AP) (single) - Attack with double damage. You suffer from Immobilize and Broken Armor status until your next turn.
+Advance (1 AP) (single) - Attack with double damage. You suffer from Immobilize and Broken Armor status (2).
 
 Tomahawk (1 AP) (single) - Attack, as if your weapon was ranged.
 
@@ -77,6 +77,8 @@ Rush (1 AP) (single) - Attack and cause Stun status (1).
 Tempered Will (3 AP) (self-only) - Remove Disable and Immobilize statuses. This ability can be done even while under the effect of Disable.
 
 ### Fighting Arts T3
+
+Flash (4 AP) (multi) - Attempt to cause Blind and Berserk statuses (2).
 
 Wild Swing (1 AP) (special) - Attack two enemies and one ally.
 
@@ -106,7 +108,7 @@ Greased Lightning (1 AP) (single) - Attack without triggering reactions.
 
 ### Fighting Arts T8
 
-Body Slam (1 AP) (single) - Attack with double damage. Take 1/4th of the damage to yourself, ignoring your own Defense.
+Body Slam (1 AP) (single) - Attack with double damage. Take 1/4th of the resulting damage to yourself, ignoring your own Defense.
 
 Defiance (4 AP) (self-only) - Causes Bubble status (4).
 
@@ -122,4 +124,6 @@ Blizzard Tackle (5 AP) (single) - Strength * Level magical ice damage.
 
 Circle of Scorn (5 AP) (multi) - Attack all enemies.
 
-Lifetap (10 AP) (single) - Do physical damage equal to half of the target's current HP, ignoring Defense.
+Lifetap (10 AP) (single) - Do physical damage equal to half of the target's current HP, ignoring Defense. This is considered a gravity effect.
+
+Riot Blade (2 AP) (single) - Attack, and regain an amount of MP equal to 1% of the damage.

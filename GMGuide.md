@@ -105,7 +105,8 @@ It is recommended that the only way player-characters can possess certain inform
 **Elemental:**
 
 - The monster is healed by one element, but takes double damage from another.
-- The monster's attack damage is changed to be of the element.
+- The monster's attack damage is changed to be of the element that it absorbs.
+- The monster's Magic Defense is doubled.
 
 **Elusive:**
 
@@ -121,6 +122,7 @@ It is recommended that the only way player-characters can possess certain inform
 **Grappling:**
 
 - The monster's attacks always attempt to cause Disable and Immobilize status on hit (2).
+- The monster's Accuracy is increased by 50.
 
 **Humanoid:**
 
@@ -133,6 +135,10 @@ It is recommended that the only way player-characters can possess certain inform
 - Maximum HP is halved.
 - Maximum MP is doubled.
 - The monster is always under the effect of Vanish status.
+
+**Keepaway:**
+
+- The monster cannot be hit by melee attacks, and has +50 Evasion against reach attacks.
 
 **Magical:**
 
@@ -174,6 +180,7 @@ It is recommended that the only way player-characters can possess certain inform
 
 - Maximum HP is doubled.
 - Attack Damage is increased by 50%.
+- Has one or more other templates as well.
 - Upon death, the monster drops something that is 10 item levels higher.
 
 **Reinforcing:**
@@ -183,12 +190,17 @@ It is recommended that the only way player-characters can possess certain inform
 **Small:**
 
 - Maximum HP is halved.
-- Evasion and Magic Evasion are increased by 100.
+- Evasion and Magic Evasion are increased by 50.
 - Defense is halved.
+- Magic Defense is doubled.
 
 **Thorny:**
 
-- 10% of all damage done to the monster is also done to the one who caused that damage. No Evasion or Defense is applied.
+- 10% of physical damage done to the monster is also done to the one who caused that damage. No Evasion or Defense is applied.
+
+**Vacuuming:**
+
+- On its first round, and every 3 rounds afterwards, the monster does a magical attempt to pull all characters to the front row. It has +50 Magic Accuracy for this action.
 
 **Undead:**
 

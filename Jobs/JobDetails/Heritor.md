@@ -90,8 +90,8 @@ Ritz (10 AP) (single) - Attempt to cause an elemental weakness of your choice.
 
 ### Instinct T9
 
-Judge (4 AP) (single) - Attempt to cause Burning, Doom, and Heat statuses (6).
+Mewt (4 AP) (single) - Attempt to cause Burning, Doom, and Heat statuses (6).
 
 ### Instinct T10
 
-Adelaide (4 AP) (single) - Causes Regen and Regen-Plus statuses (6).
+Adelaide (4 AP) (single) - Causes Regen and Regen-Major statuses (6).

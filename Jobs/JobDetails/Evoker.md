@@ -96,6 +96,7 @@ Proficiencies:
 ### Summons T5
 
 - Asura: Asura's Boon (40 MP, 10 AP) (multi) - Restores Spirit * Level * 2 HP, then casts Raise on all dead party members.
+- Cactuar: Thousands of Needles (50 MP, 10 AP) (multi) - Roll a d100. If the dice show 1 through 79, then do 1000 magical non-elemental damage to all enemies, ignoring Magic Evasion and Magic Defense. If the dice show 80 through 100, then do 9,999 magical non-elemental damage instead.
 - Carbuncle: Ruby Light (45 MP, 10 AP) (multi) - Causes Reflect and Shell statuses (12).
 - Lich: Descending Darkness (40 MP, 10 AP) (multi) - Intellect * Level * 3 dark damage.
 - Odin: Zantetsuken (45 MP, 10 AP) (multi) - Speed * Level * 2 physical damage, and attempt to instantly-kill.
@@ -112,24 +113,28 @@ Proficiencies:
 
 - Alexander: Divine Shot (64 MP, 14 AP) (BDL) (multi) - Intellect * Level * 5 holy damage.
 - Bahamut: Megaflare (60 MP, 14 AP) (BDL) (multi) - Intellect * Level * 5 non-elemental damage.
-- Cyclops: Climactic Fear (62 MP, 14 AP) (BDL) (multi) - Physical attack against all enemies for Strength * Level * 3 damage, and causes Chicken and Broken Weapon statuses (8) at +50 Accuracy.
+- Cyclops: Climactic Fear (62 MP, 14 AP) (BDL) (multi) - Physical attack against all enemies for Strength * Level * 3 damage, and causes Chicken and Broken Weapon statuses at +50 Accuracy.
 - Diabolos: Evil Messenger (64 MP, 14 AP) (BDL) (multi) - Intellect * Level * 5 dark damage.
 - Valigarmanda: Tri-Disaster (68 MP, 14 AP) (multi) - Three magic attacks that each ignore Magic Evasion. First magical attack does Intellect * Level * 2.5 fire damage. Second magical attack does Intellect * Level * 2.5 ice damage. Third magical attack does Intellect * Level * 2.5 lightning damage. Hits against elemental weaknesses have BDL.
 
 ### Summons T8
 
 - Anima: Oblivion (75 MP, 16 AP) (BDL) (multi) - Intellect * Level * 5 non-elemental damage, and ends all positive status conditions, including Reflect.
+- Crusader: Cleansing (90 MP, 16 AP) (BDL) (special) - Intellect * Level * 8 magical non-elemental damage to everyone, including yourself and your party. Ignores Magic Evasion.
+- Lakshmi: Alluring Embrace (74 MP, 16 AP) (multi) - Restores Spirit * Level * 3 HP. Against undead, this acts as a magical non-elemental attack.
 - Magus Sisters: Delta Attack (75 MP, 16 AP) (multi) - Three magic attacks that each ignore Magic Evasion. First magical attack does Intellect * Level * 3 fire damage. Second magical attack does Intellect * Level * 3 wind damage. Third magical attack does Intellect * Level * 3 non-elemental damage. Hits against elemental weaknesses have BDL.
 - Yojimbo: Zanmato (50,000 gil, 16 AP) (multi) - Attack all enemies for double damage, and attempt to instantly-kill them at +50 Accuracy.
 
 ### Summons T9
 
+- Chaos: Tornado (90 MP, 18 AP) (BDL) (multi) - Intellect * Level * 8 magical wind damage.
 - Eden: Eternal Breath (100 MP, 18 AP) (BDL) (multi) - Four magical attacks that do Intellect * Level * 4 non-elemental damage each.
 - Neo Bahamut: Gigaflare (140 MP, 18 AP) (BDL) (multi) - Intellect * Level * 8 non-elemental damage.
 - Phoenix: Flames of Rebirth (99 MP, 18 AP) (BDL) (special) - Magical attack on all enemies for Spirit * Level * 3 fire damage. Casts Raisega on the party, then Reraisega on the party, then Medica on the party.
 
 ### Summons T10
 
-- Bahamut ZERO: Teraflare (180 MP, 20 AP) (BDL+) (multi) - Intellect * Level * 10 non-elemental damage.
-- Knights of the Round (250 MP, 20 AP) (multi) - Thirteen physical attacks for Strength * Level damage, against all enemies.
-- Zodiark: Darkening Cloud (99 MP, 20 AP) (BDL+) (multi) - Intellect * Level * 8 dark damage.
+- Bahamut ZERO: Teraflare (180 MP, 20 AP) (BDL+) (multi) - Intellect * Level * 10 magical non-elemental damage.
+- Knights of the Round: Final Judgment (250 MP, 20 AP) (multi) - Thirteen physical attacks for Strength * Level damage, against all enemies.
+- Ultima: Eschaton (99 MP, 20 AP) (BDL+) (multi) - Intellect * Level * 8 magical holy damage.
+- Zodiark: Darkening Cloud (99 MP, 20 AP) (BDL+) (multi) - Intellect * Level * 8 magical dark damage.

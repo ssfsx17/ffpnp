@@ -120,6 +120,7 @@ Job Levels:
 
 - Blindga (15 MP) (multi) - Attempts to cause Blind status.
 - Blizzaga (30 MP) (single/multi) - Intellect * Level * 1.5 ice damage.
+- Drainra (36 MP) (single) - Absorb Intellect * Level HP from the target. The effect is reversed against undead.
 - Firaga (30 MP) (single/multi) - Intellect * Level * 1.5 fire damage.
 - Poisonaga (18 MP) (single/multi) - Intellect * Level poison damage, and attempts to cause Poison-Plus status.
 - Thundaga (30 MP) (single/multi) - Intellect * Level * 1.5 lightning damage.
@@ -127,6 +128,7 @@ Job Levels:
 ### Black Magic T6
 
 - Darkga (36 MP) (single/multi) - Intellect * Level * 1.5 dark damage.
+- Ley Lines (60 MP) (self only) - Causes Boost Evasion and Boost Magic Evasion statuses (4).
 - Oilaga (48 MP) (single/multi) - Intellect * Level non-elemental damage, and attempts to cause Oiled status (8).
 - Quake (30 MP) (multi) - Attempts to cause an amount of Earth damage equal to half of the target's maximum HP. Magic Defense is applied.
 - Ruinaga (36 MP) (single/multi) - Intellect * Level * 1.5 non-elemental damage.
@@ -137,6 +139,7 @@ Job Levels:
 
 - Blizzaja (45 MP) (single/multi) - Intellect * Level * 2 ice damage.
 - Break (15 MP) (single) - Attempts to cause Petrify status.
+- Drainga (50 MP) (single) - Absorb Intellect * Level * 1.5 HP from the target. The effect is reversed against undead.
 - Firaja (45 MP) (single/multi) - Intellect * Level * 2 fire damage.
 - Poisonaja (30 MP) (single/multi) - Intellect * Level * 1.5 poison damage, and attempts to cause Poison-Plus status.
 - Thundaja (45 MP) (single/multi) - Intellect * Level * 2 lightning damage.
@@ -155,6 +158,7 @@ Job Levels:
 
 - Balefrost (50 MP) (single/multi) - Intellect * Level * 2.5 ice damage.
 - Bio (40 MP) (single/multi) - Intellect * Level * 2 poison damage, and attempts to cause Virus status.
+- Drainja (70 MP) (single) - Absorb Intellect * Level * 2 HP from the target. The effect is reversed against undead.
 - Flare (50 MP) (single/multi) - Intellect * Level * 2.5 fire damage.
 - Luminaire (50 MP) (single/multi) - Intellect * Level * 2.5 lightning damage.
 - Scourge (60 MP) (single/multi) - Intellect * Level * 2.5 non-elemental damage, and attempt to cause Sap status (6).

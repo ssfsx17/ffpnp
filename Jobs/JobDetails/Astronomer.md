@@ -86,7 +86,7 @@ Lightspeed (2 AP, 15 MP) (single) - Causes Meditation and Haste status (2).
 
 ### Astrology T4
 
-Diurnal Sect (2 AP, 20 MP) (single/multi) - Causes Boost Healing status (4).
+Diurnal Sect (2 AP, 20 MP) (single/multi) - Causes Boost Healing and Regen status (4).
 
 Essential Dignity (2 AP, 18 MP) (single/multi) - Restores Spirit * Level * 2 HP. Acts as a magical non-elemental attack against undead.
 
@@ -98,7 +98,7 @@ Royal Road - Discard your current main hand Tarot Card for a special effect on t
 
 ### Astrology T6
 
-Nocturnal Sect (3 AP, 20 MP) (single/multi) - Causes Boost Healing status (8).
+Nocturnal Sect (3 AP, 20 MP) (single/multi) - Causes Boost Healing and Protect status (6).
 
 Time Dilation (3 AP, 20 MP) (single/multi) - Extend all status durations by 4.
 

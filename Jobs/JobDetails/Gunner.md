@@ -86,7 +86,7 @@ Target MP (8 MP) (single) - Attack that does an amount of MP damage equal to 1/1
 
 ### Gunplay T5
 
-Quarter Pounder (8 MP) (single) - Attempt to do an amount of damage equal to 1/4th of the target's current HP. Defense is not applied.
+Quarter Pounder (8 MP) (single) - Attempt to do an amount of damage equal to 1/4th of the target's current HP. Defense is not applied. This is considered a gravity effect.
 
 ### Gunplay T6
 

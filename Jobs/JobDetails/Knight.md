@@ -77,6 +77,8 @@ Job Levels:
 
 ### Battle Arts T1
 
+Armor Strike (2 AP) (single) - Attack, and add half of your Defense to the damage.
+
 Break Armor (2 AP) (single) - Attempt to cause Broken Armor status.
 
 ### Battle Arts T2
@@ -117,6 +119,8 @@ Rend MP (4 AP) (single) - Attempt to do an amount of MP damage equal to double y
 
 ### Battle Arts T8
 
+Banishing Strike (6 AP) (single) - Attack, and on hit, remove all status conditions.
+
 Icewolf Bite (6 AP) (single) - Attack for double damage and attempt to cause Broken Accessory status.
 
 ### Battle Arts T9
@@ -128,3 +132,7 @@ Stock Break (20 AP) (multi) - Attack all enemies, and attempt to reduce them to 
 ### Battle Arts T10
 
 Climhazzard (20 AP) (multi) - Attack all enemies for double damage, ignoring Evasion and Defense.
+
+Full Break (20 AP) (single) - Attack, and attempt to cause Broken Armor, Broken Helmet, Broken Weapon, and Broken Accessory statuses.
+
+Guardbringer (20 AP) (BDL) (single) - Attack four times, and add your Defense to each attack's damage.

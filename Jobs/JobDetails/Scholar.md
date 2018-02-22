@@ -48,7 +48,7 @@ Job Levels:
 | 8 | Action Unlock: Scholastic Lore T4
 | 9 | Job Action: Scholastic Lore T5
 | 10 | Prestige Job Title: Librarian
-|    | Job Support: Careful Study - You take half damage from your own Scholastic Lore, before Defense and Magic Defense are applied.
+|    | Job Support: Careful Study - You take half damage from your own Scholastic Lore, after Defense and Magic Defense are applied.
 |    | Action Unlock: Scholastic Lore T5
 |    | Support Unlock: Spellbound
 | 11 | Job Action: Scholastic Lore T6
@@ -67,13 +67,15 @@ Job Levels:
 
 ### Scholastic Lore T1
 
+Miasma (2 AP) (single) - Intellect * Level * 0.5 magical poison damage, and attempt to cause Poison status.
+
 Physick (2 AP) (single) - Restores Intellect * Level * 0.5 HP. Against undead, it is a magical attack with non-elemental damage. Outside of combat, this allows full restoration of one target's HP during a long rest.
 
 Study (single) - Acts as the White Magic spell Libra.
 
 ### Scholastic Lore T2
 
-Resurrection (4 AP) (single) - Revives a downed ally with 10% HP. Against undead, it attempts to cause Stun status (2).
+Resurrection (4 AP) (single) - Acts as the White Magic spell Raise.
 
 Sublimation (self-only) - Lose an amount of HP equal to your experience level * 100, in order to regain an amount of MP equal to your experience level * 10.
 
@@ -101,6 +103,8 @@ Succor (6 AP) (multi) - Restores Intellect * Level * 0.5 HP, and grants an equal
 
 Excogitation (4 AP) (single) - Causes Reraise status (6).
 
+Miasmara (4 AP) (multi) - Intellect * Level * 0.5 magical poison damage, and attempt to cause Poison status.
+
 Thunder Flare Tome (special) - Intellect * Level lightning damage to everyone.
 
 ### Scholastic Lore T7
@@ -126,5 +130,7 @@ Caper Emissarius (5 AP) (multi) - All affected targets must spend their next act
 ### Scholastic Lore T10
 
 Force Tome (10 AP) (multi) - Causes Resilient status (6).
+
+Miasmaga (15 AP) (multi) - Intellect * Level magical poison damage, and attempt to cause Poison, Poison-Plus, Sap, and Virus statuses.
 
 Revive (10 AP) (single) - Acts as the White Magic spell Arise.

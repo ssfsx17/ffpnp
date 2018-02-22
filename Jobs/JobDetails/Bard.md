@@ -122,7 +122,7 @@ Wanderer's Minuet (single) - Magical attack for Agility * Level * 0.5 non-elemen
 
 Enveloping Etude (multi) - Causes Protect and Shell status (2).
 
-Fabled Song (multi) - Causes Regen-Plus and Protect status (2).
+Fabled Song (multi) - Causes Regen-Major and Protect status (2).
 
 Warden's Paean (single) - Remove one status condition of your choice. This song can only be targeted at yourself or an ally.
 

@@ -124,6 +124,8 @@ Condemn 4 (40 MP) - Refer to the Condemnation Table to determine what happens. Y
 
 Induration (16 MP) (single) - Attempt to cause Petrify status at +50 Magic Accuracy.
 
+Lucid Dreaming (10 AP) (self-only) - Causes Meditation-Lucid status (4).
+
 ## Condemnation Table
 
 Roll a 1d10.

@@ -88,7 +88,7 @@ Swallowtail (5 AP) (multi) - Attack all enemies in the front row, ignoring Evasi
 
 ### Fencing T6
 
-Manastrike (1 AP) (single) - Attack, and 1/10th of HP damage is also dealt to MP.
+Manastrike (1 AP) (single) - Attack, and 1% of HP damage is also dealt to MP.
 
 ### Fencing T7
 

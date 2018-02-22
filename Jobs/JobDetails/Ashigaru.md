@@ -132,7 +132,7 @@ Kiku-ichimonji (multi) - Break a Level 70 Katana 2H. Magical attack for Intellec
 
 Hayate (20 MP) (self-only) - Causes Boost Evasion and Haste status (2).
 
-Masamune (multi) - Break a Level 80 Katana 2H. Causes Regen, Regen-Plus, and Haste statuses (10).
+Masamune (multi) - Break a Level 80 Katana 2H. Causes Regen, Regen-Major, and Haste statuses (10).
 
 Tempest (14 AP) (special) - Attack four random enemies for double damage, ignoring Evasion and Defense.
 

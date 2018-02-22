@@ -103,6 +103,8 @@ Boost Accuracy - Accuracy is increased by 50.
 
 Boost Attack - Physical damage output is doubled.
 
+Boost Defese - Take half physical damage, after Defense is applied.
+
 Boost Evasion - Evasion is increased by 50.
 
 Boost Healing - HP restoration received is doubled.
@@ -111,15 +113,19 @@ Boost Magic - Magical damage output and healing output is doubled.
 
 Boost Magic Accuracy - Magic Accuracy is increased by 50.
 
+Boost Magic Defense - Take half magical damage, after Magic Defense is applied.
+
+Boost Magic Evasion - Magic Evasion is increased by 50.
+
 Brave - Physical damage output is increased by 50%, but Defense is halved.
 
-Broken Accessory - Support abilities are nullified. If this status happens to a player character, then special effects from accessories are also nullified.
+Broken Accessory - Support abilities are nullified. If this status happens to a player character, then special effects from accessories are also nullified. Player characters and humanoid-type enemies have the status attached to the gear they are wearing when the status is inflicted, so they can switch gear to remove the effects.
 
-Broken Armor - Defense is zero. If this status happens to a player character, then special effects from body equipment are also nullified.
+Broken Armor - Defense is zero. If this status happens to a player character, then special effects from body equipment are also nullified. Player characters and humanoid-type enemies have the status attached to the gear they are wearing when the status is inflicted, so they can switch gear to remove the effects.
 
-Broken Helmet - Magic Defense is zero. If this status happens to a player character, then special effects from head equipment are also nullified.
+Broken Helmet - Magic Defense is zero. If this status happens to a player character, then special effects from head equipment are also nullified. Player characters and humanoid-type enemies have the status attached to the gear they are wearing when the status is inflicted, so they can switch gear to remove the effects.
 
-Broken Weapon - Physical damage output is zero. If this status happens to a player character, their weapons are also nullified.
+Broken Weapon - Physical damage output is zero. If this status happens to a player character, their weapons are also nullified. Player characters and humanoid-type enemies have the status attached to the gear they are wearing when the status is inflicted, so they can switch gear to remove the effects.
 
 Bubble - Maximum HP is doubled. When this status ends, HP above the normal maximum are counted as excess healing.
 
@@ -161,6 +167,8 @@ Locked-On - Evasion and Defense are zero against ranged attacks.
 
 Meditation - Regain Level * 0.5 MP every round.
 
+Meditation-Lucid - Regain Level * 0.5 MP every round.
+
 Mini - Evasion is increased by 50, but Defense is zero. Physical damage output is zero.
 
 Oil - Take double damage from Fire element. Also doubles the damage suffered from Burning status.
@@ -185,7 +193,11 @@ Reflect - When hit by a spell that has a single-target option, the effect that w
 
 Regen - Regain 5% HP every round.
 
-Regen-Plus - Regain 10% HP every round.
+Regen-Asylum - Regain 5% HP every round.
+
+Regen-Major - Regain 10% HP every round.
+
+Regen-Medica - Regain 5% HP every round.
 
 Resilient - Magic Evasion is increased by 50 against status-causing magic. If the spell has both a damage and status component, then it is possible for the damage to occur but the status to be evaded.
 
