@@ -134,6 +134,8 @@ Dragon's Might (10 AP) (single) - Causes Brave, Faith, and Haste status (4).
 
 ### Draconic Soul T10
 
+Double Jump (4 AP) - Jump action that hits twice upon landing. This requires that you have Jump as a job or choice action.
+
 Dragon's Speed (10 AP) (single) - Causes Quick status (1).
 
 Holy Breath (20 AP) (multi) - Vitality * Level * 3 holy magic damage.

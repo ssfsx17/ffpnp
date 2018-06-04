@@ -136,5 +136,6 @@ Proficiencies:
 
 - Bahamut ZERO: Teraflare (180 MP, 20 AP) (BDL+) (multi) - Intellect * Level * 10 magical non-elemental damage.
 - Knights of the Round: Final Judgment (250 MP, 20 AP) (multi) - Thirteen physical attacks for Strength * Level damage, against all enemies.
+- Lunar Mist Dragon: Radiant Breath of Mist (70 MP, 16 AP) (BDL+) (special) - Vitality * Level * 2 wind damage to all enemies. Causes Blink status (4) to the whole party.
 - Ultima: Eschaton (99 MP, 20 AP) (BDL+) (multi) - Intellect * Level * 8 magical holy damage.
 - Zodiark: Darkening Cloud (99 MP, 20 AP) (BDL+) (multi) - Intellect * Level * 8 magical dark damage.

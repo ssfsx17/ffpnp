@@ -48,8 +48,9 @@ Job Levels:
 | 8 | Action Unlock: Bardsong T4
 | 9 | Job Action: Bardsong T5
 | 10 | Prestige Job Title: Herald
-|    | Job Support: Critical Vanish - Automatically enter Vanish status while at 20% HP or less.
+|    | Job Support: Critical Vanish - Automatically enter Vanish status while at 25% HP or less.
 |    | Action Unlock: Bardsong T5
+|    | Action Unlock: Hide
 | 11 | Job Action: Bardsong T6
 | 12 | Action Unlock: Bardsong T6
 | 13 | Job Action: Bardsong T7
@@ -129,6 +130,8 @@ Warden's Paean (single) - Remove one status condition of your choice. This song 
 ### Bardsong T10
 
 Alluring Air (multi) - Causes Confuse status (2).
+
+Edwardian Chant (2 AP) (multi) - Causes Protect and Shell status (4). The AP cost stacks with the Bardsong action itself, for a total of 3 AP.
 
 Matador's Song (multi) - Causes Blink status (2).
 

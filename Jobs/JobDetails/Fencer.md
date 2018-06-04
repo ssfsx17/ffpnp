@@ -112,4 +112,4 @@ Tempo Flurry (10 AP) (single) - Attack twice, and attempt to cause Slow status (
 
 Dervish (10 AP) (special) - Attack an enemy, and cause Haste status to self (8).
 
-Ultima Masher (32 MP, 20 AP) (single) - Five melee attacks on one target, ignoring Defense.
+Ultima Masher (32 MP, 20 AP) (single) - Five melee attacks on one target, ignoring Evasion and Defense.

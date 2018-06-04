@@ -43,7 +43,7 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Holy Devout
-|    | Job Action: Pray-Plus (15 AP) - Pray action, except that the target number is 250, and on a success, the best available healing spell is used.
+|    | Job Action: Miracle (15 AP) - Pray action, except that the target number is 250, and on a success, the best available healing spell is used.
 |    | Job Support: Half-MP - MP costs are halved.
 |    | Action Unlock: Pray
 | 11 | 
@@ -55,7 +55,7 @@ Job Levels:
 | 17 | 
 | 18 | 
 | 19 | 
-| 20 | Action Unlock: Pray-Plus
+| 20 | Action Unlock: Miracle
 |    | Support Unlock: Half-MP
 |    | Support Unlock: Devout Agility +10
 |    | Support Unlock: Devout Spirit +10

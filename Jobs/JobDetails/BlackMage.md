@@ -142,11 +142,13 @@ Job Levels:
 - Drainga (50 MP) (single) - Absorb Intellect * Level * 1.5 HP from the target. The effect is reversed against undead.
 - Firaja (45 MP) (single/multi) - Intellect * Level * 2 fire damage.
 - Poisonaja (30 MP) (single/multi) - Intellect * Level * 1.5 poison damage, and attempts to cause Poison-Plus status.
+- Sleepja (72 MP) (single/multi) - Attempts to cause Sleep status at +50 Magic Accuracy.
 - Thundaja (45 MP) (single/multi) - Intellect * Level * 2 lightning damage.
 - Virus (20 MP) (single/multi) - Attempts to cause Virus status.
 
 ### Black Magic T8
 
+- Blindja (45 MP) (multi) - Attempts to cause Blind status at +50 Magic Accuracy.
 - Darkja (49 MP) (single/multi) - Intellect * Level * 2.5 dark damage.
 - Death (35 MP) (single) - Instantly-kills the target, at -50 Magic Accuracy. Against an Undead, it revives and restores to full HP.
 - Oilaja (60 MP) (single/multi) - Intellect * Level * 1.5 non-elemental damage, and attempts to cause Oiled status (20).

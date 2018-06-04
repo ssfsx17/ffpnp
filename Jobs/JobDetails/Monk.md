@@ -123,15 +123,17 @@ Rising Phoenix (5 AP) (multi) - Vitality * Level magical fire damage.
 
 ### Martial Arts T8
 
+Fists of Earth (4 AP) (self-only) - Defend action that also causes Protect status (4).
+
 Purification (10 AP) (multi) - Remove Petrify, Blind, Confuse, Silence, Berserk, Toad, Oil, Poison, Poison-Plus, Sap, Virus, Sleep, Immobilize, and Disable.
 
 Razor Gale (7 AP) (multi) - Vitality * Level * 1.5 magical air damage.
 
 ### Martial Arts 9
 
-Elixir Field (9 AP) (multi) - Attack all enemies, ignoring Evasion.
+Deadly (6 AP) (single) - Attack for triple damage.
 
-Fists of Earth (4 AP) (self-only) - Defend action that also causes Protect status (4).
+Elixir Field (9 AP) (multi) - Attack all enemies, ignoring Evasion.
 
 Perfect Balance (5 AP) (self-only) - Charge action that allows half the AP charged to immediately be used on one Martial Arts action.
 

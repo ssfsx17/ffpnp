@@ -74,6 +74,12 @@
 - Race Support: Galka Vitality +10
 - Race Support: Galka Stomach - Able to eat raw food.
 
+### Garlean
+
+- Home Realm: Hydaelyn (XIV)
+- Race Support: Artificial Magic Ability - Magic Evasion is increased by 25 against the Silence status, because your magic ability is artificially-implanted.
+- Race Support: Garlean Intellect +10
+
 ### Gifted
 
 - Home Realm: Ivalice (TA2)

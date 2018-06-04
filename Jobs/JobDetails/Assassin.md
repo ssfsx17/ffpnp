@@ -12,7 +12,7 @@ Actions:
 
 Supports:
 
-- 1 x Choice
+- 4 x Choice
 
 Reactions:
 

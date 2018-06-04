@@ -24,7 +24,7 @@ Supports:
 Reactions:
 
 - 1 x Choice
-- Sentinel - Automatically cover for all party members who are at 20% HP or lower.
+- Sentinel - Automatically cover for all party members who are at 25% HP or lower.
 
 Proficiencies:
 
