@@ -22,32 +22,82 @@ If the GM wishes to have challenge sidequests with bosses who are many times har
 
 ## Examples of Material Descriptions
 
-| Item Level | Example Rigid Material Description | Example Flexible Material Description |
-| ---        | ---                                | ---                                     |
-| 1 | Wood | Canvas
-| 5 | Stone | Flaxen
-| 10 | Copper | Wool
-| 15 | Bronze | Hempen
-| 20 | Iron | Leather
-| 25 | Steel | Studded Leather
-| 30 | Silvered Steel | Brigandine
-| 35 | Reinforced Steel | Studded Brigandine
-| 40 | Dragonbone | Dragonhide
-| 45 | Dragontooth | Dragonscale
-| 50 | Diamond | Carbon Fiber
-| 55 | Diamond-Steel | Graphene
-| 60 | Mythril | Mythril Chain
-| 65 | Blue Mythril | Anga-Mythril Chain
-| 70 | Genji | Exotic Eastern Heavy-Cloth
-| 75 | Bushido | Exotic Eastern Armor-Cloth
-| 80 | Crystal | Crystal-Sparkling
-| 85 | Perfect Crystal | Scintillating Crystal-Sparkling
-| 90 | Moonstone | Moondust Weave
-| 95 | Adamant | Adamant Weave
+These descriptions are provided for flavor purposes only. It is recommended that GMs consider other materials which are more specific to their settings, especially for higher-Item-Level gear.
 
-## Optional: Job Soulstones
+| Item Level | Weapon & Medium/Heavy Armor Description |
+| ---        | ---                              |
+| 1 | Wood
+| 5 | Stone
+| 10 | Copper
+| 15 | Bronze
+| 20 | Iron
+| 25 | Steel
+| 30 | Silvered Steel
+| 35 | Ancient
+| 40 | Dwarven
+| 45 | Mythril
+| 50 | Diamond
+| 55 | Genji
+| 60 | Dragonbone
+| 65 | Techno-Ironworks Alloy
+| 70 | Baldur
+| 75 | Shire
+| 80 | Antiquated
+| 85 | Ryumyaku
+| 90 | Crystal
+| 95 | Adamant
+| 99+ | (Job Set Gear)
 
-Job Soulstones are priceless items that can never be bought or sold. They may be handed out by the GM to help a character if their stats were allocated in a "wrong" way. On the other hand, a job soulstone can only be equipped if the character is wearing a specific job.
+| Item Level | Light Armor Description |
+| ---        | ---                     |
+| 1 | Prisoner
+| 5 | Clothing
+| 10 | Leather
+| 15 | Bardic
+| 20 | Karate
+| 25 | Kenpo
+| 30 | Black Belt's
+| 35 | Power
+| 40 | Red Velvet
+| 45 | Brave
+| 50 | Ninja
+| 55 | Chocobo
+| 60 | Tabby
+| 65 | Techno-Ironworks Weave
+| 70 | Valerian
+| 75 | Shire
+| 80 | Antiquated
+| 85 | Ryumyaku
+| 90 | Assassin's
+| 95 | Vishnu
+| 99+ | (Job Set Gear)
+
+| Item Level | Magic Armor Description |
+| ---        | ---                     |
+| 1 | Reed
+| 5 | Flax
+| 10 | Cotton
+| 15 | Hemp
+| 20 | Silk
+| 25 | Gaia
+| 30 | Black
+| 35 | Red
+| 40 | White
+| 50 | Luminous
+| 55 | Sage's
+| 60 | Lord's
+| 65 | Techno-Ironworks Focus
+| 70 | Valkyrie's
+| 75 | Shire
+| 80 | Antiquated
+| 85 | Ryumyaku
+| 90 | Rainbow
+| 95 | Cosmic
+| 99+ | (Job Set Gear)
+
+## Optional: Job Soulstones / Job Set Gear
+
+Job Soulstones are priceless items that can never be bought or sold. They may be handed out by the GM to help a character if their stats were allocated in a "wrong" way. On the other hand, a job soulstone can only be equipped if the character is wearing a specific job. The GM may also create sets of gear that require a specific job to equip, and which cause the Job Soulstone effect.
 
 Job Soulstones imposed a fixed set of attribute numbers. Support abilities for attributes have no effect while a job soulstone is equipped.
 
@@ -57,7 +107,7 @@ Job Soulstones imposed a fixed set of attribute numbers. Support abilities for a
 | B | 20 + (Experience Level * 1.5)
 | C | 10 + Experience Level
 
-Examples of Job Soulstones:
+Examples of Job Soulstones / Set Bonuses:
 
 | Job Soulstone                   | Jobs | Strength | Agility | Vitality | Intellect | Spirit | Speed |
 | ---                             | ---  | ---      | ---     | ---      | ---       | ---    | ---   |

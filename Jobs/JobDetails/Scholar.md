@@ -75,6 +75,8 @@ Study (single) - Acts as the White Magic spell Libra.
 
 ### Scholastic Lore T2
 
+Judgment Grimoire (6 AP) (multi) - Intellect * Level * 0.5 magical non-elemental damage.
+
 Resurrection (4 AP) (single) - Acts as the White Magic spell Raise.
 
 Sublimation (self-only) - Lose an amount of HP equal to your experience level * 100, in order to regain an amount of MP equal to your experience level * 10.
@@ -134,3 +136,5 @@ Force Tome (10 AP) (multi) - Causes Resilient status (6).
 Miasmaga (15 AP) (multi) - Intellect * Level magical poison damage, and attempt to cause Poison, Poison-Plus, Sap, and Virus statuses.
 
 Revive (10 AP) (single) - Acts as the White Magic spell Arise.
+
+Sentinel's Grimoire (15 AP) (multi) - Causes Boost Defense and Boost Magic Defense statuses (4).

@@ -110,7 +110,7 @@ Job Levels:
 - Darkra (18 MP) (single/multi) - Intellect * Level dark damage.
 - Oila (24 MP) (single/multi) - Intellect * Level * 0.5 non-elemental damage, and attempts to cause Oiled status (4).
 - Osmose (0 MP) (single) - Absorb Intellect * Level * 0.01 MP from the target. The effect is reversed against undead.
-- Ruina (18 MP) (single/multi) - Intellect * Level non-elemental damage
+- Ruinra (18 MP) (single/multi) - Intellect * Level non-elemental damage
 - Shake (18 MP) (multi) - Attempts to cause Stun status (1).
 - Sleepga (36 MP) (single/multi) - Attempts to cause Sleep status at +50 Magic Accuracy. If this spell is cast multi-targeted then it functions at normal Magic Accuracy.
 - Stonera (18 MP) (single/multi) - Intellect * Level earth damage.

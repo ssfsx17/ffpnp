@@ -7,67 +7,67 @@ Precalculated armor tables are available:
 
 ## Complete Sets
 
-| Set                       | Evasion          | Magic Evasion    | Defense         | Magic Defense   | Price            | Special |
-| ---                       | ---              | ---              | ---             | ---             | ---              | ---     |
-| Light Set, no Buckler     | Item Level * 1.1 | Item Level * 0.2 | Item Level * 11 | Item Level * 11 | Item Level * 540
-| Light Set + Buckler       | Item Level * 2.1 | Item Level * 0.7 | Item Level * 13 | Item Level * 13 | Item Level * 640
-| Medium Set, no Shield     | Item Level * 0.2 | Item Level * 0.2 | Item Level * 25 | Item Level * 25 | Item Level * 670
-| Medium Set + Shield       | Item Level * 0.7 | Item Level * 0.7 | Item Level * 30 | Item Level * 30 | Item Level * 790
-| Heavy Set, no Greatshield | Item Level * 0.2 | Item Level * 0.2 | Item Level * 45 | Item Level * 45 | Item Level * 900
-| Heavy Set + Greatshield   | Item Level * 0.7 | Item Level * 0.7 | Item Level * 55 | Item Level * 55 | Item Level * 1050
-| Magic Set, no Shield      | Item Level * 0.2 | Item Level * 1.1 | Item Level * 11 | Item Level * 45 | Item Level * 670
-| Magic Set + Shield        | Item Level * 0.7 | Item Level * 2.1 | Item Level * 13 | Item Level * 55 | Item Level * 790
-| Magitek Set, no Shield    | Item Level * 0.2 | Item Level * 0.2 | Item Level * 56 | Item Level * 56 | Item Level * 1200 | Requires 2 one-handed magitek weapons, or a 2-handed magitek weapon
-| Magitek Set + Shield      | Item Level * 0.7 | Item Level * 0.7 | Item Level * 68 | Item Level * 68 | Item Level * 1400 | Requires a one-handed magitek weapon
+| Set                       | Evasion     | Magic Evasion | Defense         | Magic Defense   | Price            | Special |
+| ---                       | ---         | ---           | ---             | ---             | ---              | ---     |
+| Light Set, no Buckler     | I-Lvl * 1.1 | I-Lvl * 0.2   | I-Lvl * I-Lvl * 0.25 | I-Lvl * I-Lvl * 0.25 | I-Lvl * 540
+| Light Set + Buckler       | I-Lvl * 2.1 | I-Lvl * 0.7   | I-Lvl * I-Lvl * 0.3  | I-Lvl * I-Lvl * 0.3  | I-Lvl * 640
+| Medium Set, no Shield     | I-Lvl * 0.2 | I-Lvl * 0.2   | I-Lvl * I-Lvl * 0.45 | I-Lvl * I-Lvl * 0.45 | I-Lvl * 670
+| Medium Set + Shield       | I-Lvl * 0.7 | I-Lvl * 0.7   | I-Lvl * I-Lvl * 0.55 | I-Lvl * I-Lvl * 0.55 | I-Lvl * 790
+| Heavy Set, no Greatshield | I-Lvl * 0.2 | I-Lvl * 0.2   | I-Lvl * I-Lvl * 0.65 | I-Lvl * I-Lvl * 0.65 | I-Lvl * 900
+| Heavy Set + Greatshield   | I-Lvl * 0.7 | I-Lvl * 0.7   | I-Lvl * I-Lvl * 0.8  | I-Lvl * I-Lvl * 0.8  | I-Lvl * 1050
+| Magic Set, no Shield      | I-Lvl * 0.2 | I-Lvl * 1.1   | I-Lvl * I-Lvl * 0.25 | I-Lvl * I-Lvl * 0.65 | I-Lvl * 670
+| Magic Set + Shield        | I-Lvl * 0.7 | I-Lvl * 2.1   | I-Lvl * I-Lvl * 0.3  | I-Lvl * I-Lvl * 0.8  | I-Lvl * 790
+| Magitek Set, no Shield    | I-Lvl * 0.2 | I-Lvl * 0.2   | I-Lvl * I-Lvl * 0.79 | I-Lvl * I-Lvl * 0.79 | I-Lvl * 1200 | Requires 2 one-handed magitek weapons, or a 2-handed magitek weapon
+| Magitek Set + Shield      | I-Lvl * 0.7 | I-Lvl * 0.7   | I-Lvl * I-Lvl * 0.97 | I-Lvl * I-Lvl * 0.97 | I-Lvl * 1400 | Requires a one-handed magitek weapon
 
 ## Individual Pieces
 
 ### Shields
 
-| Shield             | Evasion          | Magic Evasion    | Defense         | Magic Defense   | Price            | Special |
-| ---                | ---              | ---              | ---             | ---             | ---              | ---     |
-| Light Bucklers     | Item Level       | Item Level * 0.5 | Item Level * 2  | Item Level * 2  | Item Level * 100
-| Medium Shields     | Item Level * 0.5 | Item Level * 0.5 | Item Level * 5  | Item Level * 5  | Item Level * 120
-| Heavy Greatshields | Item Level * 0.5 | Item Level * 0.5 | Item Level * 10 | Item Level * 10 | Item Level * 150
-| Magic Shields      | Item Level * 0.5 | Item Level       | Item Level * 2  | Item Level * 10 | Item Level * 120
-| Magitek Shields    | Item Level * 0.5 | Item Level * 0.5 | Item Level * 12 | Item Level * 12 | Item Level * 200 | Requires a full Magitek equipment set
+| Shield             | Evasion     | Magic Evasion | Defense              | Magic Defense        | Price            | Special |
+| ---                | ---         | ---           | ---                  | ---                  | ---              | ---     |
+| Light Bucklers     | I-Lvl       | I-Lvl * 0.5   | I-Lvl * I-Lvl * 0.05 | I-Lvl * I-Lvl * 0.05 | I-Lvl * 100
+| Medium Shields     | I-Lvl * 0.5 | I-Lvl * 0.5   | I-Lvl * I-Lvl * 0.1  | I-Lvl * I-Lvl * 0.1  | I-Lvl * 120
+| Heavy Greatshields | I-Lvl * 0.5 | I-Lvl * 0.5   | I-Lvl * I-Lvl * 0.15 | I-Lvl * I-Lvl * 0.15 | I-Lvl * 150
+| Magic Shields      | I-Lvl * 0.5 | I-Lvl         | I-Lvl * I-Lvl * 0.05 | I-Lvl * I-Lvl * 0.15 | I-Lvl * 120
+| Magitek Shields    | I-Lvl * 0.5 | I-Lvl * 0.5   | I-Lvl * I-Lvl * 0.18 | I-Lvl * I-Lvl * 0.18 | I-Lvl * 200 | Requires a full Magitek equipment set
 
 ### Head Gear
 
-| Head Gear          | Evasion          | Magic Evasion    | Defense         | Magic Defense   | Price            | Special |
-| ---                | ---              | ---              | ---             | ---             | ---              | ---     |
-| Light Hats         | Item Level * 0.2 | Item Level * 0.2 | Item Level * 2  | Item Level * 2  | Item Level * 120
-| Medium Coifs       |                  | Item Level * 0.2 | Item Level * 5  | Item Level * 5  | Item Level * 150
-| Heavy Helmets      |                  | Item Level * 0.2 | Item Level * 10 | Item Level * 10 | Item Level * 200
-| Magic Hats         |                  | Item Level * 0.5 | Item Level * 2  | Item Level * 10 | Item Level * 150
-| Magitek Heads      |                  | Item Level * 0.2 | Item Level * 12 | Item Level * 12 | Item Level * 250 | Requires a full Magitek equipment set
+| Head Gear          | Evasion     | Magic Evasion | Defense              | Magic Defense        | Price            | Special |
+| ---                | ---         | ---           | ---                  | ---                  | ---              | ---     |
+| Light Hats         | I-Lvl * 0.2 | I-Lvl * 0.2   | I-Lvl * I-Lvl * 0.05 | I-Lvl * I-Lvl * 0.05 | I-Lvl * 120
+| Medium Coifs       |             | I-Lvl * 0.2   | I-Lvl * I-Lvl * 0.1  | I-Lvl * I-Lvl * 0.1  | I-Lvl * 150
+| Heavy Helmets      |             | I-Lvl * 0.2   | I-Lvl * I-Lvl * 0.15 | I-Lvl * I-Lvl * 0.15 | I-Lvl * 200
+| Magic Hats         |             | I-Lvl * 0.5   | I-Lvl * I-Lvl * 0.05 | I-Lvl * I-Lvl * 0.15 | I-Lvl * 150
+| Magitek Heads      |             | I-Lvl * 0.2   | I-Lvl * I-Lvl * 0.18 | I-Lvl * I-Lvl * 0.18 | I-Lvl * 250 | Requires a full Magitek equipment set
 
 ### Body Gear
 
-| Body Gear          | Evasion          | Magic Evasion    | Defense         | Magic Defense   | Price            | Special |
-| ---                | ---              | ---              | ---             | ---             | ---              | ---     |
-| Light Suits        | Item Level * 0.2 |                  | Item Level * 5  | Item Level * 5  | Item Level * 200
-| Medium Chainmail   |                  |                  | Item Level * 10 | Item Level * 10 | Item Level * 250
-| Heavy Plate Armor  |                  |                  | Item Level * 15 | Item Level * 15 | Item Level * 300
-| Magic Robes        |                  | Item Level * 0.2 | Item Level * 5  | Item Level * 15 | Item Level * 250
-| Magitek Bodies     |                  |                  | Item Level * 20 | Item Level * 20 | Item Level * 500 | Requires a full Magitek equipment set
+| Body Gear          | Evasion     | Magic Evasion | Defense              | Magic Defense        | Price        | Special |
+| ---                | ---         | ---           | ---                  | ---                  | ---          | ---     |
+| Light Suits        | I-Lvl * 0.2 |               | I-Lvl * I-Lvl * 0.1  | I-Lvl * I-Lvl * 0.1  | I-Lvl * 200
+| Medium Chainmail   |             |               | I-Lvl * I-Lvl * 0.15 | I-Lvl * I-Lvl * 0.15 | I-Lvl * 250
+| Heavy Plate Armor  |             |               | I-Lvl * I-Lvl * 0.2  | I-Lvl * I-Lvl * 0.2  | I-Lvl * 300
+| Magic Robes        |             | I-Lvl * 0.2   | I-Lvl * I-Lvl * 0.1  | I-Lvl * I-Lvl * 0.2  | I-Lvl * 250
+| Magitek Bodies     |             |               | I-Lvl * I-Lvl * 0.25 | I-Lvl * I-Lvl * 0.25 | I-Lvl * 500 | Requires a full Magitek equipment set
 
 ### Arm Gear
 
-| Arm Gear           | Evasion          | Magic Evasion    | Defense         | Magic Defense   | Price            | Special |
-| ---                | ---              | ---              | ---             | ---             | ---              | ---     |
-| Light Gloves       | Item Level * 0.2 |                  | Item Level * 2  | Item Level * 2  | Item Level * 100
-| Medium Chainmittens |                 |                  | Item Level * 5  | Item Level * 5  | Item Level * 120
-| Heavy Gauntlets    |                  |                  | Item Level * 10 | Item Level * 10 | Item Level * 150
-| Magic Gloves       |                  | Item Level * 0.2 | Item Level * 2  | Item Level * 10 | Item Level * 120
-| Magitek Arms       |                  |                  | Item Level * 12 | Item Level * 12 | Item Level * 200 | Requires a full Magitek equipment set
+| Arm Gear           | Evasion     | Magic Evasion | Defense              | Magic Defense        | Price       | Special |
+| ---                | ---         | ---           | ---                  | ---                  | ---         | ---     |
+| Light Gloves       | I-Lvl * 0.2 |               | I-Lvl * I-Lvl * 0.05 | I-Lvl * I-Lvl * 0.05 | I-Lvl * 100
+| Medium Chainmittens |            |               | I-Lvl * I-Lvl * 0.1  | I-Lvl * I-Lvl * 0.1  | I-Lvl * 120
+| Heavy Gauntlets    |             |               | I-Lvl * I-Lvl * 0.15 | I-Lvl * I-Lvl * 0.15 | I-Lvl * 150
+| Magic Gloves       |             | I-Lvl * 0.2   | I-Lvl * I-Lvl * 0.05 | I-Lvl * I-Lvl * 0.15 | I-Lvl * 120
+| Magitek Arms       |             |               | I-Lvl * I-Lvl * 0.18 | I-Lvl * I-Lvl * 0.18 | I-Lvl * 200 | Requires a full Magitek equipment set
 
 ### Leg Gear
 
-| Leg Gear           | Evasion          | Magic Evasion    | Defense         | Magic Defense   | Price            | Special |
-| ---                | ---              | ---              | ---             | ---             | ---              | ---     |
-| Light Shoes        | Item Level * 0.5 |                  | Item Level * 2  | Item Level * 2  | Item Level * 120
-| Medium Boots       | Item Level * 0.2 |                  | Item Level * 5  | Item Level * 5  | Item Level * 150
-| Heavy Greaves      | Item Level * 0.2 |                  | Item Level * 10 | Item Level * 10 | Item Level * 200
-| Magic Shoes        | Item Level * 0.2 | Item Level * 0.2 | Item Level * 2  | Item Level * 10 | Item Level * 150
-| Magitek Legs       | Item Level * 0.2 |                  | Item Level * 12 | Item Level * 12 | Item Level * 250 | Requires a full Magitek equipment set
+| Leg Gear           | Evasion     | Magic Evasion | Defense              | Magic Defense        | Price       | Special |
+| ---                | ---         | ---           | ---                  | ---                  | ---         | ---     |
+| Light Shoes        | I-Lvl * 0.5 |               | I-Lvl * I-Lvl * 0.05 | I-Lvl * I-Lvl * 0.05 | I-Lvl * 120
+| Medium Boots       | I-Lvl * 0.2 |               | I-Lvl * I-Lvl * 0.1  | I-Lvl * I-Lvl * 0.1  | I-Lvl * 150
+| Heavy Greaves      | I-Lvl * 0.2 |               | I-Lvl * I-Lvl * 0.15 | I-Lvl * I-Lvl * 0.15 | I-Lvl * 200
+| Magic Shoes        | I-Lvl * 0.2 | I-Lvl * 0.2   | I-Lvl * I-Lvl * 0.05 | I-Lvl * I-Lvl * 0.15 | I-Lvl * 150
+| Magitek Legs       | I-Lvl * 0.2 |               | I-Lvl * I-Lvl * 0.18 | I-Lvl * I-Lvl * 0.18 | Requires a full Magitek equipment set

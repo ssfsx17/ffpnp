@@ -87,25 +87,37 @@ Transmute (8 MP) (single) - Attempts to instantly-kill an enemy that is at 10% H
 
 Combine Two Potions into a Hi-Potion (full day out-of-combat)
 
+Power Drink (110 gil, 2 AP) (single) - Causes Boost Attack status (2).
+
 ### Chemistry T4
 
 Combine Two Ethers into a Dry Ether (full day out-of-combat)
+
+Iron Draft (110 gil, 2 AP) (single) - Causes Boost Defense status (2).
 
 ### Chemistry T5
 
 Combine Two Hi-Potions into an X-Potion (full day out-of-combat)
 
+Speed Drink (110 gil, 2 AP) (single) - Causes Haste status (2).
+
 ### Chemistry T6
 
 Combine Two Dry Ethers into a Turbo Ether (full day out-of-combat)
+
+Hero Cocktail (110 gil, 4 AP) (single) - Causes Boost Attack status (4).
 
 ### Chemistry T7
 
 Combine Two X-Potions into a Full Potion (full day out-of-combat)
 
+Goliath Tonic (110 gil, 2 AP) (single) - Causes Bubble status (2).
+
 ### Chemistry T8
 
 Combine Two Turbo Ethers into a Full Ether (full day out-of-combat)
+
+Protect Potion (300 gil, 4 AP) (multi) - Causes Boost Defense status (2).
 
 ### Chemistry T9
 
@@ -113,8 +125,12 @@ Combine a Full Potion and Full Ether into an Elixir (full day out-of-combat)
 
 Combine Two Phoenix Downs into a Phoenix Pinion (full day out-of-combat)
 
+Giant Drink (1,000 gil, 10 AP) (multi) - Causes Bubble status (4).
+
 ### Chemistry T10
 
 Combine Two Elixirs into a Megalixir (full day out-of-combat)
 
 Combine Two Phoenix Pinions into a Phoenix Feather (full day out-of-combat)
+
+Death Potion (5,000 gil, 10 AP) (multi) - Attempt to instantly-kill all enemies, using Magic Accuracy and opposed by Magic Evasion.

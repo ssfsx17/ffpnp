@@ -11,7 +11,7 @@ Actions:
 - Salve (1 AP)
 - Chemistry
 - Item
-- Item-Plus (1 AP) - Use an item, and double its effects and duration.
+- Pharmacology (1 AP) - Use an item, and double its effects and duration.
 
 Supports:
 
@@ -46,8 +46,8 @@ Job Levels:
 | 8 | 
 | 9 | 
 | 10 | Prestige Job Title: Doctorate Alchemist
-|    | Job Reaction: Auto-Item (1 AP) - Upon taking damage, use an item. This is only a normal usage, as opposed to Item-Plus.
-|    | Action Unlock: Item-Plus
+|    | Job Reaction: Auto-Item (1 AP) - Upon taking damage, perform an item-using action. The costs of the action stack.
+|    | Action Unlock: Pharmacology
 | 11 | 
 | 12 | 
 | 13 | 

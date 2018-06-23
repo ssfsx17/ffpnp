@@ -103,7 +103,7 @@ Boost Accuracy - Accuracy is increased by 50.
 
 Boost Attack - Physical damage output is doubled.
 
-Boost Defese - Take half physical damage, after Defense is applied.
+Boost Defense - Take half physical damage, after Defense is applied.
 
 Boost Evasion - Evasion is increased by 50.
 

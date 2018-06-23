@@ -103,6 +103,7 @@ Job Levels:
 
 ### Blue Magic T5
 
+- ???? (3 MP) (single) - Calculate the difference between your maximum HP and the target's maximum HP. Do that much magical non-elemental damage to the target, ignoring Magic Evasion. This spell is also known as "Four Questionable Digits".
 - Bad Breath, Lesser (8 MP) (multi) - Attempts to cause Blind, Silence, and Poison statuses.
 - Missile (7 MP) (single) - Attempt to reduce the target's HP down to 1/4th of its current HP, at -50 Magic Accuracy.
 - Matra Magic (22 MP) (single) - Attempt to switch the HP and MP of the target, at a ratio of 10 HP to 1 MP. This effect is done at -50 Magic Accuracy.
@@ -148,4 +149,5 @@ Job Levels:
 - Dark Spark (27 MP) (single) - Attempt to cut the target's experience level in half. Attributes are not affected.
 - Hyper Mighty Guard (99 MP, 10 AP) (multi) - Causes Protect, Shell, Float, Haste, Regen, and Reraise statuses (20).
 - Level 3 Flare (18 MP) (special) - Attempt to do the Flare effect on enemies whose level is a multiple of 3.
+- Level 4 Graviga (9 MP) (special) - Attempt to do the Graviga effect on enemies whose level is a multiple of 4.
 - Level 5 Death (22 MP) (special) - Attempt to instantly kill enemies whose level is a multiple of 5.

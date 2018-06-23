@@ -24,7 +24,7 @@ Supports:
 Reactions:
 
 - 1 x Choice
-- Elastic Defense (1 AP) - After taking damage, do a Defend action. If you choose a type of Defend action that has an AP cost, then that cost also applies.
+- Elastic Defense (1 AP) - After taking damage, do a Defend action. The cost of the Defend action also applies.
 
 Proficiencies:
 
