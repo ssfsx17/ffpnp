@@ -7,6 +7,13 @@
 - Race Support: Aegyl Strength +5
 - Race Support: Aegyl Agility +5
 
+### Ananta
+
+- Home Realm: Hydaelyn (XIV)
+- Race Support: Ananta Agility +5
+- Race Support: Ananta Spirit +5
+- Race Support: Ananta Leglessness - +50 Evasion and Magic Evasion against Immobilize status.
+
 ### Au Ra
 
 - Home Realm: Hydaelyn (XIV)
@@ -135,6 +142,13 @@
 - Race Support: Lunarian Vitality +5
 - Race Support: Lunarian Spirit +5
 
+### Lupine
+
+- Home Realm: Multiple (V, VI, XIV)
+- Race Action: Lupine Swiftness (self-only) - Gain Blink status (2).
+- Race Support: Lupine Strength +5
+- Race Support: Lupine Speed +5
+
 ### Mechanical
 
 - Home Realm: All (Core)
@@ -163,6 +177,13 @@
 - Race Support: Moogle Wings - Able to glide, slowfall, and use an action to maintain Float status.
 - Race Support: Moogle Intellect +5
 - Race Support: Moogle Spirit +5
+
+### Namazu
+
+- Home Realm: Hydaelyn (XIV)
+- Race Support: Namazu Agility +5
+- Race Support: Namazu Intellect +5
+- Race Support: Namazu Water Resistance - Take half damage from water.
 
 ### Nu Mou
 

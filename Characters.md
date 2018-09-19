@@ -72,7 +72,7 @@ Magic Evasion = Intellect
 
 Magic Defense = Spirit
 
-It helps to keep track of these numbers at all times:
+It helps to keep track of these numbers at all times, and they are also tracked on the example character sheet:
 
 - Strength * Level
 - Agility * Level

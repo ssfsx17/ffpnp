@@ -37,3 +37,4 @@ All chocobos are capable of running fast enough to evade random monsters.
 | Inn, Common | 100 per person per day | Allows full restoration of HP and MP during a long rest
 | Inn, Luxury | 500 per person per day | Also includes an orchestrion machine, an equipment armoire, a summoning bell for servants, a service bell for aestheticians, and on and on.
 | Linkwhale subscription | 1,000 per month | Sentient cetaceans who can create any sound possible within the linksystem, using only their thoughts. Each linkwhale has a collection of linknautiluses that they use to provide specialized services. Some linkwhales broadcast music, some linkwhales can encrypt messages just by hearing them, some linkwhales can converse with hundreds of people at a time, and on and on.
+| MogNet Letter Delivery | 100 per letter | This is only possible in worlds that have the MogNet Service.
