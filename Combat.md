@@ -77,14 +77,6 @@ Damage, after Defense is applied, cannot exceed 9,999. This is called the Damage
 
 Abilities or equipment may specify that they have "BDL". This stands for "Break Damage Limit", allowing damage up to 99,999. "BDL+" allows damage up to 999,999.
 
-## Shield HP
-
-Shield HP is used before normal HP for attack damage, ability damage, and spell damage. Shield HP is not used for damage caused by status conditions, HP reduction effects, instant death, own abilities, or any other such damage source.
-
-The maximum possible amount of Shield HP is equal to normal maximum HP.
-
-Shield HP is cut in half in every status phase. Therefore, it is a "use it or lose it" type of HP pool.
-
 ## Statuses
 
 Addle - Cannot use any actions other than Attack, Defend, or Item.
@@ -147,6 +139,12 @@ Doom - When this status' duration ends, you are instantly-killed. Magic Evasion 
 
 Element Saber - Weapon damage has a specific element.
 
+Enmity - You count as one additional character for the purposes of enemy single-target actions.
+
+Enmity-Major - You count as two additional characters for the purposes of enemy single-target actions.
+
+Enmity-Plus - You count as one additional character for the purposes of enemy single-target actions.
+
 Faith - Magical damage output is increased by 50%, but magical defense is halved.
 
 Float - Evasion and Magic Evasion are infinite against anything that has an Earth damage component. Ignore floor & tripwire traps.
@@ -165,9 +163,9 @@ Imp - Disables all job and choice actions except for those that end Imp status. 
 
 Locked-On - Evasion and Defense are zero against ranged attacks.
 
-Meditation - Regain Level * 0.5 MP every round.
+Meditation - Regain Level * 0.5 MP during the status phase.
 
-Meditation-Lucid - Regain Level * 0.5 MP every round.
+Meditation-Lucid - Regain Level * 0.5 MP during the status phase.
 
 Mini - Evasion is increased by 50, but Defense is zero. Physical damage output is zero.
 
@@ -191,19 +189,21 @@ Quick - Get one free action when first affected by this status. For as long as y
 
 Reflect - When hit by a spell that has a single-target option, the effect that would have been done to you is instead done to a random member of your opposing team. A spell effect that has already been bounced once cannot be bounced again.
 
-Regen - Regain 5% HP every round.
+Regen - Regain 5% HP during the status phase.
 
-Regen-Asylum - Regain 5% HP every round.
+Regen-Asylum - Regain 5% HP during the status phase.
 
-Regen-Major - Regain 10% HP every round.
+Regen-Major - Regain 10% HP during the status phase.
 
-Regen-Medica - Regain 5% HP every round.
+Regen-Medica - Regain 5% HP during the status phase.
 
 Resilient - Magic Evasion is increased by 50 against status-causing magic. If the spell has both a damage and status component, then it is possible for the damage to occur but the status to be evaded.
 
 Sap - Lose an amount of HP equal to ten times your initiative. Magic Defense is not applied.
 
 Shell - Take half magical damage, after Magic Defense is applied.
+
+Shield - Magic Evasion is infinite. But, each incoming magical attack reduces the duration of the Shield status by one round.
 
 Silence - Unable to do anything that uses MP.
 

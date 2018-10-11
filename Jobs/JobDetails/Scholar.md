@@ -83,7 +83,7 @@ Sublimation (self-only) - Lose an amount of HP equal to your experience level * 
 
 ### Scholastic Lore T3
 
-Adloqium (3 AP) (single) - Restores Intellect * Level * 0.5 HP, and grants an equal amount of Shield HP. Against undead, it is a magical attack with non-elemental damage, but the Shield HP works normally. Outside of combat, this allows full restoration of one target's HP during a long rest.
+Adloqium (3 AP) (single) - Restores Intellect * Level * 0.5 HP, and grants Blink and Shieldes status (1). Against undead, it is a magical attack with non-elemental damage, but the statuses work normally. Outside of combat, this allows full restoration of one target's HP during a long rest.
 
 Natural Selection (special) - Intellect * Level non-elemental magical damage to everyone of your own race. Which includes you.
 
@@ -99,7 +99,7 @@ Lustrate (4 AP) (single) - Restores Intellect * Level HP. Against undead, it is 
 
 Rime Bolt Tome (special) - Intellect * Level ice damage to everyone.
 
-Succor (6 AP) (multi) - Restores Intellect * Level * 0.5 HP, and grants an equal amount of Shield HP. Against undead, it is a magical attack with non-elemental damage, but the Shield HP works normally. Outside of combat, this allows restoration of half of the party's HP during a long rest.
+Succor (6 AP) (multi) - Restores Intellect * Level * 0.5 HP, and grants Blink and Shield statuses (1). Against undead, it is a magical attack with non-elemental damage, but the statuses normally. Outside of combat, this allows restoration of half of the party's HP during a long rest.
 
 ### Scholastic Lore T6
 
@@ -127,7 +127,7 @@ Piercing Sight (1 AP) (single) - Acts as the White Magic spell Libra, and gives 
 
 Broil (8 AP) (single) - Intellect * Level * 2 magical non-elemental damage.
 
-Caper Emissarius (5 AP) (multi) - All affected targets must spend their next action doing a normal attack against you. This attempt uses Magic Accuracy and is opposed by Magic Evasion.
+Caper Emissarius (5 AP) (self-only) - Gain Enmity-Major status (4).
 
 ### Scholastic Lore T10
 

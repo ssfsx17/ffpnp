@@ -99,7 +99,7 @@ Nurse (5 AP) (multi) - Restores Level * 10 HP, and removes Poison, Poison-Plus, 
 
 Judgment Blade (4 AP) (multi) - Attack all enemies for physical holy damage, and attempt to cause Stop status (2).
 
-Parley (2 AP) (single) - Convince a target to flee the battle. You must be able to speak a language the target understands.
+Parley (2 AP) (single) - Convince a target to flee the battle. You must be able to speak a language the target understands. This attempt uses Magic Accuracy and is opposed by Magic Evasion.
 
 ### Holy Sword T7
 

@@ -98,7 +98,7 @@ Pillage Accessory (1 AP) (single) - Attack, and take an accessory that the targe
 
 Envenom (10 MP) (single) - Attack, and attempt to cause Poison-Plus status.
 
-Overpower (10 AP) (multi) - Attack all enemies. On hit, attempt to force each enemy to spend their next action doing a normal attack on you. The attempt to force enemy behavior is at -50 Accuracy.
+Overpower (10 AP) (multi) - Attack all enemies, and gain Enmity status (6).
 
 Pillage Rare (1 AP) (single) - Attack, and take a rare item that the target possessed.
 

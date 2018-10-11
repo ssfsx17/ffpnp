@@ -122,7 +122,7 @@ Blizzard Tackle (5 AP) (single) - Strength * Level magical ice damage.
 
 ### Fighting Arts T10
 
-Circle of Scorn (5 AP) (multi) - Attack all enemies.
+Circle of Scorn (5 AP) (multi) - Attack all enemies, and gain Enmity status (6).
 
 Lifetap (10 AP) (single) - Do physical damage equal to half of the target's current HP, ignoring Defense. This is considered a gravity effect.
 

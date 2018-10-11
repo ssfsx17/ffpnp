@@ -85,6 +85,8 @@ Break Armor (2 AP) (single) - Attempt to cause Broken Armor status.
 
 Break Helmet (2 AP) (single) - Attempt to cause Broken Helmet status.
 
+Shield Lob (2 AP) (single) - Ranged attack, and the damage is equal to your Defense. Gain Enmity status (4).
+
 ### Battle Arts T3
 
 Break Weapon (2 AP) (single) - Attempt to cause Broken Weapon status.

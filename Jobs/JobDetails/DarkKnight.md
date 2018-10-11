@@ -14,7 +14,7 @@ Actions:
 - Attack
 - Defend
 - Charge
-- Taunt - The next enemy must do a normal attack against you. This attempt uses Accuracy and is opposed by Evasion.
+- Taunt (Single) - The targeted enemy spend its next action doing a normal attack against you. This attempt uses Accuracy and is opposed by Evasion.
 - Dark Sword
 - Item
 

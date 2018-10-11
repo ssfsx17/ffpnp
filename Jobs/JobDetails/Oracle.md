@@ -76,7 +76,7 @@ Umbra (4 MP) (multi) - Attempt to cause Blind status (6).
 
 Empowerment (2 MP) (single) - Attempt to drain an amount of MP equal to your Level. Magic Defense is not applied.
 
-Precognitive Precautions (12 MP) (single) - Gives an amount of Shield HP equal to Spirit * Level.
+Precognitive Precautions (12 MP) (single) - Gives Shield status (4).
 
 Quiescence (16 MP) (multi) - Attempt to cause Silence status (4).
 
@@ -104,7 +104,7 @@ Disbelief (6 MP) (single) - Attempt to cause Atheist status (6).
 
 Corruption (20 MP) (single) - Attempt to cause Zombie status.
 
-Fate Barrier (48 MP) (multi) (single) - Gives an amount of Shield HP equal to Spirit * Level.
+Fate Barrier (48 MP) (multi) (single) - Gives Shield status (4).
 
 ### Mystic Arts T7
 

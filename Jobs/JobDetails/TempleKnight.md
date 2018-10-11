@@ -65,7 +65,7 @@ Job Levels:
 
 Astra (8 MP) (multi) - Causes Resilient status (2).
 
-Inertial Pillar (6 MP) (single) - Give an amount of Shield HP equal to your weapon damage.
+Inertial Pillar (6 MP) (single) - Gives Shield status (1).
 
 Syphon (4 MP) (single) - Drain an amount of MP equal to your Level, at -50 Magic Accuracy. Magic Defense is not applied.
 
@@ -109,7 +109,7 @@ Desperation (3 AP) (single) - Attack, and add your Defense and Magic Defense to 
 
 Disable (14 MP) (single) - Attempt to cause Disable status (6).
 
-Inertial Fortress (24 MP) (multi) - Give an amount of Shield HP equal to your weapon damage.
+Inertial Fortress (24 MP) (multi) - Gives Shield status (2).
 
 ### Temporal Blade T9
 
