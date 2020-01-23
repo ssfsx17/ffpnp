@@ -1,7 +1,5 @@
 [Official Discord for FF P&P](https://discord.gg/MtXQejs)
 
-- This Discord is shared with a [Class-less D&D](http://github.com/ssfsx17/skill20) campaign that I'm currently running.
-
 Current state: Tech Demo 2. Enough to run the game, but not a single thing is considered complete or well-balanced.
 
 Future conditions:
