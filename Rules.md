@@ -2,7 +2,7 @@
 
 ## Story Points
 
-Each player starts each game session with five Story Points. The GM has infinite Story Points. Story Points are held by players, rather than their characters, just in case there is more than one character per player.
+Each player starts each game session with three Story Points. The GM has infinite Story Points. Story Points are held by players, rather than their characters, just in case there is more than one character per player.
 
 If one of the characters' Three Things is purely negative or disadvantageous, then the GM may give that character's player an additional Story Point per session.
 
@@ -59,6 +59,6 @@ There are two dimensions to elements. The first dimension is binary: physical or
 
 ## Chocobo Riding in Combat
 
-Upon entering combat, roll a 1d100. If this is higher than the chocobo's level, then it attempts to flee combat. The Chocobo Knight job overrides this for chocobos of all levels.
+Upon entering combat, roll a 1d100. If this is higher than the chocobo's level, then it attempts to flee combat. The Chocobo Knight job has a support ability that overrides this for chocobos of all levels.
 
-The chocobo can be targeted separately. If it is killed while you are still on it, then you suffer from Addle and Stun status (1).
+The chocobo can be targeted separately. If it is killed while you are still on it, then you suffer from Addle and Stun status (2 status phases).

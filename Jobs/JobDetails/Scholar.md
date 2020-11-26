@@ -37,7 +37,7 @@ Job Levels:
 
 | JL | Notes |
 | --- | --- |
-| 1 | 
+| 1 |
 | 2 | Action Unlock: Scholastic Lore T1
 |   | Proficiency Unlock: Books 1H
 | 3 | Job Action: Scholastic Lore T2
@@ -85,7 +85,7 @@ Sublimation (self-only) - Lose an amount of HP equal to your experience level * 
 
 Adloqium (3 AP) (single) - Restores Intellect * Level * 0.5 HP, and grants Blink and Shieldes status (1). Against undead, it is a magical attack with non-elemental damage, but the statuses work normally. Outside of combat, this allows full restoration of one target's HP during a long rest.
 
-Natural Selection (special) - Intellect * Level non-elemental magical damage to everyone of your own race. Which includes you.
+Natural Selection (special) - Intellect * Level non-elemental magical damage to all enemies and yourself.
 
 ### Scholastic Lore T4
 

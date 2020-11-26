@@ -100,7 +100,7 @@ DD (2 AP) (multi) - No effect when the action first occurs. On your next action,
 
 ### Magitek Systems T8
 
-Armor Ejection (1 AP) (self-only) - Causes Boost Attack, Float, Haste, Broken Armor, and Broken Helmet status (6).
+Armor Ejection (1 AP) (self-only) - Causes Boost Attack, Float, Haste, Broken Armor, and Broken Helmet status (6 status phases).
 
 Photon Stream (2 AP) (special) - Attack all enemies in the front row.
 
