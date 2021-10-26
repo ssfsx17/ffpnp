@@ -2,7 +2,7 @@
 
 Add all Job Levels from Disciples of the Hand to Craftsmanship and Control.
 
-### Alchemist
+**Alchemist**
 
 Typically associated with: [Botanist], [Miner]
 
@@ -17,7 +17,7 @@ Typical crafts:
 - Chemist Drinks
 - ...
 
-### Armorer
+**Armorer**
 
 Typically associated with: [Miner], [Scrapscrounger]
 
@@ -26,7 +26,7 @@ Other sources of materials:
 - Defeated golem enemies
 - Defeated machina enemies
 
-### Blacksmith
+**Blacksmith**
 
 Typically associated with: [Miner], [Scrapscrounger]
 
@@ -35,7 +35,7 @@ Other sources of materials:
 - Defeated golem enemies
 - Defeated machina enemies
 
-### Carpenter
+**Carpenter**
 
 Typically associated with: [Botanist], [Scrapscrounger]
 
@@ -43,7 +43,7 @@ Other sources of materials:
 
 - Defeated plant enemies
 
-### Culinarian
+**Culinarian**
 
 Typically associated with: [Botanist], [Fisher], [Herder]
 
@@ -53,7 +53,7 @@ Other sources of materials:
 - Defeated plant enemies
 - Defeated slime enemies
 
-### Goldsmith
+**Goldsmith**
 
 Typically associated with: [Miner]
 
@@ -61,7 +61,7 @@ Other sources of materials:
 
 - Defeated elemental enemies
 
-### Haberdasher
+**Haberdasher**
 
 Typically associated with: [Botanist], [Herder]
 
@@ -70,7 +70,7 @@ Other sources of materials:
 - Defeated beast enemies
 - Defeated plant enemies
 
-### Leatherworker
+**Leatherworker**
 
 Typically associated with: [Herder]
 
@@ -80,7 +80,7 @@ Other sources of materials:
 - Defeated beast enemies
 - Defeated dragon enemies
 
-### Mason
+**Mason**
 
 Typically associated with: ...
 
@@ -91,7 +91,7 @@ Other sources of materials:
 - Defeated elemental enemies
 - Defeated golem enemies
 
-### Potter
+**Potter**
 
 Typically associated with: ...
 
@@ -101,7 +101,7 @@ Other sources of materials:
 - Defeated golem enemies
 - Defeated slime enemies
 
-### Sommelier
+**Sommelier**
 
 Typically associated with: [Botanist], ...
 
@@ -111,7 +111,11 @@ Other sources of materials:
 - Defeated elemental enemies
 - Defeated slime enemies
 
-### Weaver
+**Typesetter**
+
+Typically associated with: ...
+
+**Weaver**
 
 Typically associated with: [Botanist], [Herder]
 

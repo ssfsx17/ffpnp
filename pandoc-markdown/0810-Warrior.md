@@ -61,9 +61,8 @@ Attack. Gives 1 Beast Point to yourself.
 
 | Cost    | Mapless                   | Map |
 | ---     | ---                       | --- |
-| TP: 100 | R: 2 rows                 | Self-Centered Burst
-|         | E: 3 enemies in front row | Target H: 0
-|         |                           | Effect H/V: 2/2
+| TP: 100 | R: 2 rows                 | Spinning Melee
+|         | E: 3 enemies in front row |
 
 Spin around and perform a melee attack against adjacent enemies. After-Armor Damage is halved. Also attempts to knock them back by 1 square.
 

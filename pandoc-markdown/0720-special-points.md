@@ -18,6 +18,10 @@ In map combat, you are also considered a number of squares closer to the enemy e
 
 In mapless combat, if you are not in the front row, then you lose four Enmity Points during the Status Phase instead.
 
+### Fish Counter
+
+Used for [Festivalist] fish abilities. Adding more fish to a target results in relevant abilities doing more damage to that target.
+
 ### Shield Points
 
 Damage is taken from your Shield Points before your HP. During the Status Phase, your Shield Points are halved.

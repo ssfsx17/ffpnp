@@ -239,8 +239,10 @@ Project an Attack at all targets in the area. The After Armor Damage is also dea
 
 **Shock**
 
-| Cost        |
-| ---         |
-| Limit Break |
+| Cost        | Mapless                    | Map |
+| ---         | ---                        | --- |
+| Limit Break | R: 4 rows                  | Self-Centered Burst
+|             | E: Front 2 rows of enemies | Target H: 0
+|             |                            | Effect H/V: 4/4
 
-Physical Attack, Lightning-aspected. Targets all enemies on the battlefield. Ignores P-Eva.
+Physical Attack, Lightning-aspected, targeting all enemies in the area for Level * Strength * 1.2 Damage. Attempts to cause all Broken statuses.

@@ -15,6 +15,8 @@
 
 ## Three Things
 
+Write three things that make your character unique. They can encompass personal history, relation to the world, physical appearance, or anything else that sets your character apart.
+
 ## Experience Level
 
 Experience Level (LVL) is a significant factor in many calculations. As a general rule, Player Characters gain one, two or three Experience Levels (LVL) per game session, depending on the pace desired by the group.
@@ -51,7 +53,7 @@ No one battle attribute can have more than triple the number of points as anothe
 
 | Combat Stats                  | Formula                     | Explanation |
 | ---                           | ---                         | ---         |
-| **Health Points (HP)**        | 100 + (LVL * Vitality)      | How much punishment you can take before dying. When your current HP reaches 0, you are dead.
+| **Health Points (HP)**        | 100 + (LVL * Vitality)      | How much punishment you can take before dying. When your current HP reaches 0 or less, you are dead.
 | **Magic Points (MP)**         | 100 + (LVL * Mind)          | How much magical energy you have for performing various magical techniques. If you die, your current MP are also sent to zero.
 | **Technique Points (TP)**     | 100 + (LVL * Tenacity)      | How much battle technique energy you can hold during combat. After any amount of rest, your current TP are sent to zero. If you die, your current TP are also sent to zero.
 | **Physical Accuracy (P-Acc)** | LVL + Dexterity             | Your skill at performing physical attacks. If your P-Acc is high enough then you will have a chance of performing Critical Hits. If your P-Acc is too low then you will perform Glancing Hits, or even start missing.
@@ -60,17 +62,15 @@ No one battle attribute can have more than triple the number of points as anothe
 | **Magical Accuracy (M-Acc)**  | LVL + Intellect          | Your skill at aiming magical attacks. If your P-Acc is high enough then you will have a chance of performing Critical Hits. If your M-Acc is too low then you will perform Glancing Hits, or even start missing.
 | **Magical Evasion (M-Eva)**   | LVL + Mind                  | Your skill at disappearing from magic attacks. If your M-Eva is high enough then you will receive Glancing Hits instead of Direct Hits, or even avoid attacks entirely. If your M-Eva is too low then you will have a chance of receiving Critical Hits.
 | **Magical Defense (M-Def)**   | 10 + (LVL * Spirit * 0.1)   | Resistance to magical damage. If your M-Def is high enough then your HP will go quite far.
-| **Weight Capacity** | Strength | In general, the more Weight you have above your capacity, the slower you act, and consequently the more susceptible to interruption.
+| **Weight Capacity** | LVL + Strength | In general, the more Weight you have above your capacity, the slower you act, and consequently the more susceptible to interruption.
 
 ## Initiative Roll
 
-Initiative Roll = 1d100 + Experience Level + Speed - Weight
-
-Initiative is a minimum of zero, so if you have as little Speed as possible and as much Equipment Weight as possible, then you actually get some certainty about when you act in combat.
+Initiative Roll = 1d100 + Experience Level + Speed - Excess Weight
 
 ## Starting Civilian Jobs
 
-Choose two different Civilian Jobs to start at Job Level 10. All other Civilian Jobs are initially unlearned.
+Choose two different Civilian Jobs to start at Job Level 20. All other Civilian Jobs are initially unlearned.
 
 ## Starting Combat Jobs
 
@@ -84,8 +84,8 @@ Choose two different Civilian Jobs to start at Job Level 10. All other Civilian 
 
 Your choice of combat job to start at Job Level 10 determines which of the following sets you get:
 
-- [Chemist] set
-- [Squire] set
+a. [Chemist] set = 1H Dagger and full set of Magic armor, all at Item Level 1
+b. [Squire] set = 1H Sword and full set of War armor, all at Item Level 1
 
 You do not need to maintain your starting items and equipment, but it is always at Item Level 1. Therefore you must start gathering and crafting, as well as cooperate with others, in order to have better stuff.
 
@@ -95,7 +95,7 @@ All characters start with three Special Traits, and may potentially gain more, o
 
 **Awakening** - You have a number of rounds of Awakening energy equal to 1/10th of your Experience Level, rounded down, to a minimum of 1 round. You can spend an action to enter or cease Awakening. While in Awakening, your Strength, Vitality, and Agility are doubled. You refresh your Awakening energy after a Long Rest.
 
-**Civilian Experience** - You start with all Civilian Jobs at Job Level 20.
+**Civilian Experience** - You start with ten different Civilian Jobs at Job Level 20, rather than two.
 
 **Desperation Attack** - While your Current HP is less than one-fourth of your Maximum HP, your normal Attacks have a 10% chance to be a Desperation Attack instead. Desperation Attacks target all enemies, and are Direct Critical Hits.
 
@@ -109,67 +109,89 @@ All characters start with three Special Traits, and may potentially gain more, o
 
 **Undead** - You permanently have [Zombie status][Status: Zombie]. In exchange, whenever you are defeated, you automatically pop up at 1 HP after 4 status phases.
 
-## Example Paths
+## What Jobs Should I Aim For?
 
 These paths are merely examples of the order in which to purchase Job Levels, which fit into typical combat roles. They are not necessarily the best for your current group, nor the best for your character's self actualization. Also keep in mind that, with enough playtime, it is possible to master every single Job in the game on one character.
 
-**Thunder God** - the role of the frontline fighter
-
-1. Squire 20
-- Knight 80
-- Chemist 20
-- White Mage 30
-- Gladiator 30
-- Paladin 80
-- Black Mage 30
-- Berserker 30
-- Dark Knight 80
-- Thunder God 1
-- Knight 99
-- Paladin 99
-- Dark Knight 99
-- Thunder God 99
-
-**Smasher** - the role of the heavy damage-dealer
-
-1. Squire 20
-- Marauder ...
-- Warrior ...
-- Berserker ...
-- Dark Knight ...
+Be aware that the party's need to craft gear and items may require you to spent JP on Civilian Jobs as well.
 
 **Healer** - the role of the party leader
 
-1. Chemist 20
-2. White Mage 60
-3. Conjurer 60
-4. Devout 1
-5. Arcanist 30
-6. Scholar 60
-7. Astrologian 60
-8. Sharlayan 1
-9. White Mage 99
-10. Conjurer 99
-11. Astrologian 99
-12. Scholar 99
-13. Devout 99
-14. Sharlayan 99
+| Step                  | JP Spent |
+| ---                   | ---      |
+| Choose [Chemist] 10   | 0        |
+| [Chemist] 20          | 145
+| [White Mage] 60       | 2,015
+| [Conjurer] 60         | 3,885
+| [Mystic] 60           | 5,755
+| [Devout] 1            | 5,855
+| [Arcanist] 30         | 6,390
+| [Scholar] 80          | 9,650
+| [Astrologian] 80      | 12,910
+| [Nu Type] 80          | 16,170
+| [Sharlayan Archon] 1  | 16,270
+| [White Mage] 99       | 19,351
+| [Conjurer] 99         | 22,432
+| [Mystic] 99           | 25,513
+| [Devout] 99           | 30,364
+| [Astrologian] 99      | 32,055
+| [Scholar] 99          | 33,746
+| [Nu Type] 99          | 35,437
+| [Sharlayan Archon] 99 | 40,288
+| [Freelancer] 99       | 45,139
+
+**Thunder God** - the role of the frontline fighter
+
+| Step               | JP Spent |
+| ---                | ---      |
+| Choose [Squire] 10 | 0        |
+| [Squire] 20        | 145
+| [Knight] 80        | 3,405
+| [Gladiator] 30     | 3,940
+| [Berserker] 30     | 4,475
+| [Chemist] 20       | 4,665
+| [White Mage] 30    | 5,200
+| [Black Mage] 30    | 5,735
+| [Paladin] 80       | 8,995
+| [Dark Knight] 80   | 12,255
+| [Thunder God] 1    | 12,355
+| [Knight] 99        | 14,046
+| [Paladin] 99       | 15,737
+| [Dark Knight] 99   | 17,428
+| [Gladiator] 99     | 21,889
+| [Berserker] 99     | 26,350
+| [Thunder God] 99   | 31,201
+| [Freelancer] 99    | 36,052
+
+**Caster** - the role of the powerful battlefield blaster
+
+| Step                  | JP Spent |
+| ---                   | ---      |
+| Choose [Chemist] 10   | 0        |
+| [Chemist] 20          |
+| [Black Mage] 60       |
+| [Thaumaturgist] 60    |
+| [Arcanist] 60         |
+| [Magus] 1             |
+| [Time Mage] 30        |
+| [Summoner] 80         |
+| [Evoker] 80           |
+| [Dominant] 1          |
+| [Black Mage] 99       |
+| [Thaumaturgist] 99    |
+| [Arcanist] 99         |
+| [Magus] 99            |
+| [Time Mage] 99        |
+| [Summoner] 99         |
+| [Evoker] 99           |
+| [Dominant] 99         |
+| [Freelancer] 99       |
 
 **Shooter** - the role of the safe damage-dealer in the back
 
-1. Squire 20
-2. Archer ...
-3. Hunter ...
-
-**Caster** - the role of the whole-battlefield blaster
-
-1. Chemist 20
-2. Black Mage 60
-3. Thaumaturgist 60
-4. Magus 1
-5. Evoker ...
-6. Arcanist 30
-7. Summoner 60
-8. Black Mage 99
-9. Thaumaturgist 99
-10. Magus 99
+| Step               | JP Spent |
+| ---                | ---      |
+| Choose [Squire] 10 | 0        |
+| [Squire] 20        | 145
+| [Archer] 30
+| [Fusilier] ...

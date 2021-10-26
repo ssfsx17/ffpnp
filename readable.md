@@ -25,33 +25,10 @@ title: Final Fantasy Fan Pen & Paper
     -   [Starting Combat Jobs](#starting-combat-jobs)
     -   [Starting Items and Equipment](#starting-items-and-equipment)
     -   [Special Traits](#special-traits)
-    -   [Example Paths](#example-paths)
+    -   [What Jobs Should I Aim For?](#what-jobs-should-i-aim-for)
 -   [Civilian Jobs](#civilian-jobs)
     -   [Disciples of the Land](#disciples-of-the-land)
-        -   [Arboriculturalist](#arboriculturalist)
-        -   [Birdspotter](#birdspotter)
-        -   [Botanist](#botanist)
-        -   [Crystallizer](#crystallizer)
-        -   [Dumpster Diver](#dumpster-diver)
-        -   [Fisher](#fisher)
-        -   [Herder](#herder)
-        -   [Miner](#miner)
-        -   [Mushroom Master](#mushroom-master)
-        -   [Scrapscrounger](#scrapscrounger)
-        -   [Seadiver](#seadiver)
     -   [Disciples of the Hand](#disciples-of-the-hand)
-        -   [Alchemist](#alchemist)
-        -   [Armorer](#armorer)
-        -   [Blacksmith](#blacksmith)
-        -   [Carpenter](#carpenter)
-        -   [Culinarian](#culinarian)
-        -   [Goldsmith](#goldsmith)
-        -   [Haberdasher](#haberdasher)
-        -   [Leatherworker](#leatherworker)
-        -   [Mason](#mason)
-        -   [Potter](#potter)
-        -   [Sommelier](#sommelier)
-        -   [Weaver](#weaver)
     -   [Crafting](#crafting)
 -   [Goods Services And Usable Items](#goods-services-and-usable-items)
 -   [Equipment](#equipment)
@@ -69,6 +46,7 @@ title: Final Fantasy Fan Pen & Paper
         -   [Reach Weapons](#reach-weapons)
         -   [Ranged Arc Weapons](#ranged-arc-weapons)
         -   [Ranged Direct Weapons](#ranged-direct-weapons)
+    -   [Relics](#relics)
 -   [Rules](#rules)
     -   [Short Rests and Long Rests](#short-rests-and-long-rests)
     -   [Rewards Per Game Session](#rewards-per-game-session)
@@ -77,7 +55,6 @@ title: Final Fantasy Fan Pen & Paper
     -   [Changing Jobs](#changing-jobs)
     -   [Skill Chances](#skill-chances)
 -   [Combat Rules](#combat-rules)
-    -   [Decision Phase](#decision-phase)
     -   [Initiative Phase](#initiative-phase)
     -   [Movement And Actions Phase](#movement-and-actions-phase)
         -   [Movement](#movement)
@@ -102,6 +79,7 @@ title: Final Fantasy Fan Pen & Paper
         -   [Status: Boost Attack](#status-boost-attack)
         -   [Status: Boost Critical](#status-boost-critical)
         -   [Status: Boost Defense](#status-boost-defense)
+        -   [Status: Boost Evasion](#status-boost-evasion)
         -   [Status: Boost Healing](#status-boost-healing)
         -   [Status: Boost Magick](#status-boost-magick)
         -   [Status: Boost Movement](#status-boost-movement)
@@ -196,6 +174,7 @@ title: Final Fantasy Fan Pen & Paper
         -   [Status: Presence of Mind](#status-presence-of-mind)
         -   [Status: Quick](#status-quick)
         -   [Status: Raw Intuition](#status-raw-intuition)
+        -   [Status: Rearise](#status-rearise)
         -   [Status: Recitation](#status-recitation)
         -   [Status: Redacted](#status-redacted)
         -   [Status: Regen](#status-regen)
@@ -203,6 +182,7 @@ title: Final Fantasy Fan Pen & Paper
         -   [Status: Regenja](#status-regenja)
         -   [Status: Reprisal](#status-reprisal)
         -   [Status: Requiescat](#status-requiescat)
+        -   [Status: Reraise](#status-reraise)
         -   [Status: Resilient](#status-resilient)
         -   [Status: Riddle of Earth](#status-riddle-of-earth)
         -   [Status: Riddle of Fire](#status-riddle-of-fire)
@@ -231,6 +211,7 @@ title: Final Fantasy Fan Pen & Paper
         -   [Status: Vengeance](#status-vengeance)
         -   [Status: Venomous Bite](#status-venomous-bite)
         -   [Status: War Cry](#status-war-cry)
+        -   [Status: Watered](#status-watered)
         -   [Status: Windbite](#status-windbite)
         -   [Status: Windburn](#status-windburn)
         -   [Status: Windburnara](#status-windburnara)
@@ -241,6 +222,7 @@ title: Final Fantasy Fan Pen & Paper
         -   [Auto-Cure Points](#auto-cure-points)
         -   [Doom Points](#doom-points)
         -   [Enmity](#enmity)
+        -   [Fish Counter](#fish-counter)
         -   [Shield Points](#shield-points)
     -   [Limit Breaks](#limit-breaks)
         -   [Grooves](#grooves)
@@ -280,22 +262,29 @@ title: Final Fantasy Fan Pen & Paper
     -   [Fencer](#fencer)
         -   [Fencing](#fencing)
     -   [Festivalist](#festivalist)
+        -   [Festivities](#festivities)
     -   [Freelancer](#freelancer)
     -   [Fusilier](#fusilier)
         -   [Gunmanship](#gunmanship)
     -   [Gambler](#gambler)
+        -   [Gambling](#gambling)
+        -   [Slot Machine](#slot-machine)
+        -   [Chocobo Race Betting](#chocobo-race-betting)
+        -   [Special Mahjong Effects](#special-mahjong-effects)
     -   [Geomancer](#geomancer)
         -   [Geomancy](#geomancy)
     -   [Gladiator](#gladiator)
         -   [Sparring](#sparring)
     -   [Gunbreaker](#gunbreaker)
         -   [Charged Weapon](#charged-weapon)
+    -   [Jongleur](#jongleur)
+        -   [Acrobatics](#acrobatics)
     -   [Knight](#knight)
         -   [Arts of War](#arts-of-war)
     -   [Machinist](#machinist)
         -   [Power Tools](#power-tools)
     -   [Magitek Pilot](#magitek-pilot)
-        -   [Magitek System](#magitek-system)
+        -   [Magitek Systems](#magitek-systems)
     -   [Magus](#magus)
     -   [Marauder](#marauder)
         -   [Marauding](#marauding)
@@ -311,6 +300,7 @@ title: Final Fantasy Fan Pen & Paper
     -   [Ninja](#ninja)
         -   [Ninjutsu](#ninjutsu)
     -   [Nu Type](#nu-type)
+        -   [Somanoutics](#somanoutics)
     -   [Onion Knight](#onion-knight)
     -   [Orator](#orator)
         -   [Speechcraft](#speechcraft)
@@ -553,6 +543,10 @@ The key points of difference are listed below:
 
 ## Three Things
 
+Write three things that make your character unique. They can encompass personal
+history, relation to the world, physical appearance, or anything else that sets
+your character apart.
+
 ## Experience Level
 
 Experience Level (LVL) is a significant factor in many calculations. As a
@@ -596,7 +590,7 @@ allocated to them.
 
 | Combat Stats                  | Formula                       | Explanation                                                                                                                                                                                                                                              |
 |-------------------------------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Health Points (HP)**        | 100 + (LVL \* Vitality)       | How much punishment you can take before dying. When your current HP reaches 0, you are dead.                                                                                                                                                             |
+| **Health Points (HP)**        | 100 + (LVL \* Vitality)       | How much punishment you can take before dying. When your current HP reaches 0 or less, you are dead.                                                                                                                                                     |
 | **Magic Points (MP)**         | 100 + (LVL \* Mind)           | How much magical energy you have for performing various magical techniques. If you die, your current MP are also sent to zero.                                                                                                                           |
 | **Technique Points (TP)**     | 100 + (LVL \* Tenacity)       | How much battle technique energy you can hold during combat. After any amount of rest, your current TP are sent to zero. If you die, your current TP are also sent to zero.                                                                              |
 | **Physical Accuracy (P-Acc)** | LVL + Dexterity               | Your skill at performing physical attacks. If your P-Acc is high enough then you will have a chance of performing Critical Hits. If your P-Acc is too low then you will perform Glancing Hits, or even start missing.                                    |
@@ -605,19 +599,15 @@ allocated to them.
 | **Magical Accuracy (M-Acc)**  | LVL + Intellect               | Your skill at aiming magical attacks. If your P-Acc is high enough then you will have a chance of performing Critical Hits. If your M-Acc is too low then you will perform Glancing Hits, or even start missing.                                         |
 | **Magical Evasion (M-Eva)**   | LVL + Mind                    | Your skill at disappearing from magic attacks. If your M-Eva is high enough then you will receive Glancing Hits instead of Direct Hits, or even avoid attacks entirely. If your M-Eva is too low then you will have a chance of receiving Critical Hits. |
 | **Magical Defense (M-Def)**   | 10 + (LVL \* Spirit \* 0.1)   | Resistance to magical damage. If your M-Def is high enough then your HP will go quite far.                                                                                                                                                               |
-| **Weight Capacity**           | Strength                      | In general, the more Weight you have above your capacity, the slower you act, and consequently the more susceptible to interruption.                                                                                                                     |
+| **Weight Capacity**           | LVL + Strength                | In general, the more Weight you have above your capacity, the slower you act, and consequently the more susceptible to interruption.                                                                                                                     |
 
 ## Initiative Roll
 
-Initiative Roll = 1d100 + Experience Level + Speed - Weight
-
-Initiative is a minimum of zero, so if you have as little Speed as possible and
-as much Equipment Weight as possible, then you actually get some certainty about
-when you act in combat.
+Initiative Roll = 1d100 + Experience Level + Speed - Excess Weight
 
 ## Starting Civilian Jobs
 
-Choose two different Civilian Jobs to start at Job Level 10. All other Civilian
+Choose two different Civilian Jobs to start at Job Level 20. All other Civilian
 Jobs are initially unlearned.
 
 ## Starting Combat Jobs
@@ -635,8 +625,10 @@ start at Job Level 10 instead.
 Your choice of combat job to start at Job Level 10 determines which of the
 following sets you get:
 
--   [Chemist](#chemist) set
--   [Squire](#squire) set
+1.  [Chemist](#chemist) set = 1H Dagger and full set of Magic armor, all at Item
+    Level 1
+2.  [Squire](#squire) set = 1H Sword and full set of War armor, all at Item
+    Level 1
 
 You do not need to maintain your starting items and equipment, but it is always
 at Item Level 1. Therefore you must start gathering and crafting, as well as
@@ -653,7 +645,8 @@ an action to enter or cease Awakening. While in Awakening, your Strength,
 Vitality, and Agility are doubled. You refresh your Awakening energy after a
 Long Rest.
 
-**Civilian Experience** - You start with all Civilian Jobs at Job Level 20.
+**Civilian Experience** - You start with ten different Civilian Jobs at Job
+Level 20, rather than two.
 
 **Desperation Attack** - While your Current HP is less than one-fourth of your
 Maximum HP, your normal Attacks have a 10% chance to be a Desperation Attack
@@ -686,7 +679,7 @@ other abilities you are capable of, only those from your current Job.
 whenever you are defeated, you automatically pop up at 1 HP after 4 status
 phases.
 
-## Example Paths
+## What Jobs Should I Aim For?
 
 These paths are merely examples of the order in which to purchase Job Levels,
 which fit into typical combat roles. They are not necessarily the best for your
@@ -694,68 +687,89 @@ current group, nor the best for your character’s self actualization. Also keep
 in mind that, with enough playtime, it is possible to master every single Job in
 the game on one character.
 
-**Thunder God** - the role of the frontline fighter
-
-1.  Squire 20
-
--   Knight 80
--   Chemist 20
--   White Mage 30
--   Gladiator 30
--   Paladin 80
--   Black Mage 30
--   Berserker 30
--   Dark Knight 80
--   Thunder God 1
--   Knight 99
--   Paladin 99
--   Dark Knight 99
--   Thunder God 99
-
-**Smasher** - the role of the heavy damage-dealer
-
-1.  Squire 20
-
--   Marauder …
--   Warrior …
--   Berserker …
--   Dark Knight …
+Be aware that the party’s need to craft gear and items may require you to spent
+JP on Civilian Jobs as well.
 
 **Healer** - the role of the party leader
 
-1.  Chemist 20
-2.  White Mage 60
-3.  Conjurer 60
-4.  Devout 1
-5.  Arcanist 30
-6.  Scholar 60
-7.  Astrologian 60
-8.  Sharlayan 1
-9.  White Mage 99
-10. Conjurer 99
-11. Astrologian 99
-12. Scholar 99
-13. Devout 99
-14. Sharlayan 99
+| Step                                     | JP Spent |
+|------------------------------------------|----------|
+| Choose [Chemist](#chemist) 10            | 0        |
+| [Chemist](#chemist) 20                   | 145      |
+| [White Mage](#white-mage) 60             | 2,015    |
+| [Conjurer](#conjurer) 60                 | 3,885    |
+| [Mystic](#mystic) 60                     | 5,755    |
+| [Devout](#devout) 1                      | 5,855    |
+| [Arcanist](#arcanist) 30                 | 6,390    |
+| [Scholar](#scholar) 80                   | 9,650    |
+| [Astrologian](#astrologian) 80           | 12,910   |
+| [Nu Type](#nu-type) 80                   | 16,170   |
+| [Sharlayan Archon](#sharlayan-archon) 1  | 16,270   |
+| [White Mage](#white-mage) 99             | 19,351   |
+| [Conjurer](#conjurer) 99                 | 22,432   |
+| [Mystic](#mystic) 99                     | 25,513   |
+| [Devout](#devout) 99                     | 30,364   |
+| [Astrologian](#astrologian) 99           | 32,055   |
+| [Scholar](#scholar) 99                   | 33,746   |
+| [Nu Type](#nu-type) 99                   | 35,437   |
+| [Sharlayan Archon](#sharlayan-archon) 99 | 40,288   |
+| [Freelancer](#freelancer) 99             | 45,139   |
+
+**Thunder God** - the role of the frontline fighter
+
+| Step                           | JP Spent |
+|--------------------------------|----------|
+| Choose [Squire](#squire) 10    | 0        |
+| [Squire](#squire) 20           | 145      |
+| [Knight](#knight) 80           | 3,405    |
+| [Gladiator](#gladiator) 30     | 3,940    |
+| [Berserker](#berserker) 30     | 4,475    |
+| [Chemist](#chemist) 20         | 4,665    |
+| [White Mage](#white-mage) 30   | 5,200    |
+| [Black Mage](#black-mage) 30   | 5,735    |
+| [Paladin](#paladin) 80         | 8,995    |
+| [Dark Knight](#dark-knight) 80 | 12,255   |
+| [Thunder God](#thunder-god) 1  | 12,355   |
+| [Knight](#knight) 99           | 14,046   |
+| [Paladin](#paladin) 99         | 15,737   |
+| [Dark Knight](#dark-knight) 99 | 17,428   |
+| [Gladiator](#gladiator) 99     | 21,889   |
+| [Berserker](#berserker) 99     | 26,350   |
+| [Thunder God](#thunder-god) 99 | 31,201   |
+| [Freelancer](#freelancer) 99   | 36,052   |
+
+**Caster** - the role of the powerful battlefield blaster
+
+| Step                               | JP Spent |
+|------------------------------------|----------|
+| Choose [Chemist](#chemist) 10      | 0        |
+| [Chemist](#chemist) 20             |          |
+| [Black Mage](#black-mage) 60       |          |
+| [Thaumaturgist](#thaumaturgist) 60 |          |
+| [Arcanist](#arcanist) 60           |          |
+| [Magus](#magus) 1                  |          |
+| [Time Mage](#time-mage) 30         |          |
+| [Summoner](#summoner) 80           |          |
+| [Evoker](#evoker) 80               |          |
+| [Dominant](#dominant) 1            |          |
+| [Black Mage](#black-mage) 99       |          |
+| [Thaumaturgist](#thaumaturgist) 99 |          |
+| [Arcanist](#arcanist) 99           |          |
+| [Magus](#magus) 99                 |          |
+| [Time Mage](#time-mage) 99         |          |
+| [Summoner](#summoner) 99           |          |
+| [Evoker](#evoker) 99               |          |
+| [Dominant](#dominant) 99           |          |
+| [Freelancer](#freelancer) 99       |          |
 
 **Shooter** - the role of the safe damage-dealer in the back
 
-1.  Squire 20
-2.  Archer …
-3.  Hunter …
-
-**Caster** - the role of the whole-battlefield blaster
-
-1.  Chemist 20
-2.  Black Mage 60
-3.  Thaumaturgist 60
-4.  Magus 1
-5.  Evoker …
-6.  Arcanist 30
-7.  Summoner 60
-8.  Black Mage 99
-9.  Thaumaturgist 99
-10. Magus 99
+| Step                        | JP Spent |
+|-----------------------------|----------|
+| Choose [Squire](#squire) 10 | 0        |
+| [Squire](#squire) 20        | 145      |
+| [Archer](#archer) 30        |          |
+| [Fusilier](#fusilier) …     |          |
 
 # Civilian Jobs
 
@@ -763,65 +777,65 @@ the game on one character.
 
 Add all Job Levels from Disciples of the Land to Gathering and Perception.
 
-### Arboriculturalist
+**Arboriculturalist**
 
-Typically associated with: [Carpenter](#carpenter), [Culinarian](#culinarian)
+Typically associated with: \[Carpenter\], \[Culinarian\]
 
-### Birdspotter
+**Birdspotter**
 
-Typically associated with: [Culinarian](#culinarian), [Weaver](#weaver)
+Typically associated with: \[Culinarian\], \[Weaver\]
 
-### Botanist
+**Botanist**
 
-Typically associated with: [Alchemist](#alchemist), [Carpenter](#carpenter),
-[Culinarian](#culinarian), [Weaver](#weaver)
+Typically associated with: \[Alchemist\], \[Carpenter\], \[Culinarian\],
+\[Weaver\]
 
-### Crystallizer
+**Crystallizer**
 
-Typically associated with: [Alchemist](#alchemist), [Armorer](#armorer),
-[Blacksmith](#blacksmith), [Goldsmith](#goldsmith)
+Typically associated with: \[Alchemist\], \[Armorer\], \[Blacksmith\],
+\[Goldsmith\]
 
-### Dumpster Diver
+**Dumpster Diver**
 
-Typically associated with: [Alchemist](#alchemist), [Armorer](#armorer),
-[Blacksmith](#blacksmith), [Carpenter](#carpenter),
-[Leatherworker](#leatherworker), [Weaver](#weaver)
+Typically associated with: \[Alchemist\], \[Armorer\], \[Blacksmith\],
+\[Carpenter\], \[Leatherworker\], \[Weaver\]
 
-### Fisher
+**Fisher**
 
-Typically associated with: [Alchemist](#alchemist), [Culinarian](#culinarian)
+Typically associated with: \[Alchemist\], \[Culinarian\]
 
-### Herder
+**Herder**
 
-Typically associated with: [Culinarian](#culinarian),
-[Leatherworker](#leatherworker), [Weaver](#weaver)
+Typically associated with: \[Culinarian\], \[Leatherworker\], \[Weaver\]
 
-### Miner
+**Miner**
 
-Typically associated with: [Alchemist](#alchemist), [Armorer](#armorer),
-[Blacksmith](#blacksmith), [Goldsmith](#goldsmith)
+Typically associated with: \[Alchemist\], \[Armorer\], \[Blacksmith\],
+\[Goldsmith\]
 
-### Mushroom Master
+**Mushroom Master**
 
-Typically associated with: [Alchemist](#alchemist), [Culinarian](#culinarian)
+Typically associated with: \[Alchemist\], \[Culinarian\]
 
-### Scrapscrounger
+**Scrapscrounger**
 
-Typically associated with: [Armorer](#armorer), [Blacksmith](#blacksmith),
-[Carpenter](#carpenter)
+Typically associated with: \[Armorer\], \[Blacksmith\], \[Carpenter\]
 
-### Seadiver
+**Seadiver**
 
-Typically associated with: [Alchemist](#alchemist), [Culinarian](#culinarian),
-[Weaver](#weaver)
+Typically associated with: \[Alchemist\], \[Culinarian\], \[Weaver\]
+
+**Spelunker**
+
+Typically associated with: …
 
 ## Disciples of the Hand
 
 Add all Job Levels from Disciples of the Hand to Craftsmanship and Control.
 
-### Alchemist
+**Alchemist**
 
-Typically associated with: [Botanist](#botanist), [Miner](#miner)
+Typically associated with: \[Botanist\], \[Miner\]
 
 Other sources of materials:
 
@@ -834,37 +848,35 @@ Typical crafts:
 -   Chemist Drinks
 -   …
 
-### Armorer
+**Armorer**
 
-Typically associated with: [Miner](#miner), [Scrapscrounger](#scrapscrounger)
-
-Other sources of materials:
-
--   Defeated golem enemies
--   Defeated machina enemies
-
-### Blacksmith
-
-Typically associated with: [Miner](#miner), [Scrapscrounger](#scrapscrounger)
+Typically associated with: \[Miner\], \[Scrapscrounger\]
 
 Other sources of materials:
 
 -   Defeated golem enemies
 -   Defeated machina enemies
 
-### Carpenter
+**Blacksmith**
 
-Typically associated with: [Botanist](#botanist),
-[Scrapscrounger](#scrapscrounger)
+Typically associated with: \[Miner\], \[Scrapscrounger\]
+
+Other sources of materials:
+
+-   Defeated golem enemies
+-   Defeated machina enemies
+
+**Carpenter**
+
+Typically associated with: \[Botanist\], \[Scrapscrounger\]
 
 Other sources of materials:
 
 -   Defeated plant enemies
 
-### Culinarian
+**Culinarian**
 
-Typically associated with: [Botanist](#botanist), [Fisher](#fisher),
-[Herder](#herder)
+Typically associated with: \[Botanist\], \[Fisher\], \[Herder\]
 
 Other sources of materials:
 
@@ -872,26 +884,26 @@ Other sources of materials:
 -   Defeated plant enemies
 -   Defeated slime enemies
 
-### Goldsmith
+**Goldsmith**
 
-Typically associated with: [Miner](#miner)
+Typically associated with: \[Miner\]
 
 Other sources of materials:
 
 -   Defeated elemental enemies
 
-### Haberdasher
+**Haberdasher**
 
-Typically associated with: [Botanist](#botanist), [Herder](#herder)
+Typically associated with: \[Botanist\], \[Herder\]
 
 Other sources of materials:
 
 -   Defeated beast enemies
 -   Defeated plant enemies
 
-### Leatherworker
+**Leatherworker**
 
-Typically associated with: [Herder](#herder)
+Typically associated with: \[Herder\]
 
 Other sources of materials:
 
@@ -899,7 +911,7 @@ Other sources of materials:
 -   Defeated beast enemies
 -   Defeated dragon enemies
 
-### Mason
+**Mason**
 
 Typically associated with: …
 
@@ -910,7 +922,7 @@ Other sources of materials:
 -   Defeated elemental enemies
 -   Defeated golem enemies
 
-### Potter
+**Potter**
 
 Typically associated with: …
 
@@ -920,9 +932,9 @@ Other sources of materials:
 -   Defeated golem enemies
 -   Defeated slime enemies
 
-### Sommelier
+**Sommelier**
 
-Typically associated with: [Botanist](#botanist), …
+Typically associated with: \[Botanist\], …
 
 Other sources of materials:
 
@@ -930,9 +942,13 @@ Other sources of materials:
 -   Defeated elemental enemies
 -   Defeated slime enemies
 
-### Weaver
+**Typesetter**
 
-Typically associated with: [Botanist](#botanist), [Herder](#herder)
+Typically associated with: …
+
+**Weaver**
+
+Typically associated with: \[Botanist\], \[Herder\]
 
 Other sources of materials:
 
@@ -954,9 +970,9 @@ In this case, the maximum Item Level you can craft for armor is 15.
 
 Item Level reserves from the combined pool of Gathering & Craftsmanship
 
-High-Quality items then reserve their Item Level from both Perception & Control
-separately. Therefore, on average, only half of your crafted items can be
-High-Quality.
+**High-Quality** items then reserve their Item Level from both Perception &
+Control separately. Therefore, on average, only half of your crafted items can
+be High-Quality. Such items function as if they were 5 Item Levels higher.
 
 **Example:** You have a crafted item of Item Level 30. You can reserve 30
 Gathering, 30 Craftsmanship, 15 Gathering and 15 Craftsmanship, or other
@@ -972,6 +988,10 @@ crafted at High-Quality then this additionally reserves 80 Perception and 80
 Control.
 
 # Goods Services And Usable Items
+
+**Cooked Meals:** These apply their Item Level as a temporary attribute bonus to
+a single attribute, for all allies. The effects last until the next long rest.
+They must be crafted.
 
 | Goods     | Description                                                                                                     |
 |-----------|-----------------------------------------------------------------------------------------------------------------|
@@ -1049,13 +1069,13 @@ Control.
 | Gigalixir        | 99   | 1    | Restores 5,000 HP & MP & TP to the whole party             | Restores 20,000 HP & MP & TP to the whole party                                        |
 | Phoenix Pinion   | 99   | 1    | Casts *Rearise*                                            | Casts *Raisega* and *Rearise*                                                          |
 
-| Chemist Drink | ILVL | Uses | Effect                                                     |
-|---------------|------|------|------------------------------------------------------------|
-| Power Drink   | 30   | 2    | Grants \[Boost Power\]\[Status: Boost Power\] status       |
-| Speed Drink   | 30   | 2    | Grants [Boost Speed](#status-boost-speed) status           |
-| Iron Draft    | 30   | 2    | Grants [Boost Defense](#status-boost-speed) status         |
-| Hero Cocktail | 30   | 2    | Grants \[Boost Physical\]\[Status: Boost Physical\] status |
-| Goliath Tonic | 50   | 2    | Grants [Bubble](#status-bubble) status                     |
+| Chemist Drink | ILVL | Uses | Effect                                                 |
+|---------------|------|------|--------------------------------------------------------|
+| Power Drink   | 30   | 2    | Grants [Boost Attack](#status-boost-attack) status     |
+| Speed Drink   | 30   | 2    | Grants [Boost Speed](#status-boost-speed) status       |
+| Iron Draft    | 30   | 2    | Grants [Boost Defense](#status-boost-defense) status   |
+| Hero Cocktail | 30   | 2    | Grants [Boost Accuracy](#status-boost-accuracy) status |
+| Goliath Tonic | 50   | 2    | Grants [Bubble](#status-bubble) status                 |
 
 | Throwing Item     | ILVL | Uses | Effect or Damage              |
 |-------------------|------|------|-------------------------------|
@@ -1088,10 +1108,8 @@ Control.
 -   Legs Equipment
 -   Feet Equipment
 -   Ears Equipment
--   Neck Equipment
--   Wrists Equipment
--   Right Ring Relic
--   Left Ring Relic
+-   Relic 1
+-   Relic 2
 
 ## Proficiency Types
 
@@ -1108,6 +1126,7 @@ Control.
 | Slayer   | Specialized armor for standing in the front just long enough to trade hard blows, then retreat |
 | Scout    | Stealthy, camouflaged, sound-absorbent gear                                                    |
 | Striker  | Sparring gear                                                                                  |
+| Magitek  | Large mechanical equipment that constantly pulls magical energy                                |
 
 ## Tools and Shields
 
@@ -1124,6 +1143,7 @@ Control.
 | Magic       | ILVL \* 0.5 | ILVL \* 2 | ILVL \* ILVL \* 0.4 | ILVL \* 3 | ILVL \* ILVL \* 0.6 |                                   |
 | Caster      | ILVL \* 0.5 | ILVL \* 2 | ILVL \* ILVL \* 0.4 | ILVL \* 3 | ILVL \* ILVL \* 0.6 |                                   |
 | Healer      | ILVL \* 0.5 | ILVL \* 2 | ILVL \* ILVL \* 0.4 | ILVL \* 4 | ILVL \* ILVL        |                                   |
+| Magitek     | ILVL \* 3   | ILVL \* 4 | ILVL \* ILVL \* 1.2 | ILVL \* 4 | ILVL \* ILVL \* 1.2 |                                   |
 
 ## Head Equipment
 
@@ -1140,6 +1160,7 @@ Control.
 | Magic    | ILVL \* 0.5 | ILVL \* ILVL \* 2   | 20         |
 | Caster   | ILVL \* 0.5 | ILVL \* ILVL \* 2.5 | 25         |
 | Healer   | ILVL \* 0.5 | ILVL \* ILVL \* 3   | 30         |
+| Magitek  | ILVL \* 3   | ILVL \* ILVL \* 3   | 30         |
 
 ## Body Equipment
 
@@ -1156,6 +1177,7 @@ Control.
 | Magic    | ILVL \* 0.5 | ILVL \* ILVL        | 10         |
 | Caster   | ILVL \* 0.5 | ILVL \* ILVL        | 10         |
 | Healer   | ILVL \* 0.5 | ILVL \* ILVL        | 10         |
+| Magitek  | ILVL \* 3   | ILVL \* ILVL \* 3   | 30         |
 
 ## Arms Equipment
 
@@ -1172,6 +1194,7 @@ Control.
 | Magic    | ILVL \* 0.5 | ILVL        |
 | Caster   | ILVL \* 0.5 | ILVL        |
 | Healer   | ILVL \* 0.5 | ILVL        |
+| Magitek  | ILVL \* 3   | ILVL \* 3   |
 
 ## Legs Equipment
 
@@ -1188,6 +1211,7 @@ Control.
 | Magic    | ILVL \* 0.5 | ILVL        |
 | Caster   | ILVL \* 0.5 | ILVL        |
 | Healer   | ILVL \* 0.5 | ILVL        |
+| Magitek  | ILVL \* 3   | ILVL \* 3   |
 
 ## Feet Equipment
 
@@ -1204,6 +1228,7 @@ Control.
 | Magic    | ILVL \* 0.5 | ILVL \* 2   |
 | Caster   | ILVL \* 0.5 | ILVL \* 2   |
 | Healer   | ILVL \* 0.5 | ILVL \* 3   |
+| Magitek  | ILVL \* 3   | ILVL \* 3   |
 
 ## Ears Equipment
 
@@ -1220,6 +1245,7 @@ Control.
 | Magic    | ILVL \* 0.5 | ILVL \* 1.5 |
 | Caster   | ILVL \* 0.5 | ILVL \* 3   |
 | Healer   | ILVL \* 0.5 | ILVL \* 2   |
+| Magitek  | ILVL \* 3   | ILVL \* 3   |
 
 ## Weapons
 
@@ -1228,27 +1254,28 @@ Control.
 -   In map combat, reaches into a side-adjacent square.
 -   In mapless combat, reaches one row.
 
-| Weapon Type     | Weight    | Attribute | Multiplier   | Min. | Type     | Other                                                        |
-|-----------------|-----------|-----------|--------------|------|----------|--------------------------------------------------------------|
-| 1H Books        | ILVL      | Intellect | ILVL \* 0.20 | 20   | Physical | Adds ILVL to Intellect                                       |
-| 1H Claws        | ILVL      | Strength  | ILVL \* 0.30 | 30   | Physical | Adds ILVL to Strength                                        |
-| 1H Daggers      | ILVL      | Dexterity | ILVL \* 0.20 | 20   | Physical | Adds ILVL to Dexterity                                       |
-| 1H Hammers      | ILVL \* 2 | Strength  | ILVL \* 0.30 | 30   | Physical | Causes Knockback on Critical Hit, and Stun status (2 phases) |
-| 1H Handaxes     | ILVL \* 2 | Strength  | ILVL \* 0.50 | 50   | Physical |                                                              |
-| 1H Handbags     | ILVL      | Strength  | ILVL \* 0.30 | 30   | Physical | Adds ILVL to Tenacity                                        |
-| 1H Knives       | ILVL      | Speed     | ILVL \* 0.20 | 20   | Physical | Adds ILVL to Speed                                           |
-| 1H Maces        | ILVL \* 2 | Strength  | ILVL \* 0.40 | 40   | Physical | Adds ILVL to Wisdom                                          |
-| 1H Measures     | ILVL      | Intellect | ILVL \* 0.10 | 10   | Physical | Ignores P-Def                                                |
-| 1H Rapiers      | ILVL      | Dexterity | ILVL \* 0.20 | 20   | Physical | Adds ILVL to Agility                                         |
-| 1H Swords       | ILVL      | Strength  | ILVL \* 0.40 | 40   | Physical |                                                              |
-| 1H Tanto        | ILVL      | Dexterity | ILVL \* 0.20 | 20   | Physical | Adds ILVL to Intellect                                       |
-| 2H Greataxes    | ILVL \* 3 | Strength  | ILVL \* 0.90 | 90   | Physical |                                                              |
-| 2H Greatswords  | ILVL \* 2 | Strength  | ILVL \* 0.80 | 80   | Physical |                                                              |
-| 2H Gunblades    | ILVL \* 2 | Strength  | ILVL \* 0.60 | 60   | Physical | Adds ILVL to Tenacity                                        |
-| 2H Katana       | ILVL \* 2 | Strength  | ILVL \* 0.60 | 60   | Physical | Adds ILVL to Intellect                                       |
-| 2H Paintbrushes | ILVL \* 2 | Spirit    | ILVL \* 0.40 | 40   | Physical | Adds ILVL \* 2 to Spirit                                     |
-| 2H Rods         | ILVL \* 2 | Intellect | ILVL \* 0.40 | 40   | Physical | Adds ILVL \* 2 to Intellect                                  |
-| 2H Staves       | ILVL \* 2 | Wisdom    | ILVL \* 0.40 | 40   | Physical | Adds ILVL \* 2 to Wisdom                                     |
+| Weapon Type     | Weight    | Attribute | Multiplier   | Min. | Type     | Other                                                       |
+|-----------------|-----------|-----------|--------------|------|----------|-------------------------------------------------------------|
+| 1H Books        | ILVL      | Intellect | ILVL \* 0.20 | 20   | Physical | Adds ILVL to Intellect                                      |
+| 1H Claws        | ILVL      | Strength  | ILVL \* 0.30 | 30   | Physical | Adds ILVL to Strength                                       |
+| 1H Daggers      | ILVL      | Dexterity | ILVL \* 0.20 | 20   | Physical | Adds ILVL to Dexterity                                      |
+| 1H Hammers      | ILVL \* 2 | Strength  | ILVL \* 0.30 | 30   | Physical | Causes Knockback on Critical Hit, and Stun status (1 phase) |
+| 1H Handaxes     | ILVL \* 2 | Strength  | ILVL \* 0.50 | 50   | Physical |                                                             |
+| 1H Handbags     | ILVL      | Strength  | ILVL \* 0.30 | 30   | Physical | Adds ILVL to Tenacity                                       |
+| 1H Knives       | ILVL      | Speed     | ILVL \* 0.20 | 20   | Physical | Adds ILVL to Speed                                          |
+| 1H Maces        | ILVL \* 2 | Strength  | ILVL \* 0.40 | 40   | Physical | Adds ILVL to Wisdom                                         |
+| 1H Measures     | ILVL      | Intellect | ILVL \* 0.10 | 10   | Physical | Ignores P-Def                                               |
+| 1H Rapiers      | ILVL      | Dexterity | ILVL \* 0.20 | 20   | Physical | Adds ILVL to Agility                                        |
+| 1H Swords       | ILVL      | Strength  | ILVL \* 0.40 | 40   | Physical |                                                             |
+| 1H Tanto        | ILVL      | Dexterity | ILVL \* 0.20 | 20   | Physical | Adds ILVL to Intellect                                      |
+| 1H M-Tek Claw   | ILVL \* 3 | Dexterity | ILVL \* 0.60 | 60   | Physical |                                                             |
+| 2H Greataxes    | ILVL \* 3 | Strength  | ILVL \* 0.90 | 90   | Physical |                                                             |
+| 2H Greatswords  | ILVL \* 2 | Strength  | ILVL \* 0.80 | 80   | Physical |                                                             |
+| 2H Gunblades    | ILVL \* 2 | Strength  | ILVL \* 0.60 | 60   | Physical | Adds ILVL to Tenacity                                       |
+| 2H Katana       | ILVL \* 2 | Strength  | ILVL \* 0.60 | 60   | Physical | Adds ILVL to Intellect                                      |
+| 2H Paintbrushes | ILVL \* 2 | Spirit    | ILVL \* 0.40 | 40   | Physical | Adds ILVL \* 2 to Spirit                                    |
+| 2H Rods         | ILVL \* 2 | Intellect | ILVL \* 0.40 | 40   | Physical | Adds ILVL \* 2 to Intellect                                 |
+| 2H Staves       | ILVL \* 2 | Wisdom    | ILVL \* 0.40 | 40   | Physical | Adds ILVL \* 2 to Wisdom                                    |
 
 ### Reach Weapons
 
@@ -1273,36 +1300,80 @@ Control.
     elevation below the target decreases the maximum range by one square.
 -   In mapless combat, reaches between two to six rows.
 
-| Weapon Type   | Weight    | Attribute | Multiplier   | Min. | Type     | Other               |
-|---------------|-----------|-----------|--------------|------|----------|---------------------|
-| 1H Bombsticks | ILVL      | Dexterity | ILVL \* 0.30 | 30   | Physical |                     |
-| 1H Boomerangs | ILVL      | Dexterity | ILVL \* 0.30 | 30   | Physical |                     |
-| 1H Javelins   | ILVL \* 2 | Strength  | ILVL \* 0.20 | 20   | Physical |                     |
-| 1H Racquets   | ILVL      | Wisdom    | ILVL \* 0.25 | 25   | Magical  | Adds ILVL to Wisdom |
-| 2H Bows       | ILVL \* 2 | Dexterity | ILVL \* 0.40 | 40   | Physical |                     |
-| 2H Shotputs   | ILVL \* 2 | Strength  | ILVL \* 0.30 | 30   | Physical |                     |
+| Weapon Type   | Weight    | Attribute | Multiplier   | Min. | Type     | Other                                                       |
+|---------------|-----------|-----------|--------------|------|----------|-------------------------------------------------------------|
+| 1H Bombsticks | ILVL      | Dexterity | ILVL \* 0.20 | 20   | Physical | Causes Knockback on Critical Hit, and Stun status (1 phase) |
+| 1H Boomerangs | ILVL      | Dexterity | ILVL \* 0.30 | 30   | Physical |                                                             |
+| 1H Javelins   | ILVL \* 2 | Strength  | ILVL \* 0.20 | 20   | Physical |                                                             |
+| 1H Racquets   | ILVL      | Wisdom    | ILVL \* 0.25 | 25   | Magical  | Adds ILVL to Wisdom                                         |
+| 2H Bows       | ILVL \* 2 | Dexterity | ILVL \* 0.40 | 40   | Physical |                                                             |
+| 2H Shotputs   | ILVL \* 2 | Strength  | ILVL \* 0.30 | 30   | Physical |                                                             |
 
 ### Ranged Direct Weapons
 
 -   In map combat, reaches up to five side-adjacent squares away.
 -   In mapless combat, reaches between one to five rows.
 
-| Weapon Type  | Weight    | Attribute | Multiplier   | Min. | Type     | Other                  |
-|--------------|-----------|-----------|--------------|------|----------|------------------------|
-| 1H Bells     | ILVL      | Intellect | ILVL \* 0.10 | 10   | Magical  | Adds ILVL to Intellect |
-| 1H Canes     | ILVL      | Wisdom    | ILVL \* 0.10 | 10   | Magical  | Adds ILVL to Wisdom    |
-| 1H Cards     | ILVL      | Dexterity | ILVL \* 0.10 | 10   | Physical | Adds ILVL to Intellect |
-| 1H Chakrams  | ILVL      | Dexterity | ILVL \* 0.10 | 10   | Physical | Adds ILVL to Dexterity |
-| 1H Darts     | ILVL \* 2 | Strength  | ILVL \* 0.25 | 25   | Physical |                        |
-| 1H Flutes    | ILVL      | Mind      | ILVL \* 0.10 | 10   | Magical  | Adds ILVL to Mind      |
-| 1H Handguns  | ILVL \* 2 | Dexterity | ILVL \* 0.30 | 30   | Physical |                        |
-| 2H Globes    | ILVL \* 2 | Spirit    | ILVL \* 0.30 | 30   | Magical  | Adds ILVL to Spirit    |
-| 2H Grimoires | ILVL \* 2 | Intellect | ILVL \* 0.20 | 20   | Magical  | Adds ILVL to Intellect |
-| 2H Harps     | ILVL \* 2 | Mind      | ILVL \* 0.30 | 30   | Magical  | Adds ILVL to Mind      |
-| 2H Cannons   | ILVL \* 4 | Dexterity | ILVL \* 0.60 | 60   | Physical |                        |
-| 2H Crossbows | ILVL \* 2 | Dexterity | ILVL \* 0.40 | 40   | Physical |                        |
-| 2H Nouliths  | ILVL \* 2 | Wisdom    | ILVL \* 0.30 | 30   | Magical  | Adds ILVL to Wisdom    |
-| 2H Rifles    | ILVL \* 2 | Dexterity | ILVL \* 0.40 | 40   | Physical |                        |
+| Weapon Type    | Weight    | Attribute | Multiplier   | Min. | Type     | Other                  |
+|----------------|-----------|-----------|--------------|------|----------|------------------------|
+| 1H Bells       | ILVL      | Intellect | ILVL \* 0.20 | 20   | Magical  | Adds ILVL to Intellect |
+| 1H Canes       | ILVL      | Wisdom    | ILVL \* 0.20 | 20   | Magical  | Adds ILVL to Wisdom    |
+| 1H Cards       | ILVL      | Dexterity | ILVL \* 0.20 | 20   | Physical | Adds ILVL to Intellect |
+| 1H Chakrams    | ILVL      | Dexterity | ILVL \* 0.20 | 20   | Physical | Adds ILVL to Dexterity |
+| 1H Darts       | ILVL      | Strength  | ILVL \* 0.20 | 20   | Physical |                        |
+| 1H Flutes      | ILVL      | Mind      | ILVL \* 0.20 | 20   | Magical  | Adds ILVL to Mind      |
+| 1H Handguns    | ILVL \* 2 | Dexterity | ILVL \* 0.30 | 30   | Physical |                        |
+| 1H M-Tek Gun   | ILVL \* 4 | Dexterity | ILVL \* 0.60 | 60   | Physical |                        |
+| 2H Globes      | ILVL \* 2 | Spirit    | ILVL \* 0.30 | 30   | Magical  | Adds ILVL to Spirit    |
+| 2H Grimoires   | ILVL \* 2 | Intellect | ILVL \* 0.30 | 30   | Magical  | Adds ILVL to Intellect |
+| 2H Harps       | ILVL \* 2 | Mind      | ILVL \* 0.30 | 30   | Magical  | Adds ILVL to Mind      |
+| 2H Cannons     | ILVL \* 4 | Dexterity | ILVL \* 0.60 | 60   | Physical |                        |
+| 2H Crossbows   | ILVL \* 2 | Dexterity | ILVL \* 0.40 | 40   | Physical |                        |
+| 2H Nouliths    | ILVL \* 2 | Wisdom    | ILVL \* 0.30 | 30   | Magical  | Adds ILVL to Wisdom    |
+| 2H Rifles      | ILVL \* 2 | Dexterity | ILVL \* 0.40 | 40   | Physical |                        |
+| 2H M-Tek Rifle | ILVL \* 6 | Dexterity | ILVL \* 0.80 | 80   | Physical |                        |
+
+## Relics
+
+| Relic              | ILVL | Effect                                                                                                                                                        |
+|--------------------|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Battle Boots       | 1    | +1 Maneuver/Move                                                                                                                                              |
+| Spiked Boots       | 2    | +1 Jump                                                                                                                                                       |
+| Rubber Boots       | 3    | Immune to [Immobilize](#status-immobilize) and Lightning element                                                                                              |
+| Mage’s Cloak       | 5    | Adds your Experience Level to your Intellect                                                                                                                  |
+| Winged Boots       | 5    | Always have \[Float\]\[Status: Float\]                                                                                                                        |
+| Diamond Bracelet   | 10   | Adds your Experience Level to your Strength & Intellect, immune to \[Slow\]\[Status: Slow\]                                                                   |
+| Germinas Boots     | 10   | +1 Maneuver/Move & Jump                                                                                                                                       |
+| Power Gauntlet     | 10   | Adds your Experience Level to your Strength                                                                                                                   |
+| Protect Ring       | 10   | Immune to [Sleep](#status-sleep) and [Doom](#status-doom)                                                                                                     |
+| Elven Cloak        | 15   | Always have [Boost Accuracy](#status-boost-accuracy)                                                                                                          |
+| Guardian Bracelet  | 15   | Immune to [Immobilize](#status-immobilize) & [Disable](#status-disable)                                                                                       |
+| Hermes Shoes       | 15   | Adds your Experience Level to your Speed                                                                                                                      |
+| Jade Armlet        | 20   | Immune to [Petrify](#status-petrify) & [Stop](#status-stop)                                                                                                   |
+| Magick Ring        | 20   | Immune to [Silence](#status-silence) and [Berserk](#status-berserk)                                                                                           |
+| Nu Khai Armband    | 20   | Immune to [Confuse](#status-confuse) & [Charm](#status-charm), half After-Armor Damage from Dark element                                                      |
+| Red Shoes          | 20   | Adds your Experience Level to your Speed, +1 Maneuver/Move                                                                                                    |
+| Reflect Ring       | 20   | Always have \[Reflect\]\[Status: Reflect\]                                                                                                                    |
+| Japa Mala          | 30   | Immune to [Zombie](#status-zombie), [Toad](#status-toad) & [Poison](#status-poison)                                                                           |
+| Angel Ring         | 40   | Immune to [Blind](#status-blind), start combat with [Reraise](#status-reraise)                                                                                |
+| Gaius Caligae      | 40   | +2 Maneuver/Move                                                                                                                                              |
+| Magepower Glove    | 40   | Adds 2 \* your Experience Level to your Intellect                                                                                                             |
+| Cursed Ring        | 50   | Adds your Experience Level to your Strength & Intellect & Speed, immune to [Charm](#status-charm), always have [Zombie](#status-zombie)                       |
+| Invisibility Cloak | 50   | Always have [Vanish](#status-vanish)                                                                                                                          |
+| Brigand’s Gloves   | 60   | Adds your Experience Level to your Speed, always have [Haste](#status-haste)                                                                                  |
+| Chantage Perfume   | 60   | Always have [Regen](#status-regen), start combat with [Reraise](#status-reraise)                                                                              |
+| Cherche Perfume    | 60   | Always have \[Float\]\[Status: Float\] & \[Reflect\]\[Status: Reflect\]                                                                                       |
+| Septieme Perfume   | 60   | Adds your Experience Level to your Intellect, always have [Haste](#status-haste) & [Vanish](#status-vanish)                                                   |
+| Sortilege Perfume  | 60   | Always have \[Protect\]\[Status: Protect\] & \[Shell\]\[Status: Shell\]                                                                                       |
+| Empyreal Armband   | 70   | Adds your Experience Level to your Speed, immune to \[Slow\]\[Status: Slow\], [Stop](#status-stop) & [Immobilize](#status-immobilize)                         |
+| Bracer             | 90   | Adds 3 \* your Experience Level to your Strength                                                                                                              |
+| Genji Glove        | 99   | Adds 2 \* your Experience Level to your Strength & Intellect                                                                                                  |
+| Master’s Scroll    | 99   | Changes Attack to X-Fight, in which you perform four attack actions against random enemies, with half After-Armor Damage                                      |
+| Onion Gloves       | 99   | Adds total Job Levels to your P-Eva and M-Eva against status conditions                                                                                       |
+| Ribbon             | 99   | Double P-Eva & M-Eva against all status conditions                                                                                                            |
+| Sage’s Ring        | 99   | Absorb all elements                                                                                                                                           |
+| Soul of Thamasa    | 99   | All Magick actions cost double, in order to do their effects twice                                                                                            |
+| Tynar Rouge        | 99   | Adds 3 \* your Experience Level to your Strength & Intellect, always have \[Protect\]\[Status: Protect\], \[Shell\]\[Status: Shell\] & [Haste](#status-haste) |
 
 # Rules
 
@@ -1551,11 +1622,28 @@ a variety of options that do not halt the story, but are certainly challenging:
 2.  Movement And Actions Phase
 3.  Status Phase
 
-## Decision Phase
-
 ## Initiative Phase
 
+Initiative Roll = 1d100 + Experience Level + Speed - Excess Weight
+
+If you have leftover Charge Time and Cast Time from previous rounds, then you
+pay those down with your Initiative. Extreme amounts of Charge Time and Cast
+Time could result in effectively losing multiple turns.
+
 ## Movement And Actions Phase
+
+**Charge Time:** Subtracted from your Initiative, then your action occurs at
+your new Initiative. If this results in negative Initiative then you will carry
+over the remaining Charge Time to the next round. Status conditions that would
+prevent you from starting the action will also interrupt you and make you lose
+the action.
+
+**Cast Time:** Similar Charge Time, except that abilities with Cast Time have
+the option of targeting either a unit or a position/square. If targeting a unit,
+then even when that unit moves out of range during the Cast Time, the ability
+still occurs, centered on that unit. If targeting a position/square, then even
+if you move or are forcibly moved out of range during the Cast Time, the ability
+still occurs, centered on that position/square.
 
 ### Movement
 
@@ -1753,6 +1841,10 @@ Your accuracy class is improved by 1.
 ### Status: Boost Defense
 
 You take 25% less After-Armor Damage.
+
+### Status: Boost Evasion
+
+Your P-Eva and M-Eva are increased by 25%.
 
 ### Status: Boost Healing
 
@@ -2162,7 +2254,7 @@ given as Shield Points.
 
 ### Status: Oil
 
-You take double damage from fire.
+You take double After-Armor damage from fire.
 
 ### Status: Old
 
@@ -2219,6 +2311,10 @@ You gain one extra action during the status phase.
 
 You take 20% reduced After-Armor Damage.
 
+### Status: Rearise
+
+If you are dead at the end of the status phase, then *Arise* is cast on you.
+
 ### Status: Recitation
 
 You ignore Aetherflow costs.
@@ -2254,6 +2350,10 @@ Your damage output is decreased by 10%.
 ### Status: Requiescat
 
 Your magical damage output is increased by 25%. Your Cast Time is halved.
+
+### Status: Reraise
+
+If you are dead at the end of the status phase, then *Raise* is cast upon you.
 
 ### Status: Resilient
 
@@ -2398,6 +2498,10 @@ of your maximum HP.
 Your P-Eva and M-Eva are doubled against status conditions and Gravity/Death
 attacks.
 
+### Status: Watered
+
+You take double After-Armor damage from lightning.
+
 ### Status: Windbite
 
 Causes Air-aspected damage during the status phase. The damage is equal to 5% of
@@ -2462,6 +2566,11 @@ to chase you instead.
 In mapless combat, if you are not in the front row, then you lose four Enmity
 Points during the Status Phase instead.
 
+### Fish Counter
+
+Used for [Festivalist](#festivalist) fish abilities. Adding more fish to a
+target results in relevant abilities doing more damage to that target.
+
 ### Shield Points
 
 Damage is taken from your Shield Points before your HP. During the Status Phase,
@@ -2515,7 +2624,7 @@ Fully restores your TP.
 
 -   **Action: Arcane Magick:** Plumbing the darkest depths of knowledge and
     esoterica for the most powerful magical results.
--   **Reaction: Egi Sacrifice (500 TP):** You direct an incoming single-target
+-   **Reaction: Egi Sacrifice (200 TP):** You direct an incoming single-target
     action towards your Egi-Esper instead.
 -   **Support: Aethercapacitance:** You can hold a maximum of 3 Aetherflow.
 -   **Support: Arcanist School Pacts:** You have access to specific Egi-Forms
@@ -2841,7 +2950,7 @@ does the effect of *Fester* on all enemies on the battlefield.
 | Item                    |                     |                   |            |
 
 -   **Action: Archery:** Expertise in projectile weapons.
--   **Reaction: Adrenaline Rush (200 TP):** Upon taking damage, gain [Boost
+-   **Reaction: Adrenaline Rush (500 TP):** Upon taking damage, gain [Boost
     Speed](#status-boost-speed).
 -   **Reaction: Archer’s Bane (200 TP):** Against an incoming technique coming
     from 3 squares away or further, your P-Eva is doubled. In mapless combat,
@@ -3422,9 +3531,15 @@ cannot be a Limit Break itself. Ignore the MP cost and Cast Time.
 | 80   | Support: Prescience           |
 | 99   | Job Mastered                  |
 
-**Mastery Bonus:** When you do an action with a random element in it other than
-critical chance, you can reroll that random element. You choose which of the two
-results to stick with.
+**Mastery Bonus:** You gain MP and/or TP every combat round, according to the
+real-life phase of the moon.
+
+| Moon Phase  | Gain per round                                            |
+|-------------|-----------------------------------------------------------|
+| Full Moon   | MP equal to your Level                                    |
+| Waning Moon | MP equal to 1/4th your Level, TP equal to half your Level |
+| New Moon    | TP equal to your Level                                    |
+| Waxing Moon | MP equal to half your Level, TP equal to 1/4th your Level |
 
 ### Astrological Magick
 
@@ -3459,7 +3574,7 @@ available, then this can be done by rolling a 1d6 and a 1d10.
 | 16   | Strength         | Grants [Bravery](#status-bravery) status                                                                                                                                                          |
 | 17   | Hermit           | Grants [Faith](#status-faith) status                                                                                                                                                              |
 | 18   | Wheel of Fortune | Grants [Blink](#status-blink) status                                                                                                                                                              |
-| 19   | Justice          | Grants \[Boost Evasion\]\[Status: Boost Evasion\]                                                                                                                                                 |
+| 19   | Justice          | Grants [Boost Evasion](#status-boost-evasion)                                                                                                                                                     |
 | 20   | Hanged Man       | Magical technique that attempts to cause [Blind](#status-blind) status                                                                                                                            |
 | 21   | Death            | Magical technique that attempts to cause [Chicken](#status-chicken) status                                                                                                                        |
 | 22   | Temperance       | Magical technique that attempts to cause [Critical Vulnerability](#status-critical-vulnerability) status                                                                                          |
@@ -4033,7 +4148,7 @@ removes one status condition of each target’s choice.
 
 **Song: Nameless Song**
 
-Targets one ally. Grants \[Reraise\]\[Status: Reraise\], [Regen](#status-regen),
+Targets one ally. Grants [Reraise](#status-reraise), [Regen](#status-regen),
 \[Protect\]\[Status: Protect\], \[Shell\]\[Status: Shell\] and
 [Haste](#status-haste) statuses.
 
@@ -4070,8 +4185,7 @@ Targets one ally. Grants [Quick](#status-quick) status.
 |        |            |                            | 1 x Choice |
 
 -   **Support: Auto-Berserk:** You are always [Berserk](#status-berserk) in
-    combat. This cannot be stopped in combat, except by equipping a Relic that
-    grants immunity to [Berserk](#status-berserk).
+    combat. This cannot be stopped in combat, not even by equipped Relics.
 -   **Support: Double Attack:** Your Attack actions occur twice. Each attack is
     against a random enemy within your weapon range.
 
@@ -4103,6 +4217,8 @@ within your weapon range.
     [Time Mage](#time-mage) 40, [White Mage](#white-mage) 50
 -   [Dark Knight](#dark-knight) - [Berserker](#berserker) 30, *Black Mage* 30,
     [Knight](#knight) 60
+-   [Festivalist](#festivalist) - *Black Mage* 20, [Jongleur](#jongleur) 20
+-   [Magitek Pilot](#magitek-pilot) - *Black Mage* 20, [Fusilier](#fusilier) 20
 -   [Magus](#magus) - [Arcanist](#arcanist) 60, *Black Mage* 60,
     [Thaumaturgist](#thaumaturgist) 60
 -   [Red Mage](#red-mage) - *Black Mage* 30, [Fencer](#fencer) 30, [White
@@ -4153,119 +4269,137 @@ also improved by two accuracy classes.
 
 **Blizzard**
 
-| Cost   | Mapless          | Map                    |
-|--------|------------------|------------------------|
-| MP: 50 | R: 4 rows        | Ranged Indirect        |
-|        | E: Single or Row | Target H: 4            |
-|        |                  | Effect H/V: 1/1 or 2/2 |
+| Cost          | Mapless          | Map                    |
+|---------------|------------------|------------------------|
+| Cast Time: 10 | R: 4 rows        | Ranged Indirect        |
+| MP: 50        | E: Single or Row | Target H: 4            |
+|               |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Ice-aspected. In single-target mode, causes Level \* Intellect
 \* 0.4 damage, for a minimum of 40 damage. In multi-target mode, causes Level \*
 Intellect \* 0.3 Damage, for a minimum of 30 damage.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Fire**
 
-| Cost   | Mapless          | Map                    |
-|--------|------------------|------------------------|
-| MP: 50 | R: 4 rows        | Ranged Indirect        |
-|        | E: Single or Row | Target H: 4            |
-|        |                  | Effect H/V: 1/1 or 2/2 |
+| Cost          | Mapless          | Map                    |
+|---------------|------------------|------------------------|
+| Cast Time: 10 | R: 4 rows        | Ranged Indirect        |
+| MP: 50        | E: Single or Row | Target H: 4            |
+|               |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Fire-aspected. In single-target mode, causes Level \* Intellect
 \* 0.4 damage, for a minimum of 40 damage. In multi-target mode, causes Level \*
 Intellect \* 0.3 Damage, for a minimum of 30 damage.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Poison**
 
-| Cost   | Mapless          | Map                    |
-|--------|------------------|------------------------|
-| MP: 20 | R: 4 rows        | Ranged Indirect        |
-|        | E: Single or Row | Target H: 4            |
-|        |                  | Effect H/V: 1/1 or 2/2 |
+| Cost          | Mapless          | Map                    |
+|---------------|------------------|------------------------|
+| Cast Time: 10 | R: 4 rows        | Ranged Indirect        |
+| MP: 20        | E: Single or Row | Target H: 4            |
+|               |                  | Effect H/V: 1/1 or 2/2 |
 
 Attempts to cause [Poison](#status-poison) to all targets in the area. In
 multi-target mode, M-Acc is halved.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Thunder**
 
-| Cost   | Mapless          | Map                    |
-|--------|------------------|------------------------|
-| MP: 50 | R: 4 rows        | Ranged Indirect        |
-|        | E: Single or Row | Target H: 4            |
-|        |                  | Effect H/V: 1/1 or 2/2 |
+| Cost          | Mapless          | Map                    |
+|---------------|------------------|------------------------|
+| Cast Time: 10 | R: 4 rows        | Ranged Indirect        |
+| MP: 50        | E: Single or Row | Target H: 4            |
+|               |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Lightning-aspected. In single-target mode, causes Level \*
 Intellect \* 0.4 damage, for a minimum of 40 damage. In multi-target mode,
 causes Level \* Intellect \* 0.3 Damage, for a minimum of 30 damage.
 
+In map combat, multi-target mode can cause friendly fire.
+
 #### Black Mage 10
 
 **Pig**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 100 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost          | Mapless          | Map                    |
+|---------------|------------------|------------------------|
+| Cast Time: 50 | R: 4 rows        | Ranged Indirect        |
+| MP: 100       | E: Single or Row | Target H: 4            |
+|               |                  | Effect H/V: 1/1 or 2/2 |
 
 Attempts to cause [Pig](#status-pig) to all targets in the area. In multi-target
 mode, M-Acc is halved. Any targets who already have [Pig](#status-pig) instead
 have it removed.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Sleep**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 150 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost          | Mapless          | Map                    |
+|---------------|------------------|------------------------|
+| Cast Time: 50 | R: 4 rows        | Ranged Indirect        |
+| MP: 150       | E: Single or Row | Target H: 4            |
+|               |                  | Effect H/V: 1/1 or 2/2 |
 
 Attempts to cause [Sleep](#status-sleep) to all targets in the area. In
 multi-target mode, M-Acc is halved.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Toad**
 
-| Cost   | Mapless          | Map                    |
-|--------|------------------|------------------------|
-| MP: 70 | R: 4 rows        | Ranged Indirect        |
-|        | E: Single or Row | Target H: 4            |
-|        |                  | Effect H/V: 1/1 or 2/2 |
+| Cost          | Mapless          | Map                    |
+|---------------|------------------|------------------------|
+| Cast Time: 50 | R: 4 rows        | Ranged Indirect        |
+| MP: 70        | E: Single or Row | Target H: 4            |
+|               |                  | Effect H/V: 1/1 or 2/2 |
 
 Attempts to cause [Toad](#status-toad) to all targets in the area. In
 multi-target mode, M-Acc is halved. Any targets who already have
 [Toad](#status-toad) instead have it removed.
 
+In map combat, multi-target mode can cause friendly fire.
+
 #### Black Mage 20
 
 **Blizzara**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 150 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 100 | R: 4 rows        | Ranged Indirect        |
+| MP: 150        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Ice-aspected. In single-target mode, causes Level \* Intellect
 \* 0.5 damage. In multi-target mode, causes Level \* Intellect \* 0.4 Damage.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Fira**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 150 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 100 | R: 4 rows        | Ranged Indirect        |
+| MP: 150        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Fire-aspected. In single-target mode, causes Level \* Intellect
 \* 0.5 damage. In multi-target mode, causes Level \* Intellect \* 0.4 Damage.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Poisonra**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 160 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 100 | R: 4 rows        | Ranged Indirect        |
+| MP: 160        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Poison-aspected. In single-target mode, causes Level \*
 Intellect \* 0.4 damage. In multi-target mode, causes Level \* Intellect \* 0.3
@@ -4274,69 +4408,76 @@ damage.
 Attempts to cause [Poison](#status-poison) to all targets in the area. In
 multi-target mode, M-Acc is halved.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Thundara**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 150 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 100 | R: 4 rows        | Ranged Indirect        |
+| MP: 150        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Lightning-aspected. In single-target mode, causes Level \*
 Intellect \* 0.5 damage. In multi-target mode, causes Level \* Intellect \* 0.4
 Damage.
 
+In map combat, multi-target mode can cause friendly fire.
+
 #### Black Mage 30
 
 **Drain**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 180 | R: 4 rows | Ranged Indirect |
-|         | E: Single | Target H: 4     |
-|         |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 150 | R: 4 rows | Ranged Indirect |
+| MP: 180        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Magical Attack, Drain-aspected. Causes Level \* Intellect \* 0.5 damage. Half of
 the After-Armor Damage is additionally given to you as HP.
 
 **Osmose**
 
-| Cost | Mapless   | Map             |
-|------|-----------|-----------------|
-| None | R: 4 rows | Ranged Indirect |
-|      | E: Single | Target H: 4     |
-|      |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 150 | R: 4 rows | Ranged Indirect |
+| MP: 10         | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Magical Attack, Drain-aspected. Causes Intellect damage directly to MP, ignoring
 M-Def. Half of the MP Damage is additionally given to you as MP.
 
 **Quake**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 300 | R: 6 rows | Ranged Indirect |
-|         | E: 2 rows | Target H: 6     |
-|         |           | Effect H/V: 3/3 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 150 | R: 6 rows | Ranged Indirect |
+| MP: 300        | E: 2 rows | Target H: 6     |
+|                |           | Effect H/V: 3/3 |
 
 Magical Attack, Earth-aspected. Causes Level \* Intellect \* 0.6 Damage to all
-targets in the area. \[Float\]\[Status: Float\] gives immunity to this spell.
+combatants in the area. \[Float\]\[Status: Float\] gives immunity to this spell.
+
+In map combat, this spell can cause friendly fire.
 
 **Rasp**
 
-| Cost | Mapless   | Map             |
-|------|-----------|-----------------|
-| None | R: 4 rows | Ranged Indirect |
-|      | E: Single | Target H: 4     |
-|      |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 150 | R: 4 rows | Ranged Indirect |
+| MP: 10         | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Magical Attack, Drain-aspected. Causes Level \* Intellect \* 0.4 damage directly
 to MP, ignoring M-Def.
 
 **Warp**
 
-| Cost    |
-|---------|
-| MP: 100 |
+| Cost           |
+|----------------|
+| Cast Time: 150 |
+| MP: 100        |
 
 If this spell is used in combat, then it warps you and your party away from the
 combat. If used outside of combat, then it warps you and your party by one room
@@ -4346,33 +4487,37 @@ or hallway closer to the exit.
 
 **Blizzaga**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 300 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 200 | R: 4 rows        | Ranged Indirect        |
+| MP: 300        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Ice-aspected. In single-target mode, causes Level \* Intellect
 \* 0.6 damage. In multi-target mode, causes Level \* Intellect \* 0.5 Damage.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Firaga**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 300 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 200 | R: 4 rows        | Ranged Indirect        |
+| MP: 300        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Fire-aspected. In single-target mode, causes Level \* Intellect
 \* 0.6 damage. In multi-target mode, causes Level \* Intellect \* 0.5 Damage.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Poisonga**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 320 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 200 | R: 4 rows        | Ranged Indirect        |
+| MP: 320        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Poison-aspected. In single-target mode, causes Level \*
 Intellect \* 0.5 damage. In multi-target mode, causes Level \* Intellect \* 0.4
@@ -4381,59 +4526,65 @@ damage.
 Attempts to cause [Poison](#status-poison) to all targets in the area. In
 multi-target mode, M-Acc is halved.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Thundaga**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 300 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 200 | R: 4 rows        | Ranged Indirect        |
+| MP: 300        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Lightning-aspected. In single-target mode, causes Level \*
 Intellect \* 0.6 damage. In multi-target mode, causes Level \* Intellect \* 0.5
 Damage.
 
+In map combat, multi-target mode can cause friendly fire.
+
 #### Black Mage 50
 
 **Break**
 
-| Cost    | Mapless       | Map                    |
-|---------|---------------|------------------------|
-| MP: 400 | R: 4 rows     | Ranged Indirect        |
-|         | E: Single/Row | Target H: 4            |
-|         |               | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 250 | R: 4 rows        | Ranged Indirect        |
+| MP: 400        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Earth-aspected. Attempts to cause [Petrify](#status-petrify) to
 all targets. In multi-target mode, M-Acc is halved.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Death**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 400 | R: 4 rows | Ranged Indirect |
-|         | E: Single | Target H: 4     |
-|         |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 250 | R: 4 rows | Ranged Indirect |
+| MP: 400        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Magical Attack, Dark-aspected. Attempts to cause instant death to the target,
 but at half M-Acc. This is considered a Gravity/Death technique.
 
 **Flare**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 600 | R: 4 rows | Ranged Indirect |
-|         | E: Single | Target H: 4     |
-|         |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 250 | R: 4 rows | Ranged Indirect |
+| MP: 600        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Magical Attack, Unaspected, for Level \* Intellect damage.
 
 **Tornado**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 500 | R: 4 rows | Ranged Indirect |
-|         | E: Single | Target H: 4     |
-|         |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 250 | R: 4 rows | Ranged Indirect |
+| MP: 500        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Magical Attack, Air-aspected. Attempts to reduce the target’s HP to an amount
 equal to 10% of their maximum. This is considered a Gravity/Death technique.
@@ -4442,33 +4593,37 @@ equal to 10% of their maximum. This is considered a Gravity/Death technique.
 
 **Blizzaja**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 800 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 300 | R: 4 rows        | Ranged Indirect        |
+| MP: 800        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Ice-aspected. In single-target mode, causes Level \* Intellect
 \* 0.8 damage. In multi-target mode, causes Level \* Intellect \* 0.6 Damage.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Firaja**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 800 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 300 | R: 4 rows        | Ranged Indirect        |
+| MP: 800        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Fire-aspected. In single-target mode, causes Level \* Intellect
 \* 0.8 damage. In multi-target mode, causes Level \* Intellect \* 0.6 Damage.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Poisonja**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 850 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 300 | R: 4 rows        | Ranged Indirect        |
+| MP: 850        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Poison-aspected. In single-target mode, causes Level \*
 Intellect \* 0.6 damage. In multi-target mode, causes Level \* Intellect \* 0.5
@@ -4477,98 +4632,117 @@ damage.
 Attempts to cause [Poison](#status-poison) to all targets in the area. In
 multi-target mode, M-Acc is halved.
 
+In map combat, multi-target mode can cause friendly fire.
+
 **Thundaja**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 800 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 300 | R: 4 rows        | Ranged Indirect        |
+| MP: 800        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Lightning-aspected. In single-target mode, causes Level \*
 Intellect \* 0.8 damage. In multi-target mode, causes Level \* Intellect \* 0.6
 Damage.
 
+In map combat, multi-target mode can cause friendly fire.
+
 #### Black Mage 70
 
 **Flood**
 
-| Cost    |
-|---------|
-| MP: 850 |
+| Cost           |
+|----------------|
+| Cast Time: 350 |
+| MP: 850        |
 
 Magical Attack, Water-aspected. Causes Level \* Intellect \* 1.2 Damage to
-everyone on the battlefield, including yourself.
+everyone on the battlefield, including yourself. Also attempts to cause
+[Immobilize](#status-immobilize) and [Sap](#status-sap) statuses to anyone who
+takes damage from this spell.
 
 **Freeze**
 
-| Cost    |
-|---------|
-| MP: 850 |
+| Cost           |
+|----------------|
+| Cast Time: 350 |
+| MP: 850        |
 
 Magical Attack, Ice-aspected. Causes Level \* Intellect \* 1.2 Damage to
-everyone on the battlefield, including yourself.
+everyone on the battlefield, including yourself. Also attempts to cause
+[Frozen](#status-frozen) status to anyone who takes damage from this spell.
 
 **Lightning Storm**
 
-| Cost    |
-|---------|
-| MP: 850 |
+| Cost           |
+|----------------|
+| Cast Time: 350 |
+| MP: 850        |
 
 Magical Attack, Lightning-aspected. Causes Level \* Intellect \* 1.2 Damage to
-everyone on the battlefield, including yourself.
+everyone on the battlefield, including yourself. Also attempts to cause
+[Shocked](#status-shocked) status to anyone who takes damage from this spell.
 
 **Meltdown**
 
-| Cost    |
-|---------|
-| MP: 850 |
+| Cost           |
+|----------------|
+| Cast Time: 350 |
+| MP: 850        |
 
 Magical Attack, Fire-aspected. Causes Level \* Intellect \* 1.2 Damage to
-everyone on the battlefield, including yourself.
+everyone on the battlefield, including yourself. Also attempts to cause
+[Burning](#status-burning) status to anyone who takes damage from this spell.
 
 #### Black Mage 80
 
 **Ardor**
 
-| Cost      | Mapless   | Map             |
-|-----------|-----------|-----------------|
-| MP: 2,000 | R: 6 rows | Ranged Indirect |
-|           | E: 2 Rows | Target H: 6     |
-|           |           | Effect H/V: 3/3 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 400 | R: 6 rows | Ranged Indirect |
+| MP: 2,000      | E: 2 Rows | Target H: 6     |
+|                |           | Effect H/V: 3/3 |
 
 Magical Attack, Fire-aspected. Causes Level \* Intellect \* 0.8 Damage to all in
 the area.
 
+In map combat, this spell can cause friendly fire.
+
 **Glacies Claudere**
 
-| Cost      | Mapless   | Map             |
-|-----------|-----------|-----------------|
-| MP: 2,000 | R: 6 rows | Ranged Indirect |
-|           | E: 2 Rows | Target H: 6     |
-|           |           | Effect H/V: 3/3 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 400 | R: 6 rows | Ranged Indirect |
+| MP: 2,000      | E: 2 Rows | Target H: 6     |
+|                |           | Effect H/V: 3/3 |
 
 Magical Attack, Ice-aspected. Causes Level \* Intellect \* 0.8 Damage to all in
 the area.
 
+In map combat, this spell can cause friendly fire.
+
 **Luminaire**
 
-| Cost      | Mapless   | Map             |
-|-----------|-----------|-----------------|
-| MP: 2,000 | R: 6 rows | Ranged Indirect |
-|           | E: 2 Rows | Target H: 6     |
-|           |           | Effect H/V: 3/3 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 400 | R: 6 rows | Ranged Indirect |
+| MP: 2,000      | E: 2 Rows | Target H: 6     |
+|                |           | Effect H/V: 3/3 |
 
 Magical Attack, Lightning-aspected. Causes Level \* Intellect \* 0.8 Damage to
 all in the area.
 
+In map combat, this spell can cause friendly fire.
+
 **Toxic**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 850 | R: 6 rows | Ranged Indirect |
-|         | E: 2 Rows | Target H: 6     |
-|         |           | Effect H/V: 3/3 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 400 | R: 6 rows | Ranged Indirect |
+| MP: 2,400      | E: 2 Rows | Target H: 6     |
+|                |           | Effect H/V: 3/3 |
 
 Magical Attack, Poison-aspected. Causes Level \* Intellect \* 0.6 Damage to all
 in the area.
@@ -4576,26 +4750,30 @@ in the area.
 Attempts to cause [Poison](#status-poison) and \[Toxic\]\[Status: Toxic\] to all
 targets in the area. In multi-target mode, M-Acc is halved.
 
+In map combat, this spell can cause friendly fire.
+
 #### Black Mage 90
 
 **Deathga**
 
-| Cost      | Mapless   | Map             |
-|-----------|-----------|-----------------|
-| MP: 3,000 | R: 6 rows | Ranged Indirect |
-|           | E: 2 rows | Target H: 6     |
-|           |           | Effect H/V: 3/3 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 450 | R: 6 rows | Ranged Indirect |
+| MP: 3,000      | E: 2 Rows | Target H: 6     |
+|                |           | Effect H/V: 3/3 |
 
 Magical Attack, Dark-aspected. Attempts to cause instant death to everyone in
 the area, but at half M-Acc. This is considered a Gravity/Death technique.
 
+In map combat, this spell can cause friendly fire.
+
 **Elemental Break**
 
-| Cost      | Mapless   | Map             |
-|-----------|-----------|-----------------|
-| MP: 2,000 | R: 4 rows | Ranged Indirect |
-|           | E: Single | Target H: 4     |
-|           |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 450 | R: 4 rows | Ranged Indirect |
+| MP: 2,000      | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Magical Attack, Unaspected. Attempts to cause an \[Elemental Weakness\]\[Status:
 Elemental Weakness\] of your choice. If the target already has the weakness you
@@ -4603,13 +4781,15 @@ chose then this spell is not effective.
 
 **Flarega**
 
-| Cost      | Mapless   | Map             |
-|-----------|-----------|-----------------|
-| MP: 3,000 | R: 6 rows | Ranged Indirect |
-|           | E: 2 rows | Target H: 6     |
-|           |           | Effect H/V: 3/3 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 450 | R: 6 rows | Ranged Indirect |
+| MP: 3,000      | E: 2 Rows | Target H: 6     |
+|                |           | Effect H/V: 3/3 |
 
 Magical Attack, Unaspected, for Level \* Intellect damage.
+
+In map combat, this spell can cause friendly fire.
 
 #### Black Mage 99
 
@@ -4984,7 +5164,7 @@ the battlefield. This spell cannot be reflected.
 |         | E: Single | Target H: 6     |
 |         |           | Effect H/V: 1/1 |
 
-Restores Level \* Wisdom \* 0.4 HP, and grants \[Reraise\]\[Status: Reraise\]
+Restores Level \* Wisdom \* 0.4 HP, and grants [Reraise](#status-reraise)
 status.
 
 **Gorgon Gaze**
@@ -5252,7 +5432,7 @@ half M-Acc.
 
 Grants \[Protect\]\[Status: Protect\], \[Shell\]\[Status: Shell\],
 \[Float\]\[Status: Float\], [Haste](#status-haste), [Regen](#status-regen) and
-\[Reraise\]\[Status: Reraise\] statuses to all allies in the area.
+[Reraise](#status-reraise) statuses to all allies in the area.
 
 **Level 3 Flare**
 
@@ -5316,6 +5496,7 @@ interesting ways.
     [Geomancer](#geomancer) 50, [Orator](#orator) 50, [Squire](#squire) 80,
     [Summoner](#summoner) 50
 -   [Onion Knight](#onion-knight) - *Chemist* 60, [Squire](#squire) 60
+-   [Psychic](#psychic) - *Chemist* 20
 -   [Thaumaturgist](#thaumaturgist) - *Chemist* 20
 -   [White Mage](#white-mage) - *Chemist* 20
 
@@ -5356,8 +5537,8 @@ interesting ways.
 | 90   | Reaction: Auto Potion         |
 | 99   | Job Mastered                  |
 
--   **Mastery Bonus:** You provide double the number of uses for items that you
-    craft.
+**Mastery Bonus:** You provide double the number of uses for items that you
+craft.
 
 ### Chemistry
 
@@ -5375,7 +5556,7 @@ Use two charges of an item to produce its **Distillation** effect.
 |-----------------|-----------|-----------------|
 | Charge Time: 50 | R: 4 rows | Ranged Arc      |
 |                 | E: Party  | Target H: 6     |
-|                 |           | Effect H/V: 3/2 |
+|                 |           | Effect H/V: 3/3 |
 
 Use two charges of an item to make it affect all in the target area.
 
@@ -5410,11 +5591,12 @@ items.
 
 | Cost   | Mapless   | Map             |
 |--------|-----------|-----------------|
-| MP: 80 | R: 4 rows | Ranged Calldown |
+| MP: 80 | R: 4 rows | Ranged Indirect |
 |        | E: 1 row  | Target H: 4     |
 |        |           | Effect H/V: 2/3 |
 
-Unaspected Magical attack, for Level \* Intellect \* 0.4 damage.
+Magical Attack, Unaspected, targeting all combatants in the area for Level \*
+Intellect \* 0.4 damage.
 
 #### Chemist 50
 
@@ -5430,12 +5612,11 @@ Use an item without consuming any charges.
 
 **Amputation**
 
-| Cost    | Mapless   | Map   |
-|---------|-----------|-------|
-| TP: 700 | R: 1 row  | Melee |
-|         | E: Single |       |
+| Cost    | Mapless | Map   |
+|---------|---------|-------|
+| TP: 700 | Melee   | Melee |
 
-Unaspected Magical attack, for Level \* Intellect \* 0.8 damage.
+Magical Attack, Unaspected, dealing Level \* Intellect \* 0.8 damage.
 
 #### Chemist 70
 
@@ -5447,7 +5628,7 @@ Unaspected Magical attack, for Level \* Intellect \* 0.8 damage.
 |           | E: 1 row | Target H: 0         |
 |           |          | Effect H/V: 2/3     |
 
-Unaspected Magical attack against all enemies in the area, for Level \*
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
 Intellect \* 0.4 damage, plus an amount of damage equal to the difference
 between your current and maximum HP. This is added together to make one instance
 of damage.
@@ -5728,7 +5909,7 @@ enemies in the area, at double M-Acc.
 | Limit Break |
 
 You summon a fat chocobo to sit on all enemies on the battlefield, dealing Level
-\* Strength \* 0.6 damage. In addition, all of your item uses are restored.
+\* Stamina \* 0.6 damage. In addition, all of your item uses are restored.
 
 ## Conjurer
 
@@ -6294,7 +6475,7 @@ Level \* Spirit \* 0.1 MP for all allies for all allies on the battlefield.
 | 80   | Move: Jump +3                   |
 | 99   | Job Mastered                    |
 
-**Mastery Bonus:**
+**Mastery Bonus:** Attacks against your back are converted to flanking attacks.
 
 ### Kriegstanz
 
@@ -6423,14 +6604,14 @@ effects of one Dance Style.
 -   [Thunder God](#thunder-god) - *Dark Knight* 80, [Knight](#knight) 80,
     [Paladin](#paladin) 80
 
-| Action              | Reaction   | Support         | Move       |
-|---------------------|------------|-----------------|------------|
-| Attack              | 1 x Choice | **Blood Gauge** | Mapless: 3 |
-| Charge Up           |            | **HP Boost**    | Move: 3    |
-| Defend              |            | **Vehemence**   | Jump: 3    |
-| **Darkness Weapon** |            | 1 x Choice      | 1 x Choice |
-| 1 x Choice          |            |                 |            |
-| Item                |            |                 |            |
+| Action                                  | Reaction   | Support         | Move       |
+|-----------------------------------------|------------|-----------------|------------|
+| Attack                                  | 1 x Choice | **Blood Gauge** | Mapless: 3 |
+| Charge Up                               |            | **HP Boost**    | Move: 3    |
+| Defend                                  |            | **Vehemence**   | Jump: 3    |
+| **[Darkness Weapon](#darkness-weapon)** |            | 1 x Choice      | 1 x Choice |
+| 1 x Choice                              |            |                 |            |
+| Item                                    |            |                 |            |
 
 -   **Action: Darkness Weapon:** Tapping in to your dark side to expose the
     fragility of everything else around you.
@@ -6466,7 +6647,7 @@ effects of one Dance Style.
 |-----------------|
 | 10 Blood Points |
 
-You restore Level \* Wisdom \* 0.6 HP to yourself.
+You restore Level \* Stamina \* 0.6 HP to yourself.
 
 **Syphon Strike**
 
@@ -6547,6 +6728,9 @@ Magical Attack, Dark-Aspected, dealing Level \* Intellect \* 0.8 Damage. Also
 grants yourself [Darkside](#status-darkside) status for 4 status phases. You
 gain 1 Blood Point.
 
+This ability can be used immediately after a TP-using *Darkness Weapon* action,
+in which case the MP cost is doubled, for a total of 6,000 MP.
+
 **Shadow Wall**
 
 | Cost      |
@@ -6573,6 +6757,9 @@ Grants yourself \[Shell\]\[Status: Shell\] status.
 
 Attack, for double Dark-Aspected Damage. Also grants yourself
 [Darkside](#status-darkside) status for 4 status phases. You gain 1 Blood Point.
+
+This ability can be used immediately after a TP-using *Darkness Weapon* action,
+in which case the MP cost is doubled, for a total of 6,000 MP.
 
 **Shirk**
 
@@ -6858,7 +7045,7 @@ Esper.
 -   **Action: Dragonsoul:** Techniques for fighting both with and against
     dragons.
 -   **Reaction: Dragonheart (1,000 TP):** Upon taking physical damage, you gain
-    \[Reraise\]\[Status: Reraise\].
+    [Reraise](#status-reraise).
 -   **Move: Ignore Elevation:** In mapless combat, grants +2 maneuver. In map
     combat, your Jump is unlimited, so you no longer need a Jump number.
 
@@ -7412,9 +7599,378 @@ Critical](#status-boost-critical) status.
 
 ## Festivalist
 
-**Requires:** …
+**Requires:** [Black Mage](#black-mage) 20, [Jongleur](#jongleur) 20
 
-**Leads to:** …
+**Leads to:** None
+
+| Action                          | Reaction   | Support      | Move       |
+|---------------------------------|------------|--------------|------------|
+| Attack                          | 1 x Choice | **Timeless** | Mapless: 4 |
+| Charge Up                       |            | 1 x Choice   | Move: 4    |
+| Defend                          |            |              | Jump: 3    |
+| **[Festivities](#festivities)** |            |              | 1 x Choice |
+| 1 x Choice                      |            |              |            |
+| Item                            |            |              |            |
+
+-   **Action: Festivities:** Using your own enjoyment of festivals as the source
+    of your personal magic.
+-   **Support: Timeless:** Your M-Eva is doubled against \[Slow\]\[Status:
+    Slow\] and [Stop](#status-stop).
+
+| Weapon Proficiency | Armor Proficiency |
+|--------------------|-------------------|
+| 1H Hammers         | Scout             |
+| 1H Handbags        | Magic             |
+| 1H Maces           | 1 x Choice        |
+| 1H Bombsticks      |                   |
+| 1H Bells           |                   |
+| 1 x Choice         |                   |
+
+| JLVL | Unlock              |
+|------|---------------------|
+| 10   | Action: Festivities |
+| 80   | Support: Timeless   |
+| 99   | Job Mastered        |
+
+**Mastery Bonus:**
+
+### Festivities
+
+#### Festivalist 1
+
+**Fire Sandals**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 30 | R: 4 rows | Ranged Indirect |
+| MP: 60        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Fire-Aspected, dealing Level \* Intellect \* 0.1 \* 1d8 damage.
+
+**Ice Sandals**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 30 | R: 4 rows | Ranged Indirect |
+| MP: 60        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Ice-Aspected, dealing Level \* Intellect \* 0.1 \* 1d8 damage.
+
+**Thunder Sandals**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 30 | R: 4 rows | Ranged Indirect |
+| MP: 60        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Lightning-Aspected, dealing Level \* Intellect \* 0.1 \* 1d8
+damage.
+
+#### Festivalist 10
+
+**Spinner Fireworks**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 30 | R: 4 rows | Ranged Indirect |
+| MP: 60        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Unaspected, dealing Level \* Intellect \* 0.1 \* 1d6 damage.
+Also attempts to cause [Confuse](#status-confuse) status.
+
+**Twinkler Fireworks**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 30 | R: 4 rows | Ranged Indirect |
+| MP: 60        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Restores Level \* Wisdom \* 0.1 \* 1d4 HP, and removes one status condition of
+the target’s choice.
+
+**Water Sandals**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 30 | R: 4 rows | Ranged Indirect |
+| MP: 60        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Water-Aspected, dealing Level \* Intellect \* 0.1 \* 1d8 damage.
+Also attempts to cause [Watered](#status-watered) status.
+
+#### Festivalist 20
+
+**Blind Mask**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 30 | R: 4 rows | Ranged Indirect |
+| MP: 60        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Dark-Aspected, dealing Level \* Intellect \* 0.4 damage. Also
+attempts to cause [Blind](#status-blind) status.
+
+**Fountain Fireworks**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 60 | R: 4 rows | Ranged Indirect |
+| MP: 120       | E: 1 row  | Target H: 4     |
+|               |           | Effect H/V: 3/3 |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Intellect \* 0.1 \* 1d8 damage.
+
+**Popper Fireworks**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 40 | R: 4 rows | Ranged Indirect |
+| MP: 80        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Unaspected, dealing Level \* Intellect \* 0.1 \* 1d10 damage.
+
+#### Festivalist 30
+
+**Fire Fish**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 30 | R: 4 rows | Ranged Indirect |
+| MP: 60        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Fire-Aspected, dealing Level \* Intellect \* 0.1 \* (1 + [Fish
+Counter](#fish-counter)) damage, and adds one [Fish Counter](#fish-counter) to
+the target.
+
+**Ice Fish**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 30 | R: 4 rows | Ranged Indirect |
+| MP: 60        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Ice-Aspected, dealing Level \* Intellect \* 0.1 \* (1 + [Fish
+Counter](#fish-counter)) damage, and adds one [Fish Counter](#fish-counter) to
+the target.
+
+**Thunder Fish**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 30 | R: 4 rows | Ranged Indirect |
+| MP: 60        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Lightning-Aspected, dealing Level \* Intellect \* 0.1 \* (1 +
+[Fish Counter](#fish-counter)) damage, and adds one [Fish
+Counter](#fish-counter) to the target.
+
+#### Festivalist 40
+
+**Quake Taiko**
+
+| Cost           | Mapless                 | Map                 |
+|----------------|-------------------------|---------------------|
+| Cast Time: 200 | R: 2 rows               | Self-Centered Burst |
+| MP: 400        | E: Front row of enemies | Target H: 0         |
+|                |                         | Effect H/V: 3/3     |
+
+Magical Attack, Earth-Aspected, targeting all enemies in the area for Level \*
+Intellect \* 0.4 damage. \[Float\]\[Status: Float\] gives immunity to this
+spell.
+
+**Silence Mask**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 30 | R: 4 rows | Ranged Indirect |
+| MP: 60        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Air-Aspected, dealing Level \* Intellect \* 0.4 damage. Also
+attempts to cause [Silence](#status-silence) status.
+
+**Water Fish**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 30 | R: 4 rows | Ranged Indirect |
+| MP: 60        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Water-Aspected, dealing Level \* Intellect \* 0.1 \* (1 + [Fish
+Counter](#fish-counter)) damage, and adds one [Fish Counter](#fish-counter) to
+the target. Also attempts to cause [Watered](#status-watered) status.
+
+#### Festivalist 50
+
+**Sleep Mask**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 30 | R: 4 rows | Ranged Indirect |
+| MP: 60        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Ice-Aspected, dealing Level \* Intellect \* 0.4 damage. Also
+attempts to cause [Sleep](#status-sleep) status.
+
+**Takoyaki**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 90 | R: 4 rows | Ranged Indirect |
+| MP: 180       | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Two Magical Attacks on the target, each dealing Level \* Intellect \* 0.4
+damage. The first is Fire-Aspected, the second is Water-Aspected.
+
+#### Festivalist 60
+
+**Okonomiyaki**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 90 | R: 4 rows | Ranged Indirect |
+| MP: 180       | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Earth-Aspected, dealing Level \* Intellect \* 0.4 damage. Then,
+restores Level \* Wisdom \* 0.2 HP to yourself.
+
+**Poison Mask**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 30 | R: 4 rows | Ranged Indirect |
+| MP: 60        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Poison-Aspected, dealing Level \* Intellect \* 0.4 damage. Also
+attempts to cause [Poison](#status-poison) status.
+
+#### Festivalist 70
+
+**Gravity Fish**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 60 | R: 4 rows | Ranged Indirect |
+| MP: 120       | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Unaspected, dealing an amount of damage to the target equal to
+5% of their maximum HP, multipled by the target’s [Fish Counter](#fish-counter).
+Afterwards, adds one [Fish Counter](#fish-counter) to the target. This is a
+Gravity/Death attack.
+
+**Stop Mask**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 60 | R: 4 rows | Ranged Indirect |
+| MP: 140       | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical Attack, Unaspected, dealing Level \* Intellect \* 0.4 damage. Also
+attempts to cause [Stop](#status-stop) status.
+
+**Yakitori**
+
+| Cost           | Mapless | Map   |
+|----------------|---------|-------|
+| Cast Time: 100 | Melee   | Melee |
+| MP: 400        |         |       |
+
+Restores Level \* Wisdom \* 0.4 HP to yourself. Then, you use the remaining
+yakitori skewers to perform a melee attack for Physical Unaspected damage,
+dealing Level \* Strength \* 0.6 damage.
+
+#### Festivalist 80
+
+**Flare Sandals**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 120 | R: 4 rows | Ranged Indirect |
+| MP: 120        | E: Single | Target H: 4     |
+| TP: 120        |           | Effect H/V: 1/1 |
+
+Magical Attack, Unaspected, dealing Level \* Intellect \* 0.1 \* 1d12 damage.
+
+**Petro Mask**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 130 | R: 4 rows | Ranged Indirect |
+| MP: 260        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
+
+Magical Attack, Earth-Aspected, dealing Level \* Intellect \* 0.4 damage. Also
+attempts to cause [Petrify](#status-petrify) status.
+
+#### Festivalist 90
+
+**Holy Fish**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 100 | R: 4 rows | Ranged Indirect |
+| MP: 200        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
+
+Magical Attack, Holy-Aspected, dealing Level \* Intellect \* 0.1 \* (1 + [Fish
+Counter](#fish-counter)) damage, and adds one [Fish Counter](#fish-counter) to
+the target. Also attempts to cause [Stun](#status-stun) status for one status
+phase.
+
+**Ultima Sandals**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 360 | R: 4 rows | Ranged Indirect |
+| MP: 990        | E: 1 row  | Target H: 4     |
+| TP: 360        |           | Effect H/V: 3/3 |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Intellect \* 0.1 \* 1d12 damage.
+
+#### Festivalist 99
+
+**Dai Hanabi**
+
+| Cost        | Mapless                    | Map                 |
+|-------------|----------------------------|---------------------|
+| Limit Break | R: 4 rows                  | Self-Centered Burst |
+|             | E: Front 2 rows of enemies | Target H: 0         |
+|             |                            | Effect H/V: 4/4     |
+
+Launches an array of colored fireworks, functioning as Magical Attacks against
+all enemies in the area. Each attack does Level \* Intellect \* 0.4 damage. The
+sequence of attacks is as follows:
+
+| Firework      | Element   |
+|---------------|-----------|
+| 1: Red        | Fire      |
+| 2: White      | Holy      |
+| 3: Blue       | Water     |
+| 4: Yellow     | Lightning |
+| 5: Silver     | Ice       |
+| 6: Purple     | Dark      |
+| 7: Green      | Poison    |
+| 8: Noisemaker | Air       |
 
 ## Freelancer
 
@@ -7451,6 +8007,8 @@ current Job has 1 x Choice for Support abilities, then it changes to 2 x Choice.
 -   [Gunbreaker](#gunbreaker) - *Fusilier* 30, [Marauder](#marauder) 60,
     [Spellblade](#spellblade) 30
 -   [Machinist](#machinist) - [Arithmetician](#arithmetician) 30, *Fusilier* 30
+-   [Magitek Pilot](#magitek-pilot) - [Black Mage](#black-mage) 20, *Fusilier*
+    20
 
 | Action                        | Reaction   | Support             | Move       |
 |-------------------------------|------------|---------------------|------------|
@@ -7517,6 +8075,14 @@ removes one status condition of the target’s choice.
 | TP: 150 |
 
 Attack, Fire-Aspected.
+
+**Potshot**
+
+| Cost   |
+|--------|
+| MP: 80 |
+
+Attack, and ignore P-Eva.
 
 #### Fusilier 20
 
@@ -7604,7 +8170,24 @@ the battlefield.
 
 Attack, and attempt to cause [Blind](#status-blind) on hit.
 
+**Quarter Pounder**
+
+| Cost    |
+|---------|
+| MP: 800 |
+
+Attack that attempts to do an amount of damage equal to 25% of the target’s
+current HP. Ignores P-Def. This is a Gravity/Death attack.
+
 #### Fusilier 70
+
+**Burst Shot**
+
+| Cost      |
+|-----------|
+| MP: 1,200 |
+
+Attack, with accuracy class improved by 2.
 
 **Ether Boost**
 
@@ -7614,6 +8197,14 @@ Attack, and attempt to cause [Blind](#status-blind) on hit.
 | MP: 2,000       |
 
 Attack, and add Level \* Intellect \* 0.4 to the damage.
+
+**On The Level**
+
+| Cost      |
+|-----------|
+| MP: 1,200 |
+
+Attack, for Level \* Level \* 8 damage.
 
 **Silenceshot**
 
@@ -7642,6 +8233,15 @@ Uses an amount of your HP equal to 25% of your maximum HP. Attack, and add Level
 | TP: 450 |
 
 Attack, and attempt to cause [Stop](#status-stop) on hit.
+
+**Table-turner**
+
+| Cost    |
+|---------|
+| MP: 800 |
+
+Attack, and add the target’s P-Def to the damage. Ignores P-Def when calculating
+the After-Armor Damage.
 
 #### Fusilier 90
 
@@ -7705,6 +8305,513 @@ Performs *Prime Munition*, *Buckshot*, *Scope*, *Mortar* and *Target*, followed
 by one *Gunmanship* action of your choice. Ignore TP costs.
 
 ## Gambler
+
+**Requires:** [Mystic](#mystic) 30, [Thief](#thief) 30
+
+| Action                    | Reaction   | Support    | Move       |
+|---------------------------|------------|------------|------------|
+| Attack                    | 1 x Choice | 1 x Choice | Mapless: 4 |
+| Charge Up                 |            |            | Move: 4    |
+| Defend                    |            |            | Jump: 3    |
+| **[Gambling](#gambling)** |            |            |            |
+| 1 x Choice                |            |            |            |
+| Item                      |            |            |            |
+
+-   **Action: Gambling:** Games of betting, luck and chance for questionable
+    rewards. The potential gains are great, but you can also lose everything.
+    The game group is not obligated to wait for full Gambling actions to play
+    out, because some of them can take a considerable amount of time (especially
+    *Chess With Death*). Also beware that some may involve real money
+    (e.g. *Gachapon Pull*).
+
+| Weapon Proficiency | Armor Proficiency |
+|--------------------|-------------------|
+| 1H Rapiers         | Aim               |
+| **1H Cards**       | Scout             |
+| 1H Darts           | 1 x Choice        |
+| 1 x Choice         |                   |
+
+| JLVL | Unlock           |
+|------|------------------|
+| 10   | Action: Gambling |
+| 99   | Job Mastered     |
+
+**Mastery Bonus:** When you do an action with a random element in it other than
+critical hit chance, you can reroll that random element. You choose which of the
+two results to stick with. If used with *Gambling* actions, then a full action
+is treated as a single random element, e.g. a full play of slots or a full hand
+of mahjong.
+
+### Gambling
+
+#### Gambler 1
+
+**Coin Flip**
+
+| Cost    |
+|---------|
+| Special |
+
+Consumes an amount of item charges totalling 1 Gathering or Craftsmanship. Grab
+one coin. Guess whether it will turn up heads or tails. Flip the coin. If you
+guessed correctly, you do an attack for double damage. Otherwise, your action is
+wasted.
+
+**Gachapon Capsule**
+
+Do a single gacha pull. If the result is the most common drop possible, then
+your action is wasted. Otherwise, you restore one item use. If the result is the
+most rare drop possible, then you fully restore the party’s item uses.
+
+#### Gambler 10
+
+**Bribe**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| Special | R: 6 rows | Ranged Direct   |
+|         | E: Single | Target H: 6     |
+|         |           | Effect H/V: 1/1 |
+
+Consumes an amount of item charges totalling 10 Gathering or Craftsmanship.
+Magical technique that attempts to convince the target to leave the combat.
+
+**Card Sharp**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| MP: 130 | R: 6 rows | Ranged Direct   |
+|         | E: Single | Target H: 6     |
+|         |           | Effect H/V: 1/1 |
+
+Draw a playing card, then use it to perform a Physical Attack, Unaspected,
+dealing variable damage based on the card.
+
+| Card         | Damage                                     |
+|--------------|--------------------------------------------|
+| Ace          | Level \* Tenacity \* 0.8                   |
+| 2 through 10 | Level \* Dexterity \* 0.1 \* card’s number |
+| Face         | Level \* Mind \* 0.8                       |
+
+**Odds or Evens**
+
+| Cost    |
+|---------|
+| Special |
+
+Consumes an amount of item charges totalling 10 Gathering or Craftsmanship. Grab
+two dice. Guess whether the sum will be odd or even. Roll the dice. If you
+guessed correctly, then you attack all enemies on the battlefield for half
+After-Armor Damage, ignoring P-Eva. Otherwise, you attack your own party
+instead, including yourself.
+
+#### Gambler 20
+
+**Jackpot Chip**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| MP: 280 | R: 6 rows | Ranged Direct   |
+|         | E: Single | Target H: 6     |
+|         |           | Effect H/V: 1/1 |
+
+Attack, with accuracy class improved by 1. Deals Level \* Agility \* 0.6 damage.
+
+**Penny Slots**
+
+| Cost    |
+|---------|
+| Special |
+
+Consumes an amount of item charges totalling 1 Gathering or Craftsmanship. Play
+the [Slot Machine](#slot-machine), but only using the center row.
+
+**Yahtzee Roll**
+
+| Cost    |
+|---------|
+| Special |
+
+Consumes an amount of item charges totalling 20 Gathering or Craftsmanship. Play
+one round of Yahtzee. For every 10 points of score, you attack a random enemy on
+the battlefield for half damage, ignoring P-Eva and P-Def.
+
+#### Gambler 30
+
+**Blackjack Hand**
+
+| Cost    |
+|---------|
+| Special |
+
+Consumes an amount of item charges totalling 21 Gathering or Craftsmanship. Play
+one hand of Blackjack. If you get 21 and the dealer does not, then you attack
+one enemy on the battlefield for double damage, ignoring P-Eva and P-Def. If you
+win a normal hand, then you restore Level \* Determination \* 0.1 TP to
+yourself. If you lose, then you also lose all your current TP.
+
+**Luck**
+
+| Cost   |
+|--------|
+| MP: 80 |
+
+Grants yourself [Resilient](#status-resilient) status.
+
+#### Gambler 40
+
+**Darts Airstrike**
+
+| Cost    | Mapless         | Map             |
+|---------|-----------------|-----------------|
+| MP: 360 | R: 6 rows       | Ranged Direct   |
+|         | E: Row, Special | Target H: 6     |
+|         |                 | Effect H/V: 3/3 |
+
+Throw three heavy darts up into the air, which are then randomly divided between
+enemies in the target area. Each dart is a Physical Attack, Unaspected, dealing
+Level \* Dexterity \* 0.4 damage.
+
+**Nickel Slots**
+
+| Cost    |
+|---------|
+| Special |
+
+Consumes an amount of item charges totalling 5 Gathering or Craftsmanship. Play
+the [Slot Machine](#slot-machine). Top and bottom rows are used, and you choose
+one of the two results.
+
+#### Gambler 50
+
+**Lucky Dice**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| MP: 300 | R: 6 rows | Ranged Direct   |
+|         | E: Single | Target H: 6     |
+|         |           | Effect H/V: 1/1 |
+
+Grants a status condition to the target. Roll a 1d6 to find out which one.
+
+| Roll | Status Given                             |
+|------|------------------------------------------|
+| 1    | [Boost Movement](#status-boost-movement) |
+| 2    | [Boost Accuracy](#status-boost-accuracy) |
+| 3    | [Boost Attack](#status-boost-attack)     |
+| 4    | [Boost Evasion](#status-boost-evasion)   |
+| 5    | [Boost Magick](#status-boost-magick)     |
+| 6    | [Boost Critical](#status-boost-critical) |
+
+**Poker Hand**
+
+| Cost    |
+|---------|
+| Special |
+
+Consumes an amount of item charges totalling 50 Gathering or Craftsmanship. Draw
+7 cards and attempt to make a hand with 5 cards. If you only make one-pair or
+worse, then you die instantly. Otherwise, you regain Level \* Stamina \* 0.6 HP,
+Level \* Spirit \* 0.4 MP and Level \* Determination \* 0.2 TP.
+
+#### Gambler 60
+
+**Unlucky Dice**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| MP: 250 | R: 6 rows | Ranged Direct   |
+|         | E: Single | Target H: 6     |
+|         |           | Effect H/V: 1/1 |
+
+Physical technique that attempts to cause a status condition to the target. Roll
+a 1d6 to find out which one.
+
+| Roll | Status Given                                             |
+|------|----------------------------------------------------------|
+| 1    | [Broken Accessory](#status-broken-accessory)             |
+| 2    | [Broken Armor](#status-broken-armor)                     |
+| 3    | [Broken Helmet](#status-broken-helmet)                   |
+| 4    | [Broken Shield](#status-broken-shield)                   |
+| 5    | [Broken Weapon](#status-broken-weapon)                   |
+| 6    | [Critical Vulnerability](#status-critical-vulnerability) |
+
+**Dime Slots**
+
+| Cost    |
+|---------|
+| Special |
+
+Consumes an amount of item charges totalling 10 Gathering or Craftsmanship. Play
+the [Slot Machine](#slot-machine). All three rows are used, and you choose one
+of the three results.
+
+#### Gambler 70
+
+**Chess With Death**
+
+You play a chess game against Death (or the closest thing to Death, such as a
+reputable AI). If you win, then you gain [Reraise](#status-reraise) and
+[Rearise](#status-rearise) statuses. If you lose, then you die, and cannot be
+revived for the remainder of the game session.
+
+**Chocobo Race Betting**
+
+| Cost    |
+|---------|
+| Special |
+
+Consumes an amount of item charges totalling 10 Gathering or Craftsmanship. Play
+the [Chocobo Race Betting](#chocobo-race-betting) system.
+
+#### Gambler 80
+
+**Essence of Russian Roulette**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| MP: 580 | R: 6 rows | Ranged Direct   |
+|         | E: 1 row  | Target H: 6     |
+|         |           | Effect H/V: 3/3 |
+
+Physical technique with a random effect, against either yourself or all
+combatants in the area, both friend and foe. Roll a 1d6 to determine what
+happens.
+
+| Roll | Result                                                                                          |
+|------|-------------------------------------------------------------------------------------------------|
+| 1    | You shoot yourself for Level \* Dexterity \* 0.3 damage. Ignores P-Eva and P-Def.               |
+| 2    | You shoot all in the target area for Level \* Dexterity \* 0.3 damage. Ignores P-Eva and P-Def. |
+| 3    | You shoot yourself for Level \* Dexterity \* 0.6 damage. Ignores P-Eva and P-Def.               |
+| 4    | You shoot all in the target area for Level \* Dexterity \* 0.6 damage. Ignores P-Eva and P-Def. |
+| 5    | You die instantly.                                                                              |
+| 6    | You shoot all in the target area for Level \* Dexterity \* 0.9 damage. Ignores P-Eva and P-Def. |
+
+**Felicity**
+
+| Cost    | Mapless        | Map                 |
+|---------|----------------|---------------------|
+| MP: 240 | R: 2 rows      | Self-Centered Burst |
+|         | E: Whole party | Target H: 0         |
+|         |                | Effect H/V: 4/4     |
+
+Grants [Resilient](#status-resilient) status to all allies in the area.
+
+**Quarter Slots**
+
+| Cost    |
+|---------|
+| Special |
+
+Consumes an amount of item charges totalling 25 Gathering or Craftsmanship. Play
+the [Slot Machine](#slot-machine). All three rows and both diagonals are used,
+and you choose one of the five results.
+
+#### Gambler 90
+
+**Chocobo Race Jockeying**
+
+| Cost    |
+|---------|
+| Special |
+
+Consumes an amount of item charges totalling 25 Gathering or Craftsmanship. Play
+the [Chocobo Race Betting](#chocobo-race-betting) system, except that you
+personally ride on your chosen chocobo, improving chances by an additive 10%.
+For example, if you choose the 20% odds, then your chances become 30%. If you
+have mastered the [Chocobo Knight](#chocobo-knight) job then your chances are
+improved by an additional 10%. In either case, you are banned from betting
+against yourself.
+
+**Dollar Slots**
+
+| Cost    |
+|---------|
+| Special |
+
+Consumes an amount of item charges totalling 25 Gathering or Craftsmanship. Play
+the [Slot Machine](#slot-machine). All three rows and both diagonals are used.
+The center row also uses the *High Power Effects* rather than the *Normal Power
+Effects*. You choose one of the five results.
+
+**Mahjong Hand**
+
+| Cost    |
+|---------|
+| Special |
+
+Consumes an amount of item charges totalling 200 Gathering or Craftsmanship.
+Play a solitaire game of Mahjong, according to Japanese Riichi rules, and
+attempt to form a hand with only 29 draws. On a failure to make a Mahjong, the
+whole party loses 20,000 HP, MP and TP. On a success, do an amount of Magical
+Unaspected damage to all enemies equal to ten times the points value of the
+hand, ignoring M-Eva and M-Def. The [Special Mahjong
+Effects](#special-mahjong-effects) from your winning hand also take effect.
+
+#### Gambler 99
+
+**Full Banner Pull**
+
+As *Gachapon Capsule* except you do whatever is the maximum pull size for the
+gacha game. Each of the results are evaluated separately.
+
+**Luck of Akagi**
+
+| Cost        |
+|-------------|
+| Limit Break |
+
+Perform a [Gambling](#gambling) action, except that you choose the exact result.
+The result must still be possible within the rules of the game, e.g. no more
+than 4 of the same Mahjong tiles, repeated cards depend on the number of decks
+used, etc.
+
+### Slot Machine
+
+There are three reels, with each reel having three positions. This is a total of
+9 random positions.
+
+| pos | pos | pos |
+|-----|-----|-----|
+| 1   | 2   | 3   |
+| 4   | 5   | 6   |
+| 7   | 8   | 9   |
+
+-   Top Row: 1, 2, and 3
+-   Center Row: 4, 5, and 6
+-   Bottom Row: 7, 8, and 9
+-   Forward Diagonal: 7, 5, and 3
+-   Back Diagonal: 1, 5, and 9
+
+Each position is determined by a roll of 1d8:
+
+1.  Diamond
+2.  Chocobo
+3.  Airship
+4.  Dragon
+5.  Cait Sith
+6.  Moogle
+7.  BAR
+8.  Lucky Seven
+
+#### Normal Power Effects
+
+-   Any other combination: Lagomorph (whole party): Restores Level \* Wisdom \*
+    0.1 HP, and ends [Blind](#status-blind), [Poison](#status-poison) and
+    [Sleep](#status-sleep) statuses.
+-   3 Diamonds: 7-Flush (all enemies): Magical Attack, Unaspected, targeting all
+    enemies on the battlefield for Level \* Agility \* 0.4 damage.
+-   3 Chocobos: Chocobop (all enemies): Magical Attack, Unaspected, targeting
+    all enemies on the battlefield for Level \* Intellect \* 0.4 damage. Ignores
+    M-Eva.
+-   3 Airships: H-Bomb (all enemies): Magical Attack, Unaspected, targeting all
+    enemies on the battlefield for Level \* Intellect \* 0.3 damage. Ignores
+    M-Def.
+-   3 Dragons: Sun Flare (all enemies): Magical Attack, Unaspected, targeting
+    all enemies on the battlefield for Level \* Intellect \* 0.6 damage.
+-   3 Cait Siths: Lucky Girl (all enemies): Magical technique, targeting all
+    enemies on the battlefield, that attempts to cause
+    [Immobilize](#status-immobilize) status.
+-   3 Moogles: Mog Dance (whole party): Restores Level \* Wisdom \* 0.2 HP and
+    Level \* Spirit \* 0.1 MP.
+-   3 BARs: Summon (special): Perform an \[Evocation Magic\] action, limited by
+    [Gambler](#gambler) Job Level rather than by [Evoker](#evoker) Job Level.
+    Cast Time & MP costs are ignored.
+-   2 Lucky Sevens and 1 BAR: Joker Doom (whole party): Magical technique that
+    attempts to instantly-kill each member of the party, including yourself.
+    This is a Gravity/Death attack.
+-   3 Lucky Sevens: Joker Smile (all enemies): Magical technique that attempts
+    to instantly-kill each enemy. This is a Gravity/Death attack.
+
+#### High Power Effects
+
+-   Any other combination: Mysidian Rabbit (whole party): Restores Level \*
+    Agility \* 0.1 HP, and ends up to one status condition of each party
+    member’s choice. Each ally chooses separately.
+-   3 Diamonds: Prismatic Flash (all enemies): Magical Attack, Unaspected,
+    targeting all enemies on the battlefield for Level \* Agility \* 0.6 damage.
+-   3 Chocobos: Chocobo Stampede (all enemies): Magical Attack, Unaspected,
+    targeting all enemies on the battlefield for Level \* Intellect \* 0.6
+    damage. Ignores M-Eva.
+-   3 Airships: Dive Bomb (all enemies): Magical Attack, Unaspected, targeting
+    all enemies on the battlefield for Level \* Intellect \* 0.4 damage. Ignores
+    M-Def.
+-   3 Dragons: Mega Flare (all enemies): Magical Attack, Unaspected, targeting
+    all enemies on the battlefield for Level \* Intellect \* 0.8 damage.
+-   3 Cait Siths: Super Neko (all enemies): Magical technique, targeting all
+    enemies on the battlefield, that attempts to cause [Stop](#status-stop)
+    status.
+-   3 Moogles: Mog Rave (whole party): Restores Level \* Wisdom \* 0.4 HP and
+    Level \* Spirit \* 0.2 MP.
+-   3 BARs: Grand Summon (special): Perform a \[Summoning Magic\] action,
+    limited by [Gambler](#gambler) Job Level rather than by
+    [Summoner](#summoner) Job Level. Cast Time & MP costs are ignored.
+-   2 Lucky Sevens and 1 BAR: Death Joker (whole party): Magical technique that
+    attempts to instantly-kill each member of the party, including yourself, at
+    double M-Acc. This is a Gravity/Death attack.
+-   3 Lucky Sevens: Game Over (all enemies): Magical technique that attempts to
+    instantly-kill each enemy at double M-Acc. This is a Gravity/Death attack.
+
+### Chocobo Race Betting
+
+Make a bet, then roll 1d100 to see if your bet wins. If your bet loses, then
+your action is wasted.
+
+-   75% chance to win (self-only): Grants yourself [Regen](#status-regen)
+    status.
+-   50% chance to win (one enemy): Attack, and ignore P-Eva.
+-   40% chance to win (one enemy): Attack, and ignore P-Eva and P-Def. Win a
+    Chocobo, which must then be collected from a casino.
+-   30% chance to win (one enemy): Attack for double damage, ignoring P-Eva and
+    P-Def. Win a Blue Chocobo, which must then be collected from a casino.
+-   20% chance to win (all enemies): Magical Attack, Unaspected, targeting all
+    enemies on the battlefield for Level \* Intellect \* 1.2 damage. Win a Red
+    Chocobo, which must then be collected from a casino.
+-   10% chance to win (all enemies): Magical Attack, Unaspected, targeting all
+    enemies on the battlefield for Level \* Intellect \* 1.6 damage. Win a Black
+    Chocobo, which must then be collected from a casino.
+-   5% chance to win (whole party): Restores Level \* Spirit \* 0.6 MP and
+    Level \* Determination \* 0.6 AP to the whole party. Win a Golden Chocobo,
+    which must then be collected from a casino.
+
+Direct participation as a jockey adds to odds by 10%. If doing so, then having
+[Chocobo Knight](#chocobo-knight) mastered will further add to your odds by 10%,
+for a total of 20%. In either case, you are banned from betting against
+yourself.
+
+### Special Mahjong Effects
+
+-   Pon/Kan of East Wind (Ton): Magical technique, targeting all enemies on the
+    battlefield, that attempts to cause [Broken Armor](#status-broken-armor)
+    status at double M-Acc.
+-   Pon/Kan of South Wind (Nan): Magical technique, targeting all enemies on the
+    battlefield, that attempts to cause [Broken
+    Accessory](#status-broken-accessory) status at double M-Acc.
+-   Pon/Kan of West Wind (Sha): Magical technique, targeting all enemies on the
+    battlefield, that attempts to cause [Broken Helmet](#status-broken-helmet)
+    status at double M-Acc.
+-   Pon/Kan of North Wind (Pei): Magical technique, targeting all enemies on the
+    battlefield, that attempts to cause [Broken Weapon](#status-broken-weapon)
+    status at double M-Acc.
+-   Pon/Kan of Red Dragon (Chun): Magical Attack, Fire-Aspected, targeting all
+    enemies on the battlefield for Level \* Intellect \* 0.6 damage.
+-   Pon/Kan of Green Dragon (Hatsu): Magical Attack, Earth-Aspected, targeting
+    all enemies on the battlefield for Level \* Intellect \* 0.6 damage.
+-   Pon/Kan of White Dragon (Haku): Magical Attack, Lightning-Aspected,
+    targeting all enemies on the battlefield for Level \* Intellect \* 0.6
+    damage.
+-   9+ tiles of Wan/Man/Characters: Magical technique, targeting all enemies on
+    the battlefield, that attempts to cause [Addle](#status-addle),
+    [Silence](#status-silence), [Confuse](#status-confuse),
+    [Disable](#status-disable) and [Sap](#status-sap) statuses at double M-Acc.
+-   9+ tiles of Sou/Bam/Bamboo: Restores Level \* Wisdom \* 1.2 HP to the whole
+    party.
+-   9+ tiles of Pin/Dot/Circles: Restores Level \* Determination \* 0.4 TP to
+    the whole party.
+-   Seven Pairs hand: Restores Level \* Spirit \* 0.4 MP to the whole party.
+-   Thirteen Orphans hand: Magical technique, targeting all enemies on the
+    battlefield, that attempts to kill all enemies instantly at double M-Acc.
+    This is a Gravity/Death attack.
 
 ## Geomancer
 
@@ -8674,11 +9781,10 @@ Attack, for double damage but half P-Acc.
 
 **Wild Swing**
 
-| Cost    | Mapless                       | Map                 |
-|---------|-------------------------------|---------------------|
-| TP: 600 | R: 2 rows                     | Self-Centered Burst |
-|         | E: 3 enemies in the front row | Target H: 0         |
-|         |                               | Effect H/V: 2/2     |
+| Cost    | Mapless                       | Map            |
+|---------|-------------------------------|----------------|
+| TP: 600 | R: 2 rows                     | Spinning Melee |
+|         | E: 3 enemies in the front row |                |
 
 Spinning attack against everyone adjacent to you.
 
@@ -8773,6 +9879,302 @@ points for each hit.
 | Cost        |
 |-------------|
 | Limit Break |
+
+## Jongleur
+
+**Requires:** [Thief](#thief) 20
+
+**Leads to:**
+
+-   [Festivalist](#festivalist) - [Black Mage](#black-mage) 20, *Jongleur* 20
+
+| Action                        | Reaction           | Support    | Move                  |
+|-------------------------------|--------------------|------------|-----------------------|
+| Attack                        | **Return Fire**    | 1 x Choice | Mapless: 4            |
+| Charge Up                     | **Sticky Fingers** |            | Move: 4               |
+| Defend                        | 1 x Choice         |            | Jump: 4               |
+| **[Acrobatics](#acrobatics)** |                    |            | **Dangerous Balance** |
+| 1 x Choice                    |                    |            | 1 x Choice            |
+| Item                          |                    |            |                       |
+
+-   **Action: Acrobatics:** Jesting, japery and jaunting of the highest order.
+-   **Reaction: Return Fire (TP: 150):** Upon being targeted by a ranged attack,
+    increase your P-Eva by 25%. If the ranged attack is a Glancing Hit or worse
+    against you, then you catch the projectile that was used and immediately do
+    the same ranged attack back at the original attacker.
+-   **Reaction: Sticky Fingers (TP 250):** Upon being targeted by a ranged
+    attack or other projectile, increase your P-Eva by 50%. If the action is a
+    Miss against you, then you catch the projectile that was used and keep it
+    for your own use for the remainder of combat. You may also choose to
+    immediately convert it into a restoration of one item use.
+-   **Move: Dangerous Balance:** You can move and stand on top of enemies.
+    Enemies must perform damaging techniques on you in order to make you fall
+    off.
+
+| Weapon Proficiency | Armor Proficiency |
+|--------------------|-------------------|
+| 1H Daggers         | Aim               |
+| 1H Knives          | Scout             |
+| 1H Whips           | 1 x Choice        |
+| **1H Bombsticks**  |                   |
+| **1H Boomerangs**  |                   |
+| **2H Shotputs**    |                   |
+| **1H Darts**       |                   |
+| 1 x Choice         |                   |
+
+| JLVL | Unlock                            |
+|------|-----------------------------------|
+| 10   | Action: Acrobatics                |
+| 20   | Weapon Proficiency: 1H Bombsticks |
+| 30   | Weapon Proficiency: 1H Boomerangs |
+| 40   | Weapon Proficiency: 2H Shotputs   |
+| 50   | Weapon Proficiency: 1H Darts      |
+| 60   | Reaction: Return Fire             |
+| 70   | Reaction: Sticky Fingers          |
+| 99   | Job Mastered                      |
+
+**Mastery Bonus:**
+
+### Acrobatics
+
+#### Jongleur 1
+
+**Handful Toss**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 100 | R: 4 rows | Ranged Arc      |
+|         | E: 1 row  | Target H: 4     |
+|         |           | Effect E/V: 3/3 |
+
+Projects your attack into all enemies in the target area. After-Armor Damage is
+halved.
+
+#### Jongleur 10
+
+**Rake Plant**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 100 | R: 4 rows | Ranged Arc      |
+|         | E: Single | Target H: 4     |
+|         |           | Effect E/V: 1/1 |
+
+Places a Gardening Rake at the targeted location. Any combat who steps onto the
+location will have their movement interrupted, as the rake pops up and hits them
+in the face for Level \* Strength \* 0.3 damage. This also applies to anyone who
+is forcibly moved into the targeted location. This has no effect on those who
+have \[Float\]\[Status: Float\] status.
+
+**Ring Toss**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 450 | R: 4 rows | Ranged Arc      |
+|         | E: Single | Target H: 4     |
+|         |           | Effect E/V: 1/1 |
+
+Physical technique that attempts to cause [Hold](#status-hold) status.
+
+#### Jongleur 20
+
+**Fire Blowing**
+
+| Cost    | Mapless | Map   |
+|---------|---------|-------|
+| TP: 200 | Melee   | Melee |
+
+Magical Attack, Fire-Aspected, dealing Level \* Stamina \* 0.4 damage. Also
+attempts to cause [Burning](#status-burning) status.
+
+**Molotov Cocktail**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 250 | R: 4 rows | Ranged Arc      |
+|         | E: Single | Target H: 4     |
+|         |           | Effect E/V: 1/1 |
+
+Physical Attack, Fire-Aspected, dealing Level \* Dexterity \* 0.4 damage. Also
+attempts to cause [Berserk](#status-berserk) and [Burning](#status-burning)
+status.
+
+#### Jongleur 30
+
+**Ball Toss**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 350 | R: 4 rows | Ranged Arc      |
+|         | E: Single | Target H: 4     |
+|         |           | Effect E/V: 1/1 |
+
+Physical Attack, Unaspected, dealing Level \* Dexterity \* 0.4 damage. Also
+attempts to cause [Confuse](#status-confuse) status. On a critical hit or
+better, the target is forcibly moved back by 1 square or loses 1 Maneuver.
+
+**Snide Laugh**
+
+| Cost   | Mapless   | Map             |
+|--------|-----------|-----------------|
+| MP: 80 | R: 4 rows | Ranged Direct   |
+|        | E: Single | Target H: 4     |
+|        |           | Effect E/V: 1/1 |
+
+Magical technique that attempts to cause [Berserk](#status-berserk) status.
+
+#### Jongleur 40
+
+**Dagger Toss**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 400 | R: 4 rows | Ranged Arc      |
+|         | E: Single | Target H: 4     |
+|         |           | Effect E/V: 1/1 |
+
+Physical Attack, Unaspected, dealing Level \* Dexterity \* 0.4 damage. Also
+attempts to cause [Disable](#status-disable) status.
+
+**Suggestion**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| MP: 320 | R: 4 rows | Ranged Direct   |
+|         | E: Single | Target H: 4     |
+|         |           | Effect E/V: 1/1 |
+
+Magical technique that attempts to cause [Toad](#status-toad) status.
+
+#### Jongleur 50
+
+**Hypochondria**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| MP: 120 | R: 4 rows | Ranged Direct   |
+|         | E: Single | Target H: 4     |
+|         |           | Effect E/V: 1/1 |
+
+Magical technique that attempts to cause [Bleed](#status-bleed) and
+[Poison](#status-poison) status.
+
+**Smile Toss**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 450 | R: 4 rows | Ranged Arc      |
+|         | E: Single | Target H: 4     |
+|         |           | Effect E/V: 1/1 |
+
+Requires that you have not moved yet. Gives the target an extra turn at your
+current initiative.
+
+#### Jongleur 60
+
+**Dropkick**
+
+| Cost    | Mapless | Map   |
+|---------|---------|-------|
+| TP: 200 | Melee   | Melee |
+
+Perform a melee attack. If the attack hits, then the target is forcibly moved
+back by 1 square or loses 1 Maneuver.
+
+**Shadow of Doubt**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| MP: 120 | R: 4 rows | Ranged Direct   |
+|         | E: Single | Target H: 4     |
+|         |           | Effect E/V: 1/1 |
+
+Magical technique that attempts to cause [Immobilize](#status-immobilize)
+status.
+
+#### Jongleur 70
+
+**Charisma**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| MP: 240 | R: 4 rows | Ranged Direct   |
+|         | E: Single | Target H: 4     |
+|         |           | Effect E/V: 1/1 |
+
+Magical technique that attempts to cause [Charm](#status-charm) status.
+
+**Fastroll**
+
+| Cost    |
+|---------|
+| TP: 200 |
+
+Defend action that also puts you into a Fastroll state. While in a Fastroll
+state, you have double P-Eva against the next incoming attack. If this occurs,
+then you also move 1 square or change rows, then end Fastroll state.
+
+#### Jongleur 80
+
+**Dolphin Charge**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 600 | R: 6 rows | Ranged Direct   |
+|         | E: Single | Target H: 6     |
+|         |           | Effect E/V: 1/1 |
+
+Magical Attack, Water-Aspected, dealing Level \* Spirit \* 0.6 damage. You also
+move into a square adjacent to the target. In mapless combat, you make the
+target lose 2 Maneuver.
+
+**Traumatize**
+
+| Cost   | Mapless   | Map             |
+|--------|-----------|-----------------|
+| MP: 80 | R: 4 rows | Ranged Direct   |
+|        | E: 1 row  | Target H: 4     |
+|        |           | Effect E/V: 3/3 |
+
+Magical Attack, Unaspected, targeting all enemies in the area. Each enemy takes
+an amount of damage equal to 5% of their maximum HP for each harmful status
+condition they have. Ignores M-Def.
+
+#### Jongleur 90
+
+**Agitate**
+
+| Cost   | Mapless   | Map             |
+|--------|-----------|-----------------|
+| MP: 80 | R: 4 rows | Ranged Direct   |
+|        | E: 1 row  | Target H: 4     |
+|        |           | Effect E/V: 3/3 |
+
+Magical Attack, Unaspected, targeting all enemies in the area for an amount of
+damage equal to the difference between your current and maximum HP. Ignores
+M-Def.
+
+**Trapeze Swing**
+
+| Cost    | Mapless | Map   |
+|---------|---------|-------|
+| TP: 400 | Melee   | Melee |
+
+Physical Attack, Unaspected, dealing Level \* Strength \* 0.4 damage. Also
+attempts to forcibly move the target up to 4 rows or 4 squares away.
+
+#### Jongleur 99
+
+**Loaded Box**
+
+| Cost        |
+|-------------|
+| Limit Break |
+
+Places a Loaded Box on the battlefield. It punches enemies who are adjacent to
+it or on top of it for Level \* Strength \* 0.5 damage. It will also attempt to
+punch enemies who move past or over it, as well as enemies who are forcibly
+moved next to it. The box lasts for 4 status phases.
 
 ## Knight
 
@@ -9039,12 +10441,14 @@ dealt to TP.
 
 **Shock**
 
-| Cost        |
-|-------------|
-| Limit Break |
+| Cost        | Mapless                    | Map                 |
+|-------------|----------------------------|---------------------|
+| Limit Break | R: 4 rows                  | Self-Centered Burst |
+|             | E: Front 2 rows of enemies | Target H: 0         |
+|             |                            | Effect H/V: 4/4     |
 
-Physical Attack, Lightning-aspected. Targets all enemies on the battlefield.
-Ignores P-Eva.
+Physical Attack, Lightning-aspected, targeting all enemies in the area for Level
+\* Strength \* 1.2 Damage. Attempts to cause all Broken statuses.
 
 ## Machinist
 
@@ -9310,35 +10714,246 @@ MP costs.
 
 ## Magitek Pilot
 
-**Requires:** …
+**Requires:** [Black Mage](#black-mage) 20, [Fusilier](#fusilier) 20
 
-**Leads to:** …
+**Leads to:** None
 
-### Magitek System
+| Action                                  | Reaction          | Support                   | Move       |
+|-----------------------------------------|-------------------|---------------------------|------------|
+| Attack                                  | **Link Reaction** | **Magitek Pilot Program** | Mapless: 3 |
+| Charge Up                               | 1 x Choice        | 1 x Choice                | Move: 3    |
+| Defend                                  |                   |                           | Jump: 3    |
+| **[Magitek Systems](#magitek-systems)** |                   |                           | 1 x Choice |
+| 1 x Choice                              |                   |                           |            |
+| Item                                    |                   |                           |            |
+
+-   **Action: Magitek Systems:** Training and operation of the many weapons &
+    utility systems that come standard on a magitek armor. All magitek systems
+    require that you are fully equipped with M-Tek / Magitek gear.
+-   **Reaction: Link Reaction (100 AP):** You activate the reaction of one
+    adjacent ally. You pay any costs for that reaction instead of your ally.
+-   **Support: Magitek Pilot Program:** If all of your equipped weapons and
+    armor are M-Tek / Magitek, then your weight penalty cannot exceed your
+    Level + Speed (i.e. you cannot go into negative Initiative from weight).
+    With this type of equipment loadout, your Maneuver/Move and Jump become 4.
+
+| Weapon Proficiency | Armor Proficiency |
+|--------------------|-------------------|
+| **1H M-Tek Claw**  | **Magitek**       |
+| **1H M-Tek Gun**   | 1 x Choice        |
+| **2H M-Tek Rifle** |                   |
+| 1 x Choice         |                   |
+
+| JLVL | Unlock                             |
+|------|------------------------------------|
+| 10   | Action: Magitek Systems            |
+| 40   | Reaction: Link Reaction            |
+| 50   | Weapon Proficiency: 1H M-Tek Claw  |
+| 60   | Weapon Proficiency: 1H M-Tek Gun   |
+| 70   | Weapon Proficiency: 1H M-Tek Rifle |
+| 80   | Armor Proficiency: Magitek         |
+| 90   | Support: Magitek Pilot Program     |
+| 99   | Job Mastered                       |
+
+**Mastery Bonus:** While all of your equipped weapons and armor are M-Tek /
+Magitek, if you die, then you can choose to have all your M-Tek / Magitek
+equipment destroyed so that you can keep fighting.
+
+### Magitek Systems
 
 #### Magitek Pilot 1
 
+**Link Attack**
+
+| Cost    |
+|---------|
+| TP: 200 |
+
+Attack, then cause one ally to do an instant attack on the same enemy. That ally
+must also spend 200 TP.
+
 #### Magitek Pilot 10
+
+**Fire Beam**
+
+| Cost | Mapless   | Map             |
+|------|-----------|-----------------|
+| None | R: 4 rows | Ranged Direct   |
+|      | E: Single | Target H: 4     |
+|      |           | Effect E/V: 1/1 |
+
+Physical Attack, Fire-Aspected, dealing Level \* Dexterity \* 0.4 damage.
+
+**Ice Beam**
+
+| Cost | Mapless   | Map             |
+|------|-----------|-----------------|
+| None | R: 4 rows | Ranged Direct   |
+|      | E: Single | Target H: 4     |
+|      |           | Effect E/V: 1/1 |
+
+Physical Attack, Ice-Aspected, dealing Level \* Dexterity \* 0.4 damage.
+
+**Thunder Beam**
+
+| Cost | Mapless   | Map             |
+|------|-----------|-----------------|
+| None | R: 4 rows | Ranged Direct   |
+|      | E: Single | Target H: 4     |
+|      |           | Effect E/V: 1/1 |
+
+Physical Attack, Lightning-Aspected, dealing Level \* Dexterity \* 0.4 damage.
 
 #### Magitek Pilot 20
 
+**Heal Force**
+
+| Cost | Mapless   | Map             |
+|------|-----------|-----------------|
+| None | R: 4 rows | Ranged Direct   |
+|      | E: Single | Target H: 4     |
+|      |           | Effect E/V: 1/1 |
+
+Restores Level \* Wisdom \* 0.2 HP to the target.
+
 #### Magitek Pilot 30
+
+**Bio Blast**
+
+| Cost | Mapless   | Map             |
+|------|-----------|-----------------|
+| None | R: 4 rows | Ranged Direct   |
+|      | E: 1 row  | Target H: 4     |
+|      |           | Effect E/V: 3/3 |
+
+Physical Attack, Poison-Aspected, targeting all enemies in the area for Level \*
+Dexterity \* 0.3 damage. Also attempts to cause [Poison](#status-poison) status.
 
 #### Magitek Pilot 40
 
+**Banisher**
+
+| Cost | Mapless   | Map             |
+|------|-----------|-----------------|
+| None | R: 4 rows | Ranged Direct   |
+|      | E: Single | Target H: 4     |
+|      |           | Effect E/V: 1/1 |
+
+Physical technique that attempts to eject the target from the battlefield.
+
 #### Magitek Pilot 50
+
+**Confuser**
+
+| Cost | Mapless   | Map             |
+|------|-----------|-----------------|
+| None | R: 4 rows | Ranged Direct   |
+|      | E: 1 row  | Target H: 4     |
+|      |           | Effect E/V: 3/3 |
+
+Physical technique that attempts to cause [Addle](#status-addle) and
+[Confuse](#status-confuse) statuses.
 
 #### Magitek Pilot 60
 
+**Magitek Missile**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 200 | R: 4 rows | Ranged Direct   |
+|         | E: Single | Target H: 4     |
+|         |           | Effect E/V: 1/1 |
+
+Physical Attack, Unaspected, dealing Level \* Dexterity \* 0.8 damage. Also
+attempts to cause [Bleed](#status-bleed) and [Sap](#status-sap) statuses.
+
 #### Magitek Pilot 70
+
+**Jetpack**
+
+| Cost      |
+|-----------|
+| TP: 1,000 |
+
+You fly up, then land on a location of choice on the battlefield.
+
+**Sensor Backpack**
+
+| Cost      | Mapless   | Map             |
+|-----------|-----------|-----------------|
+| TP: 1,000 | R: 8 rows | Ranged Direct   |
+|           | E: 2 rows | Target H: 8     |
+|           |           | Effect E/V: 4/4 |
+
+Physical technique that attempts to cause [Critical
+Vulnerability](#status-critical-vulnerability) and [Lock](#status-lock) statuses
+to all enemies in the area.
 
 #### Magitek Pilot 80
 
+**EMP Backpack**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 500 | R: 4 rows | Ranged Direct   |
+|         | E: Single | Target H: 4     |
+|         |           | Effect E/V: 1/1 |
+
+Physical technique that attempts to cause [Addle](#status-addle),
+[Disable](#status-disable) and [Stun](#status-stun) statuses to the target.
+
+**Photon Stream**
+
+| Cost    | Mapless                 | Map                 |
+|---------|-------------------------|---------------------|
+| TP: 200 | R: 2 rows               | Self-Centered Burst |
+|         | E: Front row of enemies | Target H: 0         |
+|         |                         | Effect E/V: 2/2     |
+
+Physical Attack, Unaspected, targeting all enemies in the area for Level \*
+Dexterity \* 0.6 damage.
+
 #### Magitek Pilot 90
+
+**Blast Cannon**
+
+| Cost      | Mapless   | Map             |
+|-----------|-----------|-----------------|
+| TP: 1,000 | R: 4 rows | Ranged Direct   |
+|           | E: 1 row  | Target H: 4     |
+|           |           | Effect E/V: 3/3 |
+
+Projects your attack into all enemies in the area.
+
+**Repair Backpack**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 500 | R: 4 rows | Ranged Direct   |
+|         | E: Single | Target H: 4     |
+|         |           | Effect E/V: 1/1 |
+
+Restores Level \* Wisdom \* 0.6 HP to the target.
 
 #### Magitek Pilot 99
 
+**Fully Linked Attack**
+
+| Cost        |
+|-------------|
+| Limit Break |
+
+Attack, then all of your allies also attack the same target if able to.
+
 **Overload Core Cannon**
+
+| Cost        |
+|-------------|
+| Limit Break |
+
+Breaks all of your M-Tek / Magitek equipment, thus requiring repair after the
+battle. Physical Attack, Unaspected, targeting all enemies on the battlefield
+for Level \* Dexterity \* 1.5 damage.
 
 ## Magus
 
@@ -9359,7 +10974,7 @@ MP costs.
 | Item                                            |            |                     |            |
 
 -   **Support: Double MP Power:** MP-using actions cost double the MP. In
-    exchange, their Damage is increased by 50%.
+    exchange, their Damage and healing are increased by 50%.
 
 | Weapon Proficiency | Armor Proficiency |
 |--------------------|-------------------|
@@ -9694,7 +11309,7 @@ conditions, as well as immune to [Doom](#status-doom).
 
 ## Mime
 
-**Requires:** - [Chemist](#chemist) 80, [Dragoon](#dragoon) 50,
+**Requires:** [Chemist](#chemist) 80, [Dragoon](#dragoon) 50,
 [Geomancer](#geomancer) 50, [Orator](#orator) 50, [Squire](#squire) 80,
 [Summoner](#summoner) 50
 
@@ -9756,11 +11371,11 @@ and from the beginning of the status phase.
 | 1 x Choice                        |             |             |            |
 | Item                              |             |             |            |
 
--   **Reaction: Counter (100 TP):** - After a melee action against you, you
-    attack back.
--   **Support: Brawl** - Your unarmed attacks are equivalent to 1H Claws of 10
+-   **Reaction: Counter (100 TP):** After a melee action against you, you attack
+    back.
+-   **Support: Brawl:** Your unarmed attacks are equivalent to 1H Claws of 10
     Item Levels lower than your Experience Level.
--   **Support: Chakras** - You can have a maximum of 5 Chakras. Whenever you
+-   **Support: Chakras:** You can have a maximum of 5 Chakras. Whenever you
     cause a Critical Hit or Direct Critical Hit with a melee attack, you gain 1
     Chakra. Chakras are lost after any rest.
 
@@ -9800,8 +11415,9 @@ Remove one status condition of choice from yourself.
 | Cost | Mapless        | Map         |
 |------|----------------|-------------|
 | None | R: 3 rows      | Ranged Line |
-|      | E: All enemies | Width: 3    |
+|      | E: All enemies | Target H: 1 |
 |      |                | Length: 4   |
+|      |                | Width: 3    |
 
 Perform a melee attack against all enemies along a line. After-Armor Damage is
 reduced to 1/4th.
@@ -9815,7 +11431,7 @@ reduced to 1/4th.
 | None | R: 1 row     | Melee (all four directions) |
 |      | E: 3 targets |                             |
 
-Perform a spinning melee attack.
+Perform a spinning melee attack against everyone who is adjacent to you.
 
 **Withering Strike**
 
@@ -9881,32 +11497,34 @@ by the number of party members. You are not healed from this technique.
 | Cost | Mapless      | Map         |
 |------|--------------|-------------|
 | None | R: 8 rows    | Ground Line |
-|      | E: 2 per row | Width: 1    |
-|      |              | Length: 8   |
+|      | E: 2 per row | Length: 8   |
+|      |              | Width: 1    |
 
-Perform a melee attack against targets in a straight line, who are touching the
-ground. The damage is Physical and Earth-Aspected.
+Perform a melee attack against all combatants in a straight line, who are
+touching the ground. The damage is Physical and Earth-Aspected. This attack can
+not hit anyone with \[Float\]\[Status: Float\] status.
 
 #### Monk 50
 
 **Doom Fist**
 
-| Cost | Mapless   | Map   |
-|------|-----------|-------|
-| None | R: 1 row  | Melee |
-|      | E: Single |       |
+| Cost | Mapless | Map   |
+|------|---------|-------|
+| None | Melee   | Melee |
 
 Attack. Also attempts to cause [Doom](#status-doom) on the target, using half
 M-Acc and opposed by full M-Eva.
 
 **Elixir Field**
 
-| Cost      | Mapless      | Map              |
-|-----------|--------------|------------------|
-| TP: 2,000 | R: 1 row     | Burst            |
-|           | E: Whole row | Reach: 2 squares |
+| Cost      | Mapless                 | Map                 |
+|-----------|-------------------------|---------------------|
+| TP: 2,000 | R: 1 row                | Self-Centered Burst |
+|           | E: Front row of enemies | Target H: 0         |
+|           |                         | Effect H/V: 3/3     |
 
-Magical Attack, Unaspected. Deals Level \* Stamina \* 0.5 damage.
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Stamina \* 0.5 damage.
 
 **Forbidden Chakra Palm**
 
@@ -9925,11 +11543,11 @@ Gain 1 Chakra.
 
 **Purification**
 
-| Cost      | Mapless        | Map      |
-|-----------|----------------|----------|
-| 5 Chakras | R: 2 rows      | Burst    |
-|           | E: Whole party | R: 2     |
-|           |                | E/V: 1/1 |
+| Cost      | Mapless        | Map                 |
+|-----------|----------------|---------------------|
+| 5 Chakras | R: 2 rows      | Self-Centered Burst |
+|           | E: Whole party | Target H: 0         |
+|           |                | Effect H/V: 4/4     |
 
 Each ally in the area removes one status condition of choice from themself. This
 includes yourself.
@@ -9949,9 +11567,9 @@ status phases.
 
 | Cost     | Mapless     | Map                       |
 |----------|-------------|---------------------------|
-| 1 Chakra | R: 2 rows   | Burst                     |
-|          | E: 3 allies | R: 1                      |
-|          |             | E/V: 1/0                  |
+| 1 Chakra | R: 2 rows   | Self-Centered Burst       |
+|          | E: 3 allies | Target H: 0               |
+|          |             | Effect E/V: 2/0           |
 |          |             | must be at same elevation |
 
 Restores an amount of HP to all in the area equal to your Level \* Stamina \*
@@ -9963,8 +11581,8 @@ Mind \* 0.2.
 | Cost      | Mapless        | Map         |
 |-----------|----------------|-------------|
 | 5 Chakras | R: 3 rows      | Ranged Line |
-| TP: 700   | E: All enemies | Width: 3    |
-|           |                | Length: 4   |
+| TP: 700   | E: All enemies | Length: 4   |
+|           |                | Width: 3    |
 
 Projects a melee attack against all enemies in the area. The damage is Magical
 and Unaspected.
@@ -9982,11 +11600,10 @@ the target, using your M-Acc and opposed by the target’s M-Eva.
 
 **Revive**
 
-| Cost     | Mapless   | Map      |
-|----------|-----------|----------|
-| 1 Chakra | R: 2 rows | Melee    |
-|          | E: 1 ally | R: 1     |
-|          |           | E/V: 1/1 |
+| Cost     | Mapless   | Map   |
+|----------|-----------|-------|
+| 1 Chakra | R: 2 rows | Melee |
+|          | E: 1 ally |       |
 
 Revives the target at 25% HP.
 
@@ -10041,6 +11658,7 @@ class. Each of the attacks also attempts to instantly-kill the target.
     [Time Mage](#time-mage) 40, [White Mage](#white-mage) 50
 -   [Devout](#devout) - [Conjurer](#conjurer) 60, *Mystic* 60, [White
     Mage](#white-mage) 60
+-   [Gambler](#gambler) - *Mystic* 30, [Thief](#thief) 30
 -   [Orator](#orator) - *Mystic* 30
 
 | Action                              | Reaction      | Support           | Move                  |
@@ -10445,9 +12063,9 @@ least one Limit Break Charge, this ability fires again.
     [Vanish](#status-vanish) status.
 -   **Reaction: Reflexes (1,000 TP):** Double your P-Eva and M-Eva against an
     incoming action.
--   **Support: Dual-Wield:** You can equip two 1H weapons. Your regular Attack
-    actions perform a separate attack with each one. Other actions based on
-    weapons use whichever weapon will have better results.
+-   **Support: Dual-Wield:** If you equip two 1H weapons, then your regular
+    Attack actions perform a separate attack with each one. Other actions based
+    on weapons use whichever weapon will have better results.
 -   **Move: Waterwalking:** In mapless combat, gives +1 Maneuver. In map combat,
     allows you to move and stand on top of mud, swamp and water as if they were
     solid ground.
@@ -10794,6 +12412,8 @@ Perform five attacks on one target.
 -   [Sharlayan Archon](#sharlayan-archon) - [Astrologian](#astrologian) 80, *Nu
     Type* 80, [Scholar](#scholar) 80
 
+### Somanoutics
+
 ## Onion Knight
 
 **Requires:** [Chemist](#chemist) 60, [Squire](#squire) 60
@@ -10920,6 +12540,16 @@ party’s behalf until the end of battle, then instantly escapes.
 
 #### Orator 10
 
+**100% Wool**
+
+| Cost          |
+|---------------|
+| Cast Time: 80 |
+| MP: 80        |
+
+Grants \[Protect\]\[Status: Protect\] and \[Shell\]\[Status: Shell\] to
+yourself.
+
 **Stall**
 
 | Cost   | Mapless   | Map             |
@@ -10928,9 +12558,21 @@ party’s behalf until the end of battle, then instantly escapes.
 |        | E: Single | Target R: 4     |
 |        |           | Effect H/V: 1/1 |
 
-Magical technique that attempts to cause 1,000 Charge Time to the target.
+Magical technique that attempts to cause an amount of Charge Time to the target
+equal to the target’s Speed.
 
 #### Orator 20
+
+**Catnip**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 80 | R: 4 rows | Ranged Indirect |
+| MP: 80        | E: Single | Target R: 4     |
+|               |           | Effect H/V: 1/1 |
+
+Magical technique that attempts to cause [Berserk](#status-berserk) to the
+target.
 
 **Praise**
 
@@ -10943,6 +12585,18 @@ Magical technique that attempts to cause 1,000 Charge Time to the target.
 Grants [Bravery](#status-bravery) to the target.
 
 #### Orator 30
+
+**Chocobo Rush**
+
+| Cost          | Mapless              | Map         |
+|---------------|----------------------|-------------|
+| Cast Time: 80 | R: 10 rows           | Ranged Line |
+| MP: 80        | E: 2 enemies per row | Target H: 1 |
+|               |                      | Length: 10  |
+|               |                      | Width: 1    |
+
+Physical Attack, Unaspected, targeting all combatants in a line for Level \*
+Speed \* 0.6 damage. This ability can cause friendly fire.
 
 **Intimidate**
 
@@ -10966,7 +12620,27 @@ Magical technique that attempts to cause [Coward](#status-coward) to the target.
 
 Grants [Faith](#status-faith) to the target.
 
+**Toadsong**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 110 | R: 4 rows | Ranged Indirect |
+| MP: 220        | E: Single | Target R: 4     |
+|                |           | Effect H/V: 1/1 |
+
+Magical technique that attempts to cause [Toad](#status-toad) status.
+
 #### Orator 50
+
+**Cuisine**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 220 | R: 4 rows | Ranged Indirect |
+| MP: 220        | E: Single | Target R: 4     |
+|                |           | Effect H/V: 1/1 |
+
+Restores Level \* Wisdom \* 0.8 HP to the target.
 
 **Enlighten**
 
@@ -10991,6 +12665,16 @@ target.
 
 Magical technique that attempts to cause [Doom](#status-doom) to the target.
 
+**Tail Wag**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 120 | R: 4 rows | Ranged Indirect |
+| MP: 120        | E: Single | Target R: 4     |
+|                |           | Effect H/V: 1/1 |
+
+Magical technique that attempts to cause [Charm](#status-charm) to the target.
+
 #### Orator 70
 
 **Beg**
@@ -11004,6 +12688,17 @@ Magical technique that attempts to cause [Doom](#status-doom) to the target.
 Magical technique that attempts to make the target give up three item charges to
 the party. Any items usable by either the target or the party can be chosen.
 
+**Sheep Count**
+
+| Cost           | Mapless      | Map             |
+|----------------|--------------|-----------------|
+| Cast Time: 120 | R: 4 rows    | Ranged Indirect |
+| MP: 120        | E: 3 enemies | Target R: 4     |
+|                |              | Effect H/V: 2/2 |
+
+Magical technique that attempts to cause [Sleep](#status-sleep) to all in the
+area, both friend and foe.
+
 #### Orator 80
 
 **Insult**
@@ -11014,7 +12709,8 @@ the party. Any items usable by either the target or the party can be chosen.
 |         | E: Single | Target R: 4     |
 |         |           | Effect H/V: 1/1 |
 
-Magical technique that attempts to cause [Berserk](#status-berserk).
+Magical technique that attempts to cause [Berserk](#status-berserk) at double
+M-Acc.
 
 #### Orator 90
 
@@ -11055,11 +12751,12 @@ Mage](#white-mage) 30
 | Charge Up                           |            | 1 x Choice   | Move: 3    |
 | Defend                              |            |              | Jump: 3    |
 | **[Divine Weapon](#divine-weapon)** |            |              | 1 x Choice |
+| [Sparring](#sparring)               |            |              |            |
 | 1 x Choice                          |            |              |            |
 | Item                                |            |              |            |
 
--   **Action: Divine Weapon:** Tapping in to your dark side to expose the
-    fragility of everything else around you.
+-   **Action: Divine Weapon:** Focusing the belief in your cause of protecting
+    the many against the hoarding of the few.
 -   **Support: Chivalry:** When you restore an ally’s HP (other than yourself),
     you also regain an amount of MP equal to your Level.
 
@@ -11189,7 +12886,7 @@ Projects your attack into the area. P-Acc is doubled. Also attempts to cause
 |-----------|
 | TP: 4,200 |
 
-Grants yourself [Hallowed Ground](#status-hallowed-ground) status for 3 status
+Grants yourself [Hallowed Ground](#status-hallowed-ground) status for 4 status
 phases.
 
 #### Paladin 60
@@ -11202,7 +12899,7 @@ phases.
 |           | E: Single | Target H: 4     |
 |           |           | Effect H/V: 1/1 |
 
-Magical Attack, Holy-Aspected, for Level \* Intellect Damage.
+Magical Attack, Holy-Aspected, for Level \* Spirit Damage.
 
 **Judgment Blade**
 
@@ -11237,7 +12934,7 @@ Attack for double damage. You also regain Level \* Spirit \* 0.2 MP.
 
 | Cost      | Mapless   | Map             |
 |-----------|-----------|-----------------|
-| TP: 4,000 | R: 6 rows | Ranged Direct   |
+| TP: 2,000 | R: 6 rows | Ranged Direct   |
 |           | E: Single | Target H: 6     |
 |           |           | Effect H/V: 1/1 |
 
@@ -11266,14 +12963,14 @@ Intellect \* 0.8 Damage.
 |           |                     | Effect H/V: 3/3 |
 
 Requires that you have [Requiescat](#status-requiescat) status. Magical Attack,
-Holy-Aspected, targeting all enemies in the area for Level \* Intellect \* 1.2
+Holy-Aspected, targeting all enemies in the area for Level \* Spirit \* 1.2
 Damage. Ends [Requiescat](#status-requiescat).
 
 **Northswain’s Strike**
 
 | Cost      | Mapless   | Map             |
 |-----------|-----------|-----------------|
-| TP: 5,000 | R: 6 rows | Ranged Direct   |
+| TP: 3,000 | R: 6 rows | Ranged Direct   |
 |           | E: Single | Target H: 6     |
 |           |           | Effect H/V: 1/1 |
 
@@ -11345,79 +13042,305 @@ Holy-Aspected Damage.
 
 ## Psychic
 
+**Requires:** [Chemist](#chemist) 20
+
+**Leads to:** None
+
+| Action                    | Reaction   | Support    | Move       |
+|---------------------------|------------|------------|------------|
+| Attack                    | 1 x Choice | **Guts**   | Mapless: 3 |
+| Charge Up                 |            | 1 x Choice | Move: 3    |
+| Defend                    |            |            | Jump: 3    |
+| **[Psionics](#psionics)** |            |            | 1 x Choice |
+| 1 x Choice                |            |            |            |
+| Item                      |            |            |            |
+
+-   **Action: Psionics:** Manifesting supernatural abilities using only the
+    power of your mind.
+-   **Support: Guts:** When you reach 0 HP, you are not dead unless you also
+    have 0 HP at the end of the status phase. Until then, you continue to keep
+    track of negative HP, which can still be healed normally.
+
+| Weapon Proficiency | Armor Proficiency |
+|--------------------|-------------------|
+| 1H Handbags        | Aim               |
+| 1H Measures        | Scout             |
+| 2H Rods            | Striker           |
+| 2H Staves          | 1 x Choice        |
+| 2H Poles           |                   |
+| 1H Handguns        |                   |
+| 1 x Choice         |                   |
+
+| JLVL | Unlock           |
+|------|------------------|
+| 10   | Action: Psionics |
+| 99   | Support: Guts    |
+| 99   | Job Mastered     |
+
+**Mastery Bonus:** When you do a Critical Hit or better with a regular attack
+action, you have a 10% chance to do an additional attack. This can repeat
+infinitely as long as you keep getting lucky.
+
 ### Psionics
 
 #### Psychic 1
 
 **Psychic Bomb**
 
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 100 | R: 4 rows | Ranged Indirect |
+| MP: 100        | E: 1 row  | Target H: 4     |
+|                |           | Effect E/V: 3/3 |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Intellect \* 0.4 damage.
+
 **Telepathy Alpha**
+
+You can read the surface-level thoughts of anyone you are talking to, including
+animals.
 
 #### Psychic 10
 
 **Maser Eye**
 
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 180 | R: 4 rows | Ranged Direct   |
+| MP: 180        | E: Single | Target H: 4     |
+|                |           | Effect E/V: 1/1 |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Intellect \* 0.6 damage.
+
 #### Psychic 20
 
 **Telekinesis**
 
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 120 | R: 4 rows | Ranged Indirect |
+| MP: 120        | E: Single | Target H: 4     |
+|                |           | Effect E/V: 1/1 |
+
+Magical technique that attempts to eject the target from the battlefield, at
+half M-Acc.
+
 **Telepathy Beta**
+
+You can perceive the true intentions and deeper thoughts of anyone you are
+talking to, including animals.
 
 #### Psychic 30
 
 **Brainstorm**
 
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 180 | R: 4 rows | Ranged Indirect |
+| MP: 180        | E: 1 row  | Target H: 4     |
+|                |           | Effect E/V: 3/3 |
+
+Magical technique that attempts to cause \[Confusion\]\[Status: Confusion\] and
+[Silence](#status-silence) on all enemies in the area.
+
 **Psychobiolytic Lifeup Alpha**
 
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 50 | R: 4 rows | Ranged Indirect |
+| MP: 50        | E: Single | Target H: 4     |
+|               |           | Effect E/V: 1/1 |
+
+Restores Level \* Intellect \* 0.2 HP to the target.
+
 **Psychokinetic Rocking Alpha**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 100 | R: 4 rows | Ranged Indirect |
+| MP: 100        | E: 1 row  | Target H: 4     |
+|                |           | Effect E/V: 3/3 |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Spirit \* 0.3 damage.
 
 #### Psychic 40
 
 **Express**
 
+| Cost           |
+|----------------|
+| Cast Time: 200 |
+| MP: 200        |
+
+Grants yourself [Boost Accuracy](#status-boost-accuracy), [Boost
+Evasion](#status-boost-evasion) and [Haste](#status-haste) statuses.
+
 **Psychokinetic Teleport Alpha**
 
+| Cost   |
+|--------|
+| MP: 20 |
+
+This ability can only be used outside of combat. You start running extremely
+quickly through the space-time continuum. Once you accelerate to 88 miles per
+hour, you teleport yourself and all allies following you to a safe location that
+you know well which has enough space to decelerate back to walking speed.
+
 **Telepathy Gamma**
+
+You can read thoughts from a distance, as long as you have line-of-sight to the
+person.
 
 #### Psychic 50
 
 **Psychobiolytic Lifeup Beta**
 
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 80 | R: 4 rows | Ranged Indirect |
+| MP: 80        | E: Single | Target H: 4     |
+|               |           | Effect E/V: 1/1 |
+
+Restores Level \* Intellect \* 0.4 HP to the target.
+
 **Psychokinetic Rocking Beta**
 
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 140 | R: 4 rows | Ranged Indirect |
+| MP: 140        | E: 1 row  | Target H: 4     |
+|                |           | Effect E/V: 3/3 |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Spirit \* 0.4 damage.
+
 **Time Trip**
+
+| Cost           |
+|----------------|
+| Cast Time: 200 |
+| MP: 200        |
+
+Magical technique that attempts to cause [Stop](#status-stop) to everyone on the
+battlefield, except for yourself.
 
 #### Psychic 60
 
 **Magic Guard**
 
+| Cost    |
+|---------|
+| MP: 280 |
+
+Grants yourself [Atheist](#status-atheist) and \[Shell\]\[Status: Shell\]
+statuses.
+
 **Psychokinetic Starstorm Alpha**
 
+| Cost           |
+|----------------|
+| Cast Time: 240 |
+| MP: 240        |
+
+Magical Attack, Unaspected, targeting all enemies on the battlefield for Level
+\* Mind \* 0.4 damage.
+
 **Telepathy Omega**
+
+You can perform two-way psychic communication with people you know personally,
+from any distance.
 
 #### Psychic 70
 
 **Physics Guard**
 
+| Cost    |
+|---------|
+| MP: 280 |
+
+Grants yourself [Boost Defense](#status-boost-defense) and
+\[Protection\]\[Status: Protect\] statuses.
+
 **Psychobiolytic Lifeup Gamma**
 
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 130 | R: 4 rows | Ranged Indirect |
+| MP: 130        | E: Single | Target H: 4     |
+|                |           | Effect E/V: 1/1 |
+
+Restores Level \* Intellect \* 0.6 HP to the target.
+
 **Psychokinetic Rocking Gamma**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 400 | R: 4 rows | Ranged Indirect |
+| MP: 400        | E: 1 row  | Target H: 4     |
+|                |           | Effect E/V: 3/3 |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Spirit \* 0.6 damage.
 
 #### Psychic 80
 
 **Psychokinetic Starstorm Omega**
 
+| Cost           |
+|----------------|
+| Cast Time: 480 |
+| MP: 480        |
+
+Magical Attack, Unaspected, targeting all enemies on the battlefield for Level
+\* Mind \* 0.6 damage.
+
 **Psychokinetic Teleport Beta**
+
+| Cost   |
+|--------|
+| MP: 80 |
+
+As *Psychokinetic Teleport Alpha*, except you do not require any time or space
+to accelerate or decelerate. Thus, you are able to teleport into and out of much
+narrower spaces.
 
 #### Psychic 90
 
 **Psychobiolytic Lifeup Omega**
 
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 240 | R: 6 rows | Ranged Indirect |
+| MP: 240        | E: 1 row  | Target H: 6     |
+|                |           | Effect E/V: 3/3 |
+
+Restores Level \* Intellect \* 0.6 HP to all allies in the area.
+
 **Psychokinetic Rocking Omega**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 980 | R: 6 rows | Ranged Indirect |
+| MP: 980        | E: 2 rows | Target H: 6     |
+|                |           | Effect E/V: 4/4 |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Spirit \* 0.8 damage.
 
 #### Psychic 99
 
-**Brain Melt Dancing**
+**Prayer Across Dimensions**
+
+| Cost        |
+|-------------|
+| Limit Break |
+
+You reach out to everyone you have ever made a personal connection with,
+simultaneously, in order to fight back against what seems like impossible odds.
+The results are unpredictable, and may even involve the will of you, the player.
 
 ## Pugilist
 
@@ -11730,8 +13653,6 @@ twice, and perform a melee action at each of those eight positions.
 Mage](#white-mage) 30
 
 **Leads to:** None
-
--   **Black and White Mana:** You can hold Black and White Mana.
 
 | Action                        | Reaction   | Support          | Move       |
 |-------------------------------|------------|------------------|------------|
@@ -12129,8 +14050,7 @@ Grants yourself 800 Black Mana.
 |           | E: Single | Target H: 4     |
 |           |           | Effect H/V: 1/1 |
 
-Grants \[Reraise\]\[Status: Reraise\] to the target. Grants yourself 500 White
-Mana.
+Grants [Reraise](#status-reraise) to the target. Grants yourself 500 White Mana.
 
 **Verthundaja**
 
@@ -12253,8 +14173,8 @@ Mage](#white-mage) 60
 | Attack                        | 1 x Choice | 1 x Choice | Mapless: 3 |
 | Charge Up                     |            |            | Move: 3    |
 | Defend                        |            |            | Jump: 3    |
-| **Recall**                    |            |            |            |
-| [Black Magick](#black-magick) |            |            | 1 x Choice |
+| **Recall**                    |            |            | 1 x Choice |
+| [Black Magick](#black-magick) |            |            |            |
 | [Time Magick](#time-magick)   |            |            |            |
 | [White Magick](#white-magick) |            |            |            |
 | 1 x Choice                    |            |            |            |
@@ -12266,9 +14186,10 @@ Mage](#white-mage) 60
 | Weapon Proficiency | Armor Proficiency |
 |--------------------|-------------------|
 | 1H Hammers         | Magic             |
-| 2H Rods            | Caster            |
-| 2H Staves          | Healer            |
-| 1H Flails          | 1 x Choice        |
+| 1H Maces           | Caster            |
+| 2H Rods            | Healer            |
+| 2H Staves          | 1 x Choice        |
+| 1H Flails          |                   |
 | 1 x Choice         |                   |
 
 | JLVL | Unlock         |
@@ -13467,7 +15388,8 @@ Transfers all of your current TP to the target.
 |             | E: 1 row  | Target H: 4     |
 |             |           | Effect H/V: 2/2 |
 
-Magical Attack, unaspected, causing Level \* Tenacity \* 1.2 damage.
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Tenacity \* 1.2 damage.
 
 ## Summoner
 
@@ -13562,7 +15484,9 @@ Magick for [Espers](#espers) you have a pact with.
 **Leads to:**
 
 -   [Dragoon](#dragoon) - [Monk](#monk) 40, *Thief* 40
+-   [Gambler](#gambler) - [Mystic](#mystic) 30, *Thief* 30
 -   [Geomancer](#geomancer) - [Monk](#monk) 40, *Thief* 40
+-   [Jongleur](#jongleur) - *Thief* 20
 -   [Ninja](#ninja) - [Archer](#archer) 40, [Geomancer](#geomancer) 20, *Thief*
     50
 
@@ -14437,11 +16361,10 @@ Attack. Gives 1 Beast Point to yourself.
 
 **Whirl Burst**
 
-| Cost    | Mapless                   | Map                 |
-|---------|---------------------------|---------------------|
-| TP: 100 | R: 2 rows                 | Self-Centered Burst |
-|         | E: 3 enemies in front row | Target H: 0         |
-|         |                           | Effect H/V: 2/2     |
+| Cost    | Mapless                   | Map            |
+|---------|---------------------------|----------------|
+| TP: 100 | R: 2 rows                 | Spinning Melee |
+|         | E: 3 enemies in front row |                |
 
 Spin around and perform a melee attack against adjacent enemies. After-Armor
 Damage is halved. Also attempts to knock them back by 1 square.
@@ -14648,11 +16571,11 @@ be targeted.
 
 **Cure**
 
-| Cost   | Mapless          | Map                    |
-|--------|------------------|------------------------|
-| MP: 30 | R: 4 rows        | Ranged Indirect        |
-|        | E: Single or Row | Target H: 4            |
-|        |                  | Effect H/V: 1/1 or 2/2 |
+| Cost          | Mapless          | Map                    |
+|---------------|------------------|------------------------|
+| Cast Time: 10 | R: 4 rows        | Ranged Indirect        |
+| MP: 30        | E: Single or Row | Target H: 4            |
+|               |                  | Effect H/V: 1/1 or 2/2 |
 
 In single-target mode, restores Level \* Wisdom \* 0.2 HP, for a minimum of 20
 HP. In multi-target mode, restores Level \* Wisdom \* 0.1 HP, for a minimum of
@@ -14660,29 +16583,38 @@ HP. In multi-target mode, restores Level \* Wisdom \* 0.1 HP, for a minimum of
 
 Against undead, this becomes an unaspected magical attack.
 
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
+
 **Dia**
 
-| Cost   | Mapless          | Map                    |
-|--------|------------------|------------------------|
-| MP: 60 | R: 4 rows        | Ranged Indirect        |
-|        | E: Single or Row | Target H: 4            |
-|        |                  | Effect H/V: 1/1 or 2/2 |
+| Cost          | Mapless          | Map                    |
+|---------------|------------------|------------------------|
+| Cast Time: 10 | R: 4 rows        | Ranged Indirect        |
+| MP: 60        | E: Single or Row | Target H: 4            |
+|               |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level \* Intellect
 \* 0.4 damage, for a minimum of 40 damage. In multi-target mode, causes Level \*
 Intellect \* 0.3 Damage, for a minimum of 30 damage.
 
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
+
 **Fade**
 
-| Cost   | Mapless          | Map                    |
-|--------|------------------|------------------------|
-| MP: 60 | R: 4 rows        | Ranged Indirect        |
-|        | E: Single or Row | Target H: 4            |
-|        |                  | Effect H/V: 1/1 or 2/2 |
+| Cost          | Mapless          | Map                    |
+|---------------|------------------|------------------------|
+| Cast Time: 10 | R: 4 rows        | Ranged Indirect        |
+| MP: 60        | E: Single or Row | Target H: 4            |
+|               |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level \* Wisdom \*
 0.4 damage, for a minimum of 40 damage. In multi-target mode, causes Level \*
 Wisdom \* 0.3 Damage, for a minimum of 30 damage.
+
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
 
 **Libra**
 
@@ -14721,11 +16653,11 @@ buildings and caverns.
 
 **Life**
 
-| Cost   | Mapless   | Map             |
-|--------|-----------|-----------------|
-| MP: 80 | R: 4 rows | Ranged Indirect |
-|        | E: Single | Target H: 4     |
-|        |           | Effect H/V: 1/1 |
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 50 | R: 4 rows | Ranged Indirect |
+| MP: 80        | E: Single | Target H: 4     |
+|               |           | Effect H/V: 1/1 |
 
 Revives the target with 1 HP.
 
@@ -14734,25 +16666,31 @@ of their maximum HP.
 
 **Protect**
 
-| Cost   | Mapless          | Map                    |
-|--------|------------------|------------------------|
-| MP: 90 | R: 4 rows        | Ranged Indirect        |
-|        | E: Single or Row | Target H: 4            |
-|        |                  | Effect H/V: 1/1 or 2/2 |
+| Cost          | Mapless          | Map                    |
+|---------------|------------------|------------------------|
+| Cast Time: 50 | R: 4 rows        | Ranged Indirect        |
+| MP: 90        | E: Single or Row | Target H: 4            |
+|               |                  | Effect H/V: 1/1 or 2/2 |
 
 Applies \[Protect\]\[Status: Protect\] to the targets. In single-target mode,
 lasts for 8 status phases. In multi-target mode, lasts for 4 status phases.
 
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
+
 **Shell**
 
-| Cost   | Mapless          | Map                    |
-|--------|------------------|------------------------|
-| MP: 90 | R: 4 rows        | Ranged Indirect        |
-|        | E: Single or Row | Target H: 4            |
-|        |                  | Effect H/V: 1/1 or 2/2 |
+| Cost          | Mapless          | Map                    |
+|---------------|------------------|------------------------|
+| Cast Time: 50 | R: 4 rows        | Ranged Indirect        |
+| MP: 90        | E: Single or Row | Target H: 4            |
+|               |                  | Effect H/V: 1/1 or 2/2 |
 
 Applies \[Shell\]\[Status: Shell\] to the targets. In single-target mode, lasts
 for 8 status phases. In multi-target mode, lasts for 4 status phases.
+
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
 
 **Stone-na**
 
@@ -14769,67 +16707,76 @@ Petrify\] from the target.
 
 **Banish**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 180 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 100 | R: 4 rows        | Ranged Indirect        |
+| MP: 180        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level \* Wisdom \*
 0.5 damage. In multi-target mode, causes Level \* Wisdom \* 0.4 Damage.
 
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
+
 **Blink**
 
-| Cost   | Mapless   | Map             |
-|--------|-----------|-----------------|
-| MP: 80 | R: 4 rows | Ranged Indirect |
-|        | E: Single | Target H: 4     |
-|        |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 100 | R: 4 rows | Ranged Indirect |
+| MP: 80         | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Grants [Blink](#status-blink) to the target.
 
 **Cura**
 
-| Cost   | Mapless          | Map                    |
-|--------|------------------|------------------------|
-| MP: 90 | R: 4 rows        | Ranged Indirect        |
-|        | E: Single or Row | Target H: 4            |
-|        |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 100 | R: 4 rows        | Ranged Indirect        |
+| MP: 90         | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 In single-target mode, restores Level \* Wisdom \* 0.4 HP. In multi-target mode,
 restores Level \* Wisdom \* 0.2 HP.
 
 Against undead, this becomes an unaspected magical attack.
 
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
+
 **Diara**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 180 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 100 | R: 4 rows        | Ranged Indirect        |
+| MP: 180        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level \* Intellect
 \* 0.5 damage. In multi-target mode, causes Level \* Intellect \* 0.4 Damage.
 
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
+
 **Hold**
 
-| Cost   | Mapless   | Map             |
-|--------|-----------|-----------------|
-| MP: 50 | R: 4 rows | Ranged Indirect |
-|        | E: Single | Target H: 4     |
-|        |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 100 | R: 4 rows | Ranged Indirect |
+| MP: 50         | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Attempts to cause [Hold](#status-hold) to the target, using your M-Acc and
 opposed by M-Eva.
 
 **Silence**
 
-| Cost   | Mapless   | Map             |
-|--------|-----------|-----------------|
-| MP: 60 | R: 4 rows | Ranged Indirect |
-|        | E: Single | Target H: 4     |
-|        |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 100 | R: 4 rows | Ranged Indirect |
+| MP: 60         | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Attempts to cause [Silence](#status-silence) to the target, using your M-Acc and
 opposed by M-Eva.
@@ -14838,53 +16785,53 @@ opposed by M-Eva.
 
 **Basuna**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 200 | R: 4 rows | Ranged Indirect |
-|         | E: Single | Target H: 4     |
-|         |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 150 | R: 4 rows | Ranged Indirect |
+| MP: 200        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Removes up to one status condition of the target’s choice from the target.
 
 **Dispel**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 150 | R: 4 rows | Ranged Indirect |
-|         | E: Single | Target H: 4     |
-|         |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 150 | R: 4 rows | Ranged Indirect |
+| MP: 150        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Removes one status condition of the spellcaster’s choice from the target. This
 spell cannot be reflected.
 
 **Float**
 
-| Cost   | Mapless   | Map             |
-|--------|-----------|-----------------|
-| MP: 80 | R: 4 rows | Ranged Indirect |
-|        | E: Single | Target H: 4     |
-|        |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 150 | R: 4 rows | Ranged Indirect |
+| MP: 80         | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
-Grants \[Float\]\[Status: Float\] to the target for six status phases.
+Grants \[Float\]\[Status: Float\] to the target.
 
 **Mini**
 
-| Cost   | Mapless   | Map             |
-|--------|-----------|-----------------|
-| MP: 60 | R: 4 rows | Ranged Indirect |
-|        | E: Single | Target H: 4     |
-|        |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 150 | R: 4 rows | Ranged Indirect |
+| MP: 60         | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Causes [Mini](#status-mini) to the target. If the target is already Mini, then
 removes it.
 
 **Raise**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 250 | R: 4 rows | Ranged Indirect |
-|         | E: Single | Target H: 4     |
-|         |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 150 | R: 4 rows | Ranged Indirect |
+| MP: 250        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Revives the target with an amount of HP equal to 25% of their maximum HP.
 
@@ -14893,9 +16840,10 @@ of their maximum HP.
 
 **Teleport**
 
-| Cost    |
-|---------|
-| MP: 200 |
+| Cost           |
+|----------------|
+| Cast Time: 150 |
+| MP: 200        |
 
 If this spell is used during combat, then teleports yourself and your party away
 from the enemies. Otherwise, this spell teleports yourself and your party out of
@@ -14905,22 +16853,22 @@ a structure or cavern to the nearest safe location.
 
 **Berserk**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 180 | R: 4 rows | Ranged Indirect |
-|         | E: Single | Target H: 4     |
-|         |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 200 | R: 4 rows | Ranged Indirect |
+| MP: 180        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Attempts to cause [Berserk](#status-berserk) to the target, using M-Acc and
 opposed by M-Eva. The target may choose not to avoid this spell.
 
 **Curaga**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 180 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 200 | R: 4 rows        | Ranged Indirect        |
+| MP: 180        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 In single-target mode, restores Level \* Wisdom \* 0.6 HP, for a minimum of 60
 HP. In multi-target mode, restores Level \* Wisdom \* 0.3 HP, for a minimum of
@@ -14928,47 +16876,56 @@ HP. In multi-target mode, restores Level \* Wisdom \* 0.3 HP, for a minimum of
 
 Against undead, this becomes an unaspected magical attack.
 
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
+
 **Diaga**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 360 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 200 | R: 4 rows        | Ranged Indirect        |
+| MP: 360        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level \* Intellect
 \* 0.6 damage. In multi-target mode, causes Level \* Intellect \* 0.5 Damage.
 
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
+
 **Reflect**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 300 | R: 4 rows | Ranged Indirect |
-|         | E: Single | Target H: 4     |
-|         |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 200 | R: 4 rows | Ranged Indirect |
+| MP: 300        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Grants \[Reflect\]\[Status: Reflect\] to the target for six status phases.
 
 **White**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 360 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 200 | R: 4 rows        | Ranged Indirect        |
+| MP: 360        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level \* Wisdom \*
 0.6 damage. In multi-target mode, causes Level \* Wisdom \* 0.5 Damage.
+
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
 
 #### White Mage 50
 
 **Arise**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 520 | R: 4 rows | Ranged Indirect |
-|         | E: Single | Target H: 4     |
-|         |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 250 | R: 4 rows | Ranged Indirect |
+| MP: 520        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Revives the target at full HP.
 
@@ -14977,43 +16934,49 @@ of their maximum HP.
 
 **Esuna**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 520 | R: 4 rows | Ranged Indirect |
-|         | E: Single | Target H: 4     |
-|         |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 250 | R: 4 rows | Ranged Indirect |
+| MP: 520        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
 Removes up to two status conditions of the target’s choice from the target.
 
 **Protectga**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 500 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 250 | R: 4 rows        | Ranged Indirect        |
+| MP: 500        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
-Applies \[Protect\]\[Status: Protect\] to the targets for 20 status phases.
+Applies \[Protect\]\[Status: Protect\] to all combatants in the area.
+
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
 
 **Shellga**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 500 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 250 | R: 4 rows        | Ranged Indirect        |
+| MP: 500        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
-Applies \[Shell\]\[Status: Shell\] to the targets for 20 status phases.
+Applies \[Shell\]\[Status: Shell\] to all combatants in the area.
+
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
 
 #### White Mage 60
 
 **Curaja**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 400 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 300 | R: 4 rows        | Ranged Indirect        |
+| MP: 400        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 In single-target mode, restores Level \* Wisdom \* 0.8 HP, for a minimum of 80
 HP. In multi-target mode, restores Level \* Wisdom \* 0.4 HP, for a minimum of
@@ -15021,80 +16984,98 @@ HP. In multi-target mode, restores Level \* Wisdom \* 0.4 HP, for a minimum of
 
 Against undead, this becomes an unaspected magical attack.
 
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
+
 **Diaja**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 800 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 300 | R: 4 rows        | Ranged Indirect        |
+| MP: 800        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level \* Intellect
 \* 0.8 damage. In multi-target mode, causes Level \* Intellect \* 0.6 Damage.
 
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
+
 **Pearl**
 
-| Cost    | Mapless          | Map                    |
-|---------|------------------|------------------------|
-| MP: 800 | R: 4 rows        | Ranged Indirect        |
-|         | E: Single or Row | Target H: 4            |
-|         |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 300 | R: 4 rows        | Ranged Indirect        |
+| MP: 800        | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level \* Wisdom \*
 0.8 damage. In multi-target mode, causes Level \* Wisdom \* 0.6 Damage.
 
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
+
 **Reraise**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 500 | R: 4 rows | Ranged Indirect |
-|         | E: Single | Target H: 4     |
-|         |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 300 | R: 4 rows | Ranged Indirect |
+| MP: 500        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
-Grants \[Reraise\]\[Status: Reraise\] to the target.
+Grants [Reraise](#status-reraise) to the target.
 
 #### White Mage 70
 
 **Floatga**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 800 | R: 4 rows | Ranged Indirect |
-|         | E: Row    | Target H: 4     |
-|         |           | Effect H/V: 2/2 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 350 | R: 4 rows | Ranged Indirect |
+| MP: 800        | E: Row    | Target H: 4     |
+|                |           | Effect H/V: 2/2 |
 
-Grants \[Float\]\[Status: Float\] to the targets for 20 status phases.
+Grants \[Float\]\[Status: Float\] to all combatants in the area.
+
+In map combat, this spell will affect all combatants in the area, regardless of
+friend or foe.
 
 **Holdga**
 
-| Cost    | Mapless   | Map             |
-|---------|-----------|-----------------|
-| MP: 500 | R: 4 rows | Ranged Indirect |
-|         | E: Row    | Target H: 4     |
-|         |           | Effect H/V: 2/2 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 350 | R: 4 rows | Ranged Indirect |
+| MP: 500        | E: Row    | Target H: 4     |
+|                |           | Effect H/V: 2/2 |
 
 Attempts to cause [Hold](#status-hold) to the targets, using your M-Acc and
 opposed by M-Eva.
 
+In map combat, this spell will affect all combatants in the area, regardless of
+friend or foe.
+
 **Raisega**
 
-| Cost      | Mapless   | Map             |
-|-----------|-----------|-----------------|
-| MP: 2,500 | R: 4 rows | Ranged Indirect |
-|           | E: Row    | Target H: 4     |
-|           |           | Effect H/V: 2/2 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 350 | R: 4 rows | Ranged Indirect |
+| MP: 2,500      | E: Row    | Target H: 4     |
+|                |           | Effect H/V: 2/2 |
 
 Revives all in the area at an amount of HP equal to 10% of their maximum HP.
+
+In map combat, this spell will affect all combatants in the area, regardless of
+friend or foe.
 
 #### White Mage 80
 
 **Curada**
 
-| Cost      | Mapless          | Map                    |
-|-----------|------------------|------------------------|
-| MP: 2,000 | R: 4 rows        | Ranged Indirect        |
-|           | E: Single or Row | Target H: 4            |
-|           |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 400 | R: 4 rows        | Ranged Indirect        |
+| MP: 2,000      | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 In single-target mode, restores Level \* Wisdom HP and gives 30,000 Auto-Cure
 Points. In multi-target mode, restores Level \* Wisdom \* 0.5 HP and gives
@@ -15103,62 +17084,77 @@ Points. In multi-target mode, restores Level \* Wisdom \* 0.5 HP and gives
 Against undead, this becomes an unaspected magical attack, and does not give
 Auto-Cure Points.
 
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
+
 **Diadem**
 
-| Cost      | Mapless          | Map                    |
-|-----------|------------------|------------------------|
-| MP: 4,000 | R: 4 rows        | Ranged Indirect        |
-|           | E: Single or Row | Target H: 4            |
-|           |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 400 | R: 4 rows        | Ranged Indirect        |
+| MP: 4,000      | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level \* Intellect
 damage. In multi-target mode, causes Level \* Intellect \* 0.8 Damage.
 
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
+
 **Holy**
 
-| Cost      | Mapless          | Map                    |
-|-----------|------------------|------------------------|
-| MP: 4,000 | R: 4 rows        | Ranged Indirect        |
-|           | E: Single or Row | Target H: 4            |
-|           |                  | Effect H/V: 1/1 or 2/2 |
+| Cost           | Mapless          | Map                    |
+|----------------|------------------|------------------------|
+| Cast Time: 400 | R: 4 rows        | Ranged Indirect        |
+| MP: 4,000      | E: Single or Row | Target H: 4            |
+|                |                  | Effect H/V: 1/1 or 2/2 |
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level \* Wisdom
 damage. In multi-target mode, causes Level \* Wisdom \* 0.8 Damage.
+
+In map combat, multi-target mode will affect all combatants in the area,
+regardless of friend or foe.
 
 #### White Mage 90
 
 **Dispelga**
 
-| Cost      | Mapless   | Map             |
-|-----------|-----------|-----------------|
-| MP: 1,500 | R: 4 rows | Ranged Indirect |
-|           | E: Row    | Target H: 4     |
-|           |           | Effect H/V: 2/2 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 450 | R: 4 rows | Ranged Indirect |
+| MP: 1,500      | E: Row    | Target H: 4     |
+|                |           | Effect H/V: 2/2 |
 
 Removes one status condition of the spellcaster’s choice from the targets. The
 spellcaster can choose a different status condition to remove for each target.
 This spell cannot be reflected.
 
+In map combat, this spell will affect all combatants in the area, regardless of
+friend or foe.
+
 **Esunaga**
 
-| Cost      | Mapless   | Map             |
-|-----------|-----------|-----------------|
-| MP: 5,000 | R: 4 rows | Ranged Indirect |
-|           | E: Row    | Target H: 4     |
-|           |           | Effect H/V: 2/2 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 450 | R: 4 rows | Ranged Indirect |
+| MP: 5,000      | E: Row    | Target H: 4     |
+|                |           | Effect H/V: 2/2 |
 
 Removes up to two status conditions from all combatants in the area. Each
 combatant individually chooses which status conditions to remove, if any.
 
+In map combat, this spell will affect all combatants in the area, regardless of
+friend or foe.
+
 **Rearise**
 
-| Cost      | Mapless   | Map             |
-|-----------|-----------|-----------------|
-| MP: 5,000 | R: 4 rows | Ranged Indirect |
-|           | E: Single | Target H: 4     |
-|           |           | Effect H/V: 1/1 |
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 450 | R: 4 rows | Ranged Indirect |
+| MP: 5,000      | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
 
-Grants \[Rearise\]\[Status: Rearise\] to the target.
+Grants [Rearise](#status-rearise) to the target.
 
 #### White Mage 99
 

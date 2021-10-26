@@ -12,6 +12,7 @@ Naturally, Chemists have good relationships with Alchemists, or even practice Al
 - [Conjurer] - _Chemist_ 20
 - [Mime] - _Chemist_ 80, [Dragoon] 50, [Geomancer] 50, [Orator] 50, [Squire] 80, [Summoner] 50
 - [Onion Knight] - _Chemist_ 60, [Squire] 60
+- [Psychic] - _Chemist_ 20
 - [Thaumaturgist] - _Chemist_ 20
 - [White Mage] - _Chemist_ 20
 
@@ -47,7 +48,7 @@ Naturally, Chemists have good relationships with Alchemists, or even practice Al
 | 90 | Reaction: Auto Potion
 | 99 | Job Mastered
 
-- **Mastery Bonus:** You provide double the number of uses for items that you craft.
+**Mastery Bonus:** You provide double the number of uses for items that you craft.
 
 ### Chemistry
 
@@ -65,7 +66,7 @@ Use two charges of an item to produce its **Distillation** effect.
 | ---             | ---       | --- |
 | Charge Time: 50 | R: 4 rows | Ranged Arc
 |                 | E: Party  | Target H: 6
-|                 |           | Effect H/V: 3/2
+|                 |           | Effect H/V: 3/3
 
 Use two charges of an item to make it affect all in the target area.
 
@@ -98,11 +99,11 @@ If the target is at 1/4th HP or less, then this ability attempts an Instant Deat
 
 | Cost   | Mapless   | Map |
 | ---    | ---       | --- |
-| MP: 80 | R: 4 rows | Ranged Calldown
+| MP: 80 | R: 4 rows | Ranged Indirect
 |        | E: 1 row  | Target H: 4
 |        |           | Effect H/V: 2/3
 
-Unaspected Magical attack, for Level * Intellect * 0.4 damage.
+Magical Attack, Unaspected, targeting all combatants in the area for Level * Intellect * 0.4 damage.
 
 #### Chemist 50
 
@@ -118,12 +119,11 @@ Use an item without consuming any charges.
 
 **Amputation**
 
-| Cost    | Mapless   | Map |
-| ---     | ---       | --- |
-| TP: 700 | R: 1 row  | Melee
-|         | E: Single |
+| Cost    | Mapless | Map |
+| ---     | ---     | --- |
+| TP: 700 | Melee   | Melee
 
-Unaspected Magical attack, for Level * Intellect * 0.8 damage.
+Magical Attack, Unaspected, dealing Level * Intellect * 0.8 damage.
 
 #### Chemist 70
 
@@ -135,7 +135,7 @@ Unaspected Magical attack, for Level * Intellect * 0.8 damage.
 |           | E: 1 row  | Target H: 0
 |           |           | Effect H/V: 2/3
 
-Unaspected Magical attack against all enemies in the area, for Level * Intellect * 0.4 damage, plus an amount of damage equal to the difference between your current and maximum HP. This is added together to make one instance of damage.
+Magical Attack, Unaspected, targeting all enemies in the area for Level * Intellect * 0.4 damage, plus an amount of damage equal to the difference between your current and maximum HP. This is added together to make one instance of damage.
 
 #### Chemist 80
 

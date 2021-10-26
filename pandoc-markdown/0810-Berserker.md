@@ -14,7 +14,7 @@
 |        |            | 1 x Choice                 | Jump: 4
 |        |            |                            | 1 x Choice
 
-- **Support: Auto-Berserk:** You are always [Berserk][Status: Berserk] in combat. This cannot be stopped in combat, except by equipping a Relic that grants immunity to [Berserk][Status: Berserk].
+- **Support: Auto-Berserk:** You are always [Berserk][Status: Berserk] in combat. This cannot be stopped in combat, not even by equipped Relics.
 - **Support: Double Attack:** Your Attack actions occur twice. Each attack is against a random enemy within your weapon range.
 
 | Weapon Proficiency | Armor Proficiency |

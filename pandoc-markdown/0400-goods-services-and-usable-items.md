@@ -1,5 +1,7 @@
 # Goods Services And Usable Items
 
+**Cooked Meals:** These apply their Item Level as a temporary attribute bonus to a single attribute, for all allies. The effects last until the next long rest. They must be crafted.
+
 | Goods     | Description |
 | ---       | ---         |
 | Linkpearl | Auditory tranceiver that fits in the ear and can pick up the speaker's voice. Connects to one Linkshell.
@@ -78,10 +80,10 @@
 
 | Chemist Drink     | ILVL | Uses | Effect |
 | ---               | ---  | ---  | ---    |
-| Power Drink       | 30   | 2    | Grants [Boost Power][Status: Boost Power] status
+| Power Drink       | 30   | 2    | Grants [Boost Attack][Status: Boost Attack] status
 | Speed Drink       | 30   | 2    | Grants [Boost Speed][Status: Boost Speed] status
-| Iron Draft        | 30   | 2    | Grants [Boost Defense][Status: Boost Speed] status
-| Hero Cocktail     | 30   | 2    | Grants [Boost Physical][Status: Boost Physical] status
+| Iron Draft        | 30   | 2    | Grants [Boost Defense][Status: Boost Defense] status
+| Hero Cocktail     | 30   | 2    | Grants [Boost Accuracy][Status: Boost Accuracy] status
 | Goliath Tonic     | 50   | 2    | Grants [Bubble][Status: Bubble] status
 
 | Throwing Item     | ILVL | Uses | Effect or Damage |

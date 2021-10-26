@@ -4,8 +4,6 @@
 
 **Leads to:** None
 
-- **Black and White Mana:** You can hold Black and White Mana.
-
 | Action           | Reaction   | Support          | Move |
 | ---              | ---        | ---              | ---  |
 | Attack           | 1 x Choice | **Duality Mana** | Mapless: 3
@@ -13,9 +11,9 @@
 | Defend           |            |                  | Jump: 3
 | **[Red Magick]** |            |                  | 1 x Choice
 | **JLVL 80: Dualcast** |       |                  |
-| [Fencing] |                   |                  |
-| 1 x Choice |                  |                  |
-| Item      |                   |                  |
+| [Fencing]        |            |                  |
+| 1 x Choice       |            |                  |
+| Item             |            |                  |
 
 - **Action: Red Magick:** Using verisimilitudes of the most essential [White Magick] and [Black Magick] spells, with long term buildup towards uniquely-powerful Red spells.
 - **Action: Dualcast:** Perform two Magick actions at once. Charge Times and Cast Times stack together. For example, if you cast one Magick spell with a Cast Time of 1,000, and another Magick spell with a Cast Time of 2,000, then both spells do not activate until after a total of 3,000 Cast Time has passed.

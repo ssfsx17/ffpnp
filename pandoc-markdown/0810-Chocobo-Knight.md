@@ -219,4 +219,4 @@ Requires a gold chocobo. Your chocobo performs a magical technique that attempts
 | ---         |
 | Limit Break |
 
-You summon a fat chocobo to sit on all enemies on the battlefield, dealing Level * Strength * 0.6 damage. In addition, all of your item uses are restored.
+You summon a fat chocobo to sit on all enemies on the battlefield, dealing Level * Stamina * 0.6 damage. In addition, all of your item uses are restored.

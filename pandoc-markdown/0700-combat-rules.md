@@ -4,11 +4,17 @@
 2. Movement And Actions Phase
 3. Status Phase
 
-## Decision Phase
-
 ## Initiative Phase
 
+Initiative Roll = 1d100 + Experience Level + Speed - Excess Weight
+
+If you have leftover Charge Time and Cast Time from previous rounds, then you pay those down with your Initiative. Extreme amounts of Charge Time and Cast Time could result in effectively losing multiple turns.
+
 ## Movement And Actions Phase
+
+**Charge Time:** Subtracted from your Initiative, then your action occurs at your new Initiative. If this results in negative Initiative then you will carry over the remaining Charge Time to the next round. Status conditions that would prevent you from starting the action will also interrupt you and make you lose the action.
+
+**Cast Time:** Similar Charge Time, except that abilities with Cast Time have the option of targeting either a unit or a position/square. If targeting a unit, then even when that unit moves out of range during the Cast Time, the ability still occurs, centered on that unit. If targeting a position/square, then even if you move or are forcibly moved out of range during the Cast Time, the ability still occurs, centered on that position/square.
 
 ### Movement
 

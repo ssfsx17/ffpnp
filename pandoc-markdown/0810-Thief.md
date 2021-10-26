@@ -5,7 +5,9 @@
 **Leads to:**
 
 - [Dragoon] - [Monk] 40, _Thief_ 40
+- [Gambler] - [Mystic] 30, _Thief_ 30
 - [Geomancer] - [Monk] 40, _Thief_ 40
+- [Jongleur] - _Thief_ 20
 - [Ninja] - [Archer] 40, [Geomancer] 20, _Thief_ 50
 
 | Action         | Reaction           | Support    | Move |

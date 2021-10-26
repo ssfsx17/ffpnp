@@ -6,6 +6,7 @@
 
 - [Gunbreaker] - _Fusilier_ 30, [Marauder] 60, [Spellblade] 30
 - [Machinist] - [Arithmetician] 30, _Fusilier_ 30
+- [Magitek Pilot] - [Black Mage] 20, _Fusilier_ 20
 
 | Action    | Reaction   | Support             | Move |
 | ---       | ---        | ---                 | ---  |
@@ -63,6 +64,14 @@ Targets one ally within weapon range. Restores Level * Wisdom * 0.4 HP, and remo
 | TP: 150 |
 
 Attack, Fire-Aspected.
+
+**Potshot**
+
+| Cost   |
+| ---    |
+| MP: 80 |
+
+Attack, and ignore P-Eva.
 
 #### Fusilier 20
 
@@ -146,7 +155,23 @@ Physical technique that attempts to teleport the target to a random location on 
 
 Attack, and attempt to cause [Blind][Status: Blind] on hit.
 
+**Quarter Pounder**
+
+| Cost    |
+| ---     |
+| MP: 800 |
+
+Attack that attempts to do an amount of damage equal to 25% of the target's current HP. Ignores P-Def. This is a Gravity/Death attack.
+
 #### Fusilier 70
+
+**Burst Shot**
+
+| Cost      |
+| ---       |
+| MP: 1,200 |
+
+Attack, with accuracy class improved by 2.
 
 **Ether Boost**
 
@@ -156,6 +181,14 @@ Attack, and attempt to cause [Blind][Status: Blind] on hit.
 | MP: 2,000       |
 
 Attack, and add Level * Intellect * 0.4 to the damage.
+
+**On The Level**
+
+| Cost      |
+| ---       |
+| MP: 1,200 |
+
+Attack, for Level * Level * 8 damage.
 
 **Silenceshot**
 
@@ -183,6 +216,14 @@ Uses an amount of your HP equal to 25% of your maximum HP. Attack, and add Level
 | TP: 450 |
 
 Attack, and attempt to cause [Stop][Status: Stop] on hit.
+
+**Table-turner**
+
+| Cost    |
+| ---     |
+| MP: 800 |
+
+Attack, and add the target's P-Def to the damage. Ignores P-Def when calculating the After-Armor Damage.
 
 #### Fusilier 90
 

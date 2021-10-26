@@ -18,7 +18,7 @@
 | Item       |                   |                    |
 
 - **Action: Archery:** Expertise in projectile weapons.
-- **Reaction: Adrenaline Rush (200 TP):** Upon taking damage, gain [Boost Speed][Status: Boost Speed].
+- **Reaction: Adrenaline Rush (500 TP):** Upon taking damage, gain [Boost Speed][Status: Boost Speed].
 - **Reaction: Archer's Bane (200 TP):** Against an incoming technique coming from 3 squares away or further, your P-Eva is doubled. In mapless combat, the incoming technique must be from at least two rows away.
 - **Support: Concentration:** Your P-Acc is doubled for causing status conditions.
 

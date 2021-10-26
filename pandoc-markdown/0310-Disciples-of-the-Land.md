@@ -2,46 +2,50 @@
 
 Add all Job Levels from Disciples of the Land to Gathering and Perception.
 
-### Arboriculturalist
+**Arboriculturalist**
 
 Typically associated with: [Carpenter], [Culinarian]
 
-### Birdspotter
+**Birdspotter**
 
 Typically associated with: [Culinarian], [Weaver]
 
-### Botanist
+**Botanist**
 
 Typically associated with: [Alchemist], [Carpenter], [Culinarian], [Weaver]
 
-### Crystallizer
+**Crystallizer**
 
 Typically associated with: [Alchemist], [Armorer], [Blacksmith], [Goldsmith]
 
-### Dumpster Diver
+**Dumpster Diver**
 
 Typically associated with: [Alchemist], [Armorer], [Blacksmith], [Carpenter], [Leatherworker], [Weaver]
 
-### Fisher
+**Fisher**
 
 Typically associated with: [Alchemist], [Culinarian]
 
-### Herder
+**Herder**
 
 Typically associated with: [Culinarian], [Leatherworker], [Weaver]
 
-### Miner
+**Miner**
 
 Typically associated with: [Alchemist], [Armorer], [Blacksmith], [Goldsmith]
 
-### Mushroom Master
+**Mushroom Master**
 
 Typically associated with: [Alchemist], [Culinarian]
 
-### Scrapscrounger
+**Scrapscrounger**
 
 Typically associated with: [Armorer], [Blacksmith], [Carpenter]
 
-### Seadiver
+**Seadiver**
 
 Typically associated with: [Alchemist], [Culinarian], [Weaver]
+
+**Spelunker**
+
+Typically associated with: ...

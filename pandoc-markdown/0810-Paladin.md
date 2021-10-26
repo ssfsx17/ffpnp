@@ -12,10 +12,11 @@
 | Charge Up  |            | 1 x Choice   | Move: 3
 | Defend     |            |              | Jump: 3
 | **[Divine Weapon]** |   |              | 1 x Choice
+| [Sparring] |            |              |
 | 1 x Choice |            |              |
 | Item       |            |              |
 
-- **Action: Divine Weapon:** Tapping in to your dark side to expose the fragility of everything else around you.
+- **Action: Divine Weapon:** Focusing the belief in your cause of protecting the many against the hoarding of the few.
 - **Support: Chivalry:** When you restore an ally's HP (other than yourself), you also regain an amount of MP equal to your Level.
 
 | Weapon Proficiency | Armor Proficiency |
@@ -135,7 +136,7 @@ Projects your attack into the area. P-Acc is doubled. Also attempts to cause [Co
 | ---       |
 | TP: 4,200 |
 
-Grants yourself [Hallowed Ground][Status: Hallowed Ground] status for 3 status phases.
+Grants yourself [Hallowed Ground][Status: Hallowed Ground] status for 4 status phases.
 
 #### Paladin 60
 
@@ -147,7 +148,7 @@ Grants yourself [Hallowed Ground][Status: Hallowed Ground] status for 3 status p
 |           | E: Single | Target H: 4
 |           |           | Effect H/V: 1/1
 
-Magical Attack, Holy-Aspected, for Level * Intellect Damage.
+Magical Attack, Holy-Aspected, for Level * Spirit Damage.
 
 **Judgment Blade**
 
@@ -181,7 +182,7 @@ Attack for double damage. You also regain Level * Spirit * 0.2 MP.
 
 | Cost      | Mapless   | Map |
 | ---       | ---       | --- |
-| TP: 4,000 | R: 6 rows | Ranged Direct
+| TP: 2,000 | R: 6 rows | Ranged Direct
 |           | E: Single | Target H: 6
 |           |           | Effect H/V: 1/1
 
@@ -207,13 +208,13 @@ Magical Attack, Holy-Aspected, targeting all enemies in the area for Level * Int
 | Special   | E: 1 row of enemies | Target H: 6
 |           |                     | Effect H/V: 3/3
 
-Requires that you have [Requiescat][Status: Requiescat] status. Magical Attack, Holy-Aspected, targeting all enemies in the area for Level * Intellect * 1.2 Damage. Ends [Requiescat][Status: Requiescat].
+Requires that you have [Requiescat][Status: Requiescat] status. Magical Attack, Holy-Aspected, targeting all enemies in the area for Level * Spirit * 1.2 Damage. Ends [Requiescat][Status: Requiescat].
 
 **Northswain's Strike**
 
 | Cost      | Mapless   | Map |
 | ---       | ---       | --- |
-| TP: 5,000 | R: 6 rows | Ranged Direct
+| TP: 3,000 | R: 6 rows | Ranged Direct
 |           | E: Single | Target H: 6
 |           |           | Effect H/V: 1/1
 

@@ -49,35 +49,41 @@
 
 **Cure**
 
-| Cost   | Mapless          | Map |
-| ---    | ---              | --- |
-| MP: 30 | R: 4 rows        | Ranged Indirect
-|        | E: Single or Row | Target H: 4
-|        |                  | Effect H/V: 1/1 or 2/2
+| Cost          | Mapless          | Map |
+| ---           | ---              | --- |
+| Cast Time: 10 | R: 4 rows        | Ranged Indirect
+| MP: 30        | E: Single or Row | Target H: 4
+|               |                  | Effect H/V: 1/1 or 2/2
 
 In single-target mode, restores Level * Wisdom * 0.2 HP, for a minimum of 20 HP. In multi-target mode, restores Level * Wisdom * 0.1 HP, for a minimum of 10 HP.
 
 Against undead, this becomes an unaspected magical attack.
 
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
+
 **Dia**
 
-| Cost   | Mapless          | Map |
-| ---    | ---              | --- |
-| MP: 60 | R: 4 rows        | Ranged Indirect
-|        | E: Single or Row | Target H: 4
-|        |                  | Effect H/V: 1/1 or 2/2
+| Cost          | Mapless          | Map |
+| ---           | ---              | --- |
+| Cast Time: 10 | R: 4 rows        | Ranged Indirect
+| MP: 60        | E: Single or Row | Target H: 4
+|               |                  | Effect H/V: 1/1 or 2/2
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level * Intellect * 0.4 damage, for a minimum of 40 damage. In multi-target mode, causes Level * Intellect * 0.3 Damage, for a minimum of 30 damage.
 
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
+
 **Fade**
 
-| Cost   | Mapless          | Map |
-| ---    | ---              | --- |
-| MP: 60 | R: 4 rows        | Ranged Indirect
-|        | E: Single or Row | Target H: 4
-|        |                  | Effect H/V: 1/1 or 2/2
+| Cost          | Mapless          | Map |
+| ---           | ---              | --- |
+| Cast Time: 10 | R: 4 rows        | Ranged Indirect
+| MP: 60        | E: Single or Row | Target H: 4
+|               |                  | Effect H/V: 1/1 or 2/2
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level * Wisdom * 0.4 damage, for a minimum of 40 damage. In multi-target mode, causes Level * Wisdom * 0.3 Damage, for a minimum of 30 damage.
+
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
 
 **Libra**
 
@@ -111,11 +117,11 @@ Allows you to project your vision far into the sky, thus allowing you to see the
 
 **Life**
 
-| Cost   | Mapless          | Map |
-| ---    | ---              | --- |
-| MP: 80 | R: 4 rows        | Ranged Indirect
-|        | E: Single        | Target H: 4
-|        |                  | Effect H/V: 1/1
+| Cost          | Mapless          | Map |
+| ---           | ---              | --- |
+| Cast Time: 50 | R: 4 rows        | Ranged Indirect
+| MP: 80        | E: Single        | Target H: 4
+|               |                  | Effect H/V: 1/1
 
 Revives the target with 1 HP.
 
@@ -123,23 +129,27 @@ Against Undead, the effect is a Gravity attack for an amount of HP equal to 10% 
 
 **Protect**
 
-| Cost   | Mapless          | Map |
-| ---    | ---              | --- |
-| MP: 90 | R: 4 rows        | Ranged Indirect
-|        | E: Single or Row | Target H: 4
-|        |                  | Effect H/V: 1/1 or 2/2
+| Cost          | Mapless          | Map |
+| ---           | ---              | --- |
+| Cast Time: 50 | R: 4 rows        | Ranged Indirect
+| MP: 90        | E: Single or Row | Target H: 4
+|               |                  | Effect H/V: 1/1 or 2/2
 
 Applies [Protect][Status: Protect] to the targets. In single-target mode, lasts for 8 status phases. In multi-target mode, lasts for 4 status phases.
 
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
+
 **Shell**
 
-| Cost   | Mapless          | Map |
-| ---    | ---              | --- |
-| MP: 90 | R: 4 rows        | Ranged Indirect
-|        | E: Single or Row | Target H: 4
-|        |                  | Effect H/V: 1/1 or 2/2
+| Cost          | Mapless          | Map |
+| ---           | ---              | --- |
+| Cast Time: 50 | R: 4 rows        | Ranged Indirect
+| MP: 90        | E: Single or Row | Target H: 4
+|               |                  | Effect H/V: 1/1 or 2/2
 
 Applies [Shell][Status: Shell] to the targets. In single-target mode, lasts for 8 status phases. In multi-target mode, lasts for 4 status phases.
+
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
 
 **Stone-na**
 
@@ -155,63 +165,69 @@ Removes [Petrify][Status: Petrify] and [Gradual Petrify][Status: Gradual Petrify
 
 **Banish**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 180 | R: 4 rows        | Ranged Indirect
-|         | E: Single or Row | Target H: 4
-|         |                  | Effect H/V: 1/1 or 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 100 | R: 4 rows        | Ranged Indirect
+| MP: 180        | E: Single or Row | Target H: 4
+|                |                  | Effect H/V: 1/1 or 2/2
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level * Wisdom * 0.5 damage. In multi-target mode, causes Level * Wisdom * 0.4 Damage.
 
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
+
 **Blink**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 80  | R: 4 rows        | Ranged Indirect
-|         | E: Single        | Target H: 4
-|         |                  | Effect H/V: 1/1
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 100 | R: 4 rows        | Ranged Indirect
+| MP: 80         | E: Single        | Target H: 4
+|                |                  | Effect H/V: 1/1
 
 Grants [Blink][Status: Blink] to the target.
 
 **Cura**
 
-| Cost   | Mapless          | Map |
-| ---    | ---              | --- |
-| MP: 90 | R: 4 rows        | Ranged Indirect
-|        | E: Single or Row | Target H: 4
-|        |                  | Effect H/V: 1/1 or 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 100 | R: 4 rows        | Ranged Indirect
+| MP: 90         | E: Single or Row | Target H: 4
+|                |                  | Effect H/V: 1/1 or 2/2
 
 In single-target mode, restores Level * Wisdom * 0.4 HP. In multi-target mode, restores Level * Wisdom * 0.2 HP.
 
 Against undead, this becomes an unaspected magical attack.
 
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
+
 **Diara**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 180 | R: 4 rows        | Ranged Indirect
-|         | E: Single or Row | Target H: 4
-|         |                  | Effect H/V: 1/1 or 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 100 | R: 4 rows        | Ranged Indirect
+| MP: 180        | E: Single or Row | Target H: 4
+|                |                  | Effect H/V: 1/1 or 2/2
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level * Intellect * 0.5 damage. In multi-target mode, causes Level * Intellect * 0.4 Damage.
 
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
+
 **Hold**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 50  | R: 4 rows        | Ranged Indirect
-|         | E: Single        | Target H: 4
-|         |                  | Effect H/V: 1/1
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 100 | R: 4 rows        | Ranged Indirect
+| MP: 50         | E: Single        | Target H: 4
+|                |                  | Effect H/V: 1/1
 
 Attempts to cause [Hold][Status: Hold] to the target, using your M-Acc and opposed by M-Eva.
 
 **Silence**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 60  | R: 4 rows        | Ranged Indirect
-|         | E: Single        | Target H: 4
-|         |                  | Effect H/V: 1/1
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 100 | R: 4 rows        | Ranged Indirect
+| MP: 60         | E: Single        | Target H: 4
+|                |                  | Effect H/V: 1/1
 
 Attempts to cause [Silence][Status: Silence] to the target, using your M-Acc and opposed by M-Eva.
 
@@ -219,51 +235,51 @@ Attempts to cause [Silence][Status: Silence] to the target, using your M-Acc and
 
 **Basuna**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 200 | R: 4 rows        | Ranged Indirect
-|         | E: Single        | Target H: 4
-|         |                  | Effect H/V: 1/1
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 150 | R: 4 rows        | Ranged Indirect
+| MP: 200        | E: Single        | Target H: 4
+|                |                  | Effect H/V: 1/1
 
 Removes up to one status condition of the target's choice from the target.
 
 **Dispel**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 150 | R: 4 rows        | Ranged Indirect
-|         | E: Single        | Target H: 4
-|         |                  | Effect H/V: 1/1
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 150 | R: 4 rows        | Ranged Indirect
+| MP: 150        | E: Single        | Target H: 4
+|                |                  | Effect H/V: 1/1
 
 Removes one status condition of the spellcaster's choice from the target. This spell cannot be reflected.
 
 **Float**
 
-| Cost   | Mapless   | Map |
-| ---    | ---       | --- |
-| MP: 80 | R: 4 rows | Ranged Indirect
-|        | E: Single | Target H: 4
-|        |           | Effect H/V: 1/1
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 150 | R: 4 rows        | Ranged Indirect
+| MP: 80         | E: Single        | Target H: 4
+|                |                  | Effect H/V: 1/1
 
-Grants [Float][Status: Float] to the target for six status phases.
+Grants [Float][Status: Float] to the target.
 
 **Mini**
 
-| Cost   | Mapless   | Map |
-| ---    | ---       | --- |
-| MP: 60 | R: 4 rows | Ranged Indirect
-|        | E: Single | Target H: 4
-|        |           | Effect H/V: 1/1
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 150 | R: 4 rows        | Ranged Indirect
+| MP: 60         | E: Single        | Target H: 4
+|                |                  | Effect H/V: 1/1
 
 Causes [Mini][Status: Mini] to the target. If the target is already Mini, then removes it.
 
 **Raise**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 250 | R: 4 rows        | Ranged Indirect
-|         | E: Single        | Target H: 4
-|         |                  | Effect H/V: 1/1
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 150 | R: 4 rows        | Ranged Indirect
+| MP: 250        | E: Single        | Target H: 4
+|                |                  | Effect H/V: 1/1
 
 Revives the target with an amount of HP equal to 25% of their maximum HP.
 
@@ -271,9 +287,10 @@ Against Undead, the effect is a Gravity attack for an amount of HP equal to 25% 
 
 **Teleport**
 
-| Cost    |
-| ---     |
-| MP: 200 |
+| Cost           |
+| ---            |
+| Cast Time: 150 |
+| MP: 200        |
 
 If this spell is used during combat, then teleports yourself and your party away from the enemies. Otherwise, this spell teleports yourself and your party out of a structure or cavern to the nearest safe location.
 
@@ -281,65 +298,71 @@ If this spell is used during combat, then teleports yourself and your party away
 
 **Berserk**
 
-| Cost    | Mapless   | Map |
-| ---     | ---       | --- |
-| MP: 180 | R: 4 rows | Ranged Indirect
-|         | E: Single | Target H: 4
-|         |           | Effect H/V: 1/1
+| Cost           | Mapless   | Map |
+| ---            | ---       | --- |
+| Cast Time: 200 | R: 4 rows | Ranged Indirect
+| MP: 180        | E: Single | Target H: 4
+|                |           | Effect H/V: 1/1
 
 Attempts to cause [Berserk][Status: Berserk] to the target, using M-Acc and opposed by M-Eva. The target may choose not to avoid this spell.
 
 **Curaga**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 180 | R: 4 rows        | Ranged Indirect
-|         | E: Single or Row | Target H: 4
-|         |                  | Effect H/V: 1/1 or 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 200 | R: 4 rows        | Ranged Indirect
+| MP: 180        | E: Single or Row | Target H: 4
+|                |                  | Effect H/V: 1/1 or 2/2
 
 In single-target mode, restores Level * Wisdom * 0.6 HP, for a minimum of 60 HP. In multi-target mode, restores Level * Wisdom * 0.3 HP, for a minimum of 30 HP.
 
 Against undead, this becomes an unaspected magical attack.
 
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
+
 **Diaga**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 360 | R: 4 rows        | Ranged Indirect
-|         | E: Single or Row | Target H: 4
-|         |                  | Effect H/V: 1/1 or 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 200 | R: 4 rows        | Ranged Indirect
+| MP: 360        | E: Single or Row | Target H: 4
+|                |                  | Effect H/V: 1/1 or 2/2
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level * Intellect * 0.6 damage. In multi-target mode, causes Level * Intellect * 0.5 Damage.
 
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
+
 **Reflect**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 300 | R: 4 rows        | Ranged Indirect
-|         | E: Single        | Target H: 4
-|         |                  | Effect H/V: 1/1
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 200 | R: 4 rows        | Ranged Indirect
+| MP: 300        | E: Single        | Target H: 4
+|                |                  | Effect H/V: 1/1
 
 Grants [Reflect][Status: Reflect] to the target for six status phases.
 
 **White**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 360 | R: 4 rows        | Ranged Indirect
-|         | E: Single or Row | Target H: 4
-|         |                  | Effect H/V: 1/1 or 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 200 | R: 4 rows        | Ranged Indirect
+| MP: 360        | E: Single or Row | Target H: 4
+|                |                  | Effect H/V: 1/1 or 2/2
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level * Wisdom * 0.6 damage. In multi-target mode, causes Level * Wisdom * 0.5 Damage.
+
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
 
 #### White Mage 50
 
 **Arise**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 520 | R: 4 rows        | Ranged Indirect
-|         | E: Single        | Target H: 4
-|         |                  | Effect H/V: 1/1
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 250 | R: 4 rows        | Ranged Indirect
+| MP: 520        | E: Single        | Target H: 4
+|                |                  | Effect H/V: 1/1
 
 Revives the target at full HP.
 
@@ -347,75 +370,85 @@ Against Undead, the effect is a Gravity attack for an amount of HP equal to 50% 
 
 **Esuna**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 520 | R: 4 rows        | Ranged Indirect
-|         | E: Single        | Target H: 4
-|         |                  | Effect H/V: 1/1
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 250 | R: 4 rows        | Ranged Indirect
+| MP: 520        | E: Single        | Target H: 4
+|                |                  | Effect H/V: 1/1
 
 Removes up to two status conditions of the target's choice from the target.
 
 **Protectga**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 500 | R: 4 rows        | Ranged Indirect
-|         | E: Single or Row | Target H: 4
-|         |                  | Effect H/V: 1/1 or 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 250 | R: 4 rows        | Ranged Indirect
+| MP: 500        | E: Single or Row | Target H: 4
+|                |                  | Effect H/V: 1/1 or 2/2
 
-Applies [Protect][Status: Protect] to the targets for 20 status phases.
+Applies [Protect][Status: Protect] to all combatants in the area.
+
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
 
 **Shellga**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 500 | R: 4 rows        | Ranged Indirect
-|         | E: Single or Row | Target H: 4
-|         |                  | Effect H/V: 1/1 or 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 250 | R: 4 rows        | Ranged Indirect
+| MP: 500        | E: Single or Row | Target H: 4
+|                |                  | Effect H/V: 1/1 or 2/2
 
-Applies [Shell][Status: Shell] to the targets for 20 status phases.
+Applies [Shell][Status: Shell] to all combatants in the area.
+
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
 
 #### White Mage 60
 
 **Curaja**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 400 | R: 4 rows        | Ranged Indirect
-|         | E: Single or Row | Target H: 4
-|         |                  | Effect H/V: 1/1 or 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 300 | R: 4 rows        | Ranged Indirect
+| MP: 400        | E: Single or Row | Target H: 4
+|                |                  | Effect H/V: 1/1 or 2/2
 
 In single-target mode, restores Level * Wisdom * 0.8 HP, for a minimum of 80 HP. In multi-target mode, restores Level * Wisdom * 0.4 HP, for a minimum of 40 HP.
 
 Against undead, this becomes an unaspected magical attack.
 
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
+
 **Diaja**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 800 | R: 4 rows        | Ranged Indirect
-|         | E: Single or Row | Target H: 4
-|         |                  | Effect H/V: 1/1 or 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 300 | R: 4 rows        | Ranged Indirect
+| MP: 800        | E: Single or Row | Target H: 4
+|                |                  | Effect H/V: 1/1 or 2/2
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level * Intellect * 0.8 damage. In multi-target mode, causes Level * Intellect * 0.6 Damage.
 
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
+
 **Pearl**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 800 | R: 4 rows        | Ranged Indirect
-|         | E: Single or Row | Target H: 4
-|         |                  | Effect H/V: 1/1 or 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 300 | R: 4 rows        | Ranged Indirect
+| MP: 800        | E: Single or Row | Target H: 4
+|                |                  | Effect H/V: 1/1 or 2/2
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level * Wisdom * 0.8 damage. In multi-target mode, causes Level * Wisdom * 0.6 Damage.
 
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
+
 **Reraise**
 
-| Cost    | Mapless          | Map |
-| ---     | ---              | --- |
-| MP: 500 | R: 4 rows        | Ranged Indirect
-|         | E: Single        | Target H: 4
-|         |                  | Effect H/V: 1/1
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 300 | R: 4 rows        | Ranged Indirect
+| MP: 500        | E: Single        | Target H: 4
+|                |                  | Effect H/V: 1/1
 
 Grants [Reraise][Status: Reraise] to the target.
 
@@ -423,97 +456,113 @@ Grants [Reraise][Status: Reraise] to the target.
 
 **Floatga**
 
-| Cost    | Mapless   | Map |
-| ---     | ---       | --- |
-| MP: 800 | R: 4 rows | Ranged Indirect
-|         | E: Row    | Target H: 4
-|         |           | Effect H/V: 2/2
+| Cost           | Mapless   | Map |
+| ---            | ---       | --- |
+| Cast Time: 350 | R: 4 rows | Ranged Indirect
+| MP: 800        | E: Row    | Target H: 4
+|                |           | Effect H/V: 2/2
 
-Grants [Float][Status: Float] to the targets for 20 status phases.
+Grants [Float][Status: Float] to all combatants in the area.
+
+In map combat, this spell will affect all combatants in the area, regardless of friend or foe.
 
 **Holdga**
 
-| Cost    | Mapless   | Map |
-| ---     | ---       | --- |
-| MP: 500 | R: 4 rows | Ranged Indirect
-|         | E: Row    | Target H: 4
-|         |           | Effect H/V: 2/2
+| Cost           | Mapless   | Map |
+| ---            | ---       | --- |
+| Cast Time: 350 | R: 4 rows | Ranged Indirect
+| MP: 500        | E: Row    | Target H: 4
+|                |           | Effect H/V: 2/2
 
 Attempts to cause [Hold][Status: Hold] to the targets, using your M-Acc and opposed by M-Eva.
 
+In map combat, this spell will affect all combatants in the area, regardless of friend or foe.
+
 **Raisega**
 
-| Cost      | Mapless          | Map |
-| ---       | ---              | --- |
-| MP: 2,500 | R: 4 rows        | Ranged Indirect
-|           | E: Row           | Target H: 4
-|           |                  | Effect H/V: 2/2
+| Cost           | Mapless   | Map |
+| ---            | ---       | --- |
+| Cast Time: 350 | R: 4 rows | Ranged Indirect
+| MP: 2,500      | E: Row    | Target H: 4
+|                |           | Effect H/V: 2/2
 
 Revives all in the area at an amount of HP equal to 10% of their maximum HP.
+
+In map combat, this spell will affect all combatants in the area, regardless of friend or foe.
 
 #### White Mage 80
 
 **Curada**
 
-| Cost      | Mapless          | Map |
-| ---       | ---              | --- |
-| MP: 2,000 | R: 4 rows        | Ranged Indirect
-|           | E: Single or Row | Target H: 4
-|           |                  | Effect H/V: 1/1 or 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 400 | R: 4 rows        | Ranged Indirect
+| MP: 2,000      | E: Single or Row | Target H: 4
+|                |                  | Effect H/V: 1/1 or 2/2
 
 In single-target mode, restores Level * Wisdom HP and gives 30,000 Auto-Cure Points. In multi-target mode, restores Level * Wisdom * 0.5 HP and gives 10,000 Auto-Cure Points.
 
 Against undead, this becomes an unaspected magical attack, and does not give Auto-Cure Points.
 
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
+
 **Diadem**
 
-| Cost      | Mapless          | Map |
-| ---       | ---              | --- |
-| MP: 4,000 | R: 4 rows        | Ranged Indirect
-|           | E: Single or Row | Target H: 4
-|           |                  | Effect H/V: 1/1 or 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 400 | R: 4 rows        | Ranged Indirect
+| MP: 4,000      | E: Single or Row | Target H: 4
+|                |                  | Effect H/V: 1/1 or 2/2
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level * Intellect damage. In multi-target mode, causes Level * Intellect * 0.8 Damage.
 
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
+
 **Holy**
 
-| Cost      | Mapless          | Map |
-| ---       | ---              | --- |
-| MP: 4,000 | R: 4 rows        | Ranged Indirect
-|           | E: Single or Row | Target H: 4
-|           |                  | Effect H/V: 1/1 or 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 400 | R: 4 rows        | Ranged Indirect
+| MP: 4,000      | E: Single or Row | Target H: 4
+|                |                  | Effect H/V: 1/1 or 2/2
 
 Magical Attack, Holy-aspected. In single-target mode, causes Level * Wisdom damage. In multi-target mode, causes Level * Wisdom * 0.8 Damage.
+
+In map combat, multi-target mode will affect all combatants in the area, regardless of friend or foe.
 
 #### White Mage 90
 
 **Dispelga**
 
-| Cost      | Mapless          | Map |
-| ---       | ---              | --- |
-| MP: 1,500 | R: 4 rows        | Ranged Indirect
-|           | E: Row           | Target H: 4
-|           |                  | Effect H/V: 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 450 | R: 4 rows        | Ranged Indirect
+| MP: 1,500      | E: Row           | Target H: 4
+|                |                  | Effect H/V: 2/2
 
 Removes one status condition of the spellcaster's choice from the targets. The spellcaster can choose a different status condition to remove for each target. This spell cannot be reflected.
 
+In map combat, this spell will affect all combatants in the area, regardless of friend or foe.
+
 **Esunaga**
 
-| Cost      | Mapless          | Map |
-| ---       | ---              | --- |
-| MP: 5,000 | R: 4 rows        | Ranged Indirect
-|           | E: Row           | Target H: 4
-|           |                  | Effect H/V: 2/2
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 450 | R: 4 rows        | Ranged Indirect
+| MP: 5,000      | E: Row           | Target H: 4
+|                |                  | Effect H/V: 2/2
 
 Removes up to two status conditions from all combatants in the area. Each combatant individually chooses which status conditions to remove, if any.
 
+In map combat, this spell will affect all combatants in the area, regardless of friend or foe.
+
 **Rearise**
 
-| Cost      | Mapless          | Map |
-| ---       | ---              | --- |
-| MP: 5,000 | R: 4 rows        | Ranged Indirect
-|           | E: Single        | Target H: 4
-|           |                  | Effect H/V: 1/1
+| Cost           | Mapless          | Map |
+| ---            | ---              | --- |
+| Cast Time: 450 | R: 4 rows        | Ranged Indirect
+| MP: 5,000      | E: Single        | Target H: 4
+|                |                  | Effect H/V: 1/1
 
 Grants [Rearise][Status: Rearise] to the target.
 

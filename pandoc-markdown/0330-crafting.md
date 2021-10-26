@@ -8,7 +8,7 @@ Maximum Item Level for items you craft is equal to whichever is lower from your 
 
 Item Level reserves from the combined pool of Gathering & Craftsmanship
 
-High-Quality items then reserve their Item Level from both Perception & Control separately. Therefore, on average, only half of your crafted items can be High-Quality.
+**High-Quality** items then reserve their Item Level from both Perception & Control separately. Therefore, on average, only half of your crafted items can be High-Quality. Such items function as if they were 5 Item Levels higher.
 
 **Example:** You have a crafted item of Item Level 30. You can reserve 30 Gathering, 30 Craftsmanship, 15 Gathering and 15 Craftsmanship, or other combination. If you want to craft it as High-Quality, then you must additionally reserve both 30 Perception and 30 Control.
 

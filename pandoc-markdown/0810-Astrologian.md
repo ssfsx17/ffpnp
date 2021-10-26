@@ -33,7 +33,14 @@
 | 80 | Support: Prescience
 | 99 | Job Mastered
 
-**Mastery Bonus:** When you do an action with a random element in it other than critical chance, you can reroll that random element. You choose which of the two results to stick with.
+**Mastery Bonus:** You gain MP and/or TP every combat round, according to the real-life phase of the moon.
+
+| Moon Phase  | Gain per round |
+| ---         | ---            |
+| Full Moon   | MP equal to your Level
+| Waning Moon | MP equal to 1/4th your Level, TP equal to half your Level
+| New Moon    | TP equal to your Level
+| Waxing Moon | MP equal to half your Level, TP equal to 1/4th your Level
 
 ### Astrological Magick
 

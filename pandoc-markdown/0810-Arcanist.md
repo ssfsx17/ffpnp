@@ -18,7 +18,7 @@
 | Item       |                  |                           |
 
 - **Action: Arcane Magick:** Plumbing the darkest depths of knowledge and esoterica for the most powerful magical results.
-- **Reaction: Egi Sacrifice (500 TP):** You direct an incoming single-target action towards your Egi-Esper instead.
+- **Reaction: Egi Sacrifice (200 TP):** You direct an incoming single-target action towards your Egi-Esper instead.
 - **Support: Aethercapacitance:** You can hold a maximum of 3 Aetherflow.
 - **Support: Arcanist School Pacts:** You have access to specific Egi-Forms without needing Esper pacts. You must still meet the Job Level requirements.
   - [Bahamut]-Egi

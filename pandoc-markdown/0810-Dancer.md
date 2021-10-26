@@ -4,14 +4,14 @@
 
 **Leads to:** None
 
-| Action    | Reaction           | Support          | Move |
-| ---       | ---                | ---              | ---  |
-| Attack    | **Fury**           | 1 x Choice       | Mapless: 3
-| Charge Up | 1 x Choice         |                  | Move: 3
-| Defend    |                    |                  | Jump: 3
-| **[Kriegstanz]** |             |                  | **JLVL 60: Jump +3**
-| 1 x Choice |                   |                  | 1 x Choice
-| Item      |                    |                  |
+| Action    | Reaction   | Support    | Move |
+| ---       | ---        | ---        | ---  |
+| Attack    | **Fury**   | 1 x Choice | Mapless: 3
+| Charge Up | 1 x Choice |            | Move: 3
+| Defend    |            |            | Jump: 3
+| **[Kriegstanz]** |     |            | **JLVL 60: Jump +3**
+| 1 x Choice |           |            | 1 x Choice
+| Item      |            |            |
 
 - **Action: Kriegstanz:** Constantly dancing and making arcane gestures to affect reality itself.
 - **Reaction: Fury (200 TP):** Upon taking damage, you gain [Boost Attack][Status: Boost Attack].
@@ -36,7 +36,7 @@
 | 80 | Move: Jump +3
 | 99 | Job Mastered
 
-**Mastery Bonus:**
+**Mastery Bonus:** Attacks against your back are converted to flanking attacks.
 
 ### Kriegstanz
 

@@ -181,9 +181,8 @@ Attack, for double damage but half P-Acc.
 
 | Cost    | Mapless                       | Map |
 | ---     | ---                           | --- |
-| TP: 600 | R: 2 rows                     | Self-Centered Burst
-|         | E: 3 enemies in the front row | Target H: 0
-|         |                               | Effect H/V: 2/2
+| TP: 600 | R: 2 rows                     | Spinning Melee
+|         | E: 3 enemies in the front row |
 
 Spinning attack against everyone adjacent to you.
 

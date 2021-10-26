@@ -66,6 +66,10 @@ Your accuracy class is improved by 1.
 
 You take 25% less After-Armor Damage.
 
+### Status: Boost Evasion
+
+Your P-Eva and M-Eva are increased by 25%.
+
 ### Status: Boost Healing
 
 Your outgoing healing is increased by 25%.
@@ -404,7 +408,7 @@ For all healing you receive from actions, 10% of the healing is additionally giv
 
 ### Status: Oil
 
-You take double damage from fire.
+You take double After-Armor damage from fire.
 
 ### Status: Old
 
@@ -456,6 +460,10 @@ You gain one extra action during the status phase.
 
 You take 20% reduced After-Armor Damage.
 
+### Status: Rearise
+
+If you are dead at the end of the status phase, then _Arise_ is cast on you.
+
 ### Status: Recitation
 
 You ignore Aetherflow costs.
@@ -485,6 +493,10 @@ Your damage output is decreased by 10%.
 ### Status: Requiescat
 
 Your magical damage output is increased by 25%. Your Cast Time is halved.
+
+### Status: Reraise
+
+If you are dead at the end of the status phase, then _Raise_ is cast upon you.
 
 ### Status: Resilient
 
@@ -611,6 +623,10 @@ Causes Poison-aspected damage during the status phase. The damage is equal to 5%
 ### Status: War Cry
 
 Your P-Eva and M-Eva are doubled against status conditions and Gravity/Death attacks.
+
+### Status: Watered
+
+You take double After-Armor damage from lightning.
 
 ### Status: Windbite
 

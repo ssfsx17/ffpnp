@@ -10,10 +10,8 @@
 - Legs Equipment
 - Feet Equipment
 - Ears Equipment
-- Neck Equipment
-- Wrists Equipment
-- Right Ring Relic
-- Left Ring Relic
+- Relic 1
+- Relic 2
 
 ## Proficiency Types
 
@@ -30,6 +28,7 @@
 | Slayer   | Specialized armor for standing in the front just long enough to trade hard blows, then retreat
 | Scout    | Stealthy, camouflaged, sound-absorbent gear
 | Striker  | Sparring gear
+| Magitek  | Large mechanical equipment that constantly pulls magical energy
 
 ## Tools and Shields
 
@@ -46,6 +45,7 @@
 | Magic       | ILVL * 0.5 | ILVL * 2 | ILVL * ILVL * 0.4 | ILVL * 3 | ILVL * ILVL * 0.6 |
 | Caster      | ILVL * 0.5 | ILVL * 2 | ILVL * ILVL * 0.4 | ILVL * 3 | ILVL * ILVL * 0.6 |
 | Healer      | ILVL * 0.5 | ILVL * 2 | ILVL * ILVL * 0.4 | ILVL * 4 | ILVL * ILVL       |
+| Magitek     | ILVL * 3   | ILVL * 4 | ILVL * ILVL * 1.2 | ILVL * 4 | ILVL * ILVL * 1.2 |
 
 ## Head Equipment
 
@@ -62,6 +62,7 @@
 | Magic    | ILVL * 0.5 | ILVL * ILVL * 2   | 20
 | Caster   | ILVL * 0.5 | ILVL * ILVL * 2.5 | 25
 | Healer   | ILVL * 0.5 | ILVL * ILVL * 3   | 30
+| Magitek  | ILVL * 3   | ILVL * ILVL * 3   | 30
 
 ## Body Equipment
 
@@ -78,6 +79,7 @@
 | Magic    | ILVL * 0.5 | ILVL * ILVL       | 10
 | Caster   | ILVL * 0.5 | ILVL * ILVL       | 10
 | Healer   | ILVL * 0.5 | ILVL * ILVL       | 10
+| Magitek  | ILVL * 3   | ILVL * ILVL * 3   | 30
 
 ## Arms Equipment
 
@@ -94,6 +96,7 @@
 | Magic    | ILVL * 0.5 | ILVL
 | Caster   | ILVL * 0.5 | ILVL
 | Healer   | ILVL * 0.5 | ILVL
+| Magitek  | ILVL * 3   | ILVL * 3
 
 ## Legs Equipment
 
@@ -110,6 +113,7 @@
 | Magic    | ILVL * 0.5 | ILVL
 | Caster   | ILVL * 0.5 | ILVL
 | Healer   | ILVL * 0.5 | ILVL
+| Magitek  | ILVL * 3   | ILVL * 3
 
 ## Feet Equipment
 
@@ -126,6 +130,7 @@
 | Magic    | ILVL * 0.5 | ILVL * 2
 | Caster   | ILVL * 0.5 | ILVL * 2
 | Healer   | ILVL * 0.5 | ILVL * 3
+| Magitek  | ILVL * 3   | ILVL * 3
 
 ## Ears Equipment
 
@@ -142,6 +147,7 @@
 | Magic    | ILVL * 0.5 | ILVL * 1.5
 | Caster   | ILVL * 0.5 | ILVL * 3
 | Healer   | ILVL * 0.5 | ILVL * 2
+| Magitek  | ILVL * 3   | ILVL * 3
 
 ## Weapons
 
@@ -155,7 +161,7 @@
 | 1H Books       | ILVL     | Intellect | ILVL * 0.20 | 20   | Physical | Adds ILVL to Intellect |
 | 1H Claws       | ILVL     | Strength  | ILVL * 0.30 | 30   | Physical | Adds ILVL to Strength
 | 1H Daggers     | ILVL     | Dexterity | ILVL * 0.20 | 20   | Physical | Adds ILVL to Dexterity
-| 1H Hammers     | ILVL * 2 | Strength  | ILVL * 0.30 | 30   | Physical | Causes Knockback on Critical Hit, and Stun status (2 phases)
+| 1H Hammers     | ILVL * 2 | Strength  | ILVL * 0.30 | 30   | Physical | Causes Knockback on Critical Hit, and Stun status (1 phase)
 | 1H Handaxes    | ILVL * 2 | Strength  | ILVL * 0.50 | 50   | Physical |
 | 1H Handbags    | ILVL     | Strength  | ILVL * 0.30 | 30   | Physical | Adds ILVL to Tenacity
 | 1H Knives      | ILVL     | Speed     | ILVL * 0.20 | 20   | Physical | Adds ILVL to Speed
@@ -164,6 +170,7 @@
 | 1H Rapiers     | ILVL     | Dexterity | ILVL * 0.20 | 20   | Physical | Adds ILVL to Agility
 | 1H Swords      | ILVL     | Strength  | ILVL * 0.40 | 40   | Physical |
 | 1H Tanto       | ILVL     | Dexterity | ILVL * 0.20 | 20   | Physical | Adds ILVL to Intellect
+| 1H M-Tek Claw  | ILVL * 3 | Dexterity | ILVL * 0.60 | 60   | Physical |
 | 2H Greataxes   | ILVL * 3 | Strength  | ILVL * 0.90 | 90   | Physical |
 | 2H Greatswords | ILVL * 2 | Strength  | ILVL * 0.80 | 80   | Physical |
 | 2H Gunblades   | ILVL * 2 | Strength  | ILVL * 0.60 | 60   | Physical | Adds ILVL to Tenacity
@@ -194,7 +201,7 @@
 
 | Weapon Type    | Weight   | Attribute | Multiplier  | Min. | Type     | Other |
 | ---            | ---      | ---       | ---         | ---  | ---      | ---   |
-| 1H Bombsticks  | ILVL     | Dexterity | ILVL * 0.30 | 30   | Physical |
+| 1H Bombsticks  | ILVL     | Dexterity | ILVL * 0.20 | 20   | Physical | Causes Knockback on Critical Hit, and Stun status (1 phase)
 | 1H Boomerangs  | ILVL     | Dexterity | ILVL * 0.30 | 30   | Physical |
 | 1H Javelins    | ILVL * 2 | Strength  | ILVL * 0.20 | 20   | Physical |
 | 1H Racquets    | ILVL     | Wisdom    | ILVL * 0.25 | 25   | Magical  | Adds ILVL to Wisdom
@@ -208,17 +215,19 @@
 
 | Weapon Type    | Weight   | Attribute | Multiplier  | Min. | Type     | Other |
 | ---            | ---      | ---       | ---         | ---  | ---      | ---   |
-| 1H Bells       | ILVL     | Intellect | ILVL * 0.10 | 10   | Magical  | Adds ILVL to Intellect
-| 1H Canes       | ILVL     | Wisdom    | ILVL * 0.10 | 10   | Magical  | Adds ILVL to Wisdom
-| 1H Cards       | ILVL     | Dexterity | ILVL * 0.10 | 10   | Physical | Adds ILVL to Intellect
-| 1H Chakrams    | ILVL     | Dexterity | ILVL * 0.10 | 10   | Physical | Adds ILVL to Dexterity
-| 1H Darts       | ILVL * 2 | Strength  | ILVL * 0.25 | 25   | Physical |
-| 1H Flutes      | ILVL     | Mind      | ILVL * 0.10 | 10   | Magical  | Adds ILVL to Mind
+| 1H Bells       | ILVL     | Intellect | ILVL * 0.20 | 20   | Magical  | Adds ILVL to Intellect
+| 1H Canes       | ILVL     | Wisdom    | ILVL * 0.20 | 20   | Magical  | Adds ILVL to Wisdom
+| 1H Cards       | ILVL     | Dexterity | ILVL * 0.20 | 20   | Physical | Adds ILVL to Intellect
+| 1H Chakrams    | ILVL     | Dexterity | ILVL * 0.20 | 20   | Physical | Adds ILVL to Dexterity
+| 1H Darts       | ILVL     | Strength  | ILVL * 0.20 | 20   | Physical |
+| 1H Flutes      | ILVL     | Mind      | ILVL * 0.20 | 20   | Magical  | Adds ILVL to Mind
 | 1H Handguns    | ILVL * 2 | Dexterity | ILVL * 0.30 | 30   | Physical |
+| 1H M-Tek Gun   | ILVL * 4 | Dexterity | ILVL * 0.60 | 60   | Physical |
 | 2H Globes      | ILVL * 2 | Spirit    | ILVL * 0.30 | 30   | Magical  | Adds ILVL to Spirit
-| 2H Grimoires   | ILVL * 2 | Intellect | ILVL * 0.20 | 20   | Magical  | Adds ILVL to Intellect
+| 2H Grimoires   | ILVL * 2 | Intellect | ILVL * 0.30 | 30   | Magical  | Adds ILVL to Intellect
 | 2H Harps       | ILVL * 2 | Mind      | ILVL * 0.30 | 30   | Magical  | Adds ILVL to Mind
 | 2H Cannons     | ILVL * 4 | Dexterity | ILVL * 0.60 | 60   | Physical |
 | 2H Crossbows   | ILVL * 2 | Dexterity | ILVL * 0.40 | 40   | Physical |
 | 2H Nouliths    | ILVL * 2 | Wisdom    | ILVL * 0.30 | 30   | Magical  | Adds ILVL to Wisdom
 | 2H Rifles      | ILVL * 2 | Dexterity | ILVL * 0.40 | 40   | Physical |
+| 2H M-Tek Rifle | ILVL * 6 | Dexterity | ILVL * 0.80 | 80   | Physical |

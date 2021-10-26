@@ -187,4 +187,4 @@ Transfers all of your current TP to the target.
 |             | E: 1 row  | Target H: 4
 |             |           | Effect H/V: 2/2
 
-Magical Attack, unaspected, causing Level * Tenacity * 1.2 damage.
+Magical Attack, Unaspected, targeting all enemies in the area for Level * Tenacity * 1.2 damage.

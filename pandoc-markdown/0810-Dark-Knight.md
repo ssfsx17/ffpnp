@@ -11,7 +11,7 @@
 | Attack     | 1 x Choice | **Blood Gauge** | Mapless: 3
 | Charge Up  |            | **HP Boost**    | Move: 3
 | Defend     |            | **Vehemence**   | Jump: 3
-| **Darkness Weapon** |   | 1 x Choice      | 1 x Choice
+| **[Darkness Weapon]** | | 1 x Choice      | 1 x Choice
 | 1 x Choice |            |                 |
 | Item       |            |                 |
 
@@ -48,7 +48,7 @@
 | ---             |
 | 10 Blood Points |
 
-You restore Level * Wisdom * 0.6 HP to yourself.
+You restore Level * Stamina * 0.6 HP to yourself.
 
 **Syphon Strike**
 
@@ -121,6 +121,8 @@ Grants yourself [Blood Weapon][Status: Blood Weapon] status for 4 status phases.
 
 Magical Attack, Dark-Aspected, dealing Level * Intellect * 0.8 Damage. Also grants yourself [Darkside][Status: Darkside] status for 4 status phases. You gain 1 Blood Point.
 
+This ability can be used immediately after a TP-using _Darkness Weapon_ action, in which case the MP cost is doubled, for a total of 6,000 MP.
+
 **Shadow Wall**
 
 | Cost      |
@@ -146,6 +148,8 @@ Grants yourself [Shell][Status: Shell] status.
 | MP: 3,000 |
 
 Attack, for double Dark-Aspected Damage. Also grants yourself [Darkside][Status: Darkside] status for 4 status phases. You gain 1 Blood Point.
+
+This ability can be used immediately after a TP-using _Darkness Weapon_ action, in which case the MP cost is doubled, for a total of 6,000 MP.
 
 **Shirk**
 

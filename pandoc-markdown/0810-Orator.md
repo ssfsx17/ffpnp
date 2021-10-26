@@ -86,6 +86,15 @@ Release a caught creature into the target space. The creature acts on the party'
 
 #### Orator 10
 
+**100% Wool**
+
+| Cost          |
+| ---           |
+| Cast Time: 80 |
+| MP: 80        |
+
+Grants [Protect][Status: Protect] and [Shell][Status: Shell] to yourself.
+
 **Stall**
 
 | Cost    | Mapless   | Map |
@@ -94,9 +103,19 @@ Release a caught creature into the target space. The creature acts on the party'
 |         | E: Single | Target R: 4
 |         |           | Effect H/V: 1/1
 
-Magical technique that attempts to cause 1,000 Charge Time to the target.
+Magical technique that attempts to cause an amount of Charge Time to the target equal to the target's Speed.
 
 #### Orator 20
+
+**Catnip**
+
+| Cost          | Mapless   | Map |
+| ---           | ---       | --- |
+| Cast Time: 80 | R: 4 rows | Ranged Indirect
+| MP: 80        | E: Single | Target R: 4
+|               |           | Effect H/V: 1/1
+
+Magical technique that attempts to cause [Berserk][Status: Berserk] to the target.
 
 **Praise**
 
@@ -109,6 +128,17 @@ Magical technique that attempts to cause 1,000 Charge Time to the target.
 Grants [Bravery][Status: Bravery] to the target.
 
 #### Orator 30
+
+**Chocobo Rush**
+
+| Cost          | Mapless              | Map |
+| ---           | ---                  | --- |
+| Cast Time: 80 | R: 10 rows           | Ranged Line
+| MP: 80        | E: 2 enemies per row | Target H: 1
+|               |                      | Length: 10
+|               |                      | Width: 1
+
+Physical Attack, Unaspected, targeting all combatants in a line for Level * Speed * 0.6 damage. This ability can cause friendly fire.
 
 **Intimidate**
 
@@ -132,7 +162,27 @@ Magical technique that attempts to cause [Coward][Status: Coward] to the target.
 
 Grants [Faith][Status: Faith] to the target.
 
+**Toadsong**
+
+| Cost           | Mapless   | Map |
+| ---            | ---       | --- |
+| Cast Time: 110 | R: 4 rows | Ranged Indirect
+| MP: 220        | E: Single | Target R: 4
+|                |           | Effect H/V: 1/1
+
+Magical technique that attempts to cause [Toad][Status: Toad] status.
+
 #### Orator 50
+
+**Cuisine**
+
+| Cost           | Mapless   | Map |
+| ---            | ---       | --- |
+| Cast Time: 220 | R: 4 rows | Ranged Indirect
+| MP: 220        | E: Single | Target R: 4
+|                |           | Effect H/V: 1/1
+
+Restores Level * Wisdom * 0.8 HP to the target.
 
 **Enlighten**
 
@@ -156,6 +206,16 @@ Magical technique that attempts to cause [Atheist][Status: Atheist] to the targe
 
 Magical technique that attempts to cause [Doom][Status: Doom] to the target.
 
+**Tail Wag**
+
+| Cost           | Mapless   | Map |
+| ---            | ---       | --- |
+| Cast Time: 120 | R: 4 rows | Ranged Indirect
+| MP: 120        | E: Single | Target R: 4
+|                |           | Effect H/V: 1/1
+
+Magical technique that attempts to cause [Charm][Status: Charm] to the target.
+
 #### Orator 70
 
 **Beg**
@@ -168,6 +228,16 @@ Magical technique that attempts to cause [Doom][Status: Doom] to the target.
 
 Magical technique that attempts to make the target give up three item charges to the party. Any items usable by either the target or the party can be chosen.
 
+**Sheep Count**
+
+| Cost           | Mapless      | Map |
+| ---            | ---          | --- |
+| Cast Time: 120 | R: 4 rows    | Ranged Indirect
+| MP: 120        | E: 3 enemies | Target R: 4
+|                |              | Effect H/V: 2/2
+
+Magical technique that attempts to cause [Sleep][Status: Sleep] to all in the area, both friend and foe.
+
 #### Orator 80
 
 **Insult**
@@ -178,7 +248,7 @@ Magical technique that attempts to make the target give up three item charges to
 |         | E: Single | Target R: 4
 |         |           | Effect H/V: 1/1
 
-Magical technique that attempts to cause [Berserk][Status: Berserk].
+Magical technique that attempts to cause [Berserk][Status: Berserk] at double M-Acc.
 
 #### Orator 90
 

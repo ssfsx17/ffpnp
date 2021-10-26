@@ -6,6 +6,7 @@
 
 - [Arithmetician] - [Black Mage] 50, _Mystic_ 40, [Time Mage] 40, [White Mage] 50
 - [Devout] - [Conjurer] 60, _Mystic_ 60, [White Mage] 60
+- [Gambler] - _Mystic_ 30, [Thief] 30
 - [Orator] - _Mystic_ 30
 
 | Action    | Reaction             | Support           | Move |
