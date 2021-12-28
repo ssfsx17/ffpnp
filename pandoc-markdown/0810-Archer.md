@@ -8,14 +8,13 @@
 - [Ninja] - _Archer_ 40
 - [Thief] - _Archer_ 30
 
-| Action    | Reaction           | Support            | Move |
-| ---       | ---                | ---                | ---  |
-| Attack    | **Adrenaline Rush** | **Concentration** | Mapless: 3
-| Charge Up | **Archer's Bane**  | 1 x Choice         | Move: 3
-| Defend    | 1 x Choice         |                    | Jump: 3
-| **[Archery]** |                |                    | 1 x Choice
-| 1 x Choice |                   |                    |
-| Item       |                   |                    |
+| Action        | Reaction            | Support            | Move |
+| ---           | ---                 | ---                | ---  |
+| Attack        | **Adrenaline Rush** | **Concentration**  | Mapless: 3
+| Default       | **Archer's Bane**   | 1 x Choice         | Move: 3
+| **[Archery]** | 1 x Choice          |                    | Jump: 3
+| 1 x Choice    |                     |                    | 1 x Choice
+| Item          |                     |                    |
 
 - **Action: Archery:** Expertise in projectile weapons.
 - **Reaction: Adrenaline Rush (500 TP):** Upon taking damage, gain [Boost Speed][Status: Boost Speed].

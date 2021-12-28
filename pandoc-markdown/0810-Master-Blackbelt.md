@@ -4,15 +4,14 @@
 
 **Leads to:** None
 
-| Action    | Reaction         | Support           | Move |
-| ---       | ---              | ---               | ---  |
-| Attack    | Counter          | Animal Forms      | Mapless: 4
-| Charge Up | **First Strike** | Brawl             | Move: 4
-| Defend    | 1 x Choice       | Chakras           | Jump: 4
-| [Martial Arts] |             | Fist Elements     | **Lifefont**
-| [Pugilism] |                 | **Beast Chakras** | 1 x Choice
-| 1 x Choice |                 | 1 x Choice        |
-| Item       |                 |                   |
+| Action         | Reaction         | Support           | Move |
+| ---            | ---              | ---               | ---  |
+| Attack         | Counter          | Animal Forms      | Mapless: 4
+| Default        | **First Strike** | Brawl             | Move: 4
+| [Martial Arts] | 1 x Choice       | Chakras           | Jump: 4
+| [Pugilism]     |                  | Fist Elements     | **Lifefont**
+| 1 x Choice     |                  | **Beast Chakras** | 1 x Choice
+| Item           |                  | 1 x Choice        |
 
 - **Reaction: First Strike (500 TP):** When an enemy performs an Attack against you, you Attack the enemy first. Then the enemy's Attack occurs afterwards, if the enemy is still able to.
 - **Support: Beast Chakras:** When you achieve the special flank or rear condition of a [Pugilism] technique, you gain 1 Chakra. When you perform a Chakra-using [Martial Arts] technique, you may choose to also perform _Form Shift_ immediately afterwards.

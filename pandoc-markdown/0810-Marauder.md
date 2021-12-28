@@ -7,14 +7,13 @@
 - [Gunbreaker] - [Fusilier] 30, _Marauder_ 60, [Spellblade] 30
 - [Warrior] - [Berserker] 30, _Marauder_ 30
 
-| Action    | Reaction          | Support    | Move |
-| ---       | ---               | ---        | ---  |
-| Attack    | **Absorb Damage** | 1 x Choice | Mapless: 4
-| Charge Up | **Gil Snapper**   |            | Move: 4
-| Defend    | 1 x Choice        |            | Jump: 4
-| **[Marauding]** |             |            | 1 x Choice
-| 1 x Choice |                  |            |
-| Item      |                   |            |
+| Action          | Reaction          | Support    | Move |
+| ---             | ---               | ---        | ---  |
+| Attack          | **Absorb Damage** | 1 x Choice | Mapless: 4
+| Default         | **Gil Snapper**   |            | Move: 4
+| **[Marauding]** | 1 x Choice        |            | Jump: 4
+| 1 x Choice      |                   |            | 1 x Choice
+| Item            |                   |            |
 
 - **Action: Marauding:** Quick techniques for raiding and pillaging.
 - **Reaction: Absorb Damage (200 TP):** After taking damage, you regain an amount of HP equal to 10% of the damage.

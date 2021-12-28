@@ -24,7 +24,7 @@ Both incoming and outgoing Magical damage is decreased by 25%.
 
 ### Status: Asylum
 
-Restores HP during the status phase. The amount restored is equal to 10% of your maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.1
 
 ### Status: Berserk
 
@@ -156,7 +156,7 @@ Causes Physical damage during the status phase. The damage is equal to 10% of yo
 
 ### Status: Collective Unconscious
 
-Restores HP during the status phase. The amount restored is equal to 5% of your maximum HP. You also take 10% less damage.
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.05. You also take 10% less damage.
 
 ### Status: Combust
 
@@ -208,19 +208,19 @@ Plot Armor Enemies instead only lose one of their actions per turn.
 
 ### Status: Diurnal Benefic
 
-Restores HP during the status phase. The amount restored is equal to 5% of your maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.05
 
 ### Status: Diurnal Celestial Opposition
 
-Restores HP during the status phase. The amount restored is equal to 10% of your maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.1
 
 ### Status: Diurnal Helios
 
-Restores HP during the status phase. The amount restored is equal to 5% of your maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.05
 
 ### Status: Diurnal Sect
 
-Restores HP during the status phase. The amount restored is equal to 5% of your maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.05
 
 ### Status: Divination
 
@@ -233,6 +233,10 @@ This status is linked to a specific item. During the status phase, the item's ef
 ### Status: Doom
 
 You gain 1 Doom Point during the status phase.
+
+### Status: Element Absorption
+
+Each instance of this status is linked to a specific element. "Physical" and "Unaspected" absorption are not possible. You absorb the linked element, rather than taking damage from it.
 
 ### Status: Embolden
 
@@ -350,7 +354,7 @@ Your P-Eva and M-Eva are halved against single-target techniques.
 
 ### Status: Lucid Dreaming
 
-Restores MP during the status phase. The amount restored is equal to 1% of your maximum MP.
+Restores MP during the status phase. The amount restored is equal to your Level * Spirit * 0.05
 
 ### Status: Macrocosmos
 
@@ -358,15 +362,15 @@ For all damage that you take, you regain an amount of HP equal to 25% of that da
 
 ### Status: Medica Regen
 
-Restores HP during the status phase. The amount restored is equal to 10% of your maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.1
 
 ### Status: Medicaga Regen
 
-Restores HP during the status phase. The amount restored is equal to 20% of your maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.2
 
 ### Status: Meditation
 
-Restores MP during the status phase. The amount restored is equal to 1% of your maximum MP.
+Restores MP during the status phase. The amount restored is equal to your Level * Spirit * 0.05
 
 ### Status: Miasma
 
@@ -434,7 +438,7 @@ Plot Armor Enemies only lose one of their actions per turn.
 
 ### Status: Phoenix Regen
 
-Restores HP during the status phase. The amount restored is equal to 10% of your maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.1
 
 ### Status: Pig
 
@@ -476,15 +480,15 @@ Plot Armor Enemies instead take an amount of damage equal to 10% of their maximu
 
 ### Status: Regen
 
-Restores HP during the status phase. The amount restored is equal to 5% of your maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.05
 
 ### Status: Regenga
 
-Restores HP during the status phase. The amount restored is equal to 10% of your maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.1
 
 ### Status: Regenja
 
-Restores HP during the status phase. The amount restored is equal to 15% of your maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.15
 
 ### Status: Reprisal
 

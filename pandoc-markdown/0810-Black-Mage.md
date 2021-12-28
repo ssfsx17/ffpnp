@@ -14,14 +14,13 @@
 - [Spellblade] - _Black Mage_ 20, [Knight] 20
 - [Time Mage] - _Black Mage_ 30
 
-| Action    | Reaction           | Support             | Move |
-| ---       | ---                | ---                 | ---  |
-| Attack    | **Magick Counter** | **Arcane Strength** | Mapless: 3
-| Charge Up | 1 x Choice         | 1 x Choice          | Move: 3
-| Defend    |                    |                     | Jump: 3
-| **[Black Magick]** |           |                     | 1 x Choice
-| 1 x Choice |                   |
-| Item       |                   |
+| Action             | Reaction           | Support             | Move |
+| ---                | ---                | ---                 | ---  |
+| Attack             | **Magick Counter** | **Arcane Strength** | Mapless: 3
+| Default            | 1 x Choice         | 1 x Choice          | Move: 3
+| **[Black Magick]** |                    |                     | Jump: 3
+| 1 x Choice         |                    |                     | 1 x Choice
+| Item               |                    |                     |
 
 - **Action: Black Magick:** Control of volatile elements and other arcane transformations.
 - **Reaction: Magick Counter:** Upon taking magical damage, you may choose to do the same action back, if that ability is currently available to you.

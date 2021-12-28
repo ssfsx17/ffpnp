@@ -17,6 +17,25 @@
 
 Write three things that make your character unique. They can encompass personal history, relation to the world, physical appearance, or anything else that sets your character apart.
 
+Examples of things to write about your character:
+
+- "He washed up on a beach with no memories."
+- "Her home was invaded by the Evil Empire, and her brother went missing."
+- "He fell into a cave and heard a voice telling him to save the world."
+- "He doubts the motives of his king."
+- "She is a woman who dresses as a man to maintain the respect of her peers. Such is the environment she survives in."
+- "She was enslaved by an insane magical clown, until a traumatic event freed her."
+- "The last thing he remembers is being a member of an elite organization and trying to stop an insane sword-wielding maniac."
+- "She guards the princess with her life, as is her ordained duty."
+- "After a failed relationship, she decides to see if her ex-boyfriend's rival is a decent man."
+- "Her home environment was far too stifling and controlling, so she escaped."
+- "He was attacked by a flying gigantic creature that sent him into another world."
+- "She got fed up with lacking a [White Mage] for her party, so she decided to learn how to become one."
+- "He willingly took the blame for the assassination of the king, believing this would avert an even worse war. The real assassin was someone close to him."
+- "Her sister was kidnapped for some purpose known only to the gods."
+- "She heard the soul of the planet calling out to her to hear, feel, and think."
+- "He is the heir to the throne, yet the evil empire threatens to destroy his homeland."
+
 ## Experience Level
 
 Experience Level (LVL) is a significant factor in many calculations. As a general rule, Player Characters gain one, two or three Experience Levels (LVL) per game session, depending on the pace desired by the group.
@@ -68,11 +87,17 @@ No one battle attribute can have more than triple the number of points as anothe
 
 Initiative Roll = 1d100 + Experience Level + Speed - Excess Weight
 
-## Starting Civilian Jobs
+If Excess Weight is too high then you will end up suffering from Charge Time on every single round.
+
+## Jobs
+
+Jobs are magical concepts that confer supernatural abilities to whoever wears them. They magically-alter your clothing and other superficial traits to fit. For example, if you change into the [Red Mage] Job, you will suddenly have a red feathered hat and cape.
+
+### Starting Civilian Jobs
 
 Choose two different Civilian Jobs to start at Job Level 20. All other Civilian Jobs are initially unlearned.
 
-## Starting Combat Jobs
+### Starting Combat Jobs
 
 [Chemist], [Freelancer] and [Squire] start at Job Level 1. Then, choose either [Chemist] or [Squire] to start at Job Level 10 instead.
 
@@ -99,11 +124,28 @@ All characters start with three Special Traits, and may potentially gain more, o
 
 **Desperation Attack** - While your Current HP is less than one-fourth of your Maximum HP, your normal Attacks have a 10% chance to be a Desperation Attack instead. Desperation Attacks target all enemies, and are Direct Critical Hits.
 
-**Job Training: Specific Job** - You start at Job Level 1 in one job of choice. You must meet its requirements to gain additional Job Levels in it.
+**Job Training: Specific Job** - You start at Job Level 1 in one job of choice. You must meet its requirements to gain additional Job Levels in it. While wearing the [Freelancer] Job, you may have additional clothing and other superficial traits relating to your specially-trained job as well.
+
+**Monster** - You can replace your body parts with those of defeated creatures. After every battle, you choose one part to put onto yourself. This part replaces one of your equipment slots, and in exchange, overrides one of your Battle Attributes with that creature's attribute number, or overrides one of your Statistics with that creature's statistic number. You can no longer wear equipment on that slot. You have access to one signature ability of that creature for each body part replaced.
 
 **Morph** - You have a number of rounds of Morph energy equal to 1/10th of your Experience Level, rounded down, to a minimum of 1 round. You can spend an action to enter or cease Morph. While Morphed, your Strength, Intellect, and Spirit are doubled. You refresh your Morph energy after a long rest.
 
 **Mystic** - One of your equipment slots is permanently replaced by a Mystic Body Part. You can bind up to three creatures to your Mystic Body Part, allowing you to tap into their Job experience or use their unique non-Job abilities. If binding a creature for its Job experience, then you specifically bind one of its Jobs, and gain access to the Job Level that the creature had. If binding a creature for its unique abilities, then you specifically bind one ability which you can then use at any time. In order to bind a creature, you must defeat it with a regular Attack action while also declaring that it is a Mystic Binding attempt.
+
+**Robot** - Your Battle Attributes are halved. In exchange, your equipment increases your attributes, as follows:
+
+| Equipment   | Robot Mod |
+| ---         | ---       |
+| Tool/Shield | Adds Weight to Agility & Mind
+| Head        | Adds Weight to Wisdom & Spirit
+| Body        | Adds Weight to Vitality & Stamina
+| Arms        | Adds Weight to Dexterity & Tenacity
+| Legs        | Adds Weight to Agility & Speed
+| Feet        | Adds Weight to Mind & Speed
+| Ears        | Adds Weight to Intellect & Determination
+| Weapon      | Adds Weight * 2 to attribute of weapon's damage type
+
+This is in addition to the other attribute & stat modifiers from equipment that would also affect non-robots.
 
 **Two-Hour Ability** - Once per two hours, you can spend an action to activate your Two-Hour Ability. This cuts the MP and TP costs of actions from your current Job in half, for a duration of 4 status phases. This does not affect any other abilities you are capable of, only those from your current Job.
 

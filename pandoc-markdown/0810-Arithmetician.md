@@ -6,15 +6,14 @@
 
 - [Machinist] - _Arithmetician_ 30, [Fusilier] 30
 
-| Action    | Reaction              | Support    | Move |
-| ---       | ---                   | ---        | ---  |
-| Attack    | **Cup of Life**       | 1 x Choice | Mapless: 3
-| Charge Up | **JLVL 60: Soulbind** |            | Move: 3
-| Defend    | 1 x Choice            |            | Jump: 3
-| **[Arithmeticks]** |              |            | 1 x Choice
-| 1 x Magick Choice |               |            |
-| 1 x Choice |                      |            |
-| Item       |                      |            |
+| Action             | Reaction              | Support    | Move |
+| ---                | ---                   | ---        | ---  |
+| Attack             | **Cup of Life**       | 1 x Choice | Mapless: 3
+| Default            | **JLVL 60: Soulbind** |            | Move: 3
+| **[Arithmeticks]** | 1 x Choice            |            | Jump: 3
+| 1 x Magick Choice  |                       |            | 1 x Choice
+| 1 x Choice         |                       |            |
+| Item               |                       |            |
 
 - **Action: Arithmeticks:** Extrapolating the power of numerology and natural ratios in order to cause magick to emerge without any MP cost or Cast Time.
 - **Reaction: Cup of Life:** Upon receiving healing that results in surplus HP above your maximum HP, distribute the surplus evenly amongst adjacent allies.

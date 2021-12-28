@@ -4,16 +4,15 @@
 
 **Leads to:** None
 
-| Action    | Reaction   | Support    | Move |
-| ---       | ---        | ---        | ---  |
-| Attack    | 3 x Choice | 3 x Choice | Mapless: 3
-| Charge Up |            |            | Move: 3
-| Defend    |            |            | Jump: 3
-| [Arts of War] |        |            | 1 x Choice
-| [Darkness Weapon] |    |            |
-| [Divine Weapon] |      |            |
-| 1 x Choice |           |            |
-| Item       |           |            |
+| Action            | Reaction   | Support    | Move |
+| ---               | ---        | ---        | ---  |
+| Attack            | 3 x Choice | 3 x Choice | Mapless: 3
+| Default           |            |            | Move: 3
+| [Arts of War]     |            |            | Jump: 3
+| [Darkness Weapon] |            |            | 1 x Choice
+| [Divine Weapon]   |            |            |
+| 1 x Choice        |            |            |
+| Item              |            |            |
 
 | Weapon Proficiency | Armor Proficiency |
 | ---                | ---               |

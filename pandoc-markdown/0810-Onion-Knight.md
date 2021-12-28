@@ -7,7 +7,7 @@
 | Action    | Reaction | Support | Move |
 | ---       | ---      | ---     | ---  |
 | Attack    | None     | None    | Mapless: 4
-| Defend    |          |         | Move: 4
+| Default   |          |         | Move: 4
 | Item      |          |         | Jump: 4
 
 | Weapon Proficiency | Armor Proficiency |

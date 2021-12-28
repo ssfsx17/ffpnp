@@ -6,14 +6,13 @@
 
 - [Sharlayan Archon] - _Astrologian_ 80, [Nu Type] 80, [Scholar] 80
 
-| Action    | Reaction          | Support         | Move |
-| ---       | ---               | ---             | ---  |
-| Attack    | 1 x Choice        | **Solar Cycle** | Mapless: 3
-| Charge Up |                   | **Prescience**  | Move: 3
-| Defend    |                   | 1 x Choice      | Jump: 3
-| **[Astrological Magick]** |   |                 | 1 x Choice
-| 1 x Choice |                  |                 |
-| Item       |                  |                 |
+| Action                    | Reaction          | Support         | Move |
+| ---                       | ---               | ---             | ---  |
+| Attack                    | 1 x Choice        | **Solar Cycle** | Mapless: 3
+| Default                   |                   | **Prescience**  | Move: 3
+| **[Astrological Magick]** |                   | 1 x Choice      | Jump: 3
+| 1 x Choice                |                   |                 | 1 x Choice
+| Item                      |                   |                 |
 
 - **Action: Astrological Magick:** Interpreting stars, constellations, planetary arrangements, seasons, portents, tarot cards and other indicators of the will of the cosmos in order to maximize benefit for yourself and your allies.
 - **Support: Solar Cycle:** You can be in Diurnal or Nocturnal cycles.
@@ -455,7 +454,7 @@ Grants yourself [Neutral Sect][Status: Neutral Sect] status for 4 status phases.
 |           | E: Special | Target H: 0
 |           |            | Effect H/V: 3/3
 
-Against all enemies in the area, this acts as a Magical Attack, Unaspecting, dealing Level * Intellect * 0.6 Damage. For all allies in the area, this grants [Macrocosmos][Status: Macrocosmos] status for 4 status phases.
+Against all enemies in the area, this acts as a Magical Attack, Unaspected, dealing Level * Intellect * 0.6 Damage. For all allies in the area, this grants [Macrocosmos][Status: Macrocosmos] status for 4 status phases.
 
 #### Astrologian 99
 

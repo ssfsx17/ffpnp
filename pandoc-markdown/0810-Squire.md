@@ -14,14 +14,13 @@
 - [Onion Knight] - [Chemist 60], _Squire_ 60
 - [Pugilist] - _Squire_ 20
 
-| Action    | Reaction           | Support     | Move |
-| ---       | ---                | ---         | ---  |
-| Attack    | **Counter Tackle** | **Reequip** | Mapless: 4
-| Charge Up | 1 x Choice         | 1 x Choice  | Move: 4
-| Defend    |                    |             | Jump: 3
-| **[Fundaments]** |             |             | **Move +1**
-| 1 x Choice |                   |             | 1 x Choice
-| Item      |                    |             |
+| Action           | Reaction           | Support     | Move |
+| ---              | ---                | ---         | ---  |
+| Attack           | **Counter Tackle** | **Reequip** | Mapless: 4
+| Default          | 1 x Choice         | 1 x Choice  | Move: 4
+| **[Fundaments]** |                    |             | Jump: 3
+| 1 x Choice       |                    |             | **Move +1**
+| Item             |                    |             | 1 x Choice
 
 - **Action: Fundaments:** Foundational combat techniques useful to any soldier.
 - **Reaction: Counter Tackle (50 TP):** Upon taking damage, perform the [Fundaments] technique _Rush_.

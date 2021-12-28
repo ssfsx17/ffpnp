@@ -12,14 +12,13 @@
 - [Spellblade] - [Black Mage] 20, _Knight_ 20
 - [Thunder God] - [Dark Knight] 80, _Knight_ 80, [Paladin] 80
 
-| Action    | Reaction       | Support         | Move |
-| ---       | ---            | ---             | ---  |
-| Attack    | **Auto-Cover** | **Safeguard**   | Mapless: 3
-| Charge Up | **Parry**      | 1 x Choice      | Move: 3
-| Defend    | 1 x Choice     |                 | Jump: 3
-| **[Arts of War]** |        |                 | 1 x Choice
-| 1 x Choice |               |                 |
-| Item       |               |                 |
+| Action            | Reaction       | Support         | Move |
+| ---               | ---            | ---             | ---  |
+| Attack            | **Auto-Cover** | **Safeguard**   | Mapless: 3
+| Default           | **Parry**      | 1 x Choice      | Move: 3
+| **[Arts of War]** | 1 x Choice     |                 | Jump: 3
+| 1 x Choice        |                |                 | 1 x Choice
+| Item              |                |                 |
 
 - **Action: Arts of War:** Fighting style made for heavy-armor combat.
 - **Reaction: Auto-Cover:** When an ally who you could Cover is targeted by a single-target physical action, you may choose to protect that ally as if they were your Cover target.

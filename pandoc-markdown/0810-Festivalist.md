@@ -7,10 +7,9 @@
 | Action            | Reaction   | Support       | Move |
 | ---               | ---        | ---           | ---  |
 | Attack            | 1 x Choice | **Timeless**  | Mapless: 4
-| Charge Up         |            | 1 x Choice    | Move: 4
-| Defend            |            |               | Jump: 3
-| **[Festivities]** |            |               | 1 x Choice
-| 1 x Choice        |            |               |
+| Default           |            | 1 x Choice    | Move: 4
+| **[Festivities]** |            |               | Jump: 3
+| 1 x Choice        |            |               | 1 x Choice
 | Item              |            |               |
 
 - **Action: Festivities:** Using your own enjoyment of festivals as the source of your personal magic.

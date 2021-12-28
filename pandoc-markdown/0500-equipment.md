@@ -13,7 +13,7 @@
 - Relic 1
 - Relic 2
 
-## Proficiency Types
+## Armor
 
 | Type     | Explanation |
 | ---      | ---         |
@@ -30,7 +30,7 @@
 | Striker  | Sparring gear
 | Magitek  | Large mechanical equipment that constantly pulls magical energy
 
-## Tools and Shields
+### Tools and Shields
 
 | Tool/Shield | Weight     | P-Eva    | P-Def             | M-Eva    | M-Def             | Other                             |
 | ---         | ---        | ---      | ---               | ---      | ---               | ---                               |
@@ -47,7 +47,7 @@
 | Healer      | ILVL * 0.5 | ILVL * 2 | ILVL * ILVL * 0.4 | ILVL * 4 | ILVL * ILVL       |
 | Magitek     | ILVL * 3   | ILVL * 4 | ILVL * ILVL * 1.2 | ILVL * 4 | ILVL * ILVL * 1.2 |
 
-## Head Equipment
+### Head Equipment
 
 | Armor    | Weight     | M-Def             | Min. M-Def |
 | ---      | ---        | ---               | ---        |
@@ -64,7 +64,7 @@
 | Healer   | ILVL * 0.5 | ILVL * ILVL * 3   | 30
 | Magitek  | ILVL * 3   | ILVL * ILVL * 3   | 30
 
-## Body Equipment
+### Body Equipment
 
 | Armor    | Weight     | P-Def             | Min. P-Def |
 | ---      | ---        | ---               | ---        |
@@ -81,7 +81,7 @@
 | Healer   | ILVL * 0.5 | ILVL * ILVL       | 10
 | Magitek  | ILVL * 3   | ILVL * ILVL * 3   | 30
 
-## Arms Equipment
+### Arms Equipment
 
 | Armor    | Weight     | P-Acc |
 | ---      | ---        | ---   |
@@ -98,7 +98,7 @@
 | Healer   | ILVL * 0.5 | ILVL
 | Magitek  | ILVL * 3   | ILVL * 3
 
-## Legs Equipment
+### Legs Equipment
 
 | Armor    | Weight     | P-Eva      |
 | ---      | ---        | ---        |
@@ -115,7 +115,7 @@
 | Healer   | ILVL * 0.5 | ILVL
 | Magitek  | ILVL * 3   | ILVL * 3
 
-## Feet Equipment
+### Feet Equipment
 
 | Armor    | Weight     | M-Eva |
 | ---      | ---        | ---   |
@@ -132,7 +132,7 @@
 | Healer   | ILVL * 0.5 | ILVL * 3
 | Magitek  | ILVL * 3   | ILVL * 3
 
-## Ears Equipment
+### Ears Equipment
 
 | Armor    | Weight     | M-Acc |
 | ---      | ---        | ---   |
@@ -192,7 +192,7 @@
 | 2H Forks       | ILVL * 2.5 | Vitality  | ILVL * 0.40 | 40   | Physical |
 | 2H Poles       | ILVL * 2.5 | Strength  | ILVL * 0.50 | 50   | Physical | Adds ILVL to Wisdom
 | 2H Spears      | ILVL * 3   | Strength  | ILVL * 0.60 | 60   | Physical |
-| 2H Sashes      | ILVL * 2.5 | Dexterity | ILVL * 0.40 | 40   | Physical |
+| 2H Sashes      | ILVL * 2.5 | Dexterity | ILVL * 0.40 | 40   | Physical | Adds ILVL * 2 to P-Eva
 
 ### Ranged Arc Weapons
 

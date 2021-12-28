@@ -4,14 +4,13 @@
 
 **Leads to:** None
 
-| Action    | Reaction          | Support              | Move |
-| ---       | ---               | ---                  | ---  |
-| Attack    | 1 x Choice        | **Cartridge Charge** | Mapless: 4
-| Charge Up |                   | **Trigger Timing**   | Move: 4
-| Defend    |                   | 1 x Choice           | Jump: 3
-| **[Charged Weapon]** |        |                      | 1 x Choice
-| 1 x Choice |                  |                      |
-| Item      |                   |                      |
+| Action               | Reaction          | Support              | Move |
+| ---                  | ---               | ---                  | ---  |
+| Attack               | 1 x Choice        | **Cartridge Charge** | Mapless: 4
+| Default              |                   | **Trigger Timing**   | Move: 4
+| **[Charged Weapon]** |                   | 1 x Choice           | Jump: 3
+| 1 x Choice           |                   |                      | 1 x Choice
+| Item                 |                   |                      |
 
 - **Action: Charged Weapon:** Igniting magic cartridges at the right timing in order to enhance weapon strikes.
 - **Support: Cartridge Charge:** You can hold a maximum of 3 Cartridges.

@@ -8,14 +8,13 @@
 - [Mime] - [Chemist] 80, _Dragoon_ 50, [Geomancer] 50, [Orator] 50, [Squire] 80, [Summoner] 50
 - [Samurai] - _Dragoon_ 20, [Knight] 40, [Monk] 50
 
-| Action     | Reaction        | Support    | Move |
-| ---        | ---             | ---        | ---  |
-| Attack     | **Dragonheart** | 1 x Choice | Mapless: 4
-| Charge Up  | 1 x Choice      |            | Move: 3
-| Defend     |                 |            | Jump: 4
-| **[Dragonsoul]** |           |            | **JLVL 60: Ignore Elevation**
-| 1 x Choice |                 |            | 1 x Choice
-| Item       |                 |            |
+| Action           | Reaction        | Support    | Move |
+| ---              | ---             | ---        | ---  |
+| Attack           | **Dragonheart** | 1 x Choice | Mapless: 4
+| Default          | 1 x Choice      |            | Move: 3
+| **[Dragonsoul]** |                 |            | Jump: 4
+| 1 x Choice       |                 |            | **JLVL 60: Ignore Elevation**
+| Item             |                 |            | 1 x Choice
 
 - **Action: Dragonsoul:** Techniques for fighting both with and against dragons.
 - **Reaction: Dragonheart (1,000 TP):** Upon taking physical damage, you gain [Reraise][Status: Reraise].

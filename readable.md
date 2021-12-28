@@ -21,8 +21,9 @@ title: Final Fantasy Fan Pen & Paper
     -   [Battle Attributes](#battle-attributes)
     -   [Statistics](#statistics)
     -   [Initiative Roll](#initiative-roll)
-    -   [Starting Civilian Jobs](#starting-civilian-jobs)
-    -   [Starting Combat Jobs](#starting-combat-jobs)
+    -   [Jobs](#jobs)
+        -   [Starting Civilian Jobs](#starting-civilian-jobs)
+        -   [Starting Combat Jobs](#starting-combat-jobs)
     -   [Starting Items and Equipment](#starting-items-and-equipment)
     -   [Special Traits](#special-traits)
     -   [What Jobs Should I Aim For?](#what-jobs-should-i-aim-for)
@@ -33,14 +34,14 @@ title: Final Fantasy Fan Pen & Paper
 -   [Goods Services And Usable Items](#goods-services-and-usable-items)
 -   [Equipment](#equipment)
     -   [Equipment Slots](#equipment-slots)
-    -   [Proficiency Types](#proficiency-types)
-    -   [Tools and Shields](#tools-and-shields)
-    -   [Head Equipment](#head-equipment)
-    -   [Body Equipment](#body-equipment)
-    -   [Arms Equipment](#arms-equipment)
-    -   [Legs Equipment](#legs-equipment)
-    -   [Feet Equipment](#feet-equipment)
-    -   [Ears Equipment](#ears-equipment)
+    -   [Armor](#armor)
+        -   [Tools and Shields](#tools-and-shields)
+        -   [Head Equipment](#head-equipment)
+        -   [Body Equipment](#body-equipment)
+        -   [Arms Equipment](#arms-equipment)
+        -   [Legs Equipment](#legs-equipment)
+        -   [Feet Equipment](#feet-equipment)
+        -   [Ears Equipment](#ears-equipment)
     -   [Weapons](#weapons)
         -   [Melee Weapons](#melee-weapons)
         -   [Reach Weapons](#reach-weapons)
@@ -59,8 +60,7 @@ title: Final Fantasy Fan Pen & Paper
     -   [Movement And Actions Phase](#movement-and-actions-phase)
         -   [Movement](#movement)
         -   [Attack](#attack)
-        -   [Charge Up](#charge-up)
-        -   [Defend](#defend)
+        -   [Default](#default)
         -   [Item](#item)
     -   [Status Phase](#status-phase)
     -   [Status Conditions](#status-conditions)
@@ -119,6 +119,7 @@ title: Final Fantasy Fan Pen & Paper
         -   [Status: Divination](#status-divination)
         -   [Status: Dohter’s Charity](#status-dohters-charity)
         -   [Status: Doom](#status-doom)
+        -   [Status: Element Absorption](#status-element-absorption)
         -   [Status: Embolden](#status-embolden)
         -   [Status: Exaltation](#status-exaltation)
         -   [Status: Excogitation](#status-excogitation)
@@ -511,14 +512,13 @@ The key points of difference are listed below:
 
 -   The number scale of the Final Fantasy video games, rather than the Seiken
     Densetsu or Chrono Trigger games. Why settle for 999 HP when you can have
-    9999 HP! This does, however, cause removal of dice rolling in most other
+    99,999 HP! This does, however, cause removal of dice rolling in most other
     aspects of the game.
 -   The Job system is taken primarily from games that have changeable jobs and
     dresspheres. This means there will be weaker starting jobs and stronger
     unlockable jobs. The late game purposely involves powerful combinations of
     abilities.
--   No skill system. Instead, relevant Job levels are added together for skill
-    checks.
+-   No skill system. Instead, relevant Job levels are used for skill checks.
 -   Maximalist approach. Inclusion of jobs and abilities is preferred compared
     to exclusion.
 
@@ -546,6 +546,35 @@ The key points of difference are listed below:
 Write three things that make your character unique. They can encompass personal
 history, relation to the world, physical appearance, or anything else that sets
 your character apart.
+
+Examples of things to write about your character:
+
+-   “He washed up on a beach with no memories.”
+-   “Her home was invaded by the Evil Empire, and her brother went missing.”
+-   “He fell into a cave and heard a voice telling him to save the world.”
+-   “He doubts the motives of his king.”
+-   “She is a woman who dresses as a man to maintain the respect of her peers.
+    Such is the environment she survives in.”
+-   “She was enslaved by an insane magical clown, until a traumatic event freed
+    her.”
+-   “The last thing he remembers is being a member of an elite organization and
+    trying to stop an insane sword-wielding maniac.”
+-   “She guards the princess with her life, as is her ordained duty.”
+-   “After a failed relationship, she decides to see if her ex-boyfriend’s rival
+    is a decent man.”
+-   “Her home environment was far too stifling and controlling, so she escaped.”
+-   “He was attacked by a flying gigantic creature that sent him into another
+    world.”
+-   “She got fed up with lacking a [White Mage](#white-mage) for her party, so
+    she decided to learn how to become one.”
+-   “He willingly took the blame for the assassination of the king, believing
+    this would avert an even worse war. The real assassin was someone close to
+    him.”
+-   “Her sister was kidnapped for some purpose known only to the gods.”
+-   “She heard the soul of the planet calling out to her to hear, feel, and
+    think.”
+-   “He is the heir to the throne, yet the evil empire threatens to destroy his
+    homeland.”
 
 ## Experience Level
 
@@ -605,12 +634,22 @@ allocated to them.
 
 Initiative Roll = 1d100 + Experience Level + Speed - Excess Weight
 
-## Starting Civilian Jobs
+If Excess Weight is too high then you will end up suffering from Charge Time on
+every single round.
+
+## Jobs
+
+Jobs are magical concepts that confer supernatural abilities to whoever wears
+them. They magically-alter your clothing and other superficial traits to fit.
+For example, if you change into the [Red Mage](#red-mage) Job, you will suddenly
+have a red feathered hat and cape.
+
+### Starting Civilian Jobs
 
 Choose two different Civilian Jobs to start at Job Level 20. All other Civilian
 Jobs are initially unlearned.
 
-## Starting Combat Jobs
+### Starting Combat Jobs
 
 [Chemist](#chemist), [Freelancer](#freelancer) and [Squire](#squire) start at
 Job Level 1. Then, choose either [Chemist](#chemist) or [Squire](#squire) to
@@ -653,7 +692,17 @@ Maximum HP, your normal Attacks have a 10% chance to be a Desperation Attack
 instead. Desperation Attacks target all enemies, and are Direct Critical Hits.
 
 **Job Training: Specific Job** - You start at Job Level 1 in one job of choice.
-You must meet its requirements to gain additional Job Levels in it.
+You must meet its requirements to gain additional Job Levels in it. While
+wearing the [Freelancer](#freelancer) Job, you may have additional clothing and
+other superficial traits relating to your specially-trained job as well.
+
+**Monster** - You can replace your body parts with those of defeated creatures.
+After every battle, you choose one part to put onto yourself. This part replaces
+one of your equipment slots, and in exchange, overrides one of your Battle
+Attributes with that creature’s attribute number, or overrides one of your
+Statistics with that creature’s statistic number. You can no longer wear
+equipment on that slot. You have access to one signature ability of that
+creature for each body part replaced.
 
 **Morph** - You have a number of rounds of Morph energy equal to 1/10th of your
 Experience Level, rounded down, to a minimum of 1 round. You can spend an action
@@ -669,6 +718,23 @@ creature for its unique abilities, then you specifically bind one ability which
 you can then use at any time. In order to bind a creature, you must defeat it
 with a regular Attack action while also declaring that it is a Mystic Binding
 attempt.
+
+**Robot** - Your Battle Attributes are halved. In exchange, your equipment
+increases your attributes, as follows:
+
+| Equipment   | Robot Mod                                             |
+|-------------|-------------------------------------------------------|
+| Tool/Shield | Adds Weight to Agility & Mind                         |
+| Head        | Adds Weight to Wisdom & Spirit                        |
+| Body        | Adds Weight to Vitality & Stamina                     |
+| Arms        | Adds Weight to Dexterity & Tenacity                   |
+| Legs        | Adds Weight to Agility & Speed                        |
+| Feet        | Adds Weight to Mind & Speed                           |
+| Ears        | Adds Weight to Intellect & Determination              |
+| Weapon      | Adds Weight \* 2 to attribute of weapon’s damage type |
+
+This is in addition to the other attribute & stat modifiers from equipment that
+would also affect non-robots.
 
 **Two-Hour Ability** - Once per two hours, you can spend an action to activate
 your Two-Hour Ability. This cuts the MP and TP costs of actions from your
@@ -1111,7 +1177,7 @@ They must be crafted.
 -   Relic 1
 -   Relic 2
 
-## Proficiency Types
+## Armor
 
 | Type     | Explanation                                                                                    |
 |----------|------------------------------------------------------------------------------------------------|
@@ -1128,7 +1194,7 @@ They must be crafted.
 | Striker  | Sparring gear                                                                                  |
 | Magitek  | Large mechanical equipment that constantly pulls magical energy                                |
 
-## Tools and Shields
+### Tools and Shields
 
 | Tool/Shield | Weight      | P-Eva     | P-Def               | M-Eva     | M-Def               | Other                             |
 |-------------|-------------|-----------|---------------------|-----------|---------------------|-----------------------------------|
@@ -1145,7 +1211,7 @@ They must be crafted.
 | Healer      | ILVL \* 0.5 | ILVL \* 2 | ILVL \* ILVL \* 0.4 | ILVL \* 4 | ILVL \* ILVL        |                                   |
 | Magitek     | ILVL \* 3   | ILVL \* 4 | ILVL \* ILVL \* 1.2 | ILVL \* 4 | ILVL \* ILVL \* 1.2 |                                   |
 
-## Head Equipment
+### Head Equipment
 
 | Armor    | Weight      | M-Def               | Min. M-Def |
 |----------|-------------|---------------------|------------|
@@ -1162,7 +1228,7 @@ They must be crafted.
 | Healer   | ILVL \* 0.5 | ILVL \* ILVL \* 3   | 30         |
 | Magitek  | ILVL \* 3   | ILVL \* ILVL \* 3   | 30         |
 
-## Body Equipment
+### Body Equipment
 
 | Armor    | Weight      | P-Def               | Min. P-Def |
 |----------|-------------|---------------------|------------|
@@ -1179,7 +1245,7 @@ They must be crafted.
 | Healer   | ILVL \* 0.5 | ILVL \* ILVL        | 10         |
 | Magitek  | ILVL \* 3   | ILVL \* ILVL \* 3   | 30         |
 
-## Arms Equipment
+### Arms Equipment
 
 | Armor    | Weight      | P-Acc       |
 |----------|-------------|-------------|
@@ -1196,7 +1262,7 @@ They must be crafted.
 | Healer   | ILVL \* 0.5 | ILVL        |
 | Magitek  | ILVL \* 3   | ILVL \* 3   |
 
-## Legs Equipment
+### Legs Equipment
 
 | Armor    | Weight      | P-Eva       |
 |----------|-------------|-------------|
@@ -1213,7 +1279,7 @@ They must be crafted.
 | Healer   | ILVL \* 0.5 | ILVL        |
 | Magitek  | ILVL \* 3   | ILVL \* 3   |
 
-## Feet Equipment
+### Feet Equipment
 
 | Armor    | Weight      | M-Eva       |
 |----------|-------------|-------------|
@@ -1230,7 +1296,7 @@ They must be crafted.
 | Healer   | ILVL \* 0.5 | ILVL \* 3   |
 | Magitek  | ILVL \* 3   | ILVL \* 3   |
 
-## Ears Equipment
+### Ears Equipment
 
 | Armor    | Weight      | M-Acc       |
 |----------|-------------|-------------|
@@ -1282,15 +1348,15 @@ They must be crafted.
 -   In map combat, reaches up to two side-adjacent squares away.
 -   In mapless combat, reaches one and two rows.
 
-| Weapon Type | Weight      | Attribute | Multiplier   | Min. | Type     | Other               |
-|-------------|-------------|-----------|--------------|------|----------|---------------------|
-| 1H Flails   | ILVL \* 2   | Strength  | ILVL \* 0.40 | 40   | Physical |                     |
-| 1H Lances   | ILVL \* 1.5 | Strength  | ILVL \* 0.30 | 30   | Physical |                     |
-| 1H Whips    | ILVL \* 1.5 | Dexterity | ILVL \* 0.20 | 20   | Physical |                     |
-| 2H Forks    | ILVL \* 2.5 | Vitality  | ILVL \* 0.40 | 40   | Physical |                     |
-| 2H Poles    | ILVL \* 2.5 | Strength  | ILVL \* 0.50 | 50   | Physical | Adds ILVL to Wisdom |
-| 2H Spears   | ILVL \* 3   | Strength  | ILVL \* 0.60 | 60   | Physical |                     |
-| 2H Sashes   | ILVL \* 2.5 | Dexterity | ILVL \* 0.40 | 40   | Physical |                     |
+| Weapon Type | Weight      | Attribute | Multiplier   | Min. | Type     | Other                   |
+|-------------|-------------|-----------|--------------|------|----------|-------------------------|
+| 1H Flails   | ILVL \* 2   | Strength  | ILVL \* 0.40 | 40   | Physical |                         |
+| 1H Lances   | ILVL \* 1.5 | Strength  | ILVL \* 0.30 | 30   | Physical |                         |
+| 1H Whips    | ILVL \* 1.5 | Dexterity | ILVL \* 0.20 | 20   | Physical |                         |
+| 2H Forks    | ILVL \* 2.5 | Vitality  | ILVL \* 0.40 | 40   | Physical |                         |
+| 2H Poles    | ILVL \* 2.5 | Strength  | ILVL \* 0.50 | 50   | Physical | Adds ILVL to Wisdom     |
+| 2H Spears   | ILVL \* 3   | Strength  | ILVL \* 0.60 | 60   | Physical |                         |
+| 2H Sashes   | ILVL \* 2.5 | Dexterity | ILVL \* 0.40 | 40   | Physical | Adds ILVL \* 2 to P-Eva |
 
 ### Ranged Arc Weapons
 
@@ -1733,18 +1799,16 @@ Direct Hits from Gravity/Death attacks. Furthermore, they halve all damage from
 Gravity/Death attacks. Instant death is converted to an amount of damage equal
 to 10% of maximum HP.
 
-### Charge Up
+### Default
 
-Restores HP, MP and TP to yourself as follows:
+You enter a defensive stance until your next turn. Your P-Eva, P-Def, M-Eva, and
+M-Def are all increased by 50% from your front.
+
+Also restores HP, MP and TP to yourself as follows:
 
 -   HP restoration = Stamina
 -   MP restoration = 1 + (Spirit \* 0.1)
 -   TP restoration = Determination
-
-### Defend
-
-You enter a defensive stance until your next turn. Your P-Eva, P-Def, M-Eva, and
-M-Def are all increased by 50% from your front.
 
 ### Item
 
@@ -1794,8 +1858,8 @@ Both incoming and outgoing Magical damage is decreased by 25%.
 
 ### Status: Asylum
 
-Restores HP during the status phase. The amount restored is equal to 10% of your
-maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.1
 
 ### Status: Berserk
 
@@ -1950,8 +2014,8 @@ your maximum HP.
 
 ### Status: Collective Unconscious
 
-Restores HP during the status phase. The amount restored is equal to 5% of your
-maximum HP. You also take 10% less damage.
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.05. You also take 10% less damage.
 
 ### Status: Combust
 
@@ -2013,23 +2077,23 @@ Plot Armor Enemies instead only lose one of their actions per turn.
 
 ### Status: Diurnal Benefic
 
-Restores HP during the status phase. The amount restored is equal to 5% of your
-maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.05
 
 ### Status: Diurnal Celestial Opposition
 
-Restores HP during the status phase. The amount restored is equal to 10% of your
-maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.1
 
 ### Status: Diurnal Helios
 
-Restores HP during the status phase. The amount restored is equal to 5% of your
-maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.05
 
 ### Status: Diurnal Sect
 
-Restores HP during the status phase. The amount restored is equal to 5% of your
-maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.05
 
 ### Status: Divination
 
@@ -2043,6 +2107,12 @@ effect is applied to you.
 ### Status: Doom
 
 You gain 1 Doom Point during the status phase.
+
+### Status: Element Absorption
+
+Each instance of this status is linked to a specific element. “Physical” and
+“Unaspected” absorption are not possible. You absorb the linked element, rather
+than taking damage from it.
 
 ### Status: Embolden
 
@@ -2182,8 +2252,8 @@ Your P-Eva and M-Eva are halved against single-target techniques.
 
 ### Status: Lucid Dreaming
 
-Restores MP during the status phase. The amount restored is equal to 1% of your
-maximum MP.
+Restores MP during the status phase. The amount restored is equal to your Level
+\* Spirit \* 0.05
 
 ### Status: Macrocosmos
 
@@ -2192,18 +2262,18 @@ damage afterwards.
 
 ### Status: Medica Regen
 
-Restores HP during the status phase. The amount restored is equal to 10% of your
-maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.1
 
 ### Status: Medicaga Regen
 
-Restores HP during the status phase. The amount restored is equal to 20% of your
-maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.2
 
 ### Status: Meditation
 
-Restores MP during the status phase. The amount restored is equal to 1% of your
-maximum MP.
+Restores MP during the status phase. The amount restored is equal to your Level
+\* Spirit \* 0.05
 
 ### Status: Miasma
 
@@ -2282,8 +2352,8 @@ Plot Armor Enemies only lose one of their actions per turn.
 
 ### Status: Phoenix Regen
 
-Restores HP during the status phase. The amount restored is equal to 10% of your
-maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.1
 
 ### Status: Pig
 
@@ -2330,18 +2400,18 @@ maximum HP, and end this status afterwards.
 
 ### Status: Regen
 
-Restores HP during the status phase. The amount restored is equal to 5% of your
-maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.05
 
 ### Status: Regenga
 
-Restores HP during the status phase. The amount restored is equal to 10% of your
-maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.1
 
 ### Status: Regenja
 
-Restores HP during the status phase. The amount restored is equal to 15% of your
-maximum HP.
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.15
 
 ### Status: Reprisal
 
@@ -2616,10 +2686,9 @@ Fully restores your TP.
 | Action                              | Reaction          | Support                   | Move       |
 |-------------------------------------|-------------------|---------------------------|------------|
 | Attack                              | **Egi Sacrifice** | **Aethercapacitance**     | Mapless: 3 |
-| Charge Up                           | 1 x Choice        | **Arcanist School Pacts** | Move: 3    |
-| Defend                              |                   | 1 x Choice                | Jump: 3    |
-| **[Arcane Magick](#arcane-magick)** |                   |                           | 1 x Choice |
-| 1 x Choice                          |                   |                           |            |
+| Default                             | 1 x Choice        | **Arcanist School Pacts** | Move: 3    |
+| **[Arcane Magick](#arcane-magick)** |                   | 1 x Choice                | Jump: 3    |
+| 1 x Choice                          |                   |                           | 1 x Choice |
 | Item                                |                   |                           |            |
 
 -   **Action: Arcane Magick:** Plumbing the darkest depths of knowledge and
@@ -2943,10 +3012,9 @@ does the effect of *Fester* on all enemies on the battlefield.
 | Action                  | Reaction            | Support           | Move       |
 |-------------------------|---------------------|-------------------|------------|
 | Attack                  | **Adrenaline Rush** | **Concentration** | Mapless: 3 |
-| Charge Up               | **Archer’s Bane**   | 1 x Choice        | Move: 3    |
-| Defend                  | 1 x Choice          |                   | Jump: 3    |
-| **[Archery](#archery)** |                     |                   | 1 x Choice |
-| 1 x Choice              |                     |                   |            |
+| Default                 | **Archer’s Bane**   | 1 x Choice        | Move: 3    |
+| **[Archery](#archery)** | 1 x Choice          |                   | Jump: 3    |
+| 1 x Choice              |                     |                   | 1 x Choice |
 | Item                    |                     |                   |            |
 
 -   **Action: Archery:** Expertise in projectile weapons.
@@ -3254,10 +3322,9 @@ Mage](#time-mage) 40, [White Mage](#white-mage) 50
 | Action                            | Reaction              | Support    | Move       |
 |-----------------------------------|-----------------------|------------|------------|
 | Attack                            | **Cup of Life**       | 1 x Choice | Mapless: 3 |
-| Charge Up                         | **JLVL 60: Soulbind** |            | Move: 3    |
-| Defend                            | 1 x Choice            |            | Jump: 3    |
-| **[Arithmeticks](#arithmeticks)** |                       |            | 1 x Choice |
-| 1 x Magick Choice                 |                       |            |            |
+| Default                           | **JLVL 60: Soulbind** |            | Move: 3    |
+| **[Arithmeticks](#arithmeticks)** | 1 x Choice            |            | Jump: 3    |
+| 1 x Magick Choice                 |                       |            | 1 x Choice |
 | 1 x Choice                        |                       |            |            |
 | Item                              |                       |            |            |
 
@@ -3502,10 +3569,9 @@ cannot be a Limit Break itself. Ignore the MP cost and Cast Time.
 | Action                                          | Reaction   | Support         | Move       |
 |-------------------------------------------------|------------|-----------------|------------|
 | Attack                                          | 1 x Choice | **Solar Cycle** | Mapless: 3 |
-| Charge Up                                       |            | **Prescience**  | Move: 3    |
-| Defend                                          |            | 1 x Choice      | Jump: 3    |
-| **[Astrological Magick](#astrological-magick)** |            |                 | 1 x Choice |
-| 1 x Choice                                      |            |                 |            |
+| Default                                         |            | **Prescience**  | Move: 3    |
+| **[Astrological Magick](#astrological-magick)** |            | 1 x Choice      | Jump: 3    |
+| 1 x Choice                                      |            |                 | 1 x Choice |
 | Item                                            |            |                 |            |
 
 -   **Action: Astrological Magick:** Interpreting stars, constellations,
@@ -3985,7 +4051,7 @@ Grants yourself [Neutral Sect](#status-neutral-sect) status for 4 status phases.
 |           | E: Special | Target H: 0         |
 |           |            | Effect H/V: 3/3     |
 
-Against all enemies in the area, this acts as a Magical Attack, Unaspecting,
+Against all enemies in the area, this acts as a Magical Attack, Unaspected,
 dealing Level \* Intellect \* 0.6 Damage. For all allies in the area, this
 grants [Macrocosmos](#status-macrocosmos) status for 4 status phases.
 
@@ -4011,11 +4077,11 @@ Magical technique that targets all enemies on the battlefield. Attempts to cause
 | Action                    | Reaction              | Support    | Move                 |
 |---------------------------|-----------------------|------------|----------------------|
 | Attack                    | **Magick Boost Save** | 1 x Choice | Mapless: 3           |
-| Charge Up                 | 1 x Choice            |            | Move: 3              |
-| Defend                    |                       |            | Jump: 3              |
-| **[Bardsong](#bardsong)** |                       |            | **JLVL 60: Move +3** |
-| 1 x Choice                |                       |            | **JLVL 80: Fly**     |
-| Item                      |                       |            | 1 x Choice           |
+| Default                   | 1 x Choice            |            | Move: 3              |
+| **[Bardsong](#bardsong)** |                       |            | Jump: 3              |
+| 1 x Choice                |                       |            | **JLVL 60: Move +3** |
+| Item                      |                       |            | **JLVL 80: Fly**     |
+|                           |                       |            | 1 x Choice           |
 
 -   **Action: Bardsong:** Constantly singing and playing magical music to affect
     reality itself.
@@ -4231,10 +4297,9 @@ within your weapon range.
 | Action                            | Reaction           | Support             | Move       |
 |-----------------------------------|--------------------|---------------------|------------|
 | Attack                            | **Magick Counter** | **Arcane Strength** | Mapless: 3 |
-| Charge Up                         | 1 x Choice         | 1 x Choice          | Move: 3    |
-| Defend                            |                    |                     | Jump: 3    |
-| **[Black Magick](#black-magick)** |                    |                     | 1 x Choice |
-| 1 x Choice                        |                    |                     |            |
+| Default                           | 1 x Choice         | 1 x Choice          | Move: 3    |
+| **[Black Magick](#black-magick)** |                    |                     | Jump: 3    |
+| 1 x Choice                        |                    |                     | 1 x Choice |
 | Item                              |                    |                     |            |
 
 -   **Action: Black Magick:** Control of volatile elements and other arcane
@@ -4831,10 +4896,9 @@ Magical Attack, Unaspected. Causes 99,999 damage. Ignores M-Eva and M-Def.
 | Action                          | Reaction   | Support           | Move       |
 |---------------------------------|------------|-------------------|------------|
 | Attack                          | 1 x Choice | **Blue Learning** | Mapless: 3 |
-| Charge Up                       |            | **Cooking**       | Move: 3    |
-| Defend                          |            | 1 x Choice        | Jump: 3    |
-| **[Blue Magick](#blue-magick)** |            |                   | 1 x Choice |
-| 1 x Choice                      |            |                   |            |
+| Default                         |            | **Cooking**       | Move: 3    |
+| **[Blue Magick](#blue-magick)** |            | 1 x Choice        | Jump: 3    |
+| 1 x Choice                      |            |                   | 1 x Choice |
 | Item                            |            |                   |            |
 
 -   **Action: Blue Magick:** Copying the inherent abilities of wild creatures,
@@ -5503,10 +5567,9 @@ interesting ways.
 | Action                      | Reaction        | Support                | Move       |
 |-----------------------------|-----------------|------------------------|------------|
 | Attack                      | **Auto Potion** | **Chemist Drink**      | Mapless: 3 |
-| Charge Up                   | 1 x Choice      | **Throw Items**        | Move: 3    |
-| Defend                      |                 | JLVL 80: **Item Lore** | Jump: 3    |
-| **[Chemistry](#chemistry)** |                 | 1 x Choice             | 1 x Choice |
-| 1 x Choice                  |                 |                        |            |
+| Default                     | 1 x Choice      | **Throw Items**        | Move: 3    |
+| **[Chemistry](#chemistry)** |                 | JLVL 80: **Item Lore** | Jump: 3    |
+| 1 x Choice                  |                 | 1 x Choice             | 1 x Choice |
 | Item                        |                 |                        |            |
 
 -   **Action: Chemistry:** The expertise in items that require special handling
@@ -5679,10 +5742,9 @@ whole party, or to all enemies in combat.
 | Action                        | Reaction   | Support            | Move       |
 |-------------------------------|------------|--------------------|------------|
 | Attack                        | 1 x Choice | **Choco Fighting** | Mapless: 3 |
-| Charge Up                     |            | 1 x Choice         | Move: 3    |
-| Defend                        |            |                    | Jump: 3    |
-| **[Chococraft](#chococraft)** |            |                    | 1 x Choice |
-| 1 x Choice                    |            |                    |            |
+| Default                       |            | 1 x Choice         | Move: 3    |
+| **[Chococraft](#chococraft)** |            |                    | Jump: 3    |
+| 1 x Choice                    |            |                    | 1 x Choice |
 | Item                          |            |                    |            |
 
 -   **Action: Chococraft:** Expertise in the care and riding of chocobos, so
@@ -5924,10 +5986,9 @@ You summon a fat chocobo to sit on all enemies on the battlefield, dealing Level
 | Action                                        | Reaction   | Support              | Move       |
 |-----------------------------------------------|------------|----------------------|------------|
 | Attack                                        | 1 x Choice | **Lily Conjuration** | Mapless: 3 |
-| Charge Up                                     |            | **Surecast**         | Move: 3    |
-| Defend                                        |            | 1 x Choice           | Jump: 3    |
-| **[Conjuration Magick](#conjuration-magick)** |            |                      | 1 x Choice |
-| 1 x Choice                                    |            |                      |            |
+| Default                                       |            | **Surecast**         | Move: 3    |
+| **[Conjuration Magick](#conjuration-magick)** |            | 1 x Choice           | Jump: 3    |
+| 1 x Choice                                    |            |                      | 1 x Choice |
 | Item                                          |            |                      |            |
 
 -   **Action: Conjuration Magick:** Communion with elementals and tree spirits
@@ -6432,7 +6493,7 @@ Restores Level \* Wisdom \* 0.5 HP to all allies in the area, and grants
 | Limit Break |
 
 Fully revives and restores HP for all allies on the battlefield. Then, restores
-Level \* Spirit \* 0.1 MP for all allies for all allies on the battlefield.
+Level \* Spirit \* 0.1 MP for all allies on the battlefield.
 
 ## Dancer
 
@@ -6443,11 +6504,10 @@ Level \* Spirit \* 0.1 MP for all allies for all allies on the battlefield.
 | Action                        | Reaction   | Support    | Move                 |
 |-------------------------------|------------|------------|----------------------|
 | Attack                        | **Fury**   | 1 x Choice | Mapless: 3           |
-| Charge Up                     | 1 x Choice |            | Move: 3              |
-| Defend                        |            |            | Jump: 3              |
-| **[Kriegstanz](#kriegstanz)** |            |            | **JLVL 60: Jump +3** |
-| 1 x Choice                    |            |            | 1 x Choice           |
-| Item                          |            |            |                      |
+| Default                       | 1 x Choice |            | Move: 3              |
+| **[Kriegstanz](#kriegstanz)** |            |            | Jump: 3              |
+| 1 x Choice                    |            |            | **JLVL 60: Jump +3** |
+| Item                          |            |            | 1 x Choice           |
 
 -   **Action: Kriegstanz:** Constantly dancing and making arcane gestures to
     affect reality itself.
@@ -6607,10 +6667,9 @@ effects of one Dance Style.
 | Action                                  | Reaction   | Support         | Move       |
 |-----------------------------------------|------------|-----------------|------------|
 | Attack                                  | 1 x Choice | **Blood Gauge** | Mapless: 3 |
-| Charge Up                               |            | **HP Boost**    | Move: 3    |
-| Defend                                  |            | **Vehemence**   | Jump: 3    |
-| **[Darkness Weapon](#darkness-weapon)** |            | 1 x Choice      | 1 x Choice |
-| 1 x Choice                              |            |                 |            |
+| Default                                 |            | **HP Boost**    | Move: 3    |
+| **[Darkness Weapon](#darkness-weapon)** |            | **Vehemence**   | Jump: 3    |
+| 1 x Choice                              |            | 1 x Choice      | 1 x Choice |
 | Item                                    |            |                 |            |
 
 -   **Action: Darkness Weapon:** Tapping in to your dark side to expose the
@@ -6966,10 +7025,9 @@ Mage](#white-mage) 60
 | Action                                    | Reaction        | Support    | Move       |
 |-------------------------------------------|-----------------|------------|------------|
 | Attack                                    | **Mana Shield** | 2 x Choice | Mapless: 3 |
-| Charge Up                                 | 2 x Choice      |            | Move: 3    |
-| Defend                                    |                 |            | Jump: 3    |
-| [Conjuration Magick](#conjuration-magick) |                 |            | 2 x Choice |
-| [Mystic Magick](#mystic-magick)           |                 |            |            |
+| Default                                   | 2 x Choice      |            | Move: 3    |
+| [Conjuration Magick](#conjuration-magick) |                 |            | Jump: 3    |
+| [Mystic Magick](#mystic-magick)           |                 |            | 2 x Choice |
 | [White Magick](#white-magick)             |                 |            |            |
 | **Pray**                                  |                 |            |            |
 | 1 x Choice                                |                 |            |            |
@@ -7036,11 +7094,10 @@ Esper.
 | Action                        | Reaction        | Support    | Move                          |
 |-------------------------------|-----------------|------------|-------------------------------|
 | Attack                        | **Dragonheart** | 1 x Choice | Mapless: 4                    |
-| Charge Up                     | 1 x Choice      |            | Move: 3                       |
-| Defend                        |                 |            | Jump: 4                       |
-| **[Dragonsoul](#dragonsoul)** |                 |            | **JLVL 60: Ignore Elevation** |
-| 1 x Choice                    |                 |            | 1 x Choice                    |
-| Item                          |                 |            |                               |
+| Default                       | 1 x Choice      |            | Move: 3                       |
+| **[Dragonsoul](#dragonsoul)** |                 |            | Jump: 4                       |
+| 1 x Choice                    |                 |            | **JLVL 60: Ignore Elevation** |
+| Item                          |                 |            | 1 x Choice                    |
 
 -   **Action: Dragonsoul:** Techniques for fighting both with and against
     dragons.
@@ -7342,10 +7399,9 @@ adjacent enemy for 50% increased After-Armor Damage.
 | Action                          | Reaction   | Support           | Move       |
 |---------------------------------|------------|-------------------|------------|
 | Attack                          | 1 x Choice | Aethercapacitance | Mapless: 3 |
-| Charge Up                       |            | 1 x Choice        | Move: 3    |
-| Defend                          |            |                   | Jump: 3    |
-| [Arcane Magick](#arcane-magick) |            |                   | 1 x Choice |
-| **Evocation Magick**            |            |                   |            |
+| Default                         |            | 1 x Choice        | Move: 3    |
+| [Arcane Magick](#arcane-magick) |            |                   | Jump: 3    |
+| **Evocation Magick**            |            |                   | 1 x Choice |
 | 1 x Choice                      |            |                   |            |
 | Item                            |            |                   |            |
 
@@ -7381,10 +7437,9 @@ adjacent enemy for 50% increased After-Armor Damage.
 | Action                  | Reaction   | Support    | Move       |
 |-------------------------|------------|------------|------------|
 | Attack                  | **Reflex** | 1 x Choice | Mapless: 4 |
-| Charge Up               | 1 x Choice |            | Move: 4    |
-| Defend                  |            |            | Jump: 3    |
-| **[Fencing](#fencing)** |            |            | 1 x Choice |
-| 1 x Choice              |            |            |            |
+| Default                 | 1 x Choice |            | Move: 4    |
+| **[Fencing](#fencing)** |            |            | Jump: 3    |
+| 1 x Choice              |            |            | 1 x Choice |
 | Item                    |            |            |            |
 
 -   **Action: Fencing:** Finesse with light weapons and rapid strikes.
@@ -7417,8 +7472,9 @@ adjacent enemy for 50% increased After-Armor Damage.
 |--------|
 | TP: 30 |
 
-Defend action. While in this state, the next time an enemy misses an attack
-against you, you attack back at double P-Acc.
+Action with the same effect as *Default*. Additionally, while in this state, the
+next time an enemy misses an attack against you, you attack back at double
+P-Acc.
 
 **Swarmstrike**
 
@@ -7606,10 +7662,9 @@ Critical](#status-boost-critical) status.
 | Action                          | Reaction   | Support      | Move       |
 |---------------------------------|------------|--------------|------------|
 | Attack                          | 1 x Choice | **Timeless** | Mapless: 4 |
-| Charge Up                       |            | 1 x Choice   | Move: 4    |
-| Defend                          |            |              | Jump: 3    |
-| **[Festivities](#festivities)** |            |              | 1 x Choice |
-| 1 x Choice                      |            |              |            |
+| Default                         |            | 1 x Choice   | Move: 4    |
+| **[Festivities](#festivities)** |            |              | Jump: 3    |
+| 1 x Choice                      |            |              | 1 x Choice |
 | Item                            |            |              |            |
 
 -   **Action: Festivities:** Using your own enjoyment of festivals as the source
@@ -7981,10 +8036,9 @@ sequence of attacks is as follows:
 | Action     | Reaction    | Support     | Move        |
 |------------|-------------|-------------|-------------|
 | Attack     | 10 x Choice | 10 x Choice | Mapless: 3  |
-| Charge Up  |             |             | Move: 3     |
-| Defend     |             |             | Jump: 3     |
-| 2 x Choice |             |             | 10 x Choice |
-| Item       |             |             |             |
+| Default    |             |             | Move: 3     |
+| 2 x Choice |             |             | Jump: 3     |
+| Item       |             |             | 10 x Choice |
 
 | Weapon Proficiency | Armor Proficiency |
 |--------------------|-------------------|
@@ -8013,10 +8067,9 @@ current Job has 1 x Choice for Support abilities, then it changes to 2 x Choice.
 | Action                        | Reaction   | Support             | Move       |
 |-------------------------------|------------|---------------------|------------|
 | Attack                        | **Blur**   | **Charged Attacks** | Mapless: 3 |
-| Charge Up                     | 1 x Choice | 1 x Choice          | Move: 3    |
-| Defend                        |            |                     | Jump: 3    |
-| **[Gunmanship](#gunmanship)** |            |                     | 1 x Choice |
-| 1 x Choice                    |            |                     |            |
+| Default                       | 1 x Choice | 1 x Choice          | Move: 3    |
+| **[Gunmanship](#gunmanship)** |            |                     | Jump: 3    |
+| 1 x Choice                    |            |                     | 1 x Choice |
 | Item                          |            |                     |            |
 
 -   **Action: Gunmanship:** Practice and expertise in preparing shells, then
@@ -8311,9 +8364,8 @@ by one *Gunmanship* action of your choice. Ignore TP costs.
 | Action                    | Reaction   | Support    | Move       |
 |---------------------------|------------|------------|------------|
 | Attack                    | 1 x Choice | 1 x Choice | Mapless: 4 |
-| Charge Up                 |            |            | Move: 4    |
-| Defend                    |            |            | Jump: 3    |
-| **[Gambling](#gambling)** |            |            |            |
+| Default                   |            |            | Move: 4    |
+| **[Gambling](#gambling)** |            |            | Jump: 3    |
 | 1 x Choice                |            |            |            |
 | Item                      |            |            |            |
 
@@ -8322,7 +8374,7 @@ by one *Gunmanship* action of your choice. Ignore TP costs.
     The game group is not obligated to wait for full Gambling actions to play
     out, because some of them can take a considerable amount of time (especially
     *Chess With Death*). Also beware that some may involve real money
-    (e.g. *Gachapon Pull*).
+    (e.g. *Gachapon Capsule*).
 
 | Weapon Proficiency | Armor Proficiency |
 |--------------------|-------------------|
@@ -8826,11 +8878,10 @@ yourself.
 | Action                    | Reaction           | Support          | Move               |
 |---------------------------|--------------------|------------------|--------------------|
 | Attack                    | **Nature’s Wrath** | **Attack Boost** | Mapless: 4         |
-| Charge Up                 | 1 x Choice         | 1 x Choice       | Move: 4            |
-| Defend                    |                    |                  | Jump: 3            |
-| **[Geomancy](#geomancy)** |                    |                  | **Ignore Terrain** |
-| 1 x Choice                |                    |                  | 1 x Choice         |
-| Item                      |                    |                  |                    |
+| Default                   | 1 x Choice         | 1 x Choice       | Move: 4            |
+| **[Geomancy](#geomancy)** |                    |                  | Jump: 3            |
+| 1 x Choice                |                    |                  | **Ignore Terrain** |
+| Item                      |                    |                  | 1 x Choice         |
 
 -   **Action: Geomancy:** Focusing the energy of the land into specific forms.
     The actions that can be performed are dependent on the terrain you are
@@ -9600,10 +9651,9 @@ skip the TP costs of *Geomancy* performed in this manner.
 | Action                    | Reaction        | Support          | Move       |
 |---------------------------|-----------------|------------------|------------|
 | Attack                    | **Strike Back** | **Shield Bash**  | Mapless: 4 |
-| Charge Up                 | 1 x Choice      | **Shield Force** | Move: 4    |
-| Defend                    |                 | 1 x Choice       | Jump: 3    |
-| **[Sparring](#sparring)** |                 |                  | 1 x Choice |
-| 1 x Choice                |                 |                  |            |
+| Default                   | 1 x Choice      | **Shield Force** | Move: 4    |
+| **[Sparring](#sparring)** |                 | 1 x Choice       | Jump: 3    |
+| 1 x Choice                |                 |                  | 1 x Choice |
 | Item                      |                 |                  |            |
 
 -   **Action: Sparring:** Entertaining and violent melee techniques.
@@ -9658,7 +9708,7 @@ phases.
 |---------|
 | TP: 200 |
 
-Attack. You regain an amount of MP equal to your Level.
+Attack. You regain an amount of MP equal to your Level \* Spirit \* 0.01.
 
 **Shield Charge**
 
@@ -9732,7 +9782,8 @@ Grants yourself [Sheltron](#status-sheltron) for 2 status phases.
 |---------|
 | TP: 300 |
 
-Attack. You gain 1 Shield Force point and an amount of MP equal to your Level.
+Attack. You gain 1 Shield Force point and an amount of MP equal to your Level \*
+Spirit \* 0.05.
 
 #### Gladiator 40
 
@@ -9746,7 +9797,7 @@ Attack. You gain 1 Shield Force point and an amount of MP equal to your Level.
 
 Project your attack into all enemies in the area. After-Armor Damage is halved.
 You gain 1 [Enmity](#enmity) point for each enemy hit. You also gain an amount
-of MP equal to your Level.
+of MP equal to your Level \* Spirit \* 0.05.
 
 #### Gladiator 50
 
@@ -9842,10 +9893,9 @@ points for each hit.
 | Action                                | Reaction   | Support              | Move       |
 |---------------------------------------|------------|----------------------|------------|
 | Attack                                | 1 x Choice | **Cartridge Charge** | Mapless: 4 |
-| Charge Up                             |            | **Trigger Timing**   | Move: 4    |
-| Defend                                |            | 1 x Choice           | Jump: 3    |
-| **[Charged Weapon](#charged-weapon)** |            |                      | 1 x Choice |
-| 1 x Choice                            |            |                      |            |
+| Default                               |            | **Trigger Timing**   | Move: 4    |
+| **[Charged Weapon](#charged-weapon)** |            | 1 x Choice           | Jump: 3    |
+| 1 x Choice                            |            |                      | 1 x Choice |
 | Item                                  |            |                      |            |
 
 -   **Action: Charged Weapon:** Igniting magic cartridges at the right timing in
@@ -9891,11 +9941,10 @@ points for each hit.
 | Action                        | Reaction           | Support    | Move                  |
 |-------------------------------|--------------------|------------|-----------------------|
 | Attack                        | **Return Fire**    | 1 x Choice | Mapless: 4            |
-| Charge Up                     | **Sticky Fingers** |            | Move: 4               |
-| Defend                        | 1 x Choice         |            | Jump: 4               |
-| **[Acrobatics](#acrobatics)** |                    |            | **Dangerous Balance** |
-| 1 x Choice                    |                    |            | 1 x Choice            |
-| Item                          |                    |            |                       |
+| Default                       | **Sticky Fingers** |            | Move: 4               |
+| **[Acrobatics](#acrobatics)** | 1 x Choice         |            | Jump: 4               |
+| 1 x Choice                    |                    |            | **Dangerous Balance** |
+| Item                          |                    |            | 1 x Choice            |
 
 -   **Action: Acrobatics:** Jesting, japery and jaunting of the highest order.
 -   **Reaction: Return Fire (TP: 150):** Upon being targeted by a ranged attack,
@@ -10110,7 +10159,7 @@ Magical technique that attempts to cause [Charm](#status-charm) status.
 |---------|
 | TP: 200 |
 
-Defend action that also puts you into a Fastroll state. While in a Fastroll
+*Default* action that also puts you into a Fastroll state. While in a Fastroll
 state, you have double P-Eva against the next incoming attack. If this occurs,
 then you also move 1 square or change rows, then end Fastroll state.
 
@@ -10196,10 +10245,9 @@ moved next to it. The box lasts for 4 status phases.
 | Action                          | Reaction       | Support       | Move       |
 |---------------------------------|----------------|---------------|------------|
 | Attack                          | **Auto-Cover** | **Safeguard** | Mapless: 3 |
-| Charge Up                       | **Parry**      | 1 x Choice    | Move: 3    |
-| Defend                          | 1 x Choice     |               | Jump: 3    |
-| **[Arts of War](#arts-of-war)** |                |               | 1 x Choice |
-| 1 x Choice                      |                |               |            |
+| Default                         | **Parry**      | 1 x Choice    | Move: 3    |
+| **[Arts of War](#arts-of-war)** | 1 x Choice     |               | Jump: 3    |
+| 1 x Choice                      |                |               | 1 x Choice |
 | Item                            |                |               |            |
 
 -   **Action: Arts of War:** Fighting style made for heavy-armor combat.
@@ -10459,10 +10507,9 @@ Physical Attack, Lightning-aspected, targeting all enemies in the area for Level
 | Action                          | Reaction   | Support         | Move       |
 |---------------------------------|------------|-----------------|------------|
 | Attack                          | 1 x Choice | **Disassembly** | Mapless: 3 |
-| Charge Up                       |            | 1 x Choice      | Move: 3    |
-| Defend                          |            |                 | Jump: 3    |
-| **[Power Tools](#power-tools)** |            |                 | 1 x Choice |
-| 1 x Choice                      |            |                 |            |
+| Default                         |            | 1 x Choice      | Move: 3    |
+| **[Power Tools](#power-tools)** |            |                 | Jump: 3    |
+| 1 x Choice                      |            |                 | 1 x Choice |
 | Item                            |            |                 |            |
 
 -   **Action: Power Tools:** Training with the proper construction and usage of
@@ -10721,10 +10768,9 @@ MP costs.
 | Action                                  | Reaction          | Support                   | Move       |
 |-----------------------------------------|-------------------|---------------------------|------------|
 | Attack                                  | **Link Reaction** | **Magitek Pilot Program** | Mapless: 3 |
-| Charge Up                               | 1 x Choice        | 1 x Choice                | Move: 3    |
-| Defend                                  |                   |                           | Jump: 3    |
-| **[Magitek Systems](#magitek-systems)** |                   |                           | 1 x Choice |
-| 1 x Choice                              |                   |                           |            |
+| Default                                 | 1 x Choice        | 1 x Choice                | Move: 3    |
+| **[Magitek Systems](#magitek-systems)** |                   |                           | Jump: 3    |
+| 1 x Choice                              |                   |                           | 1 x Choice |
 | Item                                    |                   |                           |            |
 
 -   **Action: Magitek Systems:** Training and operation of the many weapons &
@@ -10965,10 +11011,9 @@ for Level \* Dexterity \* 1.5 damage.
 | Action                                          | Reaction   | Support             | Move       |
 |-------------------------------------------------|------------|---------------------|------------|
 | Attack                                          | 2 x Choice | **Double MP Power** | Mapless: 3 |
-| Charge Up                                       |            | 2x Choice           | Move: 3    |
-| Defend                                          |            |                     | Jump: 3    |
-| [Arcane Magick](#arcane-magick)                 |            |                     | 2 x Choice |
-| [Black Magick](#black-magick)                   |            |                     |            |
+| Default                                         |            | 2x Choice           | Move: 3    |
+| [Arcane Magick](#arcane-magick)                 |            |                     | Jump: 3    |
+| [Black Magick](#black-magick)                   |            |                     | 2 x Choice |
 | [Thaumaturgical Magick](#thaumaturgical-magick) |            |                     |            |
 | 1 x Choice                                      |            |                     |            |
 | Item                                            |            |                     |            |
@@ -11004,10 +11049,9 @@ convert all of the Cast Time to double that much MP cost.
 | Action                      | Reaction          | Support    | Move       |
 |-----------------------------|-------------------|------------|------------|
 | Attack                      | **Absorb Damage** | 1 x Choice | Mapless: 4 |
-| Charge Up                   | **Gil Snapper**   |            | Move: 4    |
-| Defend                      | 1 x Choice        |            | Jump: 4    |
-| **[Marauding](#marauding)** |                   |            | 1 x Choice |
-| 1 x Choice                  |                   |            |            |
+| Default                     | **Gil Snapper**   |            | Move: 4    |
+| **[Marauding](#marauding)** | 1 x Choice        |            | Jump: 4    |
+| 1 x Choice                  |                   |            | 1 x Choice |
 | Item                        |                   |            |            |
 
 -   **Action: Marauding:** Quick techniques for raiding and pillaging.
@@ -11273,12 +11317,11 @@ of the same Item Level.
 | Action                        | Reaction         | Support           | Move         |
 |-------------------------------|------------------|-------------------|--------------|
 | Attack                        | Counter          | Animal Forms      | Mapless: 4   |
-| Charge Up                     | **First Strike** | Brawl             | Move: 4      |
-| Defend                        | 1 x Choice       | Chakras           | Jump: 4      |
-| [Martial Arts](#martial-arts) |                  | Fist Elements     | **Lifefont** |
-| [Pugilism](#pugilism)         |                  | **Beast Chakras** | 1 x Choice   |
-| 1 x Choice                    |                  | 1 x Choice        |              |
-| Item                          |                  |                   |              |
+| Default                       | **First Strike** | Brawl             | Move: 4      |
+| [Martial Arts](#martial-arts) | 1 x Choice       | Chakras           | Jump: 4      |
+| [Pugilism](#pugilism)         |                  | Fist Elements     | **Lifefont** |
+| 1 x Choice                    |                  | **Beast Chakras** | 1 x Choice   |
+| Item                          |                  | 1 x Choice        |              |
 
 -   **Reaction: First Strike (500 TP):** When an enemy performs an Attack
     against you, you Attack the enemy first. Then the enemy’s Attack occurs
@@ -11318,10 +11361,9 @@ conditions, as well as immune to [Doom](#status-doom).
 | Action     | Reaction   | Support    | Move       |
 |------------|------------|------------|------------|
 | **Mimic**  | 2 x Choice | 2 x Choice | Mapless: 4 |
-| Charge Up  |            |            | Move: 4    |
-| Defend     |            |            | Jump: 4    |
-| 1 x Choice |            |            | 2 x Choice |
-| Item       |            |            |            |
+| Default    |            |            | Move: 4    |
+| 1 x Choice |            |            | Jump: 4    |
+| Item       |            |            | 2 x Choice |
 
 -   **Action: Mimic:** You perform the exact same action as your previous party
     member in the turn order. You ignore the Charge Time, Cast Time, MP and TP
@@ -11365,10 +11407,9 @@ and from the beginning of the status phase.
 | Action                            | Reaction    | Support     | Move       |
 |-----------------------------------|-------------|-------------|------------|
 | Attack                            | **Counter** | **Brawl**   | Mapless: 4 |
-| Charge Up                         | 1 x Choice  | **Chakras** | Move: 3    |
-| Defend                            |             | 1 x Choice  | Jump: 4    |
-| **[Martial Arts](#martial-arts)** |             |             | 1 x Choice |
-| 1 x Choice                        |             |             |            |
+| Default                           | 1 x Choice  | **Chakras** | Move: 3    |
+| **[Martial Arts](#martial-arts)** |             | 1 x Choice  | Jump: 4    |
+| 1 x Choice                        |             |             | 1 x Choice |
 | Item                              |             |             |            |
 
 -   **Reaction: Counter (100 TP):** After a melee action against you, you attack
@@ -11450,8 +11491,8 @@ missing compared to your maximum HP.
 |------------------|
 | Charge Time: 200 |
 
-Defend action. Also grants yourself \[Boost Armor\]\[Status: Boost Armor\] for 4
-status phases.
+*Default* action that also grants yourself \[Boost Armor\]\[Status: Boost
+Armor\] for 2 status phases.
 
 **Pummel**
 
@@ -11664,11 +11705,11 @@ class. Each of the attacks also attempts to instantly-kill the target.
 | Action                              | Reaction      | Support           | Move                  |
 |-------------------------------------|---------------|-------------------|-----------------------|
 | Attack                              | **Absorb MP** | **Defense Boost** | Mapless: 3            |
-| Charge Up                           | 1 x Choice    | 1 x Choice        | Move: 3               |
-| Defend                              |               |                   | Jump: 3               |
-| **[Mystic Magick](#mystic-magick)** |               |                   | **Ignore Weather**    |
-| 1 x Choice                          |               |                   | **JLVL 80: Manafont** |
-| Item                                |               |                   | 1 x Choice            |
+| Default                             | 1 x Choice    | 1 x Choice        | Move: 3               |
+| **[Mystic Magick](#mystic-magick)** |               |                   | Jump: 3               |
+| 1 x Choice                          |               |                   | **Ignore Weather**    |
+| Item                                |               |                   | **JLVL 80: Manafont** |
+|                                     |               |                   | 1 x Choice            |
 
 -   **Action: Mystick Magick:** Weaving the flow of destiny and fate.
 -   **Reaction: Absorb MP:** When you take damage or receive a harmful status
@@ -12051,11 +12092,10 @@ least one Limit Break Charge, this ability fires again.
 | Action                    | Reaction     | Support        | Move             |
 |---------------------------|--------------|----------------|------------------|
 | Attack                    | **Vanish**   | **Dual-Wield** | Mapless: 4       |
-| Charge Up                 | **Reflexes** | 1 x Choice     | Move: 4          |
-| Defend                    | 1 x Choice   |                | Jump: 4          |
-| **[Ninjutsu](#ninjutsu)** |              |                | **Waterwalking** |
-| 1 x Choice                |              |                | 1 x Choice       |
-| Item                      |              |                |                  |
+| Default                   | **Reflexes** | 1 x Choice     | Move: 4          |
+| **[Ninjutsu](#ninjutsu)** | 1 x Choice   |                | Jump: 4          |
+| 1 x Choice                |              |                | **Waterwalking** |
+| Item                      |              |                | 1 x Choice       |
 
 -   **Action: Ninjutsu:** Secret martial arts using a mixture of patience,
     trickery and true magick.
@@ -12420,11 +12460,11 @@ Perform five attacks on one target.
 
 **Leads To:** None
 
-| Action | Reaction | Support | Move       |
-|--------|----------|---------|------------|
-| Attack | None     | None    | Mapless: 4 |
-| Defend |          |         | Move: 4    |
-| Item   |          |         | Jump: 4    |
+| Action  | Reaction | Support | Move       |
+|---------|----------|---------|------------|
+| Attack  | None     | None    | Mapless: 4 |
+| Default |          |         | Move: 4    |
+| Item    |          |         | Jump: 4    |
 
 | Weapon Proficiency | Armor Proficiency |
 |--------------------|-------------------|
@@ -12455,10 +12495,9 @@ While your current job is [Onion Knight](#onion-knight) this bonus is doubled.
 | Action                          | Reaction    | Support    | Move       |
 |---------------------------------|-------------|------------|------------|
 | Attack                          | **Earplug** | **Tame**   | Mapless: 3 |
-| Charge Up                       | 1 x Choice  | 1 x Choice | Move: 3    |
-| Defend                          |             |            | Jump: 3    |
-| **[Speechcraft](#speechcraft)** |             |            | 1 x Choice |
-| 1 x Choice                      |             |            |            |
+| Default                         | 1 x Choice  | 1 x Choice | Move: 3    |
+| **[Speechcraft](#speechcraft)** |             |            | Jump: 3    |
+| 1 x Choice                      |             |            | 1 x Choice |
 | Item                            |             |            |            |
 
 -   **Action: Speechcraft:** Using communication, gestures, and other means of
@@ -12748,17 +12787,16 @@ Mage](#white-mage) 30
 | Action                              | Reaction   | Support      | Move       |
 |-------------------------------------|------------|--------------|------------|
 | Attack                              | 1 x Choice | **Chivalry** | Mapless: 3 |
-| Charge Up                           |            | 1 x Choice   | Move: 3    |
-| Defend                              |            |              | Jump: 3    |
-| **[Divine Weapon](#divine-weapon)** |            |              | 1 x Choice |
-| [Sparring](#sparring)               |            |              |            |
+| Default                             |            | 1 x Choice   | Move: 3    |
+| **[Divine Weapon](#divine-weapon)** |            |              | Jump: 3    |
+| [Sparring](#sparring)               |            |              | 1 x Choice |
 | 1 x Choice                          |            |              |            |
 | Item                                |            |              |            |
 
 -   **Action: Divine Weapon:** Focusing the belief in your cause of protecting
     the many against the hoarding of the few.
 -   **Support: Chivalry:** When you restore an ally’s HP (other than yourself),
-    you also regain an amount of MP equal to your Level.
+    you also regain an amount of MP equal to your Level \* Spirit \* 0.01.
 
 | Weapon Proficiency | Armor Proficiency |
 |--------------------|-------------------|
@@ -13010,10 +13048,9 @@ Holy-Aspected Damage.
 | Action      | Reaction   | Support    | Move       |
 |-------------|------------|------------|------------|
 | Attack      | 1 x Choice | 1 x Choice | Mapless: 3 |
-| Charge Up   |            |            | Move: 3    |
-| Defend      |            |            | Jump: 3    |
-| **Sketch**  |            |            | 1 x Choice |
-| **Control** |            |            |            |
+| Default     |            |            | Move: 3    |
+| **Sketch**  |            |            | Jump: 3    |
+| **Control** |            |            | 1 x Choice |
 | 1 x Choice  |            |            |            |
 | Item        |            |            |            |
 
@@ -13049,10 +13086,9 @@ Holy-Aspected Damage.
 | Action                    | Reaction   | Support    | Move       |
 |---------------------------|------------|------------|------------|
 | Attack                    | 1 x Choice | **Guts**   | Mapless: 3 |
-| Charge Up                 |            | 1 x Choice | Move: 3    |
-| Defend                    |            |            | Jump: 3    |
-| **[Psionics](#psionics)** |            |            | 1 x Choice |
-| 1 x Choice                |            |            |            |
+| Default                   |            | 1 x Choice | Move: 3    |
+| **[Psionics](#psionics)** |            |            | Jump: 3    |
+| 1 x Choice                |            |            | 1 x Choice |
 | Item                      |            |            |            |
 
 -   **Action: Psionics:** Manifesting supernatural abilities using only the
@@ -13353,10 +13389,9 @@ The results are unpredictable, and may even involve the will of you, the player.
 | Action                    | Reaction   | Support           | Move       |
 |---------------------------|------------|-------------------|------------|
 | Attack                    | 1 x Choice | **Animal Forms**  | Mapless: 4 |
-| Charge Up                 |            | **Fist Elements** | Move: 4    |
-| Defend                    |            | 1 x Choice        | Jump: 4    |
-| **[Pugilism](#pugilism)** |            |                   | 1 x Choice |
-| 1 x Choice                |            |                   |            |
+| Default                   |            | **Fist Elements** | Move: 4    |
+| **[Pugilism](#pugilism)** |            | 1 x Choice        | Jump: 4    |
+| 1 x Choice                |            |                   | 1 x Choice |
 | Item                      |            |                   |            |
 
 -   **Action: Pugilism:** Movement-based martial arts, attacking from angles
@@ -13657,10 +13692,9 @@ Mage](#white-mage) 30
 | Action                        | Reaction   | Support          | Move       |
 |-------------------------------|------------|------------------|------------|
 | Attack                        | 1 x Choice | **Duality Mana** | Mapless: 3 |
-| Charge Up                     |            | 1 x Choice       | Move: 3    |
-| Defend                        |            |                  | Jump: 3    |
-| **[Red Magick](#red-magick)** |            |                  | 1 x Choice |
-| **JLVL 80: Dualcast**         |            |                  |            |
+| Default                       |            | 1 x Choice       | Move: 3    |
+| **[Red Magick](#red-magick)** |            |                  | Jump: 3    |
+| **JLVL 80: Dualcast**         |            |                  | 1 x Choice |
 | [Fencing](#fencing)           |            |                  |            |
 | 1 x Choice                    |            |                  |            |
 | Item                          |            |                  |            |
@@ -14171,10 +14205,9 @@ Mage](#white-mage) 60
 | Action                        | Reaction   | Support    | Move       |
 |-------------------------------|------------|------------|------------|
 | Attack                        | 1 x Choice | 1 x Choice | Mapless: 3 |
-| Charge Up                     |            |            | Move: 3    |
-| Defend                        |            |            | Jump: 3    |
-| **Recall**                    |            |            | 1 x Choice |
-| [Black Magick](#black-magick) |            |            |            |
+| Default                       |            |            | Move: 3    |
+| **Recall**                    |            |            | Jump: 3    |
+| [Black Magick](#black-magick) |            |            | 1 x Choice |
 | [Time Magick](#time-magick)   |            |            |            |
 | [White Magick](#white-magick) |            |            |            |
 | 1 x Choice                    |            |            |            |
@@ -14208,10 +14241,9 @@ Mage](#white-mage) 60
 | Action              | Reaction        | Support        | Move       |
 |---------------------|-----------------|----------------|------------|
 | Attack              | **Bonecrusher** | **Doublehand** | Mapless: 3 |
-| Charge Up           | **Shirahadori** | 1 x Choice     | Move: 3    |
-| Defend              | 1 x Choice      |                | Jump: 3    |
-| **[Iaido](#iaido)** |                 |                | 1 x Choice |
-| 1 x Choice          |                 |                |            |
+| Default             | **Shirahadori** | 1 x Choice     | Move: 3    |
+| **[Iaido](#iaido)** | 1 x Choice      |                | Jump: 3    |
+| 1 x Choice          |                 |                | 1 x Choice |
 | Item                |                 |                |            |
 
 -   **Action: Iaido:** Unleashing the hidden power imparted to blades by their
@@ -14325,7 +14357,7 @@ HP.
 |------------------|
 | Charge Time: 200 |
 
-Defend action that also places you into *Sky Retort* state until your next
+*Default* action that also places you into *Sky Retort* state until your next
 action. While in *Sky Retort* state, after every melee attack against you, you
 attack back.
 
@@ -14527,10 +14559,9 @@ Gravity/Death attack.
 | Action                                      | Reaction   | Support               | Move       |
 |---------------------------------------------|------------|-----------------------|------------|
 | Attack                                      | 1 x Choice | Aethercapacitance     | Mapless: 3 |
-| Charge Up                                   |            | **Scholar Fey Pacts** | Move: 3    |
-| Defend                                      |            | **Faerie Dust**       | Jump: 3    |
-| **[Scholastic Magick](#scholastic-magick)** |            | 1 x Choice            | 1 x Choice |
-| [Arcane Magick](#arcane-magick)             |            |                       |            |
+| Default                                     |            | **Scholar Fey Pacts** | Move: 3    |
+| **[Scholastic Magick](#scholastic-magick)** |            | **Faerie Dust**       | Jump: 3    |
+| [Arcane Magick](#arcane-magick)             |            | 1 x Choice            | 1 x Choice |
 | 1 x Choice                                  |            |                       |            |
 | Item                                        |            |                       |            |
 
@@ -14866,11 +14897,10 @@ each ally an amount of Shield Points equal to their maximum HP.
 | Action                              | Reaction        | Support                       | Move        |
 |-------------------------------------|-----------------|-------------------------------|-------------|
 | Attack                              | **Magic Shell** | **Memento**                   | Mapless: 4  |
-| Charge Up                           | 1 x Choice      | **Blood Price**               | Move: 4     |
-| Defend                              |                 | **JLVL 60: Auto Aspir Saber** | Jump: 3     |
-| **[Weapon Magick](#weapon-magick)** |                 | 1 x Choice                    | **Move +1** |
-| 1 x Choice                          |                 |                               | 1 x Choice  |
-| Item                                |                 |                               |             |
+| Default                             | 1 x Choice      | **Blood Price**               | Move: 4     |
+| **[Weapon Magick](#weapon-magick)** |                 | **JLVL 60: Auto Aspir Saber** | Jump: 3     |
+| 1 x Choice                          |                 | 1 x Choice                    | **Move +1** |
+| Item                                |                 |                               | 1 x Choice  |
 
 -   **Action: Weapon Magick:** Focusing violent elemental power into your
     weapon. You can only have one *Weapon Magick* active at a time, so nearly
@@ -14934,7 +14964,7 @@ Imbues your weapon with the power to cause [Poison](#status-poison) on hit.
 
 **Runic**
 
-Defend action that also puts you in Runic state. While in Runic state, if you
+*Default* action that also puts you in Runic state. While in Runic state, if you
 are targeted by an MP-using ability, then the ability does not occur. Instead,
 the MP cost of the ability is added to your current MP. Then, your Runic state
 ends.
@@ -15204,11 +15234,10 @@ and ignore P-Eva and P-Def.
 | Action                        | Reaction           | Support     | Move        |
 |-------------------------------|--------------------|-------------|-------------|
 | Attack                        | **Counter Tackle** | **Reequip** | Mapless: 4  |
-| Charge Up                     | 1 x Choice         | 1 x Choice  | Move: 4     |
-| Defend                        |                    |             | Jump: 3     |
-| **[Fundaments](#fundaments)** |                    |             | **Move +1** |
-| 1 x Choice                    |                    |             | 1 x Choice  |
-| Item                          |                    |             |             |
+| Default                       | 1 x Choice         | 1 x Choice  | Move: 4     |
+| **[Fundaments](#fundaments)** |                    |             | Jump: 3     |
+| 1 x Choice                    |                    |             | **Move +1** |
+| Item                          |                    |             | 1 x Choice  |
 
 -   **Action: Fundaments:** Foundational combat techniques useful to any
     soldier.
@@ -15406,10 +15435,9 @@ Tenacity \* 1.2 damage.
 | Action                                    | Reaction                 | Support           | Move       |
 |-------------------------------------------|--------------------------|-------------------|------------|
 | Attack                                    | **Critical: Recover MP** | **Maximum MP Up** | Mapless: 3 |
-| Charge Up                                 | 1 x Choice               | 1 x Choice        | Move: 3    |
-| Defend                                    |                          |                   | Jump: 3    |
-| **[Summoning Magick](#summoning-magick)** |                          |                   | 1 x Choice |
-| 1 x Choice                                |                          |                   |            |
+| Default                                   | 1 x Choice               | 1 x Choice        | Move: 3    |
+| **[Summoning Magick](#summoning-magick)** |                          |                   | Jump: 3    |
+| 1 x Choice                                |                          |                   | 1 x Choice |
 | Item                                      |                          |                   |            |
 
 -   **Action: Summoning Magick:** Using the *Summoning Magick* of
@@ -15493,16 +15521,16 @@ Magick for [Espers](#espers) you have a pact with.
 | Action                    | Reaction      | Support    | Move        |
 |---------------------------|---------------|------------|-------------|
 | Attack                    | **Vigilance** | **Poach**  | Mapless: 4  |
-| Charge Up                 | 1 x Choice    | 1 x Choice | Move: 4     |
-| Defend                    |               |            | Jump: 4     |
-| **[Thievery](#thievery)** |               |            | **Move +2** |
-| 1 x Choice                |               |            | **Jump +2** |
-| Item                      |               |            | 1 x Choice  |
+| Default                   | 1 x Choice    | 1 x Choice | Move: 4     |
+| **[Thievery](#thievery)** |               |            | Jump: 4     |
+| 1 x Choice                |               |            | **Move +2** |
+| Item                      |               |            | **Jump +2** |
+|                           |               |            | 1 x Choice  |
 
 -   **Action: Thievery**: The art of stealing things from enemies in the middle
     of combat.
--   **Reaction: Vigilance (100 TP)**: Upon taking damage, you perform a Defend
-    action.
+-   **Reaction: Vigilance (100 TP)**: Upon taking damage, you perform a
+    *Default* action.
 -   **Support: Poach**: For every enemy you defeat, you restore one use of one
     item.
 -   **Move: Move +2**: In mapless combat, increases your Maneuver by 1. In map
@@ -15806,10 +15834,9 @@ costs.
 | Action                              | Reaction   | Support    | Move       |
 |-------------------------------------|------------|------------|------------|
 | Attack                              | 3 x Choice | 3 x Choice | Mapless: 3 |
-| Charge Up                           |            |            | Move: 3    |
-| Defend                              |            |            | Jump: 3    |
-| [Arts of War](#arts-of-war)         |            |            | 1 x Choice |
-| [Darkness Weapon](#darkness-weapon) |            |            |            |
+| Default                             |            |            | Move: 3    |
+| [Arts of War](#arts-of-war)         |            |            | Jump: 3    |
+| [Darkness Weapon](#darkness-weapon) |            |            | 1 x Choice |
 | [Divine Weapon](#divine-weapon)     |            |            |            |
 | 1 x Choice                          |            |            |            |
 | Item                                |            |            |            |
@@ -15846,11 +15873,11 @@ costs.
 | Action                          | Reaction             | Support       | Move                  |
 |---------------------------------|----------------------|---------------|-----------------------|
 | Attack                          | **Critical Quicken** | **Swiftness** | Mapless: 3            |
-| Charge Up                       | 1 x Choice           | 1 x Choice    | Move: 3               |
-| Defend                          |                      |               | Jump: 3               |
-| **[Time Magick](#time-magick)** |                      |               | **Levitate**          |
-| 1 x Choice                      |                      |               | **JLVL 80: Teleport** |
-| Item                            |                      |               | 1 x Choice            |
+| Default                         | 1 x Choice           | 1 x Choice    | Move: 3               |
+| **[Time Magick](#time-magick)** |                      |               | Jump: 3               |
+| 1 x Choice                      |                      |               | **Levitate**          |
+| Item                            |                      |               | **JLVL 80: Teleport** |
+|                                 |                      |               | 1 x Choice            |
 
 -   **Action: Time Magick:** Control of the fabric of time and space.
 -   **Reaction: Critical Quicken:** While at 10% HP or less, you have
@@ -16307,10 +16334,9 @@ status.
 | Action                    | Reaction   | Support                          | Move       |
 |---------------------------|------------|----------------------------------|------------|
 | Attack                    | 1 x Choice | **The Beast Within**             | Mapless: 4 |
-| Charge Up                 |            | **JLVL 80: Mastering the Beast** | Move: 4    |
-| Defend                    |            | 1 x Choice                       | Jump: 4    |
-| **[Warbeast](#warbeast)** |            |                                  | 1 x Choice |
-| [Marauding](#marauding)   |            |                                  |            |
+| Default                   |            | **JLVL 80: Mastering the Beast** | Move: 4    |
+| **[Warbeast](#warbeast)** |            | 1 x Choice                       | Jump: 4    |
+| [Marauding](#marauding)   |            |                                  | 1 x Choice |
 | 1 x Choice                |            |                                  |            |
 | Item                      |            |                                  |            |
 
@@ -16531,10 +16557,9 @@ gain 2 [Enmity](#enmity) points for each of these attacks.
 | Action                            | Reaction       | Support            | Move       |
 |-----------------------------------|----------------|--------------------|------------|
 | Attack                            | **Regenerate** | **Arcane Defense** | Mapless: 3 |
-| Charge Up                         | 1 x Choice     | 1 x Choice         | Move: 3    |
-| Defend                            |                |                    | Jump: 3    |
-| **[White Magick](#white-magick)** |                |                    | 1 x Choice |
-| 1 x Choice                        |                |                    |            |
+| Default                           | 1 x Choice     | 1 x Choice         | Move: 3    |
+| **[White Magick](#white-magick)** |                |                    | Jump: 3    |
+| 1 x Choice                        |                |                    | 1 x Choice |
 | Item                              |                |                    |            |
 
 -   **Action: White Magick:** Control of fundamental life force and elemental
@@ -17208,6 +17233,7 @@ Pact with an Esper in order to be able to perform any of the listed actions.
 -   Double Speed
 -   Maneuver/Move: 6
 -   Jump: 4
+-   Outgoing After-Armor Damage is halved
 
 **Esper Action: Choco Cure**
 
@@ -17217,7 +17243,7 @@ Pact with an Esper in order to be able to perform any of the listed actions.
 |      | E: Row of allies | Target H: 0         |
 |      |                  | Effect E/V: 2/2     |
 
-Restores Level \* Wisdom \* 0.2 HP to all allies in the area.
+Restores Level \* Wisdom \* 0.1 HP to all allies in the area.
 
 **Evocation Magick: Choco Beak**
 
@@ -17241,6 +17267,44 @@ Magical Attack, Unaspected, for Level \* Intellect \* 0.5 damage.
 
 ### Eggman
 
+**Dominant Form**
+
+No templates.
+
+**Egi-Form**
+
+-   Half HP
+-   Half P-Def
+-   Half M-Def
+-   Outgoing After-Armor Damage is halved
+
+**Esper Action: Cracked Body**
+
+| Cost | Mapless     | Map             |
+|------|-------------|-----------------|
+| None | R: 2 rows   | Ranged Indirect |
+|      | E: One Ally | Target H: 4     |
+|      |             | Effect E/V: 1/1 |
+
+Transfers Eggman’s HP into the target ally, until either the ally reaches
+maximum HP or the Eggman runs out of HP.
+
+**Evocation Magic: Hanjuku Hero**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 20 | R: 4 rows | Ranged Indirect |
+| MP: 100       | E: Single | Target H: 4     |
+|               |           | Effect E/V: 1/1 |
+
+Creates a soft-boiled hero in the target empty location. The soft-boiled hero
+has the same stats as Eggman’s Egi-Form. Only one soft-boiled hero can be
+maintained at a time.
+
+**Summoning Magick: Egg Chop**
+
+Eggman attempts to chop an enemy, but is unable to reach.
+
 ### Goblin
 
 **Dominant Form**
@@ -17252,6 +17316,7 @@ No templates.
 -   Half HP
 -   Half P-Def
 -   Half M-Def
+-   Outgoing After-Armor Damage is halved
 
 **Esper Action: Goblin Knife**
 
@@ -17263,7 +17328,8 @@ Attack, without provoking any Reactions.
 |-------|
 | 60 MP |
 
-Restores one item use of your choice.
+Perform a free item use, of an item that was already used by an ally in the same
+combat round.
 
 **Summoning Magick: Goblin Punch**
 
@@ -17279,6 +17345,32 @@ Physical Attack, Unaspected, for Level \* Intellect \* 0.4 damage.
 
 ### Bomb
 
+**Dominant Form**
+
+-   Absorb Fire element
+
+**Egi-Form**
+
+-   Absorb Fire element
+-   Half HP
+-   Half P-Def
+-   Outgoing After-Armor Damage is halved
+
+**Esper Action: Fuse Flay**
+
+Physical Attack, Fire-Aspected.
+
+**Evocation Magick: Fire Fuel**
+
+| Cost          | Mapless   | Map             |
+|---------------|-----------|-----------------|
+| Cast Time: 50 | R: 4 rows | Ranged Indirect |
+| MP: 100       | E: Single | Target H: 4     |
+|               |           | Effect E/V: 1/1 |
+
+Grants [Element Absorption](#status-element-absorption) to the target for the
+element of Fire.
+
 **Summoning Magick: Self-Destruct**
 
 | Cost           | Mapless   | Map             |
@@ -17289,7 +17381,41 @@ Physical Attack, Unaspected, for Level \* Intellect \* 0.4 damage.
 
 Magical Attack, Fire-Aspected, dealing Level \* Intellect \* 0.6 Damage.
 
+If performed while in Dominant Form, then this also kills the Esper for the rest
+of the battle.
+
 ### Cockatrice
+
+**Dominant Form**
+
+-   Always has \[Float\]\[Status: Float\]
+-   Moves by flying
+-   Takes double After-Armor Damage from ranged weapons
+
+**Egi-Form**
+
+-   Always has \[Float\]\[Status: Float\]
+-   Moves by flying
+-   Takes double After-Armor Damage from ranged weapons
+-   Half HP
+-   Half P-Def
+-   Outgoing After-Armor Damage is halved
+
+**Esper Action: Stonefeathers**
+
+Causes [Petrify](#status-petrify) and \[Protect\]\[Status: Protect\] to self,
+ignoring M-Eva. Fully restores your own HP.
+
+**Evocation Magic: Granite Beak**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 100 | R: 4 rows | Ranged Indirect |
+| MP: 150        | E: Single | Target H: 4     |
+|                |           | Effect E/V: 1/1 |
+
+Physical Attack, Unaspected, dealing Level \* Strength \* 0.4 Damage. Ignores
+P-Def.
 
 **Summoning Magick: Petrifying Beak**
 
@@ -17303,6 +17429,40 @@ Magical Attack, Unaspected, dealing Level \* Intellect \* 0.4 Damage. Also
 attempts to cause [Petrify](#status-petrify).
 
 ### Mindflayer
+
+**Dominant Form**
+
+-   Double M-Eva against status conditions
+
+**Egi-Form**
+
+-   Half HP
+-   Half P-Def
+-   Double M-Eva against status conditions
+-   Outgoing After-Armor Damage is halved
+
+**Esper Action: Brain Licking**
+
+| Cost | Mapless   | Map             |
+|------|-----------|-----------------|
+| None | R: 4 rows | Ranged Direct   |
+|      | E: Single | Target H: 4     |
+|      |           | Effect E/V: 1/1 |
+
+Removes one mental status condition of the target’s choice from the target. E.g.
+[Addle](#status-addle), [Berserk](#status-berserk), [Charm](#status-charm),
+[Confuse](#status-confuse), [Stun](#status-stun), etc.
+
+**Evocation Magick: Mind Eat**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 100 | R: 4 rows | Ranged Indirect |
+| MP: 180        | E: Single | Target H: 4     |
+|                |           | Effect E/V: 1/1 |
+
+Magical Attack, Unaspected, dealing Level \* Intellect \* 0.6 Damage. The damage
+is dealt to MP rather than HP.
 
 **Summoning Magick: Mind Blast**
 
@@ -17325,6 +17485,7 @@ attempts to cause [Addle](#status-addle).
 
 -   Half HP
 -   Half P-Def
+-   Outgoing After-Armor Damage is halved
 
 **Esper Action: Moogle Express**
 
@@ -17347,6 +17508,7 @@ Restores Level \* Wisdom \* 0.4 HP to all allies in the area.
 **Dominant Form**
 
 -   Always has \[Float\]\[Status: Float\]
+-   Half P-Def
 
 **Egi-Form**
 

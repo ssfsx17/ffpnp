@@ -5,13 +5,12 @@
 | Action         | Reaction   | Support    | Move |
 | ---            | ---        | ---        | ---  |
 | Attack         | 1 x Choice | 1 x Choice | Mapless: 4
-| Charge Up      |            |            | Move: 4
-| Defend         |            |            | Jump: 3
-| **[Gambling]** |            |            |
+| Default        |            |            | Move: 4
+| **[Gambling]** |            |            | Jump: 3
 | 1 x Choice     |            |            |
 | Item           |            |            |
 
-- **Action: Gambling:** Games of betting, luck and chance for questionable rewards. The potential gains are great, but you can also lose everything. The game group is not obligated to wait for full Gambling actions to play out, because some of them can take a considerable amount of time (especially _Chess With Death_). Also beware that some may involve real money (e.g. _Gachapon Pull_).
+- **Action: Gambling:** Games of betting, luck and chance for questionable rewards. The potential gains are great, but you can also lose everything. The game group is not obligated to wait for full Gambling actions to play out, because some of them can take a considerable amount of time (especially _Chess With Death_). Also beware that some may involve real money (e.g. _Gachapon Capsule_).
 
 | Weapon Proficiency | Armor Proficiency |
 | ---                | ---               |

@@ -6,14 +6,13 @@
 
 - [Festivalist] - [Black Mage] 20, _Jongleur_ 20
 
-| Action    | Reaction           | Support    | Move |
-| ---       | ---                | ---        | ---  |
-| Attack    | **Return Fire**    | 1 x Choice | Mapless: 4
-| Charge Up | **Sticky Fingers** |            | Move: 4
-| Defend    | 1 x Choice         |            | Jump: 4
-| **[Acrobatics]** |             |            | **Dangerous Balance**
-| 1 x Choice |                   |            | 1 x Choice
-| Item       |                   |            |
+| Action           | Reaction           | Support    | Move |
+| ---              | ---                | ---        | ---  |
+| Attack           | **Return Fire**    | 1 x Choice | Mapless: 4
+| Default          | **Sticky Fingers** |            | Move: 4
+| **[Acrobatics]** | 1 x Choice         |            | Jump: 4
+| 1 x Choice       |                    |            | **Dangerous Balance**
+| Item             |                    |            | 1 x Choice
 
 - **Action: Acrobatics:** Jesting, japery and jaunting of the highest order.
 - **Reaction: Return Fire (TP: 150):** Upon being targeted by a ranged attack, increase your P-Eva by 25%. If the ranged attack is a Glancing Hit or worse against you, then you catch the projectile that was used and immediately do the same ranged attack back at the original attacker.
@@ -204,7 +203,7 @@ Magical technique that attempts to cause [Charm][Status: Charm] status.
 | ---     |
 | TP: 200 |
 
-Defend action that also puts you into a Fastroll state. While in a Fastroll state, you have double P-Eva against the next incoming attack. If this occurs, then you also move 1 square or change rows, then end Fastroll state.
+_Default_ action that also puts you into a Fastroll state. While in a Fastroll state, you have double P-Eva against the next incoming attack. If this occurs, then you also move 1 square or change rows, then end Fastroll state.
 
 #### Jongleur 80
 

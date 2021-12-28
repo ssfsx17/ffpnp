@@ -173,8 +173,11 @@
 <li><a href="#battle-attributes">Battle Attributes</a></li>
 <li><a href="#statistics">Statistics</a></li>
 <li><a href="#initiative-roll">Initiative Roll</a></li>
+<li><a href="#jobs">Jobs</a>
+<ul>
 <li><a href="#starting-civilian-jobs">Starting Civilian Jobs</a></li>
 <li><a href="#starting-combat-jobs">Starting Combat Jobs</a></li>
+</ul></li>
 <li><a href="#starting-items-and-equipment">Starting Items and Equipment</a></li>
 <li><a href="#special-traits">Special Traits</a></li>
 <li><a href="#what-jobs-should-i-aim-for">What Jobs Should I Aim For?</a></li>
@@ -189,7 +192,8 @@
 <li><a href="#equipment">Equipment</a>
 <ul>
 <li><a href="#equipment-slots">Equipment Slots</a></li>
-<li><a href="#proficiency-types">Proficiency Types</a></li>
+<li><a href="#armor">Armor</a>
+<ul>
 <li><a href="#tools-and-shields">Tools and Shields</a></li>
 <li><a href="#head-equipment">Head Equipment</a></li>
 <li><a href="#body-equipment">Body Equipment</a></li>
@@ -197,6 +201,7 @@
 <li><a href="#legs-equipment">Legs Equipment</a></li>
 <li><a href="#feet-equipment">Feet Equipment</a></li>
 <li><a href="#ears-equipment">Ears Equipment</a></li>
+</ul></li>
 <li><a href="#weapons">Weapons</a>
 <ul>
 <li><a href="#melee-weapons">Melee Weapons</a></li>
@@ -222,8 +227,7 @@
 <ul>
 <li><a href="#movement">Movement</a></li>
 <li><a href="#attack">Attack</a></li>
-<li><a href="#charge-up">Charge Up</a></li>
-<li><a href="#defend">Defend</a></li>
+<li><a href="#default">Default</a></li>
 <li><a href="#item">Item</a></li>
 </ul></li>
 <li><a href="#status-phase">Status Phase</a></li>
@@ -283,6 +287,7 @@
 <li><a href="#status-divination">Status: Divination</a></li>
 <li><a href="#status-dohters-charity">Status: Dohter’s Charity</a></li>
 <li><a href="#status-doom">Status: Doom</a></li>
+<li><a href="#status-element-absorption">Status: Element Absorption</a></li>
 <li><a href="#status-embolden">Status: Embolden</a></li>
 <li><a href="#status-exaltation">Status: Exaltation</a></li>
 <li><a href="#status-excogitation">Status: Excogitation</a></li>
@@ -741,9 +746,9 @@
 <p>This is not the first attempt to write a role-playing game based on the Final Fantasy franchise, nor will it be the last. In fact it is quite good for hobbyist scenes when more people get into them and make their own take, so that everyone in the scene can learn from each other and change their own ideas of perfection. Considering how large the franchise is, it would be more worrying if people somehow did <em>not</em> have varying opinions.</p>
 <p>The key points of difference are listed below:</p>
 <ul>
-<li>The number scale of the Final Fantasy video games, rather than the Seiken Densetsu or Chrono Trigger games. Why settle for 999 HP when you can have 9999 HP! This does, however, cause removal of dice rolling in most other aspects of the game.</li>
+<li>The number scale of the Final Fantasy video games, rather than the Seiken Densetsu or Chrono Trigger games. Why settle for 999 HP when you can have 99,999 HP! This does, however, cause removal of dice rolling in most other aspects of the game.</li>
 <li>The Job system is taken primarily from games that have changeable jobs and dresspheres. This means there will be weaker starting jobs and stronger unlockable jobs. The late game purposely involves powerful combinations of abilities.</li>
-<li>No skill system. Instead, relevant Job levels are added together for skill checks.</li>
+<li>No skill system. Instead, relevant Job levels are used for skill checks.</li>
 <li>Maximalist approach. Inclusion of jobs and abilities is preferred compared to exclusion.</li>
 </ul>
 <h1 id="player-characters">Player Characters</h1>
@@ -762,6 +767,25 @@
 </ol>
 <h2 id="three-things">Three Things</h2>
 <p>Write three things that make your character unique. They can encompass personal history, relation to the world, physical appearance, or anything else that sets your character apart.</p>
+<p>Examples of things to write about your character:</p>
+<ul>
+<li>“He washed up on a beach with no memories.”</li>
+<li>“Her home was invaded by the Evil Empire, and her brother went missing.”</li>
+<li>“He fell into a cave and heard a voice telling him to save the world.”</li>
+<li>“He doubts the motives of his king.”</li>
+<li>“She is a woman who dresses as a man to maintain the respect of her peers. Such is the environment she survives in.”</li>
+<li>“She was enslaved by an insane magical clown, until a traumatic event freed her.”</li>
+<li>“The last thing he remembers is being a member of an elite organization and trying to stop an insane sword-wielding maniac.”</li>
+<li>“She guards the princess with her life, as is her ordained duty.”</li>
+<li>“After a failed relationship, she decides to see if her ex-boyfriend’s rival is a decent man.”</li>
+<li>“Her home environment was far too stifling and controlling, so she escaped.”</li>
+<li>“He was attacked by a flying gigantic creature that sent him into another world.”</li>
+<li>“She got fed up with lacking a <a href="#white-mage">White Mage</a> for her party, so she decided to learn how to become one.”</li>
+<li>“He willingly took the blame for the assassination of the king, believing this would avert an even worse war. The real assassin was someone close to him.”</li>
+<li>“Her sister was kidnapped for some purpose known only to the gods.”</li>
+<li>“She heard the soul of the planet calling out to her to hear, feel, and think.”</li>
+<li>“He is the heir to the throne, yet the evil empire threatens to destroy his homeland.”</li>
+</ul>
 <h2 id="experience-level">Experience Level</h2>
 <p>Experience Level (LVL) is a significant factor in many calculations. As a general rule, Player Characters gain one, two or three Experience Levels (LVL) per game session, depending on the pace desired by the group.</p>
 <h2 id="battle-attributes">Battle Attributes</h2>
@@ -924,9 +948,12 @@
 </table>
 <h2 id="initiative-roll">Initiative Roll</h2>
 <p>Initiative Roll = 1d100 + Experience Level + Speed - Excess Weight</p>
-<h2 id="starting-civilian-jobs">Starting Civilian Jobs</h2>
+<p>If Excess Weight is too high then you will end up suffering from Charge Time on every single round.</p>
+<h2 id="jobs">Jobs</h2>
+<p>Jobs are magical concepts that confer supernatural abilities to whoever wears them. They magically-alter your clothing and other superficial traits to fit. For example, if you change into the <a href="#red-mage">Red Mage</a> Job, you will suddenly have a red feathered hat and cape.</p>
+<h3 id="starting-civilian-jobs">Starting Civilian Jobs</h3>
 <p>Choose two different Civilian Jobs to start at Job Level 20. All other Civilian Jobs are initially unlearned.</p>
-<h2 id="starting-combat-jobs">Starting Combat Jobs</h2>
+<h3 id="starting-combat-jobs">Starting Combat Jobs</h3>
 <p><a href="#chemist">Chemist</a>, <a href="#freelancer">Freelancer</a> and <a href="#squire">Squire</a> start at Job Level 1. Then, choose either <a href="#chemist">Chemist</a> or <a href="#squire">Squire</a> to start at Job Level 10 instead.</p>
 <h2 id="starting-items-and-equipment">Starting Items and Equipment</h2>
 <p>1 full set of gathering gear of Item Level 1</p>
@@ -942,9 +969,54 @@
 <p><strong>Awakening</strong> - You have a number of rounds of Awakening energy equal to 1/10th of your Experience Level, rounded down, to a minimum of 1 round. You can spend an action to enter or cease Awakening. While in Awakening, your Strength, Vitality, and Agility are doubled. You refresh your Awakening energy after a Long Rest.</p>
 <p><strong>Civilian Experience</strong> - You start with ten different Civilian Jobs at Job Level 20, rather than two.</p>
 <p><strong>Desperation Attack</strong> - While your Current HP is less than one-fourth of your Maximum HP, your normal Attacks have a 10% chance to be a Desperation Attack instead. Desperation Attacks target all enemies, and are Direct Critical Hits.</p>
-<p><strong>Job Training: Specific Job</strong> - You start at Job Level 1 in one job of choice. You must meet its requirements to gain additional Job Levels in it.</p>
+<p><strong>Job Training: Specific Job</strong> - You start at Job Level 1 in one job of choice. You must meet its requirements to gain additional Job Levels in it. While wearing the <a href="#freelancer">Freelancer</a> Job, you may have additional clothing and other superficial traits relating to your specially-trained job as well.</p>
+<p><strong>Monster</strong> - You can replace your body parts with those of defeated creatures. After every battle, you choose one part to put onto yourself. This part replaces one of your equipment slots, and in exchange, overrides one of your Battle Attributes with that creature’s attribute number, or overrides one of your Statistics with that creature’s statistic number. You can no longer wear equipment on that slot. You have access to one signature ability of that creature for each body part replaced.</p>
 <p><strong>Morph</strong> - You have a number of rounds of Morph energy equal to 1/10th of your Experience Level, rounded down, to a minimum of 1 round. You can spend an action to enter or cease Morph. While Morphed, your Strength, Intellect, and Spirit are doubled. You refresh your Morph energy after a long rest.</p>
 <p><strong>Mystic</strong> - One of your equipment slots is permanently replaced by a Mystic Body Part. You can bind up to three creatures to your Mystic Body Part, allowing you to tap into their Job experience or use their unique non-Job abilities. If binding a creature for its Job experience, then you specifically bind one of its Jobs, and gain access to the Job Level that the creature had. If binding a creature for its unique abilities, then you specifically bind one ability which you can then use at any time. In order to bind a creature, you must defeat it with a regular Attack action while also declaring that it is a Mystic Binding attempt.</p>
+<p><strong>Robot</strong> - Your Battle Attributes are halved. In exchange, your equipment increases your attributes, as follows:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Equipment</th>
+<th>Robot Mod</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tool/Shield</td>
+<td>Adds Weight to Agility &amp; Mind</td>
+</tr>
+<tr class="even">
+<td>Head</td>
+<td>Adds Weight to Wisdom &amp; Spirit</td>
+</tr>
+<tr class="odd">
+<td>Body</td>
+<td>Adds Weight to Vitality &amp; Stamina</td>
+</tr>
+<tr class="even">
+<td>Arms</td>
+<td>Adds Weight to Dexterity &amp; Tenacity</td>
+</tr>
+<tr class="odd">
+<td>Legs</td>
+<td>Adds Weight to Agility &amp; Speed</td>
+</tr>
+<tr class="even">
+<td>Feet</td>
+<td>Adds Weight to Mind &amp; Speed</td>
+</tr>
+<tr class="odd">
+<td>Ears</td>
+<td>Adds Weight to Intellect &amp; Determination</td>
+</tr>
+<tr class="even">
+<td>Weapon</td>
+<td>Adds Weight * 2 to attribute of weapon’s damage type</td>
+</tr>
+</tbody>
+</table>
+<p>This is in addition to the other attribute &amp; stat modifiers from equipment that would also affect non-robots.</p>
 <p><strong>Two-Hour Ability</strong> - Once per two hours, you can spend an action to activate your Two-Hour Ability. This cuts the MP and TP costs of actions from your current Job in half, for a duration of 4 status phases. This does not affect any other abilities you are capable of, only those from your current Job.</p>
 <p><strong>Undead</strong> - You permanently have <a href="#status-zombie">Zombie status</a>. In exchange, whenever you are defeated, you automatically pop up at 1 HP after 4 status phases.</p>
 <h2 id="what-jobs-should-i-aim-for">What Jobs Should I Aim For?</h2>
@@ -2022,7 +2094,7 @@
 <li>Relic 1</li>
 <li>Relic 2</li>
 </ul>
-<h2 id="proficiency-types">Proficiency Types</h2>
+<h2 id="armor">Armor</h2>
 <table>
 <colgroup>
 <col style="width: 50%" />
@@ -2085,7 +2157,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="tools-and-shields">Tools and Shields</h2>
+<h3 id="tools-and-shields">Tools and Shields</h3>
 <table style="width:100%;">
 <colgroup>
 <col style="width: 14%" />
@@ -2218,7 +2290,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="head-equipment">Head Equipment</h2>
+<h3 id="head-equipment">Head Equipment</h3>
 <table>
 <thead>
 <tr class="header">
@@ -2303,7 +2375,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="body-equipment">Body Equipment</h2>
+<h3 id="body-equipment">Body Equipment</h3>
 <table>
 <thead>
 <tr class="header">
@@ -2388,7 +2460,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="arms-equipment">Arms Equipment</h2>
+<h3 id="arms-equipment">Arms Equipment</h3>
 <table>
 <thead>
 <tr class="header">
@@ -2460,7 +2532,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="legs-equipment">Legs Equipment</h2>
+<h3 id="legs-equipment">Legs Equipment</h3>
 <table>
 <thead>
 <tr class="header">
@@ -2532,7 +2604,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="feet-equipment">Feet Equipment</h2>
+<h3 id="feet-equipment">Feet Equipment</h3>
 <table>
 <thead>
 <tr class="header">
@@ -2604,7 +2676,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="ears-equipment">Ears Equipment</h2>
+<h3 id="ears-equipment">Ears Equipment</h3>
 <table>
 <thead>
 <tr class="header">
@@ -2965,7 +3037,7 @@
 <td>ILVL * 0.40</td>
 <td>40</td>
 <td>Physical</td>
-<td></td>
+<td>Adds ILVL * 2 to P-Eva</td>
 </tr>
 </tbody>
 </table>
@@ -4306,15 +4378,14 @@
 <h4 id="gravitydeath-attacks">Gravity/Death Attacks</h4>
 <p>Gravity/Death attacks automatically have their Accuracy Class decreased by 1. They are consequently unable to do Direct Critical Hits.</p>
 <p>Plot Armor Enemies decrease the Accuracy Class by 1 more, so they cannot take Direct Hits from Gravity/Death attacks. Furthermore, they halve all damage from Gravity/Death attacks. Instant death is converted to an amount of damage equal to 10% of maximum HP.</p>
-<h3 id="charge-up">Charge Up</h3>
-<p>Restores HP, MP and TP to yourself as follows:</p>
+<h3 id="default">Default</h3>
+<p>You enter a defensive stance until your next turn. Your P-Eva, P-Def, M-Eva, and M-Def are all increased by 50% from your front.</p>
+<p>Also restores HP, MP and TP to yourself as follows:</p>
 <ul>
 <li>HP restoration = Stamina</li>
 <li>MP restoration = 1 + (Spirit * 0.1)</li>
 <li>TP restoration = Determination</li>
 </ul>
-<h3 id="defend">Defend</h3>
-<p>You enter a defensive stance until your next turn. Your P-Eva, P-Def, M-Eva, and M-Def are all increased by 50% from your front.</p>
 <h3 id="item">Item</h3>
 <p>Uses an item in order to apply its effect.</p>
 <p>In map combat, you normally can only use an item on a square-side-adjacent target.</p>
@@ -4336,7 +4407,7 @@
 <h3 id="status-atheist">Status: Atheist</h3>
 <p>Both incoming and outgoing Magical damage is decreased by 25%.</p>
 <h3 id="status-asylum">Status: Asylum</h3>
-<p>Restores HP during the status phase. The amount restored is equal to 10% of your maximum HP.</p>
+<p>Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.1</p>
 <h3 id="status-berserk">Status: Berserk</h3>
 <p>You are compelled to do nothing but run at the nearest enemy and perform normal Attack actions. Your physical damage output is increased by 25%.</p>
 <p>Plot Armor Enemies are only compelled to behave this way for their first action per turn.</p>
@@ -4402,7 +4473,7 @@
 <h3 id="status-circle-of-scorn">Status: Circle of Scorn</h3>
 <p>Causes Physical damage during the status phase. The damage is equal to 10% of your maximum HP.</p>
 <h3 id="status-collective-unconscious">Status: Collective Unconscious</h3>
-<p>Restores HP during the status phase. The amount restored is equal to 5% of your maximum HP. You also take 10% less damage.</p>
+<p>Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.05. You also take 10% less damage.</p>
 <h3 id="status-combust">Status: Combust</h3>
 <p>Causes Unaspected damage during the status phase. The damage is equal to 5% of your maximum HP.</p>
 <h3 id="status-combustra">Status: Combustra</h3>
@@ -4428,19 +4499,21 @@
 <p>You are unable to act or use your arms.</p>
 <p>Plot Armor Enemies instead only lose one of their actions per turn.</p>
 <h3 id="status-diurnal-benefic">Status: Diurnal Benefic</h3>
-<p>Restores HP during the status phase. The amount restored is equal to 5% of your maximum HP.</p>
+<p>Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.05</p>
 <h3 id="status-diurnal-celestial-opposition">Status: Diurnal Celestial Opposition</h3>
-<p>Restores HP during the status phase. The amount restored is equal to 10% of your maximum HP.</p>
+<p>Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.1</p>
 <h3 id="status-diurnal-helios">Status: Diurnal Helios</h3>
-<p>Restores HP during the status phase. The amount restored is equal to 5% of your maximum HP.</p>
+<p>Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.05</p>
 <h3 id="status-diurnal-sect">Status: Diurnal Sect</h3>
-<p>Restores HP during the status phase. The amount restored is equal to 5% of your maximum HP.</p>
+<p>Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.05</p>
 <h3 id="status-divination">Status: Divination</h3>
 <p>Your damage output is increased by 10%.</p>
 <h3 id="status-dohters-charity">Status: Dohter’s Charity</h3>
 <p>This status is linked to a specific item. During the status phase, the item’s effect is applied to you.</p>
 <h3 id="status-doom">Status: Doom</h3>
 <p>You gain 1 Doom Point during the status phase.</p>
+<h3 id="status-element-absorption">Status: Element Absorption</h3>
+<p>Each instance of this status is linked to a specific element. “Physical” and “Unaspected” absorption are not possible. You absorb the linked element, rather than taking damage from it.</p>
 <h3 id="status-embolden">Status: Embolden</h3>
 <p>Your damage output is increased by 10%.</p>
 <h3 id="status-exaltation">Status: Exaltation</h3>
@@ -4499,15 +4572,15 @@
 <h3 id="status-lock">Status: Lock</h3>
 <p>Your P-Eva and M-Eva are halved against single-target techniques.</p>
 <h3 id="status-lucid-dreaming">Status: Lucid Dreaming</h3>
-<p>Restores MP during the status phase. The amount restored is equal to 1% of your maximum MP.</p>
+<p>Restores MP during the status phase. The amount restored is equal to your Level * Spirit * 0.05</p>
 <h3 id="status-macrocosmos">Status: Macrocosmos</h3>
 <p>For all damage that you take, you regain an amount of HP equal to 25% of that damage afterwards.</p>
 <h3 id="status-medica-regen">Status: Medica Regen</h3>
-<p>Restores HP during the status phase. The amount restored is equal to 10% of your maximum HP.</p>
+<p>Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.1</p>
 <h3 id="status-medicaga-regen">Status: Medicaga Regen</h3>
-<p>Restores HP during the status phase. The amount restored is equal to 20% of your maximum HP.</p>
+<p>Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.2</p>
 <h3 id="status-meditation">Status: Meditation</h3>
-<p>Restores MP during the status phase. The amount restored is equal to 1% of your maximum MP.</p>
+<p>Restores MP during the status phase. The amount restored is equal to your Level * Spirit * 0.05</p>
 <h3 id="status-miasma">Status: Miasma</h3>
 <p>Causes Poison-aspected damage during the status phase. The damage is equal to 10% of your maximum HP.</p>
 <h3 id="status-miasmara">Status: Miasmara</h3>
@@ -4541,7 +4614,7 @@
 <p>You are unable to act or move. Earth-Aspected Damage heals you rather than harms you. Your P-Def is doubled.</p>
 <p>Plot Armor Enemies only lose one of their actions per turn.</p>
 <h3 id="status-phoenix-regen">Status: Phoenix Regen</h3>
-<p>Restores HP during the status phase. The amount restored is equal to 10% of your maximum HP.</p>
+<p>Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.1</p>
 <h3 id="status-pig">Status: Pig</h3>
 <p>You are unable to do TP-using or MP-using actions, unless they will remove Pig from yourself.</p>
 <h3 id="status-plenary-indulgence">Status: Plenary Indulgence</h3>
@@ -4562,11 +4635,11 @@
 <p>You are erased from the current timeline. If you remove this status somehow, then you will most likely be slammed into a time paradox, or shifted into a different timeline.</p>
 <p>Plot Armor Enemies instead take an amount of damage equal to 10% of their maximum HP, and end this status afterwards.</p>
 <h3 id="status-regen">Status: Regen</h3>
-<p>Restores HP during the status phase. The amount restored is equal to 5% of your maximum HP.</p>
+<p>Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.05</p>
 <h3 id="status-regenga">Status: Regenga</h3>
-<p>Restores HP during the status phase. The amount restored is equal to 10% of your maximum HP.</p>
+<p>Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.1</p>
 <h3 id="status-regenja">Status: Regenja</h3>
-<p>Restores HP during the status phase. The amount restored is equal to 15% of your maximum HP.</p>
+<p>Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.15</p>
 <h3 id="status-reprisal">Status: Reprisal</h3>
 <p>Your damage output is decreased by 10%.</p>
 <h3 id="status-requiescat">Status: Requiescat</h3>
@@ -4702,30 +4775,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td><strong>Arcanist School Pacts</strong></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#arcane-magick">Arcane Magick</a></strong></td>
 <td></td>
 <td>1 x Choice</td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#arcane-magick">Arcane Magick</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -5442,30 +5509,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td><strong>Archer’s Bane</strong></td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#archery">Archery</a></strong></td>
 <td>1 x Choice</td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#archery">Archery</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -6025,36 +6086,30 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td><strong>JLVL 60: Soulbind</strong></td>
 <td></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#arithmeticks">Arithmeticks</a></strong></td>
 <td>1 x Choice</td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#arithmeticks">Arithmeticks</a></strong></td>
+<td>1 x Magick Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Magick Choice</td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -6438,30 +6493,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td><strong>Prescience</strong></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#astrological-magick">Astrological Magick</a></strong></td>
 <td></td>
 <td>1 x Choice</td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#astrological-magick">Astrological Magick</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -7681,7 +7730,7 @@
 </tr>
 </tbody>
 </table>
-<p>Against all enemies in the area, this acts as a Magical Attack, Unaspecting, dealing Level * Intellect * 0.6 Damage. For all allies in the area, this grants <a href="#status-macrocosmos">Macrocosmos</a> status for 4 status phases.</p>
+<p>Against all enemies in the area, this acts as a Magical Attack, Unaspected, dealing Level * Intellect * 0.6 Damage. For all allies in the area, this grants <a href="#status-macrocosmos">Macrocosmos</a> status for 4 status phases.</p>
 <h4 id="astrologian-99">Astrologian 99</h4>
 <p><strong>Celestial Stasis</strong></p>
 <table>
@@ -7717,31 +7766,31 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#bardsong">Bardsong</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#bardsong">Bardsong</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td><strong>JLVL 60: Move +3</strong></td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
+<td>Item</td>
 <td></td>
 <td></td>
 <td><strong>JLVL 80: Fly</strong></td>
 </tr>
 <tr class="even">
-<td>Item</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
@@ -8025,30 +8074,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#black-magick">Black Magick</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#black-magick">Black Magick</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -9280,30 +9323,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td><strong>Cooking</strong></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#blue-magick">Blue Magick</a></strong></td>
 <td></td>
 <td>1 x Choice</td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#blue-magick">Blue Magick</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -10831,30 +10868,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td><strong>Throw Items</strong></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#chemistry">Chemistry</a></strong></td>
 <td></td>
 <td>JLVL 80: <strong>Item Lore</strong></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#chemistry">Chemistry</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td>1 x Choice</td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -11192,30 +11223,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#chococraft">Chococraft</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#chococraft">Chococraft</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -11756,30 +11781,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td><strong>Surecast</strong></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#conjuration-magick">Conjuration Magick</a></strong></td>
 <td></td>
 <td>1 x Choice</td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#conjuration-magick">Conjuration Magick</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -13032,7 +13051,7 @@
 </tr>
 </tbody>
 </table>
-<p>Fully revives and restores HP for all allies on the battlefield. Then, restores Level * Spirit * 0.1 MP for all allies for all allies on the battlefield.</p>
+<p>Fully revives and restores HP for all allies on the battlefield. Then, restores Level * Spirit * 0.1 MP for all allies on the battlefield.</p>
 <h2 id="dancer">Dancer</h2>
 <p><strong>Requires:</strong> <a href="#dragoon">Dragoon</a> 50, <a href="#geomancer">Geomancer</a> 50</p>
 <p><strong>Leads to:</strong> None</p>
@@ -13053,34 +13072,28 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#kriegstanz">Kriegstanz</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#kriegstanz">Kriegstanz</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td><strong>JLVL 60: Jump +3</strong></td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td>1 x Choice</td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
-<td></td>
+<td>1 x Choice</td>
 </tr>
 </tbody>
 </table>
@@ -13254,30 +13267,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td><strong>HP Boost</strong></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#darkness-weapon">Darkness Weapon</a></strong></td>
 <td></td>
 <td><strong>Vehemence</strong></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#darkness-weapon">Darkness Weapon</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td>1 x Choice</td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -13997,48 +14004,42 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>2 x Choice</td>
 <td></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><a href="#conjuration-magick">Conjuration Magick</a></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><a href="#conjuration-magick">Conjuration Magick</a></td>
+<td><a href="#mystic-magick">Mystic Magick</a></td>
 <td></td>
 <td></td>
 <td>2 x Choice</td>
 </tr>
 <tr class="odd">
-<td><a href="#mystic-magick">Mystic Magick</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><a href="#white-magick">White Magick</a></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Pray</strong></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>1 x Choice</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -14132,34 +14133,28 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#dragonsoul">Dragonsoul</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 4</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#dragonsoul">Dragonsoul</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td><strong>JLVL 60: Ignore Elevation</strong></td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td>1 x Choice</td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
-<td></td>
+<td>1 x Choice</td>
 </tr>
 </tbody>
 </table>
@@ -14832,36 +14827,30 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><a href="#arcane-magick">Arcane Magick</a></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><a href="#arcane-magick">Arcane Magick</a></td>
+<td><strong>Evocation Magick</strong></td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td><strong>Evocation Magick</strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -14948,30 +14937,24 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td></td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#fencing">Fencing</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#fencing">Fencing</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -15051,7 +15034,7 @@
 </tr>
 </tbody>
 </table>
-<p>Defend action. While in this state, the next time an enemy misses an attack against you, you attack back at double P-Acc.</p>
+<p>Action with the same effect as <em>Default</em>. Additionally, while in this state, the next time an enemy misses an attack against you, you attack back at double P-Acc.</p>
 <p><strong>Swarmstrike</strong></p>
 <table>
 <thead>
@@ -15412,30 +15395,24 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td>1 x Choice</td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#festivities">Festivities</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#festivities">Festivities</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -16329,28 +16306,22 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td>2 x Choice</td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td>2 x Choice</td>
-<td></td>
-<td></td>
-<td>10 x Choice</td>
-</tr>
-<tr class="odd">
 <td>Item</td>
 <td></td>
 <td></td>
-<td></td>
+<td>10 x Choice</td>
 </tr>
 </tbody>
 </table>
@@ -16408,30 +16379,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#gunmanship">Gunmanship</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#gunmanship">Gunmanship</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -16911,30 +16876,24 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td></td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#gambling">Gambling</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#gambling">Gambling</a></strong></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td>1 x Choice</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -16943,7 +16902,7 @@
 </tbody>
 </table>
 <ul>
-<li><strong>Action: Gambling:</strong> Games of betting, luck and chance for questionable rewards. The potential gains are great, but you can also lose everything. The game group is not obligated to wait for full Gambling actions to play out, because some of them can take a considerable amount of time (especially <em>Chess With Death</em>). Also beware that some may involve real money (e.g. <em>Gachapon Pull</em>).</li>
+<li><strong>Action: Gambling:</strong> Games of betting, luck and chance for questionable rewards. The potential gains are great, but you can also lose everything. The game group is not obligated to wait for full Gambling actions to play out, because some of them can take a considerable amount of time (especially <em>Chess With Death</em>). Also beware that some may involve real money (e.g. <em>Gachapon Capsule</em>).</li>
 </ul>
 <table>
 <thead>
@@ -17693,34 +17652,28 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td>1 x Choice</td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#geomancy">Geomancy</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#geomancy">Geomancy</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td><strong>Ignore Terrain</strong></td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td>1 x Choice</td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
-<td></td>
+<td>1 x Choice</td>
 </tr>
 </tbody>
 </table>
@@ -19661,30 +19614,24 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td><strong>Shield Force</strong></td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#sparring">Sparring</a></strong></td>
 <td></td>
 <td>1 x Choice</td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#sparring">Sparring</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -19798,7 +19745,7 @@
 </tr>
 </tbody>
 </table>
-<p>Attack. You regain an amount of MP equal to your Level.</p>
+<p>Attack. You regain an amount of MP equal to your Level * Spirit * 0.01.</p>
 <p><strong>Shield Charge</strong></p>
 <table>
 <thead>
@@ -19933,7 +19880,7 @@
 </tr>
 </tbody>
 </table>
-<p>Attack. You gain 1 Shield Force point and an amount of MP equal to your Level.</p>
+<p>Attack. You gain 1 Shield Force point and an amount of MP equal to your Level * Spirit * 0.05.</p>
 <h4 id="gladiator-40">Gladiator 40</h4>
 <p><strong>Prominence</strong></p>
 <table>
@@ -19962,7 +19909,7 @@
 </tr>
 </tbody>
 </table>
-<p>Project your attack into all enemies in the area. After-Armor Damage is halved. You gain 1 <a href="#enmity">Enmity</a> point for each enemy hit. You also gain an amount of MP equal to your Level.</p>
+<p>Project your attack into all enemies in the area. After-Armor Damage is halved. You gain 1 <a href="#enmity">Enmity</a> point for each enemy hit. You also gain an amount of MP equal to your Level * Spirit * 0.05.</p>
 <h4 id="gladiator-50">Gladiator 50</h4>
 <p><strong>Circle of Scorn</strong></p>
 <table>
@@ -20136,30 +20083,24 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td><strong>Trigger Timing</strong></td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#charged-weapon">Charged Weapon</a></strong></td>
 <td></td>
 <td>1 x Choice</td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#charged-weapon">Charged Weapon</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -20259,34 +20200,28 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td><strong>Sticky Fingers</strong></td>
 <td></td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#acrobatics">Acrobatics</a></strong></td>
 <td>1 x Choice</td>
 <td></td>
 <td>Jump: 4</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#acrobatics">Acrobatics</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td><strong>Dangerous Balance</strong></td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td>1 x Choice</td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
-<td></td>
+<td>1 x Choice</td>
 </tr>
 </tbody>
 </table>
@@ -20775,7 +20710,7 @@
 </tr>
 </tbody>
 </table>
-<p>Defend action that also puts you into a Fastroll state. While in a Fastroll state, you have double P-Eva against the next incoming attack. If this occurs, then you also move 1 square or change rows, then end Fastroll state.</p>
+<p><em>Default</em> action that also puts you into a Fastroll state. While in a Fastroll state, you have double P-Eva against the next incoming attack. If this occurs, then you also move 1 square or change rows, then end Fastroll state.</p>
 <h4 id="jongleur-80">Jongleur 80</h4>
 <p><strong>Dolphin Charge</strong></p>
 <table>
@@ -20924,30 +20859,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td><strong>Parry</strong></td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#arts-of-war">Arts of War</a></strong></td>
 <td>1 x Choice</td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#arts-of-war">Arts of War</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -21453,30 +21382,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#power-tools">Power Tools</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#power-tools">Power Tools</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -21969,30 +21892,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#magitek-systems">Magitek Systems</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#magitek-systems">Magitek Systems</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -22526,42 +22443,36 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td>2x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><a href="#arcane-magick">Arcane Magick</a></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><a href="#arcane-magick">Arcane Magick</a></td>
+<td><a href="#black-magick">Black Magick</a></td>
 <td></td>
 <td></td>
 <td>2 x Choice</td>
 </tr>
 <tr class="odd">
-<td><a href="#black-magick">Black Magick</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><a href="#thaumaturgical-magick">Thaumaturgical Magick</a></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1 x Choice</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -22641,30 +22552,24 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td><strong>Gil Snapper</strong></td>
 <td></td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#marauding">Marauding</a></strong></td>
 <td>1 x Choice</td>
 <td></td>
 <td>Jump: 4</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#marauding">Marauding</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -23221,39 +23126,33 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td><strong>First Strike</strong></td>
 <td>Brawl</td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><a href="#martial-arts">Martial Arts</a></td>
 <td>1 x Choice</td>
 <td>Chakras</td>
 <td>Jump: 4</td>
 </tr>
 <tr class="even">
-<td><a href="#martial-arts">Martial Arts</a></td>
+<td><a href="#pugilism">Pugilism</a></td>
 <td></td>
 <td>Fist Elements</td>
 <td><strong>Lifefont</strong></td>
 </tr>
 <tr class="odd">
-<td><a href="#pugilism">Pugilism</a></td>
+<td>1 x Choice</td>
 <td></td>
 <td><strong>Beast Chakras</strong></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="even">
-<td>1 x Choice</td>
-<td></td>
-<td>1 x Choice</td>
-<td></td>
-</tr>
-<tr class="odd">
 <td>Item</td>
 <td></td>
-<td></td>
+<td>1 x Choice</td>
 <td></td>
 </tr>
 </tbody>
@@ -23336,28 +23235,22 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td></td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>Jump: 4</td>
 </tr>
 <tr class="even">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td>2 x Choice</td>
-</tr>
-<tr class="odd">
 <td>Item</td>
 <td></td>
 <td></td>
-<td></td>
+<td>2 x Choice</td>
 </tr>
 </tbody>
 </table>
@@ -23428,30 +23321,24 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td><strong>Chakras</strong></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#martial-arts">Martial Arts</a></strong></td>
 <td></td>
 <td>1 x Choice</td>
 <td>Jump: 4</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#martial-arts">Martial Arts</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -23630,7 +23517,7 @@
 </tr>
 </tbody>
 </table>
-<p>Defend action. Also grants yourself [Boost Armor][Status: Boost Armor] for 4 status phases.</p>
+<p><em>Default</em> action that also grants yourself [Boost Armor][Status: Boost Armor] for 2 status phases.</p>
 <p><strong>Pummel</strong></p>
 <p>Perform a melee attack. Roll a cubic die (also known as a “d6”). On a 1 or 2, the After-Armor Damage is halved. On a 5 or 6, the After-Armor Damage is doubled.</p>
 <h4 id="monk-30">Monk 30</h4>
@@ -24015,31 +23902,31 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#mystic-magick">Mystic Magick</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#mystic-magick">Mystic Magick</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td><strong>Ignore Weather</strong></td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
+<td>Item</td>
 <td></td>
 <td></td>
 <td><strong>JLVL 80: Manafont</strong></td>
 </tr>
 <tr class="even">
-<td>Item</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
@@ -24724,34 +24611,28 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td><strong>Reflexes</strong></td>
 <td>1 x Choice</td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#ninjutsu">Ninjutsu</a></strong></td>
 <td>1 x Choice</td>
 <td></td>
 <td>Jump: 4</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#ninjutsu">Ninjutsu</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td><strong>Waterwalking</strong></td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td>1 x Choice</td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
-<td></td>
+<td>1 x Choice</td>
 </tr>
 </tbody>
 </table>
@@ -25614,7 +25495,7 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Defend</td>
+<td>Default</td>
 <td></td>
 <td></td>
 <td>Move: 4</td>
@@ -25686,30 +25567,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#speechcraft">Speechcraft</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#speechcraft">Speechcraft</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -26405,36 +26280,30 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#divine-weapon">Divine Weapon</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#divine-weapon">Divine Weapon</a></strong></td>
+<td><a href="#sparring">Sparring</a></td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td><a href="#sparring">Sparring</a></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -26444,7 +26313,7 @@
 </table>
 <ul>
 <li><strong>Action: Divine Weapon:</strong> Focusing the belief in your cause of protecting the many against the hoarding of the few.</li>
-<li><strong>Support: Chivalry:</strong> When you restore an ally’s HP (other than yourself), you also regain an amount of MP equal to your Level.</li>
+<li><strong>Support: Chivalry:</strong> When you restore an ally’s HP (other than yourself), you also regain an amount of MP equal to your Level * Spirit * 0.01.</li>
 </ul>
 <table>
 <thead>
@@ -27012,36 +26881,30 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong>Sketch</strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong>Sketch</strong></td>
+<td><strong>Control</strong></td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td><strong>Control</strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -27126,30 +26989,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#psionics">Psionics</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#psionics">Psionics</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -27739,30 +27596,24 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td><strong>Fist Elements</strong></td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#pugilism">Pugilism</a></strong></td>
 <td></td>
 <td>1 x Choice</td>
 <td>Jump: 4</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#pugilism">Pugilism</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -28309,42 +28160,36 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#red-magick">Red Magick</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#red-magick">Red Magick</a></strong></td>
+<td><strong>JLVL 80: Dualcast</strong></td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td><strong>JLVL 80: Dualcast</strong></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><a href="#fencing">Fencing</a></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1 x Choice</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -29436,48 +29281,42 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong>Recall</strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong>Recall</strong></td>
+<td><a href="#black-magick">Black Magick</a></td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td><a href="#black-magick">Black Magick</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><a href="#time-magick">Time Magick</a></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><a href="#white-magick">White Magick</a></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>1 x Choice</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -29561,30 +29400,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td><strong>Shirahadori</strong></td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#iaido">Iaido</a></strong></td>
 <td>1 x Choice</td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#iaido">Iaido</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -29844,7 +29677,7 @@
 </tr>
 </tbody>
 </table>
-<p>Defend action that also places you into <em>Sky Retort</em> state until your next action. While in <em>Sky Retort</em> state, after every melee attack against you, you attack back.</p>
+<p><em>Default</em> action that also places you into <em>Sky Retort</em> state until your next action. While in <em>Sky Retort</em> state, after every melee attack against you, you attack back.</p>
 <h4 id="samurai-30">Samurai 30</h4>
 <p><strong>Murasame</strong></p>
 <table>
@@ -30283,36 +30116,30 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td><strong>Scholar Fey Pacts</strong></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#scholastic-magick">Scholastic Magick</a></strong></td>
 <td></td>
 <td><strong>Faerie Dust</strong></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#scholastic-magick">Scholastic Magick</a></strong></td>
+<td><a href="#arcane-magick">Arcane Magick</a></td>
 <td></td>
 <td>1 x Choice</td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td><a href="#arcane-magick">Arcane Magick</a></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -31065,34 +30892,28 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td><strong>Blood Price</strong></td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#weapon-magick">Weapon Magick</a></strong></td>
 <td></td>
 <td><strong>JLVL 60: Auto Aspir Saber</strong></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#weapon-magick">Weapon Magick</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td>1 x Choice</td>
 <td><strong>Move +1</strong></td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td>1 x Choice</td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
-<td></td>
+<td>1 x Choice</td>
 </tr>
 </tbody>
 </table>
@@ -31205,7 +31026,7 @@
 </table>
 <p>Imbues your weapon with the power to cause <a href="#status-poison">Poison</a> on hit.</p>
 <p><strong>Runic</strong></p>
-<p>Defend action that also puts you in Runic state. While in Runic state, if you are targeted by an MP-using ability, then the ability does not occur. Instead, the MP cost of the ability is added to your current MP. Then, your Runic state ends.</p>
+<p><em>Default</em> action that also puts you in Runic state. While in Runic state, if you are targeted by an MP-using ability, then the ability does not occur. Instead, the MP cost of the ability is added to your current MP. Then, your Runic state ends.</p>
 <p><strong>Thunder Saber</strong></p>
 <table>
 <thead>
@@ -31611,34 +31432,28 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td>1 x Choice</td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#fundaments">Fundaments</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#fundaments">Fundaments</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td><strong>Move +1</strong></td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td>1 x Choice</td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
-<td></td>
+<td>1 x Choice</td>
 </tr>
 </tbody>
 </table>
@@ -32033,30 +31848,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#summoning-magick">Summoning Magick</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#summoning-magick">Summoning Magick</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -32174,31 +31983,31 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td>1 x Choice</td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#thievery">Thievery</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 4</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#thievery">Thievery</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td><strong>Move +2</strong></td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
+<td>Item</td>
 <td></td>
 <td></td>
 <td><strong>Jump +2</strong></td>
 </tr>
 <tr class="even">
-<td>Item</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
@@ -32207,7 +32016,7 @@
 </table>
 <ul>
 <li><strong>Action: Thievery</strong>: The art of stealing things from enemies in the middle of combat.</li>
-<li><strong>Reaction: Vigilance (100 TP)</strong>: Upon taking damage, you perform a Defend action.</li>
+<li><strong>Reaction: Vigilance (100 TP)</strong>: Upon taking damage, you perform a <em>Default</em> action.</li>
 <li><strong>Support: Poach</strong>: For every enemy you defeat, you restore one use of one item.</li>
 <li><strong>Move: Move +2</strong>: In mapless combat, increases your Maneuver by 1. In map combat, increases your Move by 2.</li>
 <li><strong>Move: Jump +2</strong>: In mapless combat, increases your Maneuver by 1. In map combat, increases your Jump by 2.</li>
@@ -32789,42 +32598,36 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td></td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><a href="#arts-of-war">Arts of War</a></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><a href="#arts-of-war">Arts of War</a></td>
+<td><a href="#darkness-weapon">Darkness Weapon</a></td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td><a href="#darkness-weapon">Darkness Weapon</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><a href="#divine-weapon">Divine Weapon</a></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1 x Choice</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -32914,31 +32717,31 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#time-magick">Time Magick</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#time-magick">Time Magick</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td><strong>Levitate</strong></td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
+<td>Item</td>
 <td></td>
 <td></td>
 <td><strong>JLVL 80: Teleport</strong></td>
 </tr>
 <tr class="even">
-<td>Item</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
@@ -34070,36 +33873,30 @@
 <td>Mapless: 4</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td></td>
 <td><strong>JLVL 80: Mastering the Beast</strong></td>
 <td>Move: 4</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#warbeast">Warbeast</a></strong></td>
 <td></td>
 <td>1 x Choice</td>
 <td>Jump: 4</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#warbeast">Warbeast</a></strong></td>
+<td><a href="#marauding">Marauding</a></td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td><a href="#marauding">Marauding</a></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -34498,30 +34295,24 @@
 <td>Mapless: 3</td>
 </tr>
 <tr class="even">
-<td>Charge Up</td>
+<td>Default</td>
 <td>1 x Choice</td>
 <td>1 x Choice</td>
 <td>Move: 3</td>
 </tr>
 <tr class="odd">
-<td>Defend</td>
+<td><strong><a href="#white-magick">White Magick</a></strong></td>
 <td></td>
 <td></td>
 <td>Jump: 3</td>
 </tr>
 <tr class="even">
-<td><strong><a href="#white-magick">White Magick</a></strong></td>
+<td>1 x Choice</td>
 <td></td>
 <td></td>
 <td>1 x Choice</td>
 </tr>
 <tr class="odd">
-<td>1 x Choice</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>Item</td>
 <td></td>
 <td></td>
@@ -35889,6 +35680,7 @@
 <li>Double Speed</li>
 <li>Maneuver/Move: 6</li>
 <li>Jump: 4</li>
+<li>Outgoing After-Armor Damage is halved</li>
 </ul>
 <p><strong>Esper Action: Choco Cure</strong></p>
 <table>
@@ -35917,7 +35709,7 @@
 </tr>
 </tbody>
 </table>
-<p>Restores Level * Wisdom * 0.2 HP to all allies in the area.</p>
+<p>Restores Level * Wisdom * 0.1 HP to all allies in the area.</p>
 <p><strong>Evocation Magick: Choco Beak</strong></p>
 <table>
 <thead>
@@ -35975,6 +35767,73 @@
 </table>
 <p>Magical Attack, Unaspected, for Level * Intellect * 0.5 damage.</p>
 <h3 id="eggman">Eggman</h3>
+<p><strong>Dominant Form</strong></p>
+<p>No templates.</p>
+<p><strong>Egi-Form</strong></p>
+<ul>
+<li>Half HP</li>
+<li>Half P-Def</li>
+<li>Half M-Def</li>
+<li>Outgoing After-Armor Damage is halved</li>
+</ul>
+<p><strong>Esper Action: Cracked Body</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>Cost</th>
+<th>Mapless</th>
+<th>Map</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>None</td>
+<td>R: 2 rows</td>
+<td>Ranged Indirect</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>E: One Ally</td>
+<td>Target H: 4</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td>Effect E/V: 1/1</td>
+</tr>
+</tbody>
+</table>
+<p>Transfers Eggman’s HP into the target ally, until either the ally reaches maximum HP or the Eggman runs out of HP.</p>
+<p><strong>Evocation Magic: Hanjuku Hero</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>Cost</th>
+<th>Mapless</th>
+<th>Map</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Cast Time: 20</td>
+<td>R: 4 rows</td>
+<td>Ranged Indirect</td>
+</tr>
+<tr class="even">
+<td>MP: 100</td>
+<td>E: Single</td>
+<td>Target H: 4</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td>Effect E/V: 1/1</td>
+</tr>
+</tbody>
+</table>
+<p>Creates a soft-boiled hero in the target empty location. The soft-boiled hero has the same stats as Eggman’s Egi-Form. Only one soft-boiled hero can be maintained at a time.</p>
+<p><strong>Summoning Magick: Egg Chop</strong></p>
+<p>Eggman attempts to chop an enemy, but is unable to reach.</p>
 <h3 id="goblin">Goblin</h3>
 <p><strong>Dominant Form</strong></p>
 <p>No templates.</p>
@@ -35983,6 +35842,7 @@
 <li>Half HP</li>
 <li>Half P-Def</li>
 <li>Half M-Def</li>
+<li>Outgoing After-Armor Damage is halved</li>
 </ul>
 <p><strong>Esper Action: Goblin Knife</strong></p>
 <p>Attack, without provoking any Reactions.</p>
@@ -35999,7 +35859,7 @@
 </tr>
 </tbody>
 </table>
-<p>Restores one item use of your choice.</p>
+<p>Perform a free item use, of an item that was already used by an ally in the same combat round.</p>
 <p><strong>Summoning Magick: Goblin Punch</strong></p>
 <table>
 <thead>
@@ -36030,6 +35890,47 @@
 <p>Physical Attack, Unaspected, for Level * Intellect * 0.4 damage.</p>
 <h2 id="job-level-10">Job Level 10</h2>
 <h3 id="bomb">Bomb</h3>
+<p><strong>Dominant Form</strong></p>
+<ul>
+<li>Absorb Fire element</li>
+</ul>
+<p><strong>Egi-Form</strong></p>
+<ul>
+<li>Absorb Fire element</li>
+<li>Half HP</li>
+<li>Half P-Def</li>
+<li>Outgoing After-Armor Damage is halved</li>
+</ul>
+<p><strong>Esper Action: Fuse Flay</strong></p>
+<p>Physical Attack, Fire-Aspected.</p>
+<p><strong>Evocation Magick: Fire Fuel</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>Cost</th>
+<th>Mapless</th>
+<th>Map</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Cast Time: 50</td>
+<td>R: 4 rows</td>
+<td>Ranged Indirect</td>
+</tr>
+<tr class="even">
+<td>MP: 100</td>
+<td>E: Single</td>
+<td>Target H: 4</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td>Effect E/V: 1/1</td>
+</tr>
+</tbody>
+</table>
+<p>Grants <a href="#status-element-absorption">Element Absorption</a> to the target for the element of Fire.</p>
 <p><strong>Summoning Magick: Self-Destruct</strong></p>
 <table>
 <thead>
@@ -36058,7 +35959,53 @@
 </tbody>
 </table>
 <p>Magical Attack, Fire-Aspected, dealing Level * Intellect * 0.6 Damage.</p>
+<p>If performed while in Dominant Form, then this also kills the Esper for the rest of the battle.</p>
 <h3 id="cockatrice">Cockatrice</h3>
+<p><strong>Dominant Form</strong></p>
+<ul>
+<li>Always has [Float][Status: Float]</li>
+<li>Moves by flying</li>
+<li>Takes double After-Armor Damage from ranged weapons</li>
+</ul>
+<p><strong>Egi-Form</strong></p>
+<ul>
+<li>Always has [Float][Status: Float]</li>
+<li>Moves by flying</li>
+<li>Takes double After-Armor Damage from ranged weapons</li>
+<li>Half HP</li>
+<li>Half P-Def</li>
+<li>Outgoing After-Armor Damage is halved</li>
+</ul>
+<p><strong>Esper Action: Stonefeathers</strong></p>
+<p>Causes <a href="#status-petrify">Petrify</a> and [Protect][Status: Protect] to self, ignoring M-Eva. Fully restores your own HP.</p>
+<p><strong>Evocation Magic: Granite Beak</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>Cost</th>
+<th>Mapless</th>
+<th>Map</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Cast Time: 100</td>
+<td>R: 4 rows</td>
+<td>Ranged Indirect</td>
+</tr>
+<tr class="even">
+<td>MP: 150</td>
+<td>E: Single</td>
+<td>Target H: 4</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td>Effect E/V: 1/1</td>
+</tr>
+</tbody>
+</table>
+<p>Physical Attack, Unaspected, dealing Level * Strength * 0.4 Damage. Ignores P-Def.</p>
 <p><strong>Summoning Magick: Petrifying Beak</strong></p>
 <table>
 <thead>
@@ -36088,6 +36035,73 @@
 </table>
 <p>Magical Attack, Unaspected, dealing Level * Intellect * 0.4 Damage. Also attempts to cause <a href="#status-petrify">Petrify</a>.</p>
 <h3 id="mindflayer">Mindflayer</h3>
+<p><strong>Dominant Form</strong></p>
+<ul>
+<li>Double M-Eva against status conditions</li>
+</ul>
+<p><strong>Egi-Form</strong></p>
+<ul>
+<li>Half HP</li>
+<li>Half P-Def</li>
+<li>Double M-Eva against status conditions</li>
+<li>Outgoing After-Armor Damage is halved</li>
+</ul>
+<p><strong>Esper Action: Brain Licking</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>Cost</th>
+<th>Mapless</th>
+<th>Map</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>None</td>
+<td>R: 4 rows</td>
+<td>Ranged Direct</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>E: Single</td>
+<td>Target H: 4</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td>Effect E/V: 1/1</td>
+</tr>
+</tbody>
+</table>
+<p>Removes one mental status condition of the target’s choice from the target. E.g. <a href="#status-addle">Addle</a>, <a href="#status-berserk">Berserk</a>, <a href="#status-charm">Charm</a>, <a href="#status-confuse">Confuse</a>, <a href="#status-stun">Stun</a>, etc.</p>
+<p><strong>Evocation Magick: Mind Eat</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>Cost</th>
+<th>Mapless</th>
+<th>Map</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Cast Time: 100</td>
+<td>R: 4 rows</td>
+<td>Ranged Indirect</td>
+</tr>
+<tr class="even">
+<td>MP: 180</td>
+<td>E: Single</td>
+<td>Target H: 4</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td>Effect E/V: 1/1</td>
+</tr>
+</tbody>
+</table>
+<p>Magical Attack, Unaspected, dealing Level * Intellect * 0.6 Damage. The damage is dealt to MP rather than HP.</p>
 <p><strong>Summoning Magick: Mind Blast</strong></p>
 <table>
 <thead>
@@ -36125,6 +36139,7 @@
 <ul>
 <li>Half HP</li>
 <li>Half P-Def</li>
+<li>Outgoing After-Armor Damage is halved</li>
 </ul>
 <p><strong>Esper Action: Moogle Express</strong></p>
 <p>Teleport to any location on the battlefield.</p>
@@ -36161,6 +36176,7 @@
 <p><strong>Dominant Form</strong></p>
 <ul>
 <li>Always has [Float][Status: Float]</li>
+<li>Half P-Def</li>
 </ul>
 <p><strong>Egi-Form</strong></p>
 <ul>

@@ -7,10 +7,9 @@
 | Action               | Reaction        | Support    | Move |
 | ---                  | ---             | ---        | ---  |
 | Attack               | **Mana Shield** | 2 x Choice | Mapless: 3
-| Charge Up            | 2 x Choice      |            | Move: 3
-| Defend               |                 |            | Jump: 3
-| [Conjuration Magick] |                 |            | 2 x Choice
-| [Mystic Magick]      |                 |            |
+| Default              | 2 x Choice      |            | Move: 3
+| [Conjuration Magick] |                 |            | Jump: 3
+| [Mystic Magick]      |                 |            | 2 x Choice
 | [White Magick]       |                 |            |
 | **Pray**             |                 |            |
 | 1 x Choice           |                 |            |

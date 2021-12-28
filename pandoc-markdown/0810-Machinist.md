@@ -4,14 +4,13 @@
 
 **Leads to:** None
 
-| Action    | Reaction   | Support         | Move |
-| ---       | ---        | ---             | ---  |
-| Attack    | 1 x Choice | **Disassembly** | Mapless: 3
-| Charge Up |            | 1 x Choice      | Move: 3
-| Defend    |            |                 | Jump: 3
-| **[Power Tools]** |    |                 | 1 x Choice
-| 1 x Choice |           |                 |
-| Item       |           |                 |
+| Action            | Reaction   | Support         | Move |
+| ---               | ---        | ---             | ---  |
+| Attack            | 1 x Choice | **Disassembly** | Mapless: 3
+| Default           |            | 1 x Choice      | Move: 3
+| **[Power Tools]** |            |                 | Jump: 3
+| 1 x Choice        |            |                 | 1 x Choice
+| Item              |            |                 |
 
 - **Action: Power Tools:** Training with the proper construction and usage of complex machine tools.
 - **Support: Disassembly:** Your regular attack actions attempt to instantly-kill machina at double P-Acc.

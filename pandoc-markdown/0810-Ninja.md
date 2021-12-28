@@ -4,14 +4,13 @@
 
 **Leads to:** None
 
-| Action    | Reaction     | Support         | Move |
-| ---       | ---          | ---             | ---  |
-| Attack    | **Vanish**   | **Dual-Wield**  | Mapless: 4
-| Charge Up | **Reflexes** | 1 x Choice      | Move: 4
-| Defend    | 1 x Choice   |                 | Jump: 4
-| **[Ninjutsu]** |         |                 | **Waterwalking**
-| 1 x Choice |             |                 | 1 x Choice
-| Item       |             |                 |
+| Action         | Reaction     | Support         | Move |
+| ---            | ---          | ---             | ---  |
+| Attack         | **Vanish**   | **Dual-Wield**  | Mapless: 4
+| Default        | **Reflexes** | 1 x Choice      | Move: 4
+| **[Ninjutsu]** | 1 x Choice   |                 | Jump: 4
+| 1 x Choice     |              |                 | **Waterwalking**
+| Item           |              |                 | 1 x Choice
 
 - **Action: Ninjutsu:** Secret martial arts using a mixture of patience, trickery and true magick.
 - **Reaction: Vanish (500 TP):** After taking damage, gain [Vanish][Status: Vanish] status.

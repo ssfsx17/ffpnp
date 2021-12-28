@@ -4,14 +4,13 @@
 
 **Leads to:** None
 
-| Action    | Reaction    | Support            | Move |
-| ---       | ---         | ---                | ---  |
-| Attack    | 1 x Choice  | **Choco Fighting** | Mapless: 3
-| Charge Up |             | 1 x Choice         | Move: 3
-| Defend    |             |                    | Jump: 3
-| **[Chococraft]** |      |                    | 1 x Choice
-| 1 x Choice |            |                    |
-| Item       |            |                    |
+| Action           | Reaction    | Support            | Move |
+| ---              | ---         | ---                | ---  |
+| Attack           | 1 x Choice  | **Choco Fighting** | Mapless: 3
+| Default          |             | 1 x Choice         | Move: 3
+| **[Chococraft]** |             |                    | Jump: 3
+| 1 x Choice       |             |                    | 1 x Choice
+| Item             |             |                    |
 
 - **Action: Chococraft:** Expertise in the care and riding of chocobos, so that they will perform their most powerful actions. All Chococraft actions require that you are riding a chocobo of the required color of plumage.
 - **Support: Choco Fighting:** Chocobos that you ride are not afraid of combat.

@@ -6,18 +6,17 @@
 
 - [Thunder God] - [Dark Knight] 80, [Knight] 80, _Paladin_ 80
 
-| Action     | Reaction   | Support      | Move |
-| ---        | ---        | ---          | ---  |
-| Attack     | 1 x Choice | **Chivalry** | Mapless: 3
-| Charge Up  |            | 1 x Choice   | Move: 3
-| Defend     |            |              | Jump: 3
-| **[Divine Weapon]** |   |              | 1 x Choice
-| [Sparring] |            |              |
-| 1 x Choice |            |              |
-| Item       |            |              |
+| Action              | Reaction   | Support      | Move |
+| ---                 | ---        | ---          | ---  |
+| Attack              | 1 x Choice | **Chivalry** | Mapless: 3
+| Default             |            | 1 x Choice   | Move: 3
+| **[Divine Weapon]** |            |              | Jump: 3
+| [Sparring]          |            |              | 1 x Choice
+| 1 x Choice          |            |              |
+| Item                |            |              |
 
 - **Action: Divine Weapon:** Focusing the belief in your cause of protecting the many against the hoarding of the few.
-- **Support: Chivalry:** When you restore an ally's HP (other than yourself), you also regain an amount of MP equal to your Level.
+- **Support: Chivalry:** When you restore an ally's HP (other than yourself), you also regain an amount of MP equal to your Level * Spirit * 0.01.
 
 | Weapon Proficiency | Armor Proficiency |
 | ---                | ---               |

@@ -13,14 +13,14 @@
 | Action         | Reaction           | Support    | Move |
 | ---            | ---                | ---        | ---  |
 | Attack         | **Vigilance**      | **Poach**  | Mapless: 4
-| Charge Up      | 1 x Choice         | 1 x Choice | Move: 4
-| Defend         |                    |            | Jump: 4
-| **[Thievery]** |                    |            | **Move +2**
-| 1 x Choice     |                    |            | **Jump +2**
-| Item           |                    |            | 1 x Choice
+| Default        | 1 x Choice         | 1 x Choice | Move: 4
+| **[Thievery]** |                    |            | Jump: 4
+| 1 x Choice     |                    |            | **Move +2**
+| Item           |                    |            | **Jump +2**
+|                |                    |            | 1 x Choice
 
 - **Action: Thievery**: The art of stealing things from enemies in the middle of combat.
-- **Reaction: Vigilance (100 TP)**: Upon taking damage, you perform a Defend action.
+- **Reaction: Vigilance (100 TP)**: Upon taking damage, you perform a _Default_ action.
 - **Support: Poach**: For every enemy you defeat, you restore one use of one item.
 - **Move: Move +2**: In mapless combat, increases your Maneuver by 1. In map combat, increases your Move by 2.
 - **Move: Jump +2**: In mapless combat, increases your Maneuver by 1. In map combat, increases your Jump by 2.

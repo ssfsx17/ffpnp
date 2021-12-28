@@ -7,14 +7,13 @@
 - [Mascot] - _Blue Mage_ 30
 - [Pictomancer] - _Blue Mage_ 30
 
-| Action    | Reaction   | Support           | Move |
-| ---       | ---        | ---               | ---  |
-| Attack    | 1 x Choice | **Blue Learning** | Mapless: 3
-| Charge Up |            | **Cooking**       | Move: 3
-| Defend    |            | 1 x Choice        | Jump: 3
-| **[Blue Magick]** |    |                   | 1 x Choice
-| 1 x Choice |           |                   |
-| Item       |           |                   |
+| Action            | Reaction   | Support           | Move |
+| ---               | ---        | ---               | ---  |
+| Attack            | 1 x Choice | **Blue Learning** | Mapless: 3
+| Default           |            | **Cooking**       | Move: 3
+| **[Blue Magick]** |            | 1 x Choice        | Jump: 3
+| 1 x Choice        |            |                   | 1 x Choice
+| Item              |            |                   |
 
 - **Action: Blue Magick:** Copying the inherent abilities of wild creatures, in the form of repeatable magic. This type of magic must be learned by observing the creatures doing their special techniques. It is a powerful and efficient school of magick, if you can find the spells.
 - **Support: Blue Learning:** You are able to learn Blue Magick spells by seeing them performed.

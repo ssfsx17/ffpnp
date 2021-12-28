@@ -16,14 +16,13 @@ Naturally, Chemists have good relationships with Alchemists, or even practice Al
 - [Thaumaturgist] - _Chemist_ 20
 - [White Mage] - _Chemist_ 20
 
-| Action    | Reaction           | Support                | Move |
-| ---       | ---                | ---                    | ---  |
-| Attack    | **Auto Potion**    | **Chemist Drink**      | Mapless: 3
-| Charge Up | 1 x Choice         | **Throw Items**        | Move: 3
-| Defend    |                    | JLVL 80: **Item Lore** | Jump: 3
-| **[Chemistry]** |              | 1 x Choice             | 1 x Choice
-| 1 x Choice |                   |                        |
-| Item      |                    |                        |
+| Action          | Reaction           | Support                | Move |
+| ---             | ---                | ---                    | ---  |
+| Attack          | **Auto Potion**    | **Chemist Drink**      | Mapless: 3
+| Default         | 1 x Choice         | **Throw Items**        | Move: 3
+| **[Chemistry]** |                    | JLVL 80: **Item Lore** | Jump: 3
+| 1 x Choice      |                    | 1 x Choice             | 1 x Choice
+| Item            |                    |                        |
 
 - **Action: Chemistry:** The expertise in items that require special handling and care.
 - **Reaction: Auto Potion (100 TP):** Upon taking damage, perform an Item action on yourself.

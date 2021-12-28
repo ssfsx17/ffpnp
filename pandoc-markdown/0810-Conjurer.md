@@ -10,10 +10,9 @@
 | Action                   | Reaction   | Support              | Move |
 | ---                      | ---        | ---                  | ---  |
 | Attack                   | 1 x Choice | **Lily Conjuration** | Mapless: 3
-| Charge Up                |            | **Surecast**         | Move: 3
-| Defend                   |            | 1 x Choice           | Jump: 3
-| **[Conjuration Magick]** |            |                      | 1 x Choice
-| 1 x Choice               |            |                      |
+| Default                  |            | **Surecast**         | Move: 3
+| **[Conjuration Magick]** |            | 1 x Choice           | Jump: 3
+| 1 x Choice               |            |                      | 1 x Choice
 | Item                     |            |                      |
 
 - **Action: Conjuration Magick:** Communion with elementals and tree spirits in order to cultivate life.
@@ -490,4 +489,4 @@ Restores Level * Wisdom * 0.5 HP to all allies in the area, and grants [Medicaga
 | ---         |
 | Limit Break |
 
-Fully revives and restores HP for all allies on the battlefield. Then, restores Level * Spirit * 0.1 MP for all allies for all allies on the battlefield.
+Fully revives and restores HP for all allies on the battlefield. Then, restores Level * Spirit * 0.1 MP for all allies on the battlefield.

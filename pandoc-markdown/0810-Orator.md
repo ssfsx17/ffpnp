@@ -9,14 +9,13 @@
 - [Mime] - [Chemist] 80, [Dragoon] 50, [Geomancer] 50, _Orator_ 50, [Squire] 80, [Summoner] 50
 - [Necromancer] - [Arcanist] 30, _Orator_ 30, [Thaumaturgist] 30
 
-| Action    | Reaction    | Support    | Move |
-| ---       | ---         | ---        | ---  |
-| Attack    | **Earplug** | **Tame**   | Mapless: 3
-| Charge Up | 1 x Choice  | 1 x Choice | Move: 3
-| Defend    |             |            | Jump: 3
-| **[Speechcraft]** |     |            | 1 x Choice
-| 1 x Choice |            |            |
-| Item       |            |            |
+| Action            | Reaction    | Support    | Move |
+| ---               | ---         | ---        | ---  |
+| Attack            | **Earplug** | **Tame**   | Mapless: 3
+| Default           | 1 x Choice  | 1 x Choice | Move: 3
+| **[Speechcraft]** |             |            | Jump: 3
+| 1 x Choice        |             |            | 1 x Choice
+| Item              |             |            |
 
 - **Action: Speechcraft:** Using communication, gestures, and other means of persuasion to captivate even your most bitter foes.
 - **Reaction: Earplug:** You have double M-Eva against _Speechcraft_ techniques and [Charm][Status: Charm].

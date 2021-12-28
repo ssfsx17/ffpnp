@@ -6,14 +6,13 @@
 
 - [Paladin] - _Gladiator_ 30, [Knight] 60, [White Mage] 30
 
-| Action    | Reaction           | Support          | Move |
-| ---       | ---                | ---              | ---  |
-| Attack    | **Strike Back**    | **Shield Bash**  | Mapless: 4
-| Charge Up | 1 x Choice         | **Shield Force** | Move: 4
-| Defend    |                    | 1 x Choice       | Jump: 3
-| **[Sparring]** |               |                  | 1 x Choice
-| 1 x Choice |                   |                  |
-| Item      |                    |                  |
+| Action         | Reaction           | Support          | Move |
+| ---            | ---                | ---              | ---  |
+| Attack         | **Strike Back**    | **Shield Bash**  | Mapless: 4
+| Default        | 1 x Choice         | **Shield Force** | Move: 4
+| **[Sparring]** |                    | 1 x Choice       | Jump: 3
+| 1 x Choice     |                    |                  | 1 x Choice
+| Item           |                    |                  |
 
 - **Action: Sparring:** Entertaining and violent melee techniques.
 - **Reaction: Strike Back (100 TP):** Against a technique that is a Glancing Hit or Miss against you, you attack back.
@@ -63,7 +62,7 @@ Attack. You gain [Fight or Flight][Status: Fight or Flight] status for 4 status 
 | ---     |
 | TP: 200 |
 
-Attack. You regain an amount of MP equal to your Level.
+Attack. You regain an amount of MP equal to your Level * Spirit * 0.01.
 
 **Shield Charge**
 
@@ -133,7 +132,7 @@ Grants yourself [Sheltron][Status: Sheltron] for 2 status phases.
 | ---     |
 | TP: 300 |
 
-Attack. You gain 1 Shield Force point and an amount of MP equal to your Level.
+Attack. You gain 1 Shield Force point and an amount of MP equal to your Level * Spirit * 0.05.
 
 #### Gladiator 40
 
@@ -145,7 +144,7 @@ Attack. You gain 1 Shield Force point and an amount of MP equal to your Level.
 |         | E: Front row of enemies | Target H: 0
 |         |                         | Effect H/V: 3/3
 
-Project your attack into all enemies in the area. After-Armor Damage is halved. You gain 1 [Enmity] point for each enemy hit. You also gain an amount of MP equal to your Level.
+Project your attack into all enemies in the area. After-Armor Damage is halved. You gain 1 [Enmity] point for each enemy hit. You also gain an amount of MP equal to your Level * Spirit * 0.05.
 
 #### Gladiator 50
 

@@ -8,14 +8,13 @@
 - [Machinist] - [Arithmetician] 30, _Fusilier_ 30
 - [Magitek Pilot] - [Black Mage] 20, _Fusilier_ 20
 
-| Action    | Reaction   | Support             | Move |
-| ---       | ---        | ---                 | ---  |
-| Attack    | **Blur**   | **Charged Attacks** | Mapless: 3
-| Charge Up | 1 x Choice | 1 x Choice          | Move: 3
-| Defend    |            |                     | Jump: 3
-| **[Gunmanship]** |     |                     | 1 x Choice
-| 1 x Choice |           |                     |
-| Item       |           |                     |
+| Action           | Reaction   | Support             | Move |
+| ---              | ---        | ---                 | ---  |
+| Attack           | **Blur**   | **Charged Attacks** | Mapless: 3
+| Default          | 1 x Choice | 1 x Choice          | Move: 3
+| **[Gunmanship]** |            |                     | Jump: 3
+| 1 x Choice       |            |                     | 1 x Choice
+| Item             |            |                     |
 
 - **Action: Gunmanship:** Practice and expertise in preparing shells, then loading and firing them as quickly as possible.
 - **Reaction: Blur (200 TP):** Against a Ranged Direct action, double your P-Eva and M-Eva.

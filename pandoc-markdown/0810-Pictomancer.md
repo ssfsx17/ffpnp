@@ -7,10 +7,9 @@
 | Action      | Reaction   | Support    | Move |
 | ---         | ---        | ---        | ---  |
 | Attack      | 1 x Choice | 1 x Choice | Mapless: 3
-| Charge Up   |            |            | Move: 3
-| Defend      |            |            | Jump: 3
-| **Sketch**  |            |            | 1 x Choice
-| **Control** |            |            |
+| Default     |            |            | Move: 3
+| **Sketch**  |            |            | Jump: 3
+| **Control** |            |            | 1 x Choice
 | 1 x Choice  |            |            |
 | Item        |            |            |
 

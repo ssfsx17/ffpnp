@@ -7,15 +7,14 @@
 - [Nu Type] - _Scholar_ 70
 - [Sharlayan Archon] - [Astrologian] 80, [Nu Type] 80, _Scholar_ 80
 
-| Action    | Reaction          | Support               | Move |
-| ---       | ---               | ---                   | ---  |
-| Attack    | 1 x Choice        | Aethercapacitance     | Mapless: 3
-| Charge Up |                   | **Scholar Fey Pacts** | Move: 3
-| Defend    |                   | **Faerie Dust**       | Jump: 3
-| **[Scholastic Magick]** |     | 1 x Choice            | 1 x Choice
-| [Arcane Magick] |             |                       |
-| 1 x Choice |                  |                       |
-| Item       |                  |                       |
+| Action                  | Reaction   | Support               | Move |
+| ---                     | ---        | ---                   | ---  |
+| Attack                  | 1 x Choice | Aethercapacitance     | Mapless: 3
+| Default                 |            | **Scholar Fey Pacts** | Move: 3
+| **[Scholastic Magick]** |            | **Faerie Dust**       | Jump: 3
+| [Arcane Magick]         |            | 1 x Choice            | 1 x Choice
+| 1 x Choice              |            |                       |
+| Item                    |            |                       |
 
 - **Action: Scholastic Magick:** Comprehending the entire written history of strategems, tactics, manoevres and alliances with feykind.
 - **Support: Scholar Fey Pacts:** You have access to specific Egi-Forms without needing Esper pacts. You must still meet the Job Level requirements.

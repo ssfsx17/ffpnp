@@ -9,14 +9,14 @@
 - [Gambler] - _Mystic_ 30, [Thief] 30
 - [Orator] - _Mystic_ 30
 
-| Action    | Reaction             | Support           | Move |
-| ---       | ---                  | ---               | ---  |
-| Attack    | **Absorb MP**        | **Defense Boost** | Mapless: 3
-| Charge Up | 1 x Choice           | 1 x Choice        | Move: 3
-| Defend    |                      |                   | Jump: 3
-| **[Mystic Magick]** |            |                   | **Ignore Weather**
-| 1 x Choice |                     |                   | **JLVL 80: Manafont**
-| Item       |                     |                   | 1 x Choice
+| Action              | Reaction      | Support           | Move |
+| ---                 | ---           | ---               | ---  |
+| Attack              | **Absorb MP** | **Defense Boost** | Mapless: 3
+| Default             | 1 x Choice    | 1 x Choice        | Move: 3
+| **[Mystic Magick]** |               |                   | Jump: 3
+| 1 x Choice          |               |                   | **Ignore Weather**
+| Item                |               |                   | **JLVL 80: Manafont**
+|                     |               |                   | 1 x Choice
 
 - **Action: Mystick Magick:** Weaving the flow of destiny and fate.
 - **Reaction: Absorb MP:** When you take damage or receive a harmful status condition from an MP-using action, you gain an amount of MP equal to half of that action's MP cost.

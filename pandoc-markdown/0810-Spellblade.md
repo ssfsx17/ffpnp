@@ -6,14 +6,13 @@
 
 - [Gunbreaker] - [Fusilier] 30, [Marauder] 60, _Spellblade_ 30
 
-| Action    | Reaction        | Support                       | Move |
-| ---       | ---             | ---                           | ---  |
-| Attack    | **Magic Shell** | **Memento**                   | Mapless: 4
-| Charge Up | 1 x Choice      | **Blood Price**               | Move: 4
-| Defend    |                 | **JLVL 60: Auto Aspir Saber** | Jump: 3
-| **[Weapon Magick]** |       | 1 x Choice                    | **Move +1**
-| 1 x Choice |                |                               | 1 x Choice
-| Item      |                 |                               |
+| Action              | Reaction        | Support                       | Move |
+| ---                 | ---             | ---                           | ---  |
+| Attack              | **Magic Shell** | **Memento**                   | Mapless: 4
+| Default             | 1 x Choice      | **Blood Price**               | Move: 4
+| **[Weapon Magick]** |                 | **JLVL 60: Auto Aspir Saber** | Jump: 3
+| 1 x Choice          |                 | 1 x Choice                    | **Move +1**
+| Item                |                 |                               | 1 x Choice
 
 - **Action: Weapon Magick:** Focusing violent elemental power into your weapon. You can only have one _Weapon Magick_ active at a time, so nearly all usage of _Weapon Magick_ ends any previous use. Any type of rest will end _Weapon Magick_. Changing weapons will end _Weapon Magick_.
 - **Reaction: Magic Shell (250 TP):** Upon taking magical damage, gain [Shell][Status: Shell] status.
@@ -68,7 +67,7 @@ Imbues your weapon with the power to cause [Poison][Status: Poison] on hit.
 
 **Runic**
 
-Defend action that also puts you in Runic state. While in Runic state, if you are targeted by an MP-using ability, then the ability does not occur. Instead, the MP cost of the ability is added to your current MP. Then, your Runic state ends.
+_Default_ action that also puts you in Runic state. While in Runic state, if you are targeted by an MP-using ability, then the ability does not occur. Instead, the MP cost of the ability is added to your current MP. Then, your Runic state ends.
 
 **Thunder Saber**
 

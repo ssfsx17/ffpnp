@@ -43,7 +43,7 @@ This is not the first attempt to write a role-playing game based on the Final Fa
 
 The key points of difference are listed below:
 
-- The number scale of the Final Fantasy video games, rather than the Seiken Densetsu or Chrono Trigger games. Why settle for 999 HP when you can have 9999 HP! This does, however, cause removal of dice rolling in most other aspects of the game.
+- The number scale of the Final Fantasy video games, rather than the Seiken Densetsu or Chrono Trigger games. Why settle for 999 HP when you can have 99,999 HP! This does, however, cause removal of dice rolling in most other aspects of the game.
 - The Job system is taken primarily from games that have changeable jobs and dresspheres. This means there will be weaker starting jobs and stronger unlockable jobs. The late game purposely involves powerful combinations of abilities.
-- No skill system. Instead, relevant Job levels are added together for skill checks.
+- No skill system. Instead, relevant Job levels are used for skill checks.
 - Maximalist approach. Inclusion of jobs and abilities is preferred compared to exclusion.

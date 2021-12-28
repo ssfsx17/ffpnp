@@ -4,15 +4,14 @@
 
 **Leads to:** None
 
-| Action    | Reaction   | Support                          | Move |
-| ---       | ---        | ---                              | ---  |
-| Attack    | 1 x Choice | **The Beast Within**             | Mapless: 4
-| Charge Up |            | **JLVL 80: Mastering the Beast** | Move: 4
-| Defend    |            | 1 x Choice                       | Jump: 4
-| **[Warbeast]** |       |                                  | 1 x Choice
-| [Marauding] |          |                                  |
-| 1 x Choice |           |                                  |
-| Item      |            |                                  |
+| Action         | Reaction   | Support                          | Move |
+| ---            | ---        | ---                              | ---  |
+| Attack         | 1 x Choice | **The Beast Within**             | Mapless: 4
+| Default        |            | **JLVL 80: Mastering the Beast** | Move: 4
+| **[Warbeast]** |            | 1 x Choice                       | Jump: 4
+| [Marauding]    |            |                                  | 1 x Choice
+| 1 x Choice     |            |                                  |
+| Item           |            |                                  |
 
 - **Action: Warbeast:** Stokes your inner violent side, then focuses it into devastating techniques.
 - **Support: The Beast Within:** You can have a maximum of 10 Beast Points.

@@ -7,10 +7,9 @@
 | Action     | Reaction    | Support     | Move |
 | ---        | ---         | ---         | ---  |
 | Attack     | 10 x Choice | 10 x Choice | Mapless: 3
-| Charge Up  |             |             | Move: 3
-| Defend     |             |             | Jump: 3
-| 2 x Choice |             |             | 10 x Choice
-| Item       |             |             |
+| Default    |             |             | Move: 3
+| 2 x Choice |             |             | Jump: 3
+| Item       |             |             | 10 x Choice
 
 | Weapon Proficiency | Armor Proficiency |
 | ---                | ---               |

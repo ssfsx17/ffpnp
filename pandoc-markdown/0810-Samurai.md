@@ -4,14 +4,13 @@
 
 **Leads to:** None
 
-| Action    | Reaction       | Support         | Move |
-| ---       | ---            | ---             | ---  |
-| Attack    | **Bonecrusher** | **Doublehand** | Mapless: 3
-| Charge Up | **Shirahadori** | 1 x Choice     | Move: 3
-| Defend    | 1 x Choice     |                 | Jump: 3
-| **[Iaido]** |              |                 | 1 x Choice
-| 1 x Choice |               |                 |
-| Item       |               |                 |
+| Action      | Reaction        | Support        | Move |
+| ---         | ---             | ---            | ---  |
+| Attack      | **Bonecrusher** | **Doublehand** | Mapless: 3
+| Default     | **Shirahadori** | 1 x Choice     | Move: 3
+| **[Iaido]** | 1 x Choice      |                | Jump: 3
+| 1 x Choice  |                 |                | 1 x Choice
+| Item        |                 |                |
 
 - **Action: Iaido:** Unleashing the hidden power imparted to blades by their creators.
 - **Reaction: Bonecrusher (500 TP):** When you are at 25% or less HP, and after taking physical damage from an enemy, you may choose to perform an instantaneous air-splitting strike back at that enemy. This is a physical technique dealing an amount of damage equal to your Maximum HP.
@@ -110,7 +109,7 @@ Breaks a 2H Katana of Item Level 20. Magical Attack, Unaspected, dealing Level *
 | ---              |
 | Charge Time: 200 |
 
-Defend action that also places you into _Sky Retort_ state until your next action. While in _Sky Retort_ state, after every melee attack against you, you attack back.
+_Default_ action that also places you into _Sky Retort_ state until your next action. While in _Sky Retort_ state, after every melee attack against you, you attack back.
 
 #### Samurai 30
 

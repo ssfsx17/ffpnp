@@ -7,10 +7,9 @@
 | Action         | Reaction   | Support    | Move |
 | ---            | ---        | ---        | ---  |
 | Attack         | 1 x Choice | **Guts**   | Mapless: 3
-| Charge Up      |            | 1 x Choice | Move: 3
-| Defend         |            |            | Jump: 3
-| **[Psionics]** |            |            | 1 x Choice
-| 1 x Choice     |            |            |
+| Default        |            | 1 x Choice | Move: 3
+| **[Psionics]** |            |            | Jump: 3
+| 1 x Choice     |            |            | 1 x Choice
 | Item           |            |            |
 
 - **Action: Psionics:** Manifesting supernatural abilities using only the power of your mind.

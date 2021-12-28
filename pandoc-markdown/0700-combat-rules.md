@@ -78,17 +78,15 @@ Gravity/Death attacks automatically have their Accuracy Class decreased by 1. Th
 
 Plot Armor Enemies decrease the Accuracy Class by 1 more, so they cannot take Direct Hits from Gravity/Death attacks. Furthermore, they halve all damage from Gravity/Death attacks. Instant death is converted to an amount of damage equal to 10% of maximum HP.
 
-### Charge Up
+### Default
 
-Restores HP, MP and TP to yourself as follows:
+You enter a defensive stance until your next turn. Your P-Eva, P-Def, M-Eva, and M-Def are all increased by 50% from your front.
+
+Also restores HP, MP and TP to yourself as follows:
 
 - HP restoration = Stamina
 - MP restoration = 1 + (Spirit * 0.1)
 - TP restoration = Determination
-
-### Defend
-
-You enter a defensive stance until your next turn. Your P-Eva, P-Def, M-Eva, and M-Def are all increased by 50% from your front.
 
 ### Item
 

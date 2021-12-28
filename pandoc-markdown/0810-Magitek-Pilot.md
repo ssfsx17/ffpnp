@@ -7,10 +7,9 @@
 | Action                | Reaction          | Support                   | Move |
 | ---                   | ---               | ---                       | ---  |
 | Attack                | **Link Reaction** | **Magitek Pilot Program** | Mapless: 3
-| Charge Up             | 1 x Choice        | 1 x Choice                | Move: 3
-| Defend                |                   |                           | Jump: 3
-| **[Magitek Systems]** |                   |                           | 1 x Choice
-| 1 x Choice            |                   |                           |
+| Default               | 1 x Choice        | 1 x Choice                | Move: 3
+| **[Magitek Systems]** |                   |                           | Jump: 3
+| 1 x Choice            |                   |                           | 1 x Choice
 | Item                  |                   |                           |
 
 - **Action: Magitek Systems:** Training and operation of the many weapons & utility systems that come standard on a magitek armor. All magitek systems require that you are fully equipped with M-Tek / Magitek gear.

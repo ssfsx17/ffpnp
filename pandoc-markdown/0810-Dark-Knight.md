@@ -6,14 +6,13 @@
 
 - [Thunder God] - _Dark Knight_ 80, [Knight] 80, [Paladin] 80
 
-| Action     | Reaction   | Support         | Move |
-| ---        | ---        | ---             | ---  |
-| Attack     | 1 x Choice | **Blood Gauge** | Mapless: 3
-| Charge Up  |            | **HP Boost**    | Move: 3
-| Defend     |            | **Vehemence**   | Jump: 3
-| **[Darkness Weapon]** | | 1 x Choice      | 1 x Choice
-| 1 x Choice |            |                 |
-| Item       |            |                 |
+| Action                | Reaction   | Support         | Move |
+| ---                   | ---        | ---             | ---  |
+| Attack                | 1 x Choice | **Blood Gauge** | Mapless: 3
+| Default               |            | **HP Boost**    | Move: 3
+| **[Darkness Weapon]** |            | **Vehemence**   | Jump: 3
+| 1 x Choice            |            | 1 x Choice      | 1 x Choice
+| Item                  |            |                 |
 
 - **Action: Darkness Weapon:** Tapping in to your dark side to expose the fragility of everything else around you.
 - **Support: Blood Gauge:** You can hold a maximum of 10 Blood Points.

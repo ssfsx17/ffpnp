@@ -6,14 +6,13 @@
 
 - [Master Blackbelt] - [Monk] 80, _Pugilist_ 80
 
-| Action    | Reaction   | Support           | Move |
-| ---       | ---        | ---               | ---  |
-| Attack    | 1 x Choice | **Animal Forms**  | Mapless: 4
-| Charge Up |            | **Fist Elements** | Move: 4
-| Defend    |            | 1 x Choice        | Jump: 4
-| **[Pugilism]** |       |                   | 1 x Choice
-| 1 x Choice |           |                   |
-| Item       |           |                   |
+| Action         | Reaction   | Support           | Move |
+| ---            | ---        | ---               | ---  |
+| Attack         | 1 x Choice | **Animal Forms**  | Mapless: 4
+| Default        |            | **Fist Elements** | Move: 4
+| **[Pugilism]** |            | 1 x Choice        | Jump: 4
+| 1 x Choice     |            |                   | 1 x Choice
+| Item           |            |                   |
 
 - **Action: Pugilism:** Movement-based martial arts, attacking from angles your opponent does not expect, constantly flowing stances to confuse your opponent.
 - **Support: Animal Forms:** Certain [Pugilism] techniques can put you in Opo-Opo / Monkey Form, Raptor / Dragon Form or Coeurl / Tiger Form. Outside of combat, you cannot maintain animal forms.

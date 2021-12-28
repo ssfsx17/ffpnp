@@ -8,14 +8,13 @@
 - [Necromancer] - _Arcanist_ 30, [Orator] 30, [Thaumaturgist] 30
 - [Scholar] - _Arcanist_ 30
 
-| Action    | Reaction          | Support                   | Move |
-| ---       | ---               | ---                       | ---  |
-| Attack    | **Egi Sacrifice** | **Aethercapacitance**     | Mapless: 3
-| Charge Up | 1 x Choice        | **Arcanist School Pacts** | Move: 3
-| Defend    |                   | 1 x Choice                | Jump: 3
-| **[Arcane Magick]** |         |                           | 1 x Choice
-| 1 x Choice |                  |                           |
-| Item       |                  |                           |
+| Action              | Reaction          | Support                   | Move |
+| ---                 | ---               | ---                       | ---  |
+| Attack              | **Egi Sacrifice** | **Aethercapacitance**     | Mapless: 3
+| Default             | 1 x Choice        | **Arcanist School Pacts** | Move: 3
+| **[Arcane Magick]** |                   | 1 x Choice                | Jump: 3
+| 1 x Choice          |                   |                           | 1 x Choice
+| Item                |                   |                           |
 
 - **Action: Arcane Magick:** Plumbing the darkest depths of knowledge and esoterica for the most powerful magical results.
 - **Reaction: Egi Sacrifice (200 TP):** You direct an incoming single-target action towards your Egi-Esper instead.

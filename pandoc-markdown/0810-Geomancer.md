@@ -7,14 +7,13 @@
 - [Dancer] - [Dragoon] 50, _Geomancer_ 50
 - [Mime] - [Chemist] 80, [Dragoon] 50, _Geomancer_ 50, [Orator] 50, [Squire] 80, [Summoner] 50
 
-| Action    | Reaction           | Support          | Move |
-| ---       | ---                | ---              | ---  |
-| Attack    | **Nature's Wrath** | **Attack Boost** | Mapless: 4
-| Charge Up | 1 x Choice         | 1 x Choice       | Move: 4
-| Defend    |                    |                  | Jump: 3
-| **[Geomancy]** |               |                  | **Ignore Terrain**
-| 1 x Choice |                   |                  | 1 x Choice
-| Item       |                   |                  |
+| Action         | Reaction           | Support          | Move |
+| ---            | ---                | ---              | ---  |
+| Attack         | **Nature's Wrath** | **Attack Boost** | Mapless: 4
+| Default        | 1 x Choice         | 1 x Choice       | Move: 4
+| **[Geomancy]** |                    |                  | Jump: 3
+| 1 x Choice     |                    |                  | **Ignore Terrain**
+| Item           |                    |                  | 1 x Choice
 
 - **Action: Geomancy:** Focusing the energy of the land into specific forms. The actions that can be performed are dependent on the terrain you are standing on.
 - **Reaction: Nature's Wrath (200 TP):** Upon taking damage, you do _Geomancy_ in return. You must still pay the TP costs of the _Geomancy_.

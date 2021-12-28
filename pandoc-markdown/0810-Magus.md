@@ -4,16 +4,15 @@
 
 **Leads to:** None
 
-| Action               | Reaction   | Support             | Move |
-| ---                  | ---        | ---                 | ---  |
-| Attack               | 2 x Choice | **Double MP Power** | Mapless: 3
-| Charge Up            |            | 2x Choice           | Move: 3
-| Defend               |            |                     | Jump: 3
-| [Arcane Magick]      |            |                     | 2 x Choice
-| [Black Magick]       |            |                     |
-| [Thaumaturgical Magick] |         |                     |
-| 1 x Choice           |            |                     |
-| Item                 |            |                     |
+| Action                  | Reaction   | Support             | Move |
+| ---                     | ---        | ---                 | ---  |
+| Attack                  | 2 x Choice | **Double MP Power** | Mapless: 3
+| Default                 |            | 2x Choice           | Move: 3
+| [Arcane Magick]         |            |                     | Jump: 3
+| [Black Magick]          |            |                     | 2 x Choice
+| [Thaumaturgical Magick] |            |                     |
+| 1 x Choice              |            |                     |
+| Item                    |            |                     |
 
 - **Support: Double MP Power:** MP-using actions cost double the MP. In exchange, their Damage and healing are increased by 50%.
 

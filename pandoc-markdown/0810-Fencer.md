@@ -6,14 +6,13 @@
 
 - [Red Mage] - [Black Mage] 30, _Fencer_ 30, [White Mage] 30
 
-| Action    | Reaction   | Support    | Move |
-| ---       | ---        | ---        | ---  |
-| Attack    | **Reflex** | 1 x Choice | Mapless: 4
-| Charge Up | 1 x Choice |            | Move: 4
-| Defend    |            |            | Jump: 3
-| **[Fencing]** |        |            | 1 x Choice
-| 1 x Choice |           |            |
-| Item      |            |            |
+| Action        | Reaction   | Support    | Move |
+| ---           | ---        | ---        | ---  |
+| Attack        | **Reflex** | 1 x Choice | Mapless: 4
+| Default       | 1 x Choice |            | Move: 4
+| **[Fencing]** |            |            | Jump: 3
+| 1 x Choice    |            |            | 1 x Choice
+| Item          |            |            |
 
 - **Action: Fencing:** Finesse with light weapons and rapid strikes.
 - **Reaction: Reflex (200 TP):** Triples your P-Eva against an action from your front.
@@ -44,7 +43,7 @@
 | ---    |
 | TP: 30 |
 
-Defend action. While in this state, the next time an enemy misses an attack against you, you attack back at double P-Acc.
+Action with the same effect as _Default_. Additionally, while in this state, the next time an enemy misses an attack against you, you attack back at double P-Acc.
 
 **Swarmstrike**
 

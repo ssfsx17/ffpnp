@@ -26,6 +26,7 @@ Also known as Summoned Beasts, Eidolons, Eikons and Primals. You must form a Pac
 - Double Speed
 - Maneuver/Move: 6
 - Jump: 4
+- Outgoing After-Armor Damage is halved
 
 **Esper Action: Choco Cure**
 
@@ -35,7 +36,7 @@ Also known as Summoned Beasts, Eidolons, Eikons and Primals. You must form a Pac
 |      | E: Row of allies | Target H: 0
 |      |                  | Effect E/V: 2/2
 
-Restores Level * Wisdom * 0.2 HP to all allies in the area.
+Restores Level * Wisdom * 0.1 HP to all allies in the area.
 
 **Evocation Magick: Choco Beak**
 
@@ -59,6 +60,41 @@ Magical Attack, Unaspected, for Level * Intellect * 0.5 damage.
 
 ### Eggman
 
+**Dominant Form**
+
+No templates.
+
+**Egi-Form**
+
+- Half HP
+- Half P-Def
+- Half M-Def
+- Outgoing After-Armor Damage is halved
+
+**Esper Action: Cracked Body**
+
+| Cost | Mapless     | Map |
+| ---  | ---         | --- |
+| None | R: 2 rows   | Ranged Indirect
+|      | E: One Ally | Target H: 4
+|      |             | Effect E/V: 1/1
+
+Transfers Eggman's HP into the target ally, until either the ally reaches maximum HP or the Eggman runs out of HP.
+
+**Evocation Magic: Hanjuku Hero**
+
+| Cost          | Mapless   | Map |
+| ---           | ---       | --- |
+| Cast Time: 20 | R: 4 rows | Ranged Indirect
+| MP: 100       | E: Single | Target H: 4
+|               |           | Effect E/V: 1/1
+
+Creates a soft-boiled hero in the target empty location. The soft-boiled hero has the same stats as Eggman's Egi-Form. Only one soft-boiled hero can be maintained at a time.
+
+**Summoning Magick: Egg Chop**
+
+Eggman attempts to chop an enemy, but is unable to reach.
+
 ### Goblin
 
 **Dominant Form**
@@ -70,6 +106,7 @@ No templates.
 - Half HP
 - Half P-Def
 - Half M-Def
+- Outgoing After-Armor Damage is halved
 
 **Esper Action: Goblin Knife**
 
@@ -81,7 +118,7 @@ Attack, without provoking any Reactions.
 | ---   |
 | 60 MP |
 
-Restores one item use of your choice.
+Perform a free item use, of an item that was already used by an ally in the same combat round.
 
 **Summoning Magick: Goblin Punch**
 
@@ -97,6 +134,31 @@ Physical Attack, Unaspected, for Level * Intellect * 0.4 damage.
 
 ### Bomb
 
+**Dominant Form**
+
+- Absorb Fire element
+
+**Egi-Form**
+
+- Absorb Fire element
+- Half HP
+- Half P-Def
+- Outgoing After-Armor Damage is halved
+
+**Esper Action: Fuse Flay**
+
+Physical Attack, Fire-Aspected.
+
+**Evocation Magick: Fire Fuel**
+
+| Cost          | Mapless   | Map |
+| ---           | ---       | --- |
+| Cast Time: 50 | R: 4 rows | Ranged Indirect
+| MP: 100       | E: Single | Target H: 4
+|               |           | Effect E/V: 1/1
+
+Grants [Element Absorption][Status: Element Absorption] to the target for the element of Fire.
+
 **Summoning Magick: Self-Destruct**
 
 | Cost           | Mapless        | Map |
@@ -107,7 +169,38 @@ Physical Attack, Unaspected, for Level * Intellect * 0.4 damage.
 
 Magical Attack, Fire-Aspected, dealing Level * Intellect * 0.6 Damage.
 
+If performed while in Dominant Form, then this also kills the Esper for the rest of the battle.
+
 ### Cockatrice
+
+**Dominant Form**
+
+- Always has [Float][Status: Float]
+- Moves by flying
+- Takes double After-Armor Damage from ranged weapons
+
+**Egi-Form**
+
+- Always has [Float][Status: Float]
+- Moves by flying
+- Takes double After-Armor Damage from ranged weapons
+- Half HP
+- Half P-Def
+- Outgoing After-Armor Damage is halved
+
+**Esper Action: Stonefeathers**
+
+Causes [Petrify][Status: Petrify] and [Protect][Status: Protect] to self, ignoring M-Eva. Fully restores your own HP.
+
+**Evocation Magic: Granite Beak**
+
+| Cost           | Mapless        | Map |
+| ---            | ---            | --- |
+| Cast Time: 100 | R: 4 rows      | Ranged Indirect
+| MP: 150        | E: Single      | Target H: 4
+|                |                | Effect E/V: 1/1
+
+Physical Attack, Unaspected, dealing Level * Strength * 0.4 Damage. Ignores P-Def.
 
 **Summoning Magick: Petrifying Beak**
 
@@ -120,6 +213,37 @@ Magical Attack, Fire-Aspected, dealing Level * Intellect * 0.6 Damage.
 Magical Attack, Unaspected, dealing Level * Intellect * 0.4 Damage. Also attempts to cause [Petrify][Status: Petrify].
 
 ### Mindflayer
+
+**Dominant Form**
+
+- Double M-Eva against status conditions
+
+**Egi-Form**
+
+- Half HP
+- Half P-Def
+- Double M-Eva against status conditions
+- Outgoing After-Armor Damage is halved
+
+**Esper Action: Brain Licking**
+
+| Cost | Mapless   | Map |
+| ---  | ---       | --- |
+| None | R: 4 rows | Ranged Direct
+|      | E: Single | Target H: 4
+|      |           | Effect E/V: 1/1
+
+Removes one mental status condition of the target's choice from the target. E.g. [Addle][Status: Addle], [Berserk][Status: Berserk], [Charm][Status: Charm], [Confuse][Status: Confuse], [Stun][Status: Stun], etc.
+
+**Evocation Magick: Mind Eat**
+
+| Cost           | Mapless        | Map |
+| ---            | ---            | --- |
+| Cast Time: 100 | R: 4 rows      | Ranged Indirect
+| MP: 180        | E: Single      | Target H: 4
+|                |                | Effect E/V: 1/1
+
+Magical Attack, Unaspected, dealing Level * Intellect * 0.6 Damage. The damage is dealt to MP rather than HP.
 
 **Summoning Magick: Mind Blast**
 
@@ -141,6 +265,7 @@ Magical Attack, Unaspected, dealing Level * Intellect * 0.4 Damage. Also attempt
 
 - Half HP
 - Half P-Def
+- Outgoing After-Armor Damage is halved
 
 **Esper Action: Moogle Express**
 
@@ -163,6 +288,7 @@ Restores Level * Wisdom * 0.4 HP to all allies in the area.
 **Dominant Form**
 
 - Always has [Float][Status: Float]
+- Half P-Def
 
 **Egi-Form**
 

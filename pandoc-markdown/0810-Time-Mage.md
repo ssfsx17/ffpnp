@@ -8,14 +8,14 @@
 - [Sage] - [Black Mage] 60, _Time Mage_ 60, [White Mage] 60
 - [Summoner] - _Time Mage_ 30
 
-| Action    | Reaction             | Support       | Move |
-| ---       | ---                  | ---           | ---  |
-| Attack    | **Critical Quicken** | **Swiftness** | Mapless: 3
-| Charge Up | 1 x Choice           | 1 x Choice    | Move: 3
-| Defend    |                      |               | Jump: 3
-| **[Time Magick]** |              |               | **Levitate**
-| 1 x Choice |                     |               | **JLVL 80: Teleport**
-| Item       |                     |               | 1 x Choice
+| Action            | Reaction             | Support       | Move |
+| ---               | ---                  | ---           | ---  |
+| Attack            | **Critical Quicken** | **Swiftness** | Mapless: 3
+| Default           | 1 x Choice           | 1 x Choice    | Move: 3
+| **[Time Magick]** |                      |               | Jump: 3
+| 1 x Choice        |                      |               | **Levitate**
+| Item              |                      |               | **JLVL 80: Teleport**
+|                   |                      |               | 1 x Choice
 
 - **Action: Time Magick:** Control of the fabric of time and space.
 - **Reaction: Critical Quicken:** While at 10% HP or less, you have [Quick][Status: Quick].

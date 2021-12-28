@@ -8,14 +8,13 @@
 - [Dominant] - [Evoker] 80, _Summoner_ 80
 - [Mime] - [Chemist] 80, [Dragoon] 50, [Geomancer] 50, [Orator] 50, [Squire] 80, _Summoner_ 50
 
-| Action    | Reaction                 | Support             | Move |
-| ---       | ---                      | ---                 | ---  |
-| Attack    | **Critical: Recover MP** | **Maximum MP Up**   | Mapless: 3
-| Charge Up | 1 x Choice               | 1 x Choice          | Move: 3
-| Defend    |                          |                     | Jump: 3
-| **[Summoning Magick]** |             |                     | 1 x Choice
-| 1 x Choice |                         |
-| Item       |                         |
+| Action                 | Reaction                 | Support             | Move |
+| ---                    | ---                      | ---                 | ---  |
+| Attack                 | **Critical: Recover MP** | **Maximum MP Up**   | Mapless: 3
+| Default                | 1 x Choice               | 1 x Choice          | Move: 3
+| **[Summoning Magick]** |                          |                     | Jump: 3
+| 1 x Choice             |                          |                     | 1 x Choice
+| Item                   |                          |                     |
 
 - **Action: Summoning Magick:** Using the _Summoning Magick_ of [Espers] whom you have a pact with.
 - **Reaction: Critical: Recover MP:** While at 25% or less HP, during the status phase, you regain an amount of MP equal to 5% of your maximum MP.

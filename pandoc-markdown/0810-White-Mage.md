@@ -11,14 +11,13 @@
 - [Red Mage] - [Black Mage] 30, [Fencer] 30, _White Mage_ 30
 - [Sage] - [Black Mage] 60, [Time Mage] 60, _White Mage_ 60
 
-| Action    | Reaction           | Support            | Move |
-| ---       | ---                | ---                | ---  |
-| Attack    | **Regenerate**     | **Arcane Defense** | Mapless: 3
-| Charge Up | 1 x Choice         | 1 x Choice         | Move: 3
-| Defend    |                    |                    | Jump: 3
-| **[White Magick]** |           |                    | 1 x Choice
-| 1 x Choice |                   |
-| Item       |                   |
+| Action             | Reaction           | Support            | Move |
+| ---                | ---                | ---                | ---  |
+| Attack             | **Regenerate**     | **Arcane Defense** | Mapless: 3
+| Default            | 1 x Choice         | 1 x Choice         | Move: 3
+| **[White Magick]** |                    |                    | Jump: 3
+| 1 x Choice         |                    |                    | 1 x Choice
+| Item               |                    |                    | 
 
 - **Action: White Magick:** Control of fundamental life force and elemental light.
 - **Reaction: Regenerate (100 TP):** Upon taking damage, gain [Regen][Status: Regen].
