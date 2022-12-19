@@ -155,7 +155,19 @@ This is in addition to the other attribute & stat modifiers from equipment that 
 
 These paths are merely examples of the order in which to purchase Job Levels, which fit into typical combat roles. They are not necessarily the best for your current group, nor the best for your character's self actualization. Also keep in mind that, with enough playtime, it is possible to master every single Job in the game on one character.
 
-Be aware that the party's need to craft gear and items may require you to spent JP on Civilian Jobs as well.
+Be aware that the party's need to craft gear and items may require you to spend JP on Civilian Jobs as well.
+
+**Just The Basics** - focusing on jobs with simpler decisions, and slowly easing into fulfilling the fundamentals of various roles
+
+| Step                  | JP Spent |
+| ---                   | ---      |
+| Choose [Squire] 10    | 0        |
+| [Squire] 20           | 145
+| [Berserker] 99        |
+| [Chemist] 20          |
+| [Black Mage] 99       |
+| [White Mage] 99       |
+| [Freelancer] 99       |
 
 **Healer** - the role of the party leader
 
@@ -182,7 +194,7 @@ Be aware that the party's need to craft gear and items may require you to spent 
 | [Sharlayan Archon] 99 | 40,288
 | [Freelancer] 99       | 45,139
 
-**Thunder God** - the role of the frontline fighter
+**Thunder God** - the role of the powerful frontline fighter
 
 | Step               | JP Spent |
 | ---                | ---      |

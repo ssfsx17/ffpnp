@@ -15,7 +15,7 @@
 | 1 x Choice          |            |              |
 | Item                |            |              |
 
-- **Action: Divine Weapon:** Focusing the belief in your cause of protecting the many against the hoarding of the few.
+- **Action: Divine Weapon:** Focusing the belief in your cause of protecting the many against the hoarding and possessiveness of the few.
 - **Support: Chivalry:** When you restore an ally's HP (other than yourself), you also regain an amount of MP equal to your Level * Spirit * 0.01.
 
 | Weapon Proficiency | Armor Proficiency |

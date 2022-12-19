@@ -18,13 +18,17 @@ You are in a stable stance in which status conditions do not count down or expir
 
 After Armor Damage that you take is decreased by 15%.
 
-### Status: Atheist
+### Status: Aurora
 
-Both incoming and outgoing Magical damage is decreased by 25%.
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.1
 
 ### Status: Asylum
 
 Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.1
+
+### Status: Atheist
+
+Both incoming and outgoing Magical damage is decreased by 25%.
 
 ### Status: Berserk
 
@@ -86,6 +90,10 @@ In mapless combat, your Maneuver is increased by 1. In map combat, your horizont
 
 Your Initiative is doubled.
 
+### Status: Bow Shock
+
+Causes Physical Unaspected damage during the status phase. The damage is equal to 10% of your maximum HP.
+
 ### Status: Bravery
 
 Both incoming and outgoing Physical damage is increased by 25%.
@@ -133,6 +141,10 @@ Your maximum HP is doubled.
 ### Status: Burning
 
 Causes Fire-Aspected damage during the status phase. The damage is equal to 10% of your maximum HP.
+
+### Status: Camouflage
+
+You take 25% less Physical After-Armor Damage.
 
 ### Status: Chain Stratagem
 
@@ -242,6 +254,18 @@ Each instance of this status is linked to a specific element. "Physical" and "Un
 
 Your damage output is increased by 10%.
 
+### Status: Eukrasian Dosis
+
+Causes Unaspected damage during the status phase. The damage is equal to 5% of your maximum HP.
+
+### Status: Eukrasian Dosis-ra
+
+Causes Unaspected damage during the status phase. The damage is equal to 10% of your maximum HP.
+
+### Status: Eukrasian Dosis-ga
+
+Causes Unaspected damage during the status phase. The damage is equal to 15% of your maximum HP.
+
 ### Status: Exaltation
 
 You take 10% less After-Armor Damage. When this status expires, it restores an amount of HP to yourself equal to your Level * Stamina * 0.6.
@@ -260,7 +284,7 @@ Both incoming and outgoing Magical damage is increased by 25%.
 
 ### Status: Fight or Flight
 
-Your outgoing Physical damage is increased by 25%. Every time you cause Physical Damage, you gain 1 [Enmity] point.
+Your outgoing Physical damage is increased by 10%. Every time you cause Physical Damage, you gain 1 [Enmity] point.
 
 ### Status: Free Restore
 
@@ -280,6 +304,10 @@ Causes Physical damage during the status phase. The damage is equal to 10% of yo
 
 Every time you take Physical Damage, you gain 1 [Enmity] point. Every time you spend your own HP, you gain 2 [Enmity] points.
 
+### Status: Haimatinon
+
+Your Shield Points do not decay over time, including the status phase in which the duration of _Haimatinon_ would expire.
+
 ### Status: Hallowed Ground
 
 All attempts to cause damage to you have their Accuracy Class decreased by 1.
@@ -287,6 +315,18 @@ All attempts to cause damage to you have their Accuracy Class decreased by 1.
 ### Status: Haste
 
 Your Speed is doubled.
+
+### Status: Heart of Corundum
+
+Physical After-Armor Damage against you is decreased by 15%.
+
+### Status: Heart of Light
+
+Magical After-Armor Damage against you is decreased by 10%.
+
+### Status: Heart of Stone
+
+Physical After-Armor Damage against you is decreased by 15%.
 
 ### Status: Heat
 
@@ -307,6 +347,10 @@ You cannot be killed by whoever has [Holmgang Target][Status: Holmgang Target].
 ### Status: Holmgang Target
 
 You cannot move or use maneuver. You cannot kill whoever has [Holmgang Source][Status: Holmgang Source].
+
+### Status: Holos
+
+After Armor Damage that you take is decreased by 10%. The percentages of all such modifiers are added together, e.g. 10% and 30% add together for 40%.
 
 ### Status: Horoscope
 
@@ -332,9 +376,17 @@ Every time you do an action that causes Physical Damage, you gain 1 [Enmity] poi
 
 Causes Unaspected damage during the status phase. The damage is equal to the highest Initiative of the round.
 
+### Status: Kerachole
+
+After Armor Damage that you take is decreased by 10%. The percentages of all such modifiers are added together, e.g. 10% and 30% add together for 40%.
+
+### Status: Krasis
+
+All healing you receive from actions is increased by 20%.
+
 ### Status: Land Waker
 
-You take 80% less After-Armor Damage.
+After Armor Damage that you take is decreased by 80%. The percentages of all such modifiers are added together, e.g. 10% and 80% add together for 90%.
 
 ### Status: Leaden Fist
 
@@ -398,6 +450,10 @@ Plot Armor Enemies instead only have these stats reduced by 10%.
 
 You take 10% less After-Armor Damage.
 
+### Status: Nebula
+
+After Armor Damage that you take is decreased by 30%. The percentages of all such modifiers are added together, e.g. 10% and 30% add together for 40%.
+
 ### Status: Neutral Sect
 
 When you perform a Diurnal action, you also perform its Nocturnal action for free on the same targets. Likewise, when you perform a Nocturnal action, you also perform its Diurnal action for free on the same targets.
@@ -409,6 +465,10 @@ Restores HP during the status phase. The amount restored is equal to 10% of your
 ### Status: Nocturnal Sect
 
 For all healing you receive from actions, 10% of the healing is additionally given as Shield Points.
+
+### Status: No Mercy
+
+Your outgoing Physical damage is increased by 10%. Every time you deal a Critical Hit or better, you gain 3 [Enmity] points.
 
 ### Status: Oil
 
@@ -440,6 +500,14 @@ Plot Armor Enemies only lose one of their actions per turn.
 
 Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.1
 
+### Status: Physis
+
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.1
+
+### Status: Physis-ra
+
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.15
+
 ### Status: Pig
 
 You are unable to do TP-using or MP-using actions, unless they will remove Pig from yourself.
@@ -455,6 +523,10 @@ Causes Poison-aspected damage during the status phase. The damage is equal to 10
 ### Status: Presence of Mind
 
 You ignore Charge Time and Cast Time.
+
+### Status: Protect
+
+Physical After-Armor Damage against you is halved.
 
 ### Status: Quick
 
@@ -514,6 +586,10 @@ You can choose for your melee techniques to be considered to be targeting the fl
 
 Your melee damage is increased by 25%.
 
+### Status: Royal Guard
+
+Every time you do a Critical Hit or better, you gain 3 additional Enmity Points. Every time you defeat an enemy, you gain 3 additional Enmity Points.
+
 ### Status: Sacred Soil
 
 You take 10% less incoming damage.
@@ -533,6 +609,10 @@ After Armor Damage that you take is decreased by 30%. The percentages of all suc
 ### Status: Shadow Wall
 
 After Armor Damage that you take is decreased by 30%. The percentages of all such modifiers are added together, e.g. 10% and 30% add together for 40%.
+
+### Status: Shell
+
+Magical After-Armor Damage against you is halved.
 
 ### Status: Sheltron
 
@@ -556,6 +636,14 @@ You are unable to act or move. Furthermore, your P-Acc and M-Acc are zero. This 
 
 Plot Armor Enemies instead only lose one of their actions per turn.
 
+### Status: Sonic Break
+
+Causes Physical Unaspected damage during the status phase. The damage is equal to 10% of your maximum HP.
+
+### Status: Soteria
+
+All healing caused to you by a _Kardia_ link is increased by 50%.
+
 ### Status: Stoneskin
 
 You take 10% less damage. You also take half Earth-Aspected Damage.
@@ -576,9 +664,21 @@ You are unable to act or gain TP, but can still move. During the status phase, y
 
 Plot Armor Enemies instead have their TP costs increased by 25%.
 
+### Status: Sundered
+
+You are divided into 14 lesser shards of yourself, scattered across parallel universes.
+
+### Status: Superbolide
+
+You are immune to HP damage caused by actions.
+
 ### Status: Synastry
 
 All HP restoration to yourself is divided up amongst all allies who have _Synastry_.
+
+### Status: Taurochole
+
+After Armor Damage that you take is decreased by 10%. The percentages of all such modifiers are added together, e.g. 10% and 30% add together for 40%.
 
 ### Status: Temper
 

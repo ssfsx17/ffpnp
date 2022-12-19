@@ -2,7 +2,7 @@
 
 Also known as Summoned Beasts, Eidolons, Eikons and Primals. You must form a Pact with an Esper in order to be able to perform any of the listed actions.
 
-- **Dominant Form** - Allowing the Esper to temporarily displace yourself in the current plane of existence to act as a powerful creature. This lasts for six status phases. Also capable of performing the _Esper Action_, _Evocation Magick_ and _Summoning Magick_ for the duration. The costs are taken from the one who is maintaining the _Dominant Form_, rather than from the Esper. Requires  [Dominant] Job Levels.
+- **Dominant Form** - Allowing the Esper to temporarily displace yourself in the current plane of existence to act as a powerful creature. This lasts for six status phases. Also capable of performing the _Esper Action_, _Evocation Magick_ and _Summoning Magick_ for the duration, depending on your Job Levels. The costs are taken from the one who is maintaining the _Dominant Form_, rather than from the Esper. Requires [Dominant] Job Levels.
 - **Egi-Form** - Miniature and weakened version of the Esper, usable as a persistent companion. The Egi-Form is capable of performing the associated _Esper Action_. Requires [Arcanist] Job Levels.
 - **Esper Action** - Can only be used by the _Dominant Form_ and _Egi-Form_ of the Esper. Requires [Arcanist] or [Dominant] Job Levels, whichever is higher.
 - **Evocation Magick** - Evoking the personality of the Esper to produce a wide variety of effects. Requires [Evoker] Job Levels.
@@ -598,6 +598,8 @@ Magical Attack, Unaspected, dealing Level * Intellect * 0.5 damage.
 
 Magical Attack, Unaspected, targeting all enemies in the area for Level * Intellect Damage.
 
+### Bismarck
+
 ### Cyclops
 
 **Summoning Magick: Climactic Fear**
@@ -705,15 +707,25 @@ Restores Level * Wisdom * 0.2 HP to the target.
 
 ## Job Level 90
 
+### Anima
+
 ### Bahamut Zero
 
-### Knights of the Round
+### Hydaelyn
+
+**Evocation Magick: Lifestream Skip**
+
+**Summoning Magick: Sundering**
+
+| Cost        |
+| ---         |
+| Limit Break |
+
+Magical technique that attempts to cause [Sundered][Status: Sundered] to all enemies on the battlefield at double M-Acc. This is a Gravity/Death attack.
+
+### Magus Sisters
 
 ### Ragnarok
-
-## Job Level 99
-
-### Hydaelyn
 
 ### Zodiark
 
@@ -727,13 +739,13 @@ Restores Level * Wisdom * 0.2 HP to the target.
 
 Magical Attack, Dark-Aspected, targeting all enemies in the area for Level * Intellect * 1.4 Damage.
 
+## Job Level 99
+
+### Knights of the Round
+
 ---
 
-### Anima
-
 ### Atomos
-
-### Bismarck
 
 ### Brothers Sacred and Minotaur
 
@@ -765,8 +777,6 @@ Magical Attack, Dark-Aspected, targeting all enemies in the area for Level * Int
 
 ### Maduin
 
-### Magus Sisters
-
 ### Midgardsormr
 
 ### Pandemonium
@@ -774,8 +784,6 @@ Magical Attack, Dark-Aspected, targeting all enemies in the area for Level * Int
 ### Phantom
 
 ### Quetzalcoatl
-
-### Ragnarok
 
 ### Raiden
 

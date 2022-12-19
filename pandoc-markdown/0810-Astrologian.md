@@ -6,13 +6,13 @@
 
 - [Sharlayan Archon] - _Astrologian_ 80, [Nu Type] 80, [Scholar] 80
 
-| Action                    | Reaction          | Support         | Move |
-| ---                       | ---               | ---             | ---  |
-| Attack                    | 1 x Choice        | **Solar Cycle** | Mapless: 3
-| Default                   |                   | **Prescience**  | Move: 3
-| **[Astrological Magick]** |                   | 1 x Choice      | Jump: 3
-| 1 x Choice                |                   |                 | 1 x Choice
-| Item                      |                   |                 |
+| Action                    | Reaction   | Support         | Move |
+| ---                       | ---        | ---             | ---  |
+| Attack                    | 1 x Choice | **Solar Cycle** | Mapless: 3
+| Default                   |            | **Prescience**  | Move: 3
+| **[Astrological Magick]** |            | 1 x Choice      | Jump: 3
+| 1 x Choice                |            |                 | 1 x Choice
+| Item                      |            |                 |
 
 - **Action: Astrological Magick:** Interpreting stars, constellations, planetary arrangements, seasons, portents, tarot cards and other indicators of the will of the cosmos in order to maximize benefit for yourself and your allies.
 - **Support: Solar Cycle:** You can be in Diurnal or Nocturnal cycles.

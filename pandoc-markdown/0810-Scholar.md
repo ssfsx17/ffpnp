@@ -131,7 +131,7 @@ Magical Attack, Unaspected, targeting all enemies in the area for Level * Intell
 | ---       |
 | TP: 6,000 |
 
-Restores 3 Aetherflow to yourself. Also restores an amount of MP equal to 10% of your maximum MP.
+Restores 3 Aetherflow to yourself. Also restores an amount of MP equal to Level * Spirit * 0.1.
 
 **Lustrate**
 

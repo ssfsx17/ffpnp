@@ -139,7 +139,7 @@ Melee grapple that ignores P-Def.
 | ---  | ---     | --- |
 | None | Melee   | Melee
 
-Melee attack. Requires that you are in Coeurl / Tiger Form. Puts you into Opo-Opo / Monkey Form. Causes [Demolish][Status: Demolish] to the target for 6 status phases.
+Melee attack. Requires that you are in Coeurl / Tiger Form. Puts you into Opo-Opo / Monkey Form. Causes [Demolish][Status: Demolish] to the target for 5 status phases.
 
 **Fists of Wind**
 

@@ -31,4 +31,4 @@
 | 60 | Action: Pray
 | 99 | Job Mastered
 
-**Mastery Bonus:** When you cause HP-restoring, MP-restoring and TP-restoring statuses, they also do their effects immediately. You gain double the benefit of MP-restoring statuses.
+**Mastery Bonus:** When you cause HP-restoring, MP-restoring and TP-restoring statuses, they additionally do their effects immediately. You gain double the benefit of MP-restoring statuses.

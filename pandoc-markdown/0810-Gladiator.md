@@ -14,7 +14,7 @@
 | 1 x Choice     |                    |                  | 1 x Choice
 | Item           |                    |                  |
 
-- **Action: Sparring:** Entertaining and violent melee techniques.
+- **Action: Sparring:** Entertaining and violent melee techniques to excite the bloodthirsty audience.
 - **Reaction: Strike Back (100 TP):** Against a technique that is a Glancing Hit or Miss against you, you attack back.
 - **Support: Shield Bash:** You can use shields as if they were 1H Hammers of 10 Item Levels lower.
 - **Support: Shield Force:** You can have a maximum of 10 Shield Force points.

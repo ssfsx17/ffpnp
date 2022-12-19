@@ -68,8 +68,9 @@ title: Final Fantasy Fan Pen & Paper
         -   [Status: Advice](#status-advice)
         -   [Status: Anatman](#status-anatman)
         -   [Status: Aquaveil](#status-aquaveil)
-        -   [Status: Atheist](#status-atheist)
+        -   [Status: Aurora](#status-aurora)
         -   [Status: Asylum](#status-asylum)
+        -   [Status: Atheist](#status-atheist)
         -   [Status: Berserk](#status-berserk)
         -   [Status: Bleed](#status-bleed)
         -   [Status: Blind](#status-blind)
@@ -84,6 +85,7 @@ title: Final Fantasy Fan Pen & Paper
         -   [Status: Boost Magick](#status-boost-magick)
         -   [Status: Boost Movement](#status-boost-movement)
         -   [Status: Boost Speed](#status-boost-speed)
+        -   [Status: Bow Shock](#status-bow-shock)
         -   [Status: Bravery](#status-bravery)
         -   [Status: Broken Accessory](#status-broken-accessory)
         -   [Status: Broken Armor](#status-broken-armor)
@@ -95,6 +97,7 @@ title: Final Fantasy Fan Pen & Paper
         -   [Status: Brotherhood](#status-brotherhood)
         -   [Status: Bubble](#status-bubble)
         -   [Status: Burning](#status-burning)
+        -   [Status: Camouflage](#status-camouflage)
         -   [Status: Chain Stratagem](#status-chain-stratagem)
         -   [Status: Charm](#status-charm)
         -   [Status: Chicken](#status-chicken)
@@ -121,6 +124,9 @@ title: Final Fantasy Fan Pen & Paper
         -   [Status: Doom](#status-doom)
         -   [Status: Element Absorption](#status-element-absorption)
         -   [Status: Embolden](#status-embolden)
+        -   [Status: Eukrasian Dosis](#status-eukrasian-dosis)
+        -   [Status: Eukrasian Dosis-ra](#status-eukrasian-dosis-ra)
+        -   [Status: Eukrasian Dosis-ga](#status-eukrasian-dosis-ga)
         -   [Status: Exaltation](#status-exaltation)
         -   [Status: Excogitation](#status-excogitation)
         -   [Status: Eye of Nidhogg](#status-eye-of-nidhogg)
@@ -130,19 +136,26 @@ title: Final Fantasy Fan Pen & Paper
         -   [Status: Frozen](#status-frozen)
         -   [Status: Goring Blade](#status-goring-blade)
         -   [Status: Grit](#status-grit)
+        -   [Status: Haimatinon](#status-haimatinon)
         -   [Status: Hallowed Ground](#status-hallowed-ground)
         -   [Status: Haste](#status-haste)
+        -   [Status: Heart of Corundum](#status-heart-of-corundum)
+        -   [Status: Heart of Light](#status-heart-of-light)
+        -   [Status: Heart of Stone](#status-heart-of-stone)
         -   [Status: Heat](#status-heat)
         -   [Status: Hide](#status-hide)
         -   [Status: Hold](#status-hold)
         -   [Status: Holmgang Source](#status-holmgang-source)
         -   [Status: Holmgang Target](#status-holmgang-target)
+        -   [Status: Holos](#status-holos)
         -   [Status: Horoscope](#status-horoscope)
         -   [Status: Immobilize](#status-immobilize)
         -   [Status: Inner Release](#status-inner-release)
         -   [Status: Intervention](#status-intervention)
         -   [Status: Iron Will](#status-iron-will)
         -   [Status: Irradiated](#status-irradiated)
+        -   [Status: Kerachole](#status-kerachole)
+        -   [Status: Krasis](#status-krasis)
         -   [Status: Land Waker](#status-land-waker)
         -   [Status: Leaden Fist](#status-leaden-fist)
         -   [Status: Lightspeed](#status-lightspeed)
@@ -159,20 +172,25 @@ title: Final Fantasy Fan Pen & Paper
         -   [Status: Miasmaja](#status-miasmaja)
         -   [Status: Mini](#status-mini)
         -   [Status: Nascent Glint](#status-nascent-glint)
+        -   [Status: Nebula](#status-nebula)
         -   [Status: Neutral Sect](#status-neutral-sect)
         -   [Status: Nocturnal Celestial
             Intersection](#status-nocturnal-celestial-intersection)
         -   [Status: Nocturnal Sect](#status-nocturnal-sect)
+        -   [Status: No Mercy](#status-no-mercy)
         -   [Status: Oil](#status-oil)
         -   [Status: Old](#status-old)
         -   [Status: Oust](#status-oust)
         -   [Status: Perfect Balance](#status-perfect-balance)
         -   [Status: Petrify](#status-petrify)
         -   [Status: Phoenix Regen](#status-phoenix-regen)
+        -   [Status: Physis](#status-physis)
+        -   [Status: Physis-ra](#status-physis-ra)
         -   [Status: Pig](#status-pig)
         -   [Status: Plenary Indulgence](#status-plenary-indulgence)
         -   [Status: Poison](#status-poison)
         -   [Status: Presence of Mind](#status-presence-of-mind)
+        -   [Status: Protect](#status-protect)
         -   [Status: Quick](#status-quick)
         -   [Status: Raw Intuition](#status-raw-intuition)
         -   [Status: Rearise](#status-rearise)
@@ -187,20 +205,27 @@ title: Final Fantasy Fan Pen & Paper
         -   [Status: Resilient](#status-resilient)
         -   [Status: Riddle of Earth](#status-riddle-of-earth)
         -   [Status: Riddle of Fire](#status-riddle-of-fire)
+        -   [Status: Royal Guard](#status-royal-guard)
         -   [Status: Sacred Soil](#status-sacred-soil)
         -   [Status: Salted Earth](#status-salted-earth)
         -   [Status: Sap](#status-sap)
         -   [Status: Sentinel](#status-sentinel)
         -   [Status: Shadow Wall](#status-shadow-wall)
+        -   [Status: Shell](#status-shell)
         -   [Status: Sheltron](#status-sheltron)
         -   [Status: Shocked](#status-shocked)
         -   [Status: Silence](#status-silence)
         -   [Status: Sleep](#status-sleep)
+        -   [Status: Sonic Break](#status-sonic-break)
+        -   [Status: Soteria](#status-soteria)
         -   [Status: Stoneskin](#status-stoneskin)
         -   [Status: Stop](#status-stop)
         -   [Status: Storm’s Eye](#status-storms-eye)
         -   [Status: Stun](#status-stun)
+        -   [Status: Sundered](#status-sundered)
+        -   [Status: Superbolide](#status-superbolide)
         -   [Status: Synastry](#status-synastry)
+        -   [Status: Taurochole](#status-taurochole)
         -   [Status: Temper](#status-temper)
         -   [Status: Temperance](#status-temperance)
         -   [Status: Thin Air](#status-thin-air)
@@ -370,6 +395,7 @@ title: Final Fantasy Fan Pen & Paper
     -   [Job Level 60](#job-level-60)
         -   [Alexander](#alexander)
         -   [Bahamut](#bahamut)
+        -   [Bismarck](#bismarck)
         -   [Cyclops](#cyclops)
         -   [King Thordan](#king-thordan)
         -   [Ravana](#ravana)
@@ -387,15 +413,15 @@ title: Final Fantasy Fan Pen & Paper
         -   [Seraph](#seraph)
         -   [Warrior of Light](#warrior-of-light)
     -   [Job Level 90](#job-level-90)
-        -   [Bahamut Zero](#bahamut-zero)
-        -   [Knights of the Round](#knights-of-the-round)
-        -   [Ragnarok](#ragnarok)
-    -   [Job Level 99](#job-level-99)
-        -   [Hydaelyn](#hydaelyn)
-        -   [Zodiark](#zodiark)
         -   [Anima](#anima)
+        -   [Bahamut Zero](#bahamut-zero)
+        -   [Hydaelyn](#hydaelyn)
+        -   [Magus Sisters](#magus-sisters)
+        -   [Ragnarok](#ragnarok)
+        -   [Zodiark](#zodiark)
+    -   [Job Level 99](#job-level-99)
+        -   [Knights of the Round](#knights-of-the-round)
         -   [Atomos](#atomos)
-        -   [Bismarck](#bismarck)
         -   [Brothers Sacred and Minotaur](#brothers-sacred-and-minotaur)
         -   [Cactuar](#cactuar)
         -   [Cait Sith](#cait-sith)
@@ -411,12 +437,10 @@ title: Final Fantasy Fan Pen & Paper
         -   [Kujata](#kujata)
         -   [Leviathan](#leviathan-1)
         -   [Maduin](#maduin)
-        -   [Magus Sisters](#magus-sisters)
         -   [Midgardsormr](#midgardsormr)
         -   [Pandemonium](#pandemonium)
         -   [Phantom](#phantom)
         -   [Quetzalcoatl](#quetzalcoatl)
-        -   [Ragnarok](#ragnarok-1)
         -   [Raiden](#raiden)
         -   [Remora](#remora)
         -   [Siren](#siren)
@@ -753,8 +777,21 @@ current group, nor the best for your character’s self actualization. Also keep
 in mind that, with enough playtime, it is possible to master every single Job in
 the game on one character.
 
-Be aware that the party’s need to craft gear and items may require you to spent
+Be aware that the party’s need to craft gear and items may require you to spend
 JP on Civilian Jobs as well.
+
+**Just The Basics** - focusing on jobs with simpler decisions, and slowly easing
+into fulfilling the fundamentals of various roles
+
+| Step                         | JP Spent |
+|------------------------------|----------|
+| Choose [Squire](#squire) 10  | 0        |
+| [Squire](#squire) 20         | 145      |
+| [Berserker](#berserker) 99   |          |
+| [Chemist](#chemist) 20       |          |
+| [Black Mage](#black-mage) 99 |          |
+| [White Mage](#white-mage) 99 |          |
+| [Freelancer](#freelancer) 99 |          |
 
 **Healer** - the role of the party leader
 
@@ -781,7 +818,7 @@ JP on Civilian Jobs as well.
 | [Sharlayan Archon](#sharlayan-archon) 99 | 40,288   |
 | [Freelancer](#freelancer) 99             | 45,139   |
 
-**Thunder God** - the role of the frontline fighter
+**Thunder God** - the role of the powerful frontline fighter
 
 | Step                           | JP Spent |
 |--------------------------------|----------|
@@ -1401,45 +1438,45 @@ They must be crafted.
 
 ## Relics
 
-| Relic              | ILVL | Effect                                                                                                                                                        |
-|--------------------|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Battle Boots       | 1    | +1 Maneuver/Move                                                                                                                                              |
-| Spiked Boots       | 2    | +1 Jump                                                                                                                                                       |
-| Rubber Boots       | 3    | Immune to [Immobilize](#status-immobilize) and Lightning element                                                                                              |
-| Mage’s Cloak       | 5    | Adds your Experience Level to your Intellect                                                                                                                  |
-| Winged Boots       | 5    | Always have \[Float\]\[Status: Float\]                                                                                                                        |
-| Diamond Bracelet   | 10   | Adds your Experience Level to your Strength & Intellect, immune to \[Slow\]\[Status: Slow\]                                                                   |
-| Germinas Boots     | 10   | +1 Maneuver/Move & Jump                                                                                                                                       |
-| Power Gauntlet     | 10   | Adds your Experience Level to your Strength                                                                                                                   |
-| Protect Ring       | 10   | Immune to [Sleep](#status-sleep) and [Doom](#status-doom)                                                                                                     |
-| Elven Cloak        | 15   | Always have [Boost Accuracy](#status-boost-accuracy)                                                                                                          |
-| Guardian Bracelet  | 15   | Immune to [Immobilize](#status-immobilize) & [Disable](#status-disable)                                                                                       |
-| Hermes Shoes       | 15   | Adds your Experience Level to your Speed                                                                                                                      |
-| Jade Armlet        | 20   | Immune to [Petrify](#status-petrify) & [Stop](#status-stop)                                                                                                   |
-| Magick Ring        | 20   | Immune to [Silence](#status-silence) and [Berserk](#status-berserk)                                                                                           |
-| Nu Khai Armband    | 20   | Immune to [Confuse](#status-confuse) & [Charm](#status-charm), half After-Armor Damage from Dark element                                                      |
-| Red Shoes          | 20   | Adds your Experience Level to your Speed, +1 Maneuver/Move                                                                                                    |
-| Reflect Ring       | 20   | Always have \[Reflect\]\[Status: Reflect\]                                                                                                                    |
-| Japa Mala          | 30   | Immune to [Zombie](#status-zombie), [Toad](#status-toad) & [Poison](#status-poison)                                                                           |
-| Angel Ring         | 40   | Immune to [Blind](#status-blind), start combat with [Reraise](#status-reraise)                                                                                |
-| Gaius Caligae      | 40   | +2 Maneuver/Move                                                                                                                                              |
-| Magepower Glove    | 40   | Adds 2 \* your Experience Level to your Intellect                                                                                                             |
-| Cursed Ring        | 50   | Adds your Experience Level to your Strength & Intellect & Speed, immune to [Charm](#status-charm), always have [Zombie](#status-zombie)                       |
-| Invisibility Cloak | 50   | Always have [Vanish](#status-vanish)                                                                                                                          |
-| Brigand’s Gloves   | 60   | Adds your Experience Level to your Speed, always have [Haste](#status-haste)                                                                                  |
-| Chantage Perfume   | 60   | Always have [Regen](#status-regen), start combat with [Reraise](#status-reraise)                                                                              |
-| Cherche Perfume    | 60   | Always have \[Float\]\[Status: Float\] & \[Reflect\]\[Status: Reflect\]                                                                                       |
-| Septieme Perfume   | 60   | Adds your Experience Level to your Intellect, always have [Haste](#status-haste) & [Vanish](#status-vanish)                                                   |
-| Sortilege Perfume  | 60   | Always have \[Protect\]\[Status: Protect\] & \[Shell\]\[Status: Shell\]                                                                                       |
-| Empyreal Armband   | 70   | Adds your Experience Level to your Speed, immune to \[Slow\]\[Status: Slow\], [Stop](#status-stop) & [Immobilize](#status-immobilize)                         |
-| Bracer             | 90   | Adds 3 \* your Experience Level to your Strength                                                                                                              |
-| Genji Glove        | 99   | Adds 2 \* your Experience Level to your Strength & Intellect                                                                                                  |
-| Master’s Scroll    | 99   | Changes Attack to X-Fight, in which you perform four attack actions against random enemies, with half After-Armor Damage                                      |
-| Onion Gloves       | 99   | Adds total Job Levels to your P-Eva and M-Eva against status conditions                                                                                       |
-| Ribbon             | 99   | Double P-Eva & M-Eva against all status conditions                                                                                                            |
-| Sage’s Ring        | 99   | Absorb all elements                                                                                                                                           |
-| Soul of Thamasa    | 99   | All Magick actions cost double, in order to do their effects twice                                                                                            |
-| Tynar Rouge        | 99   | Adds 3 \* your Experience Level to your Strength & Intellect, always have \[Protect\]\[Status: Protect\], \[Shell\]\[Status: Shell\] & [Haste](#status-haste) |
+| Relic              | ILVL | Effect                                                                                                                                                |
+|--------------------|------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Battle Boots       | 1    | +1 Maneuver/Move                                                                                                                                      |
+| Spiked Boots       | 2    | +1 Jump                                                                                                                                               |
+| Rubber Boots       | 3    | Immune to [Immobilize](#status-immobilize) and Lightning element                                                                                      |
+| Mage’s Cloak       | 5    | Adds your Experience Level to your Intellect                                                                                                          |
+| Winged Boots       | 5    | Always have \[Float\]\[Status: Float\]                                                                                                                |
+| Diamond Bracelet   | 10   | Adds your Experience Level to your Strength & Intellect, immune to \[Slow\]\[Status: Slow\]                                                           |
+| Germinas Boots     | 10   | +1 Maneuver/Move & Jump                                                                                                                               |
+| Power Gauntlet     | 10   | Adds your Experience Level to your Strength                                                                                                           |
+| Protect Ring       | 10   | Immune to [Sleep](#status-sleep) and [Doom](#status-doom)                                                                                             |
+| Elven Cloak        | 15   | Always have [Boost Accuracy](#status-boost-accuracy)                                                                                                  |
+| Guardian Bracelet  | 15   | Immune to [Immobilize](#status-immobilize) & [Disable](#status-disable)                                                                               |
+| Hermes Shoes       | 15   | Adds your Experience Level to your Speed                                                                                                              |
+| Jade Armlet        | 20   | Immune to [Petrify](#status-petrify) & [Stop](#status-stop)                                                                                           |
+| Magick Ring        | 20   | Immune to [Silence](#status-silence) and [Berserk](#status-berserk)                                                                                   |
+| Nu Khai Armband    | 20   | Immune to [Confuse](#status-confuse) & [Charm](#status-charm), half After-Armor Damage from Dark element                                              |
+| Red Shoes          | 20   | Adds your Experience Level to your Speed, +1 Maneuver/Move                                                                                            |
+| Reflect Ring       | 20   | Always have \[Reflect\]\[Status: Reflect\]                                                                                                            |
+| Japa Mala          | 30   | Immune to [Zombie](#status-zombie), [Toad](#status-toad) & [Poison](#status-poison)                                                                   |
+| Angel Ring         | 40   | Immune to [Blind](#status-blind), start combat with [Reraise](#status-reraise)                                                                        |
+| Gaius Caligae      | 40   | +2 Maneuver/Move                                                                                                                                      |
+| Magepower Glove    | 40   | Adds 2 \* your Experience Level to your Intellect                                                                                                     |
+| Cursed Ring        | 50   | Adds your Experience Level to your Strength & Intellect & Speed, immune to [Charm](#status-charm), always have [Zombie](#status-zombie)               |
+| Invisibility Cloak | 50   | Always have [Vanish](#status-vanish)                                                                                                                  |
+| Brigand’s Gloves   | 60   | Adds your Experience Level to your Speed, always have [Haste](#status-haste)                                                                          |
+| Chantage Perfume   | 60   | Always have [Regen](#status-regen), start combat with [Reraise](#status-reraise)                                                                      |
+| Cherche Perfume    | 60   | Always have \[Float\]\[Status: Float\] & \[Reflect\]\[Status: Reflect\]                                                                               |
+| Septieme Perfume   | 60   | Adds your Experience Level to your Intellect, always have [Haste](#status-haste) & [Vanish](#status-vanish)                                           |
+| Sortilege Perfume  | 60   | Always have [Protect](#status-protect) & [Shell](#status-shell)                                                                                       |
+| Empyreal Armband   | 70   | Adds your Experience Level to your Speed, immune to \[Slow\]\[Status: Slow\], [Stop](#status-stop) & [Immobilize](#status-immobilize)                 |
+| Bracer             | 90   | Adds 3 \* your Experience Level to your Strength                                                                                                      |
+| Genji Glove        | 99   | Adds 2 \* your Experience Level to your Strength & Intellect                                                                                          |
+| Master’s Scroll    | 99   | Changes Attack to X-Fight, in which you perform four attack actions against random enemies, with half After-Armor Damage                              |
+| Onion Gloves       | 99   | Adds total Job Levels to your P-Eva and M-Eva against status conditions                                                                               |
+| Ribbon             | 99   | Double P-Eva & M-Eva against all status conditions                                                                                                    |
+| Sage’s Ring        | 99   | Absorb all elements                                                                                                                                   |
+| Soul of Thamasa    | 99   | All Magick actions cost double, in order to do their effects twice                                                                                    |
+| Tynar Rouge        | 99   | Adds 3 \* your Experience Level to your Strength & Intellect, always have [Protect](#status-protect), [Shell](#status-shell) & [Haste](#status-haste) |
 
 # Rules
 
@@ -1852,14 +1889,19 @@ expire in duration. Taking any action will end *Anatman*.
 
 After Armor Damage that you take is decreased by 15%.
 
-### Status: Atheist
+### Status: Aurora
 
-Both incoming and outgoing Magical damage is decreased by 25%.
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.1
 
 ### Status: Asylum
 
 Restores HP during the status phase. The amount restored is equal to your Level
 \* Stamina \* 0.1
+
+### Status: Atheist
+
+Both incoming and outgoing Magical damage is decreased by 25%.
 
 ### Status: Berserk
 
@@ -1927,6 +1969,11 @@ horizontal Move is increased by 1.
 
 Your Initiative is doubled.
 
+### Status: Bow Shock
+
+Causes Physical Unaspected damage during the status phase. The damage is equal
+to 10% of your maximum HP.
+
 ### Status: Bravery
 
 Both incoming and outgoing Physical damage is increased by 25%.
@@ -1984,6 +2031,10 @@ Your maximum HP is doubled.
 
 Causes Fire-Aspected damage during the status phase. The damage is equal to 10%
 of your maximum HP.
+
+### Status: Camouflage
+
+You take 25% less Physical After-Armor Damage.
 
 ### Status: Chain Stratagem
 
@@ -2118,6 +2169,21 @@ than taking damage from it.
 
 Your damage output is increased by 10%.
 
+### Status: Eukrasian Dosis
+
+Causes Unaspected damage during the status phase. The damage is equal to 5% of
+your maximum HP.
+
+### Status: Eukrasian Dosis-ra
+
+Causes Unaspected damage during the status phase. The damage is equal to 10% of
+your maximum HP.
+
+### Status: Eukrasian Dosis-ga
+
+Causes Unaspected damage during the status phase. The damage is equal to 15% of
+your maximum HP.
+
 ### Status: Exaltation
 
 You take 10% less After-Armor Damage. When this status expires, it restores an
@@ -2139,7 +2205,7 @@ Both incoming and outgoing Magical damage is increased by 25%.
 
 ### Status: Fight or Flight
 
-Your outgoing Physical damage is increased by 25%. Every time you cause Physical
+Your outgoing Physical damage is increased by 10%. Every time you cause Physical
 Damage, you gain 1 [Enmity](#enmity) point.
 
 ### Status: Free Restore
@@ -2164,6 +2230,11 @@ your maximum HP.
 Every time you take Physical Damage, you gain 1 [Enmity](#enmity) point. Every
 time you spend your own HP, you gain 2 [Enmity](#enmity) points.
 
+### Status: Haimatinon
+
+Your Shield Points do not decay over time, including the status phase in which
+the duration of *Haimatinon* would expire.
+
 ### Status: Hallowed Ground
 
 All attempts to cause damage to you have their Accuracy Class decreased by 1.
@@ -2171,6 +2242,18 @@ All attempts to cause damage to you have their Accuracy Class decreased by 1.
 ### Status: Haste
 
 Your Speed is doubled.
+
+### Status: Heart of Corundum
+
+Physical After-Armor Damage against you is decreased by 15%.
+
+### Status: Heart of Light
+
+Magical After-Armor Damage against you is decreased by 10%.
+
+### Status: Heart of Stone
+
+Physical After-Armor Damage against you is decreased by 15%.
 
 ### Status: Heat
 
@@ -2195,6 +2278,11 @@ You cannot be killed by whoever has [Holmgang Target](#status-holmgang-target).
 
 You cannot move or use maneuver. You cannot kill whoever has [Holmgang
 Source](#status-holmgang-source).
+
+### Status: Holos
+
+After Armor Damage that you take is decreased by 10%. The percentages of all
+such modifiers are added together, e.g. 10% and 30% add together for 40%.
 
 ### Status: Horoscope
 
@@ -2227,9 +2315,19 @@ Every time you do an action that causes Physical Damage, you gain 1
 Causes Unaspected damage during the status phase. The damage is equal to the
 highest Initiative of the round.
 
+### Status: Kerachole
+
+After Armor Damage that you take is decreased by 10%. The percentages of all
+such modifiers are added together, e.g. 10% and 30% add together for 40%.
+
+### Status: Krasis
+
+All healing you receive from actions is increased by 20%.
+
 ### Status: Land Waker
 
-You take 80% less After-Armor Damage.
+After Armor Damage that you take is decreased by 80%. The percentages of all
+such modifiers are added together, e.g. 10% and 80% add together for 90%.
 
 ### Status: Leaden Fist
 
@@ -2306,6 +2404,11 @@ Plot Armor Enemies instead only have these stats reduced by 10%.
 
 You take 10% less After-Armor Damage.
 
+### Status: Nebula
+
+After Armor Damage that you take is decreased by 30%. The percentages of all
+such modifiers are added together, e.g. 10% and 30% add together for 40%.
+
 ### Status: Neutral Sect
 
 When you perform a Diurnal action, you also perform its Nocturnal action for
@@ -2321,6 +2424,11 @@ maximum HP.
 
 For all healing you receive from actions, 10% of the healing is additionally
 given as Shield Points.
+
+### Status: No Mercy
+
+Your outgoing Physical damage is increased by 10%. Every time you deal a
+Critical Hit or better, you gain 3 [Enmity](#enmity) points.
 
 ### Status: Oil
 
@@ -2355,6 +2463,16 @@ Plot Armor Enemies only lose one of their actions per turn.
 Restores HP during the status phase. The amount restored is equal to your Level
 \* Stamina \* 0.1
 
+### Status: Physis
+
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.1
+
+### Status: Physis-ra
+
+Restores HP during the status phase. The amount restored is equal to your Level
+\* Stamina \* 0.15
+
 ### Status: Pig
 
 You are unable to do TP-using or MP-using actions, unless they will remove Pig
@@ -2372,6 +2490,10 @@ Causes Poison-aspected damage during the status phase. The damage is equal to
 ### Status: Presence of Mind
 
 You ignore Charge Time and Cast Time.
+
+### Status: Protect
+
+Physical After-Armor Damage against you is halved.
 
 ### Status: Quick
 
@@ -2439,6 +2561,11 @@ flank or rear.
 
 Your melee damage is increased by 25%.
 
+### Status: Royal Guard
+
+Every time you do a Critical Hit or better, you gain 3 additional Enmity Points.
+Every time you defeat an enemy, you gain 3 additional Enmity Points.
+
 ### Status: Sacred Soil
 
 You take 10% less incoming damage.
@@ -2462,6 +2589,10 @@ such modifiers are added together, e.g. 10% and 30% add together for 40%.
 
 After Armor Damage that you take is decreased by 30%. The percentages of all
 such modifiers are added together, e.g. 10% and 30% add together for 40%.
+
+### Status: Shell
+
+Magical After-Armor Damage against you is halved.
 
 ### Status: Sheltron
 
@@ -2487,6 +2618,15 @@ status is removed by taking damage from a regular Attack action.
 
 Plot Armor Enemies instead only lose one of their actions per turn.
 
+### Status: Sonic Break
+
+Causes Physical Unaspected damage during the status phase. The damage is equal
+to 10% of your maximum HP.
+
+### Status: Soteria
+
+All healing caused to you by a *Kardia* link is increased by 50%.
+
 ### Status: Stoneskin
 
 You take 10% less damage. You also take half Earth-Aspected Damage.
@@ -2508,10 +2648,24 @@ you lose an amount of TP equal to 25% of your maximum TP.
 
 Plot Armor Enemies instead have their TP costs increased by 25%.
 
+### Status: Sundered
+
+You are divided into 14 lesser shards of yourself, scattered across parallel
+universes.
+
+### Status: Superbolide
+
+You are immune to HP damage caused by actions.
+
 ### Status: Synastry
 
 All HP restoration to yourself is divided up amongst all allies who have
 *Synastry*.
+
+### Status: Taurochole
+
+After Armor Damage that you take is decreased by 10%. The percentages of all
+such modifiers are added together, e.g. 10% and 30% add together for 40%.
 
 ### Status: Temper
 
@@ -3623,7 +3777,7 @@ available, then this can be done by rolling a 1d6 and a 1d10.
 | Roll | Card             | Effect                                                                                                                                                                                            |
 |------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | Balance          | Grants [Boost Attack](#status-boost-attack) status                                                                                                                                                |
-| 2    | Bole             | Grants \[Protect\]\[Status: Protect\] status                                                                                                                                                      |
+| 2    | Bole             | Grants [Protect](#status-protect) status                                                                                                                                                          |
 | 3    | Arrow            | Grants \[Boost Magic\]\[Status: Boost Magic\] status                                                                                                                                              |
 | 4    | Spear            | Grants [Boost Accuracy](#status-boost-accuracy) status                                                                                                                                            |
 | 5    | Ewer             | Restores MP equal to your Spirit                                                                                                                                                                  |
@@ -3633,7 +3787,7 @@ available, then this can be done by rolling a 1d6 and a 1d10.
 | 9    | Magician         | Magical technique that attempts to cause [Broken Weapon](#status-broken-weapon) status                                                                                                            |
 | 10   | High Priestess   | Grants [Boost Healing](#status-boost-healing) status                                                                                                                                              |
 | 11   | Empress          | Grants [Resilient](#status-resilient) status                                                                                                                                                      |
-| 12   | Emperor          | Grants \[Protect\]\[Status: Protect\] status                                                                                                                                                      |
+| 12   | Emperor          | Grants [Protect](#status-protect) status                                                                                                                                                          |
 | 13   | Hierophant       | Grants [Cruelty](#status-cruelty) status                                                                                                                                                          |
 | 14   | Lovers           | Ends all status conditions on the target. This effect cannot be reflected.                                                                                                                        |
 | 15   | Chariot          | Magical technique that attempts to cause [Broken Armor](#status-broken-armor) status                                                                                                              |
@@ -4215,8 +4369,8 @@ removes one status condition of each target’s choice.
 **Song: Nameless Song**
 
 Targets one ally. Grants [Reraise](#status-reraise), [Regen](#status-regen),
-\[Protect\]\[Status: Protect\], \[Shell\]\[Status: Shell\] and
-[Haste](#status-haste) statuses.
+[Protect](#status-protect), [Shell](#status-shell) and [Haste](#status-haste)
+statuses.
 
 #### Bard 99
 
@@ -5433,8 +5587,8 @@ Magical technique that attempts to halve the target’s current MP.
 |         | E: Whole Party | Target H: 6     |
 |         |                | Effect H/V: 4/4 |
 
-Grants \[Protect\]\[Status: Protect\], \[Shell\]\[Status: Shell\] and
-\[Float\]\[Status: Float\] statuses to all allies in the area.
+Grants [Protect](#status-protect), [Shell](#status-shell) and \[Float\]\[Status:
+Float\] statuses to all allies in the area.
 
 **Vampire**
 
@@ -5494,8 +5648,8 @@ half M-Acc.
 |           | E: Whole Party | Target H: 6     |
 |           |                | Effect H/V: 4/4 |
 
-Grants \[Protect\]\[Status: Protect\], \[Shell\]\[Status: Shell\],
-\[Float\]\[Status: Float\], [Haste](#status-haste), [Regen](#status-regen) and
+Grants [Protect](#status-protect), [Shell](#status-shell), \[Float\]\[Status:
+Float\], [Haste](#status-haste), [Regen](#status-regen) and
 [Reraise](#status-reraise) statuses to all allies in the area.
 
 **Level 3 Flare**
@@ -5886,8 +6040,8 @@ Air-Aspected, dealing Level \* Intellect damage.
 |         | E: Single | Target H: 4     |
 |         |           | Effect H/V: 1/1 |
 
-Requires a brown or gold chocobo. Grants \[Protect\]\[Status: Protect\],
-\[Shell\]\[Status: Shell\] and [Regen](#status-regen) statuses.
+Requires a brown or gold chocobo. Grants [Protect](#status-protect),
+[Shell](#status-shell) and [Regen](#status-regen) statuses.
 
 #### Chocobo Knight 60
 
@@ -5899,8 +6053,8 @@ Requires a brown or gold chocobo. Grants \[Protect\]\[Status: Protect\],
 |         | E: Whole Party | Target H: 0         |
 |         |                | Effect H/V: 4/4     |
 
-Grants \[Protect\]\[Status: Protect\] and \[Shell\]\[Status: Shell\] statuses to
-all allies in the area.
+Grants [Protect](#status-protect) and [Shell](#status-shell) statuses to all
+allies in the area.
 
 #### Chocobo Knight 70
 
@@ -6030,7 +6184,7 @@ You summon a fat chocobo to sit on all enemies on the battlefield, dealing Level
 |      | E: Single | Target H: 4     |
 |      |           | Effect H/V: 1/1 |
 
-Grants \[Protect\]\[Status: Protect\] to the target.
+Grants [Protect](#status-protect) to the target.
 
 **Afflatus Dolorus**
 
@@ -6806,7 +6960,7 @@ Grants yourself [Shadow Wall](#status-shadow-wall) status for 4 status phases.
 |---------|
 | TP: 600 |
 
-Grants yourself \[Shell\]\[Status: Shell\] status.
+Grants yourself [Shell](#status-shell) status.
 
 **Edge of Darkness**
 
@@ -6961,8 +7115,8 @@ status.
 |           | E: Whole Party | Target H: 0         |
 |           |                | Effect H/V: 3/3     |
 
-Grants \[Shell\]\[Status: Shell\] and [Dark Missionary](#status-dark-missionary)
-to all allies in the area.
+Grants [Shell](#status-shell) and [Dark Missionary](#status-dark-missionary) to
+all allies in the area.
 
 **Stalwart Soul**
 
@@ -7013,7 +7167,7 @@ Damage.
 
 You create a manifestation of your inner darkness, which has the stats of an
 average NPC of your Level. The Living Shadow has the same Actions, Reactions,
-Supports, and Moves that you do.
+Supports, and Moves that you had when you did this action.
 
 ## Devout
 
@@ -7057,8 +7211,8 @@ Mage](#white-mage) 60
 | 99   | Job Mastered          |
 
 **Mastery Bonus:** When you cause HP-restoring, MP-restoring and TP-restoring
-statuses, they also do their effects immediately. You gain double the benefit of
-MP-restoring statuses.
+statuses, they additionally do their effects immediately. You gain double the
+benefit of MP-restoring statuses.
 
 ## Dominant
 
@@ -8153,8 +8307,7 @@ Attack, Lightning-Aspected.
 |-----------------|
 | Primed Munition |
 
-Targets one ally within weapon range. Grants \[Protect\]\[Status: Protect\]
-status.
+Targets one ally within weapon range. Grants [Protect](#status-protect) status.
 
 #### Fusilier 30
 
@@ -8172,7 +8325,7 @@ Attack, Ice-Aspected.
 |-----------------|
 | Primed Munition |
 
-Targets one ally within weapon range. Grants \[Shell\]\[Status: Shell\] status.
+Targets one ally within weapon range. Grants [Shell](#status-shell) status.
 
 #### Fusilier 40
 
@@ -8823,7 +8976,7 @@ your action is wasted.
     enemies on the battlefield for Level \* Intellect \* 1.6 damage. Win a Black
     Chocobo, which must then be collected from a casino.
 -   5% chance to win (whole party): Restores Level \* Spirit \* 0.6 MP and
-    Level \* Determination \* 0.6 AP to the whole party. Win a Golden Chocobo,
+    Level \* Determination \* 0.6 TP to the whole party. Win a Golden Chocobo,
     which must then be collected from a casino.
 
 Direct participation as a jockey adds to odds by 10%. If doing so, then having
@@ -9184,7 +9337,7 @@ Magical Attack, Air-Aspected, for Level \* Intellect \* 0.6 damage.
 |         | E: 1 row  | Target H: 6     |
 |         |           | Effect H/V: 2/2 |
 
-Grants \[Protect\]\[Status: Protect\] to all allies in the area.
+Grants [Protect](#status-protect) to all allies in the area.
 
 **Fire: Fire Fury**
 
@@ -9224,7 +9377,7 @@ Grants \[Float\]\[Status: Float\] to all allies in the area.
 |         | E: 1 row  | Target H: 6     |
 |         |           | Effect H/V: 2/2 |
 
-Grants \[Shell\]\[Status: Shell\] to all allies in the area.
+Grants [Shell](#status-shell) to all allies in the area.
 
 **Magic: Ley Line**
 
@@ -9656,7 +9809,8 @@ skip the TP costs of *Geomancy* performed in this manner.
 | 1 x Choice                |                 |                  | 1 x Choice |
 | Item                      |                 |                  |            |
 
--   **Action: Sparring:** Entertaining and violent melee techniques.
+-   **Action: Sparring:** Entertaining and violent melee techniques to excite
+    the bloodthirsty audience.
 -   **Reaction: Strike Back (100 TP):** Against a technique that is a Glancing
     Hit or Miss against you, you attack back.
 -   **Support: Shield Bash:** You can use shields as if they were 1H Hammers of
@@ -9900,7 +10054,7 @@ points for each hit.
 
 -   **Action: Charged Weapon:** Igniting magic cartridges at the right timing in
     order to enhance weapon strikes.
--   **Support: Cartridge Charge:** You can hold a maximum of 3 Cartridges.
+-   **Support: Cartridge Charge:** You can hold a maximum of 6 Cartridges.
 -   **Support: Trigger Timing:** Your critical chance is increased by 10%. This
     would be a total of 20%. These modifiers are additive, so with two such
     modifiers, the chance would be 30%.
@@ -9918,9 +10072,312 @@ points for each hit.
 | 80   | Support: Trigger Timing   |
 | 99   | Job Mastered              |
 
-**Mastery Bonus:**
+**Mastery Bonus:** Your critical chance is increased by 10%. This would be a
+total of 20%. These modifiers are additive, so with two such modifiers, the
+chance would be 30%.
 
 ### Charged Weapon
+
+#### Gunbreaker 1
+
+**Brutal Shell**
+
+| Cost    |
+|---------|
+| TP: 200 |
+
+Attack. Heals yourself for Level \* Vitality \* 0.01 HP, and grants yourself an
+equal amount of Shield points.
+
+**Camouflage**
+
+| Cost    |
+|---------|
+| TP: 900 |
+
+Grants yourself [Camouflage](#status-camouflage) for 6 status phases.
+
+**Keen Edge**
+
+| Cost    |
+|---------|
+| TP: 100 |
+
+Attack. If it is a critical hit or better, then you gain 3 additional Enmity
+Points. If this technique defeats an enemy, then you gain 3 additional Enmity
+Points.
+
+**No Mercy**
+
+| Cost    |
+|---------|
+| TP: 600 |
+
+Grants yourself [No Mercy](#status-no-mercy) for 6 status phases.
+
+#### Gunbreaker 10
+
+**Danger Zone**
+
+| Cost      |
+|-----------|
+| TP: 3,000 |
+
+Attack. This technique can be performed immediately after any [Charged
+Weapon](#charged-weapon) technique as long as *Danger Zone* has not been done
+yet in your action.
+
+**Demon Slice**
+
+| Cost    | Mapless                 | Map                 |
+|---------|-------------------------|---------------------|
+| TP: 100 | R: 2 rows               | Self-Centered Burst |
+|         | E: Front row of enemies | Target H: 0         |
+|         |                         | Effect H/V: 3/3     |
+
+Project your attack into all enemies in the area. After-Armor Damage is halved.
+
+**Lightning Shot**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 100 | R: 4 rows | Ranged Direct   |
+|         | E: Single | Target H: 4     |
+|         |           | Effect H/V: 1/1 |
+
+Projects your weapon into the target. You gain 1 [Enmity](#enmity) point.
+
+**Royal Guard**
+
+Grants yourself [Royal Guard](#status-royal-guard). This action can also be used
+to remove [Royal Guard](#status-royal-guard) from yourself.
+
+#### Gunbreaker 20
+
+**Solid Barrel**
+
+| Cost    |
+|---------|
+| TP: 300 |
+
+Attack. You gain 1 Cartridge.
+
+#### Gunbreaker 30
+
+**Burst Strike**
+
+| Cost        |
+|-------------|
+| 1 Cartridge |
+
+Attack for double damage.
+
+**Nebula**
+
+| Cost      |
+|-----------|
+| TP: 1,200 |
+
+Grants yourself [Nebula](#status-nebula) for 6 status phases.
+
+#### Gunbreaker 40
+
+**Aurora**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 600 | R: 4 rows | Ranged Direct   |
+|         | E: Single | Target H: 4     |
+|         |           | Effect H/V: 1/1 |
+
+Grants the target [Aurora](#status-aurora) for 6 status phases. This can be
+performed immediately after any [Charged Weapon](#charged-weapon) technique as
+long as *Aurora* has not been done yet in your action, for 10x the TP cost
+(6,000 TP).
+
+**Demon Slaughter**
+
+| Cost      | Mapless                 | Map                 |
+|-----------|-------------------------|---------------------|
+| TP: 1,000 | R: 2 rows               | Self-Centered Burst |
+|           | E: Front row of enemies | Target H: 0         |
+|           |                         | Effect H/V: 3/3     |
+
+Project your attack into all enemies in the area. After-Armor Damage is halved.
+You gain 1 Cartridge.
+
+#### Gunbreaker 50
+
+**Rough Divide**
+
+| Cost    |
+|---------|
+| TP: 300 |
+
+Move and Attack. This can be done twice in a row, but by multiplying the cost
+20x (to a total of 6,000 TP).
+
+**Sonic Break**
+
+| Cost    |
+|---------|
+| TP: 600 |
+
+Attack, and attempt to cause [Sonic Break](#status-sonic-break) status to the
+target.
+
+**Superbolide**
+
+| Cost      |
+|-----------|
+| TP: 3,600 |
+
+Reduces your current HP to 1 and grants yourself
+[Superbolide](#status-superbolide) for 2 status phases.
+
+#### Gunbreaker 60
+
+**Bow Shock**
+
+| Cost    | Mapless                 | Map                 |
+|---------|-------------------------|---------------------|
+| TP: 600 | R: 2 rows               | Self-Centered Burst |
+|         | E: Front row of enemies | Target H: 0         |
+|         |                         | Effect H/V: 3/3     |
+
+Project your attack into all enemies in the area. After-Armor Damage is halved.
+Attempts to cause [Bow Shock](#status-bow-shock) status to all enemies in the
+area.
+
+**Gnashing Fang**
+
+| Cost        |
+|-------------|
+| 1 Cartridge |
+
+Attack. This technique is not special by itself, but other techniques may
+specify that they follow this one.
+
+**Heart of Light**
+
+| Cost    | Mapless        | Map                 |
+|---------|----------------|---------------------|
+| TP: 900 | R: 4 rows      | Self-Centered Burst |
+|         | E: Whole party | Target H: 0         |
+|         |                | Effect H/V: 3/3     |
+
+Grants [Heart of Light](#status-heart-of-light) to all allies in the area for 6
+status phases. This can be performed immediately after any other [Charged
+Weapon](#charged-weapon) technique as long as *Heart of Light* has not been done
+yet in your action, for 10x the cost (total of 9,000 TP).
+
+**Heart of Stone**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 250 | R: 4 rows | Ranged Direct   |
+|         | E: Single | Target H: 4     |
+|         |           | Effect H/V: 1/1 |
+
+Grants [Heart of Stone](#status-heart-of-stone) to the target for 6 status
+phases. This can be performed immediately after any other [Charged
+Weapon](#charged-weapon) technique as long as *Heart of Stone* has not been done
+yet in your action, for 10x the cost (total of 2,500 TP).
+
+**Savage Claw**
+
+| Cost        |
+|-------------|
+| 1 Cartridge |
+
+Attack. This can be done immediately after *Gnashing Fang*.
+
+**Wicked Talon**
+
+| Cost        |
+|-------------|
+| 1 Cartridge |
+
+Attack. This can be done immediately after *Savage Claw*.
+
+#### Gunbreaker 70
+
+**Fated Circle**
+
+| Cost        | Mapless                 | Map                 |
+|-------------|-------------------------|---------------------|
+| 1 Cartridge | R: 2 rows               | Self-Centered Burst |
+|             | E: Front row of enemies | Target H: 0         |
+|             |                         | Effect H/V: 3/3     |
+
+Project your attack into all enemies in the area.
+
+**Continuation**
+
+| Cost        |
+|-------------|
+| 1 Cartridge |
+| Special     |
+
+Attack. This technique can only be performed immediately after getting a
+Critical Hit or better from *Gnashing Fang*, *Savage Claw* and *Wicked Talon*.
+With all three getting criticals and followed-up by *Continuation*, that would
+be a total of 6 attacks in one action.
+
+#### Gunbreaker 80
+
+**Blasting Zone**
+
+| Cost      |
+|-----------|
+| TP: 3,000 |
+
+Attack. This technique can be performed immediately after any [Charged
+Weapon](#charged-weapon) technique as long as *Blasting Zone* itself has not
+been done yet in your action.
+
+**Bloodfest**
+
+| Cost      |
+|-----------|
+| TP: 9,000 |
+
+Gain 6 Cartridges.
+
+**Heart of Corundum**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 500 | R: 4 rows | Ranged Direct   |
+|         | E: Single | Target H: 4     |
+|         |           | Effect H/V: 1/1 |
+
+Restores Level \* Wisdom \* 0.2 HP to the target. Grants [Heart of
+Corundum](#status-heart-of-corundum) to the target for 6 status phases. This can
+be performed immediately after any other [Charged Weapon](#charged-weapon)
+technique as long as *Heart of Corundum* has not been done yet in your action,
+for 10x the cost (total of 5,000 TP).
+
+**Hypervelocity**
+
+| Cost      |
+|-----------|
+| TP: 3,000 |
+
+Attack. This can only be performed immediately after *Burst Strike* or *Fated
+Circle*.
+
+#### Gunbreaker 90
+
+**Double Down**
+
+| Cost      | Mapless                 | Map                 |
+|-----------|-------------------------|---------------------|
+| TP: 6,000 | R: 2 rows               | Self-Centered Burst |
+|           | E: Front row of enemies | Target H: 0         |
+|           |                         | Effect H/V: 3/3     |
+
+Project your attack into all enemies in the area, for double damage.
 
 #### Gunbreaker 99
 
@@ -9929,6 +10386,10 @@ points for each hit.
 | Cost        |
 |-------------|
 | Limit Break |
+
+Expend all Cartridges. For each Cartridge spent on this, perform an Attack for
+double damage. Each attack during this technique has a 10% increased Critical
+Hit chance. Afterwards, gain 6 Cartridges.
 
 ## Jongleur
 
@@ -11331,7 +11792,8 @@ of the same Item Level.
     perform a Chakra-using [Martial Arts](#martial-arts) technique, you may
     choose to also perform *Form Shift* immediately afterwards.
 -   **Move: Lifefont:** After moving in map combat, or after using Maneuver in
-    mapless combat, you regain an amount of HP equal to 10% of your maximum.
+    mapless combat, you regain an amount of HP equal to Level \* Vitality \*
+    0.01
 
 | Weapon Proficiency | Armor Proficiency |
 |--------------------|-------------------|
@@ -11474,6 +11936,18 @@ reduced to 1/4th.
 
 Perform a spinning melee attack against everyone who is adjacent to you.
 
+**Meditation**
+
+Gain 1 Chakra.
+
+**Steel Peak**
+
+| Cost      |
+|-----------|
+| 5 Chakras |
+
+Attack the same target two times.
+
 **Withering Strike**
 
 | Cost     |
@@ -11522,6 +11996,17 @@ Physical.
 Melee attack. The damage is Magical and Holy-Aspected.
 
 #### Monk 40
+
+**Howling Fist**
+
+| Cost      | Mapless        | Map         |
+|-----------|----------------|-------------|
+| 5 Chakras | R: 3 rows      | Ranged Line |
+|           | E: All enemies | Length: 4   |
+|           |                | Width: 3    |
+
+Projects a melee attack against all enemies in the area. After-Armor Damage is
+halved.
 
 **Mantra**
 
@@ -11575,10 +12060,6 @@ Stamina \* 0.5 damage.
 | TP: 500   |
 
 Melee attack for triple damage.
-
-**Meditation**
-
-Gain 1 Chakra.
 
 #### Monk 60
 
@@ -12452,7 +12933,437 @@ Perform five attacks on one target.
 -   [Sharlayan Archon](#sharlayan-archon) - [Astrologian](#astrologian) 80, *Nu
     Type* 80, [Scholar](#scholar) 80
 
+| Action                          | Reaction   | Support           | Move       |
+|---------------------------------|------------|-------------------|------------|
+| Attack                          | 1 x Choice | **Adderscharges** | Mapless: 3 |
+| Default                         |            | 1 x Choice        | Move: 3    |
+| **[Somanoutics](#somanoutics)** |            |                   | Jump: 3    |
+| 1 x Choice                      |            |                   | 1 x Choice |
+| Item                            |            |                   |            |
+
+-   **Action: Somanoutics:** Relying on Nu Type devices to convert your aether
+    in forms of healing and harming.
+-   **Support: Adderscharges:** You can hold a maximum of 3 Addersgall Charges
+    and 3 Addersting Charges. You automatically gain 1 Addersgall Charge every 4
+    status phases. Whenever yourself or an ally reaches 0 Shield Points due to
+    damage, you gain 1 Addersting Charge.
+
+| Weapon Proficiency | Armor Proficiency |
+|--------------------|-------------------|
+| 1H Canes           | Magic             |
+| **2H Nouliths**    | Healer            |
+| 1 x Choice         | 1 x Choice        |
+
+| JLVL | Unlock                          |
+|------|---------------------------------|
+| 10   | Action: Somanoutics             |
+| 20   | Support: Adderscharges          |
+| 40   | Weapon Proficiency: 2H Nouliths |
+| 99   | Job Mastered                    |
+
+**Mastery Bonus:** The range of all of your targeted healing actions is
+increased by four squares. The radius of all of your self-centered healing
+actions is increased by two squares. In Mapless combat, if your action was
+healing, then you gain 2 Maneuver at the end of your turn.
+
 ### Somanoutics
+
+#### Nu Type 1
+
+**Dosis**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 200 | R: 4 rows | Ranged Indirect |
+| MP: 400        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
+
+Magical Attack, Unaspected, dealing Level \* Intellect \* 0.4 damage. Also
+restores Level \* Wisdom \* 0.1 HP to your linked *Kardia* subject.
+
+**Diagnosis**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 200 | R: 4 rows | Ranged Indirect |
+| MP: 400        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
+
+Restores Level \* Wisdom \* 0.4 HP to the target.
+
+**Kardia**
+
+| Cost | Mapless   | Map             |
+|------|-----------|-----------------|
+| None | R: 4 rows | Ranged Indirect |
+|      | E: Single | Target H: 4     |
+|      |           | Effect H/V: 1/1 |
+
+Establishes a *Kardia* link with the target. If you already have a *Kardia*
+link, then this ability will replace it.
+
+#### Nu Type 10
+
+**Egeiro**
+
+| Cost             | Mapless   | Map             |
+|------------------|-----------|-----------------|
+| Cast Time: 1,200 | R: 6 rows | Ranged Indirect |
+| MP: 2,400        | E: Single | Target H: 6     |
+|                  |           | Effect H/V: 1/1 |
+
+Revives the target at full HP.
+
+**Prognosis**
+
+| Cost           | Mapless        | Map                 |
+|----------------|----------------|---------------------|
+| Cast Time: 400 | R: 2 rows      | Self-Centered Burst |
+| MP: 800        | E: Whole party | Target H: 0         |
+|                |                | Effect H/V: 4/4     |
+
+Restores Level \* Wisdom \* 0.3 HP to all allies in the area.
+
+#### Nu Type 20
+
+**Phlegma**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| MP: 400 | R: 4 rows | Ranged Indirect |
+| TP: 450 | E: 1 row  | Target H: 4     |
+|         |           | Effect H/V: 2/2 |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Intellect \* 0.4 damage. Also restores Level \* Wisdom \* 0.1 HP to your linked
+*Kardia* subject.
+
+**Physis**
+
+| Cost    | Mapless        | Map                 |
+|---------|----------------|---------------------|
+| TP: 600 | R: 2 rows      | Self-Centered Burst |
+|         | E: Whole party | Target H: 0         |
+|         |                | Effect H/V: 4/4     |
+
+Grants [Physis](#status-physis) to all allies in the area for 6 status phases.
+
+#### Nu Type 30
+
+**Eukrasian Diagnosis**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 200 | R: 4 rows | Ranged Indirect |
+| MP: 900        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
+
+Restores Level \* Wisdom \* 0.4 HP to the target, and grants an equal amount of
+Shield Points.
+
+**Eukrasian Dosis**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| MP: 400 | R: 4 rows | Ranged Indirect |
+|         | E: Single | Target H: 4     |
+|         |           | Effect H/V: 1/1 |
+
+Magical technique that attempts to cause [Eukrasian
+Dosis](#status-eukrasian-dosis) status to the target at double M-Acc.
+
+**Eukrasian Prognosis**
+
+| Cost           | Mapless        | Map                 |
+|----------------|----------------|---------------------|
+| Cast Time: 400 | R: 2 rows      | Self-Centered Burst |
+| MP: 900        | E: Whole party | Target H: 0         |
+|                |                | Effect H/V: 4/4     |
+
+Restores Level \* Wisdom \* 0.2 HP to all allies in the area, and grants an
+equal amount of Shield Points.
+
+**Soteria**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 900 | R: 4 rows | Ranged Indirect |
+|         | E: Single | Target H: 4     |
+|         |           | Effect H/V: 1/1 |
+
+Grants [Soteria](#status-soteria) to the target for 6 status phases.
+
+#### Nu Type 40
+
+**Druochole**
+
+| Cost                | Mapless   | Map             |
+|---------------------|-----------|-----------------|
+| 1 Addersgall Charge | R: 4 rows | Ranged Indirect |
+|                     | E: Single | Target H: 4     |
+|                     |           | Effect H/V: 1/1 |
+
+Restores Level \* Wisdom \* 0.6 HP to the target.
+
+**Dyskrasia**
+
+| Cost    | Mapless                 | Map                 |
+|---------|-------------------------|---------------------|
+| MP: 400 | R: 2 rows               | Self-Centered Burst |
+|         | E: Front row of enemies | Target H: 0         |
+|         |                         | Effect H/V: 3/3     |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Intellect \* 0.3 damage. Also restores Level \* Wisdom \* 0.1 HP to your linked
+*Kardia* subject.
+
+**Icarus**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| TP: 450 | R: 2 rows | Ranged Direct   |
+|         | E: Single | Target H: 6     |
+|         |           | Effect H/V: 1/1 |
+
+Teleports yourself to a square adjacent to the target. In mapless combat, this
+grants yourself 4 Maneuver and moves you into the row of the target.
+
+#### Nu Type 50
+
+**Ixochole**
+
+| Cost                | Mapless        | Map                 |
+|---------------------|----------------|---------------------|
+| 1 Addersgall Charge | R: 4 rows      | Self-Centered Burst |
+| TP: 300             | E: Whole party | Target H: 0         |
+|                     |                | Effect H/V: 4/4     |
+
+Restores Level \* Wisdom \* 0.5 HP to all allies in the area.
+
+**Kerachole**
+
+| Cost                | Mapless        | Map                 |
+|---------------------|----------------|---------------------|
+| 1 Addersgall Charge | R: 4 rows      | Self-Centered Burst |
+| TP: 300             | E: Whole party | Target H: 0         |
+|                     |                | Effect H/V: 4/4     |
+
+Grants [Kerachole](#status-kerachole) to all allies in the area for 6 status
+phases.
+
+**Pepsis**
+
+| Cost    | Mapless        | Map                 |
+|---------|----------------|---------------------|
+| TP: 300 | R: 4 rows      | Self-Centered Burst |
+|         | E: Whole party | Target H: 0         |
+|         |                | Effect H/V: 4/4     |
+
+Converts all Shield Points on all allies in the area into HP healing.
+
+**Zoe**
+
+| Cost      |
+|-----------|
+| TP: 3,000 |
+
+Perform a [Somanoutics](#somanoutics) action that restores HP. The amount of HP
+restored is doubled.
+
+#### Nu Type 60
+
+**Physis-ra**
+
+| Cost      | Mapless        | Map                 |
+|-----------|----------------|---------------------|
+| TP: 1,200 | R: 2 rows      | Self-Centered Burst |
+|           | E: Whole party | Target H: 0         |
+|           |                | Effect H/V: 4/4     |
+
+Grants [Physis-ra](#status-physis-ra) to all allies in the area for 6 status
+phases.
+
+**Taurochole**
+
+| Cost                | Mapless   | Map             |
+|---------------------|-----------|-----------------|
+| 1 Addersgall Charge | R: 4 rows | Ranged Indirect |
+| TP: 4,500           | E: Single | Target H: 4     |
+|                     |           | Effect H/V: 1/1 |
+
+Restores Level \* Wisdom \* 0.6 HP to the target. Also grants
+[Taurochole](#status-taurochole) to the target.
+
+**Toxikon**
+
+| Cost                | Mapless   | Map             |
+|---------------------|-----------|-----------------|
+| 1 Addersting Charge | R: 4 rows | Ranged Indirect |
+|                     | E: 1 row  | Target H: 4     |
+|                     |           | Effect H/V: 2/2 |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Intellect \* 0.5 damage. Also restores Level \* Wisdom \* 0.1 HP to your linked
+*Kardia* subject.
+
+#### Nu Type 70
+
+**Dosis-ra**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 400 | R: 4 rows | Ranged Indirect |
+| MP: 800        | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
+
+Magical Attack, Unaspected, dealing Level \* Intellect \* 0.5 damage. Also
+restores Level \* Wisdom \* 0.1 HP to your linked *Kardia* subject.
+
+**Eukrasian Dosis-ra**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| MP: 800 | R: 4 rows | Ranged Indirect |
+|         | E: Single | Target H: 4     |
+|         |           | Effect H/V: 1/1 |
+
+Magical technique that attempts to cause [Eukrasian
+Dosis-ra](#status-eukrasian-dosis-ra) status to the target at double M-Acc.
+
+**Haima**
+
+| Cost      | Mapless   | Map             |
+|-----------|-----------|-----------------|
+| TP: 1,200 | R: 4 rows | Ranged Indirect |
+|           | E: Single | Target H: 4     |
+|           |           | Effect H/V: 1/1 |
+
+Grants [Haimatinon](#status-haimatinon) to the target for 6 status phases.
+
+**Holos**
+
+| Cost      | Mapless        | Map                 |
+|-----------|----------------|---------------------|
+| TP: 1,200 | R: 2 rows      | Self-Centered Burst |
+|           | E: Whole party | Target H: 0         |
+|           |                | Effect H/V: 4/4     |
+
+Grants [Holos](#status-holos) to all allies in the area for 6 status phases.
+
+**Phlegma-ra**
+
+| Cost    | Mapless   | Map             |
+|---------|-----------|-----------------|
+| MP: 800 | R: 4 rows | Ranged Indirect |
+| TP: 900 | E: 1 row  | Target H: 4     |
+|         |           | Effect H/V: 2/2 |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Intellect \* 0.6 damage. Also restores Level \* Wisdom \* 0.1 HP to your linked
+*Kardia* subject.
+
+**Rhizomata**
+
+| Cost    |
+|---------|
+| TP: 900 |
+
+Grants yourself 1 Addersgall Charge.
+
+#### Nu Type 80
+
+**Dosis-ga**
+
+| Cost           | Mapless   | Map             |
+|----------------|-----------|-----------------|
+| Cast Time: 800 | R: 4 rows | Ranged Indirect |
+| MP: 1,600      | E: Single | Target H: 4     |
+|                |           | Effect H/V: 1/1 |
+
+Magical Attack, Unaspected, dealing Level \* Intellect \* 0.6 damage. Also
+restores Level \* Wisdom \* 0.1 HP to your linked *Kardia* subject.
+
+**Dyskrasia-ra**
+
+| Cost    | Mapless                 | Map                 |
+|---------|-------------------------|---------------------|
+| MP: 800 | R: 2 rows               | Self-Centered Burst |
+|         | E: Front row of enemies | Target H: 0         |
+|         |                         | Effect H/V: 3/3     |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Intellect \* 0.4 damage. Also restores Level \* Wisdom \* 0.1 HP to your linked
+*Kardia* subject.
+
+**Eukrasian Dosis-ga**
+
+| Cost      | Mapless   | Map             |
+|-----------|-----------|-----------------|
+| MP: 1,600 | R: 4 rows | Ranged Indirect |
+|           | E: Single | Target H: 4     |
+|           |           | Effect H/V: 1/1 |
+
+Magical technique that attempts to cause [Eukrasian
+Dosis-ga](#status-eukrasian-dosis-ga) status to the target at double M-Acc.
+
+**Krasis**
+
+| Cost    | Mapless        | Map                 |
+|---------|----------------|---------------------|
+| TP: 600 | R: 4 rows      | Self-Centered Burst |
+|         | E: Whole party | Target H: 0         |
+|         |                | Effect H/V: 4/4     |
+
+Grants [Krasis](#status-krasis) to all allies in the area for 6 status phases.
+
+**Panhaima**
+
+| Cost      | Mapless        | Map                 |
+|-----------|----------------|---------------------|
+| TP: 1,200 | R: 4 rows      | Self-Centered Burst |
+|           | E: Whole party | Target H: 0         |
+|           |                | Effect H/V: 4/4     |
+
+Grants Level \* Wisdom \* 0.4 Shield Points to all allies in the area. Also
+grants [Haimatinon](#status-haimatinon) for 2 status phases.
+
+**Toxikon-ra**
+
+| Cost                 | Mapless   | Map             |
+|----------------------|-----------|-----------------|
+| 3 Addersting Charges | R: 4 rows | Ranged Indirect |
+|                      | E: 1 row  | Target H: 4     |
+|                      |           | Effect H/V: 2/2 |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Intellect \* 0.8 damage. Also restores Level \* Wisdom \* 0.1 HP to your linked
+*Kardia* subject.
+
+#### Nu Type 90
+
+**Pneuma**
+
+| Cost      | Mapless        | Map         |
+|-----------|----------------|-------------|
+| TP: 1,200 | R: 3 rows      | Ranged Line |
+| MP: 700   | E: All enemies | Length: 4   |
+|           |                | Width: 3    |
+
+Magical Attack, Unaspected, targeting all enemies in the area for Level \*
+Intellect \* 0.4 damage. Also restores Level \* Wisdom \* 0.1 HP to all allies
+in the area. Also restores Level \* Wisdom \* 0.1 HP to your linked *Kardia*
+subject.
+
+#### Nu Type 99
+
+**Techne Makre**
+
+| Cost        |
+|-------------|
+| Limit Break |
+
+Fully revives and restores HP for all allies on the battlefield. Then, restores
+Level \* Determination \* 0.1 TP for all allies on the battlefield.
 
 ## Onion Knight
 
@@ -12586,8 +13497,7 @@ party’s behalf until the end of battle, then instantly escapes.
 | Cast Time: 80 |
 | MP: 80        |
 
-Grants \[Protect\]\[Status: Protect\] and \[Shell\]\[Status: Shell\] to
-yourself.
+Grants [Protect](#status-protect) and [Shell](#status-shell) to yourself.
 
 **Stall**
 
@@ -12794,7 +13704,7 @@ Mage](#white-mage) 30
 | Item                                |            |              |            |
 
 -   **Action: Divine Weapon:** Focusing the belief in your cause of protecting
-    the many against the hoarding of the few.
+    the many against the hoarding and possessiveness of the few.
 -   **Support: Chivalry:** When you restore an ally’s HP (other than yourself),
     you also regain an amount of MP equal to your Level \* Spirit \* 0.01.
 
@@ -13271,8 +14181,7 @@ battlefield, except for yourself.
 |---------|
 | MP: 280 |
 
-Grants yourself [Atheist](#status-atheist) and \[Shell\]\[Status: Shell\]
-statuses.
+Grants yourself [Atheist](#status-atheist) and [Shell](#status-shell) statuses.
 
 **Psychokinetic Starstorm Alpha**
 
@@ -13298,7 +14207,7 @@ from any distance.
 | MP: 280 |
 
 Grants yourself [Boost Defense](#status-boost-defense) and
-\[Protection\]\[Status: Protect\] statuses.
+[Protection](#status-protect) statuses.
 
 **Psychobiolytic Lifeup Gamma**
 
@@ -13539,7 +14448,7 @@ Melee grapple that ignores P-Def.
 
 Melee attack. Requires that you are in Coeurl / Tiger Form. Puts you into
 Opo-Opo / Monkey Form. Causes \[Demolish\]\[Status: Demolish\] to the target for
-6 status phases.
+5 status phases.
 
 **Fists of Wind**
 
@@ -14202,6 +15111,8 @@ and MP costs. The Black and White Mana gained is doubled.
 **Requires:** [Black Mage](#black-mage) 60, [Time Mage](#time-mage) 60, [White
 Mage](#white-mage) 60
 
+**Leads to:** None
+
 | Action                        | Reaction   | Support    | Move       |
 |-------------------------------|------------|------------|------------|
 | Attack                        | 1 x Choice | 1 x Choice | Mapless: 3 |
@@ -14432,8 +15343,8 @@ damage is then added to your own HP and MP.
 |                      | E: Party  | Target H: 0         |
 |                      |           | Effect H/V: 3/3     |
 
-Breaks a 2H Katana of Item Level 50. Grants \[Protect\]\[Status: Protect\] and
-\[Shell\]\[Status: Shell\] to all allies in the area.
+Breaks a 2H Katana of Item Level 50. Grants [Protect](#status-protect) and
+[Shell](#status-shell) to all allies in the area.
 
 #### Samurai 60
 
@@ -14690,8 +15601,8 @@ Intellect \* 0.4 Damage.
 |-----------|
 | TP: 6,000 |
 
-Restores 3 Aetherflow to yourself. Also restores an amount of MP equal to 10% of
-your maximum MP.
+Restores 3 Aetherflow to yourself. Also restores an amount of MP equal to Level
+\* Spirit \* 0.1.
 
 **Lustrate**
 
@@ -14885,6 +15796,32 @@ each ally an amount of Shield Points equal to their maximum HP.
 
 **Leads to:** None
 
+| Action                                      | Reaction   | Support           | Move       |
+|---------------------------------------------|------------|-------------------|------------|
+| Attack                                      | 1 x Choice | Adderscharges     | Mapless: 3 |
+| Default                                     |            | Aethercapacitance | Move: 3    |
+| [Astrological Magick](#astrological-magick) |            | Faerie Dust       | Jump: 3    |
+| [Scholastic Magick](#scholastic-magick)     |            | Prescience        | 1 x Choice |
+| [Somanoutics](#somanoutics)                 |            | Scholar Fey Pacts |            |
+| 1 x Choice                                  |            | Solar Cycle       |            |
+| Item                                        |            | 1 x Choice        |            |
+
+| Weapon Proficiency | Armor Proficiency |
+|--------------------|-------------------|
+| 1H Books           | Magic             |
+| 1H Canes           | Healer            |
+| 2H Globes          | 1 x Choice        |
+| 2H Grimoires       |                   |
+| 2H Nouliths        |                   |
+| 1 x Choice         |                   |
+
+| JLVL | Unlock       |
+|------|--------------|
+| 99   | Job Mastered |
+
+**Mastery Bonus:** Your regular Attack actions also heal yourself for Level \*
+Vitality \* 0.1 HP, and restore Level \* Spirit \* 0.01 MP to yourself.
+
 ## Spellblade
 
 **Requires:** [Black Mage](#black-mage) 20, [Knight](#knight) 20
@@ -14907,7 +15844,7 @@ each ally an amount of Shield Points equal to their maximum HP.
     all usage of *Weapon Magick* ends any previous use. Any type of rest will
     end *Weapon Magick*. Changing weapons will end *Weapon Magick*.
 -   **Reaction: Magic Shell (250 TP):** Upon taking magical damage, gain
-    \[Shell\]\[Status: Shell\] status.
+    [Shell](#status-shell) status.
 -   **Support: Memento:** If you die, then your remaining MP is divided evenly
     amongst all surviving allies.
 -   **Support: Blood Price:** You can choose to transform MP costs into double
@@ -16697,8 +17634,8 @@ of their maximum HP.
 | MP: 90        | E: Single or Row | Target H: 4            |
 |               |                  | Effect H/V: 1/1 or 2/2 |
 
-Applies \[Protect\]\[Status: Protect\] to the targets. In single-target mode,
-lasts for 8 status phases. In multi-target mode, lasts for 4 status phases.
+Applies [Protect](#status-protect) to the targets. In single-target mode, lasts
+for 8 status phases. In multi-target mode, lasts for 4 status phases.
 
 In map combat, multi-target mode will affect all combatants in the area,
 regardless of friend or foe.
@@ -16711,8 +17648,8 @@ regardless of friend or foe.
 | MP: 90        | E: Single or Row | Target H: 4            |
 |               |                  | Effect H/V: 1/1 or 2/2 |
 
-Applies \[Shell\]\[Status: Shell\] to the targets. In single-target mode, lasts
-for 8 status phases. In multi-target mode, lasts for 4 status phases.
+Applies [Shell](#status-shell) to the targets. In single-target mode, lasts for
+8 status phases. In multi-target mode, lasts for 4 status phases.
 
 In map combat, multi-target mode will affect all combatants in the area,
 regardless of friend or foe.
@@ -16975,7 +17912,7 @@ Removes up to two status conditions of the target’s choice from the target.
 | MP: 500        | E: Single or Row | Target H: 4            |
 |                |                  | Effect H/V: 1/1 or 2/2 |
 
-Applies \[Protect\]\[Status: Protect\] to all combatants in the area.
+Applies [Protect](#status-protect) to all combatants in the area.
 
 In map combat, multi-target mode will affect all combatants in the area,
 regardless of friend or foe.
@@ -16988,7 +17925,7 @@ regardless of friend or foe.
 | MP: 500        | E: Single or Row | Target H: 4            |
 |                |                  | Effect H/V: 1/1 or 2/2 |
 
-Applies \[Shell\]\[Status: Shell\] to all combatants in the area.
+Applies [Shell](#status-shell) to all combatants in the area.
 
 In map combat, multi-target mode will affect all combatants in the area,
 regardless of friend or foe.
@@ -17200,9 +18137,10 @@ Pact with an Esper in order to be able to perform any of the listed actions.
 -   **Dominant Form** - Allowing the Esper to temporarily displace yourself in
     the current plane of existence to act as a powerful creature. This lasts for
     six status phases. Also capable of performing the *Esper Action*, *Evocation
-    Magick* and *Summoning Magick* for the duration. The costs are taken from
-    the one who is maintaining the *Dominant Form*, rather than from the Esper.
-    Requires [Dominant](#dominant) Job Levels.
+    Magick* and *Summoning Magick* for the duration, depending on your Job
+    Levels. The costs are taken from the one who is maintaining the *Dominant
+    Form*, rather than from the Esper. Requires [Dominant](#dominant) Job
+    Levels.
 -   **Egi-Form** - Miniature and weakened version of the Esper, usable as a
     persistent companion. The Egi-Form is capable of performing the associated
     *Esper Action*. Requires [Arcanist](#arcanist) Job Levels.
@@ -17403,7 +18341,7 @@ of the battle.
 
 **Esper Action: Stonefeathers**
 
-Causes [Petrify](#status-petrify) and \[Protect\]\[Status: Protect\] to self,
+Causes [Petrify](#status-petrify) and [Protect](#status-protect) to self,
 ignoring M-Eva. Fully restores your own HP.
 
 **Evocation Magic: Granite Beak**
@@ -17571,8 +18509,8 @@ Intellect \* 0.4 damage. After-Armor Damage is halved.
 | MP: 300        | E: Whole party | Target H: 4     |
 |                |                | Effect E/V: 3/3 |
 
-Grants \[Reflect\]\[Status: Reflect\] and \[Shell\]\[Status: Shell\] to all
-allies in the area.
+Grants \[Reflect\]\[Status: Reflect\] and [Shell](#status-shell) to all allies
+in the area.
 
 ### Eos
 
@@ -17719,7 +18657,7 @@ Targets all allies in the area. Roll a 1d6 to determine what happens:
 | Roll  | Result                                                                  |
 |-------|-------------------------------------------------------------------------|
 | 1 - 2 | Casts *Raise*                                                           |
-| 3 - 4 | Grants \[Protect\]\[Status: Protect\]                                   |
+| 3 - 4 | Grants [Protect](#status-protect)                                       |
 | 5 - 6 | Casts *Curaga* at single-target strength, but on all allies in the area |
 
 ### Garuda
@@ -17751,8 +18689,8 @@ Intellect \* 0.4 damage. After-Armor Damage is halved.
 | MP: 400        | E: Whole party | Target H: 4     |
 |                |                | Effect E/V: 3/3 |
 
-Grants \[Protect\]\[Status: Protect\] and Level \* Wisdom \* 0.8 Shield Points
-to all allies in the area.
+Grants [Protect](#status-protect) and Level \* Wisdom \* 0.8 Shield Points to
+all allies in the area.
 
 ### Lich
 
@@ -17837,6 +18775,8 @@ Magical Attack, Unaspected, dealing Level \* Intellect \* 0.5 damage.
 
 Magical Attack, Unaspected, targeting all enemies in the area for Level \*
 Intellect Damage.
+
+### Bismarck
 
 ### Cyclops
 
@@ -17950,15 +18890,26 @@ Restores Level \* Wisdom \* 0.2 HP to the target.
 
 ## Job Level 90
 
+### Anima
+
 ### Bahamut Zero
 
-### Knights of the Round
+### Hydaelyn
+
+**Evocation Magick: Lifestream Skip**
+
+**Summoning Magick: Sundering**
+
+| Cost        |
+|-------------|
+| Limit Break |
+
+Magical technique that attempts to cause [Sundered](#status-sundered) to all
+enemies on the battlefield at double M-Acc. This is a Gravity/Death attack.
+
+### Magus Sisters
 
 ### Ragnarok
-
-## Job Level 99
-
-### Hydaelyn
 
 ### Zodiark
 
@@ -17973,13 +18924,13 @@ Restores Level \* Wisdom \* 0.2 HP to the target.
 Magical Attack, Dark-Aspected, targeting all enemies in the area for Level \*
 Intellect \* 1.4 Damage.
 
+## Job Level 99
+
+### Knights of the Round
+
 --------------------------------------------------------------------------------
 
-### Anima
-
 ### Atomos
-
-### Bismarck
 
 ### Brothers Sacred and Minotaur
 
@@ -18011,8 +18962,6 @@ Intellect \* 1.4 Damage.
 
 ### Maduin
 
-### Magus Sisters
-
 ### Midgardsormr
 
 ### Pandemonium
@@ -18020,8 +18969,6 @@ Intellect \* 1.4 Damage.
 ### Phantom
 
 ### Quetzalcoatl
-
-### Ragnarok
 
 ### Raiden
 

@@ -358,7 +358,7 @@ Make a bet, then roll 1d100 to see if your bet wins. If your bet loses, then you
 - 30% chance to win (one enemy): Attack for double damage, ignoring P-Eva and P-Def. Win a Blue Chocobo, which must then be collected from a casino.
 - 20% chance to win (all enemies): Magical Attack, Unaspected, targeting all enemies on the battlefield for Level * Intellect * 1.2 damage. Win a Red Chocobo, which must then be collected from a casino.
 - 10% chance to win (all enemies): Magical Attack, Unaspected, targeting all enemies on the battlefield for Level * Intellect * 1.6 damage. Win a Black Chocobo, which must then be collected from a casino.
-- 5% chance to win (whole party): Restores Level * Spirit * 0.6 MP and Level * Determination * 0.6 AP to the whole party. Win a Golden Chocobo, which must then be collected from a casino.
+- 5% chance to win (whole party): Restores Level * Spirit * 0.6 MP and Level * Determination * 0.6 TP to the whole party. Win a Golden Chocobo, which must then be collected from a casino.
 
 Direct participation as a jockey adds to odds by 10%. If doing so, then having [Chocobo Knight] mastered will further add to your odds by 10%, for a total of 20%. In either case, you are banned from betting against yourself.
 

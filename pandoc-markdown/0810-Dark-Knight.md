@@ -326,4 +326,4 @@ Consumes an amount of HP equal to 50% of your Maximum HP. Magical Attack, Dark-A
 | ---         |
 | Limit Break |
 
-You create a manifestation of your inner darkness, which has the stats of an average NPC of your Level. The Living Shadow has the same Actions, Reactions, Supports, and Moves that you do.
+You create a manifestation of your inner darkness, which has the stats of an average NPC of your Level. The Living Shadow has the same Actions, Reactions, Supports, and Moves that you had when you did this action.
