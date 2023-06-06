@@ -54,6 +54,22 @@
 
 Attack, with P-Acc and Initial Damage increased by 5%.
 
+**Heavy Shot**
+
+| Cost            |
+| ---             |
+| Charge Time: 10 |
+
+Attack, with a 20% chance to grant yourself Straight Shot Ready.
+
+**Straight Shot**
+
+| Cost    |
+| ---     |
+| Special |
+
+Requires that you have Straight Shot Ready. This action ends Straight Shot Ready. Attack, with P-Acc doubled.
+
 **Venomous Bite**
 
 | Cost   |
@@ -63,6 +79,14 @@ Attack, with P-Acc and Initial Damage increased by 5%.
 Attack. Also attempts to cause [Venomous Bite][Status: Venomous Bite].
 
 #### Archer 10
+
+**Bloodletter**
+
+| Cost      |
+| ---       |
+| TP: 3,000 |
+
+Attack. Bloodletter can be performed immediately after any other single-target [Archery] action. Doing Bloodletter after Bloodletter costs 30,000 TP for the second one, for a total of 33,000 TP spent to do two Bloodletters in a row. Doing three Bloodletters in a row costs 333,000 TP.
 
 **Charge 10**
 
@@ -74,13 +98,15 @@ Attack, with P-Acc and Initial Damage increased by 10%.
 
 **Sonic Boom**
 
-| Cost    | Mapless   | Map |
-| ---     | ---       | --- |
-| TP: 200 | R: 6 rows | Ranged Indirect
-|         | E: 1 row  | Target H: 6
-|         |           | Effect H/V: 2/2
+| Cost        | Mapless   | Map |
+| ---         | ---       | --- |
+| TP: 200     | R: 6 rows | Ranged Indirect
+|             | E: 1 row  | Target H: 6
+|             |           | Effect H/V: 2/2
 
-Projects an Attack into the sky, which then falls down against all in the area. After-Armor Damage is halved.
+Potency: 50
+
+Projects an Attack into the sky, which then falls down against all in the area.
 
 #### Archer 20
 
@@ -109,6 +135,14 @@ Attack, with P-Acc and Initial Damage increased by 20%.
 Attack. Also attempts to cause [Immobilize][Status: Immobilize] at half P-Acc.
 
 #### Archer 30
+
+**Barrage**
+
+| Cost       |
+| ---        |
+| TP: 12,000 |
+
+Perform one [Archery] action three times. Any TP and MP costs of doing the action three times also occur.
 
 **Charge 30**
 
@@ -238,7 +272,9 @@ Attack, with P-Acc and Initial Damage increased by 70%.
 | ---       |
 | TP: 2,000 |
 
-Attack. After-Armor Damage is doubled.
+Potency: 200
+
+Attack.
 
 #### Archer 80
 
@@ -258,7 +294,9 @@ Attack, with P-Acc and Initial Damage increased by 80%.
 |         | E: 2 rows | Target H: 6
 |         |           | Effect H/V: 3/3
 
-Projects an Attack against all in the area. After-Armor Damage is halved. All status conditions that cause damage to the targets also occur.
+Potency: 50
+
+Projects an Attack against all in the area. All status conditions that cause damage to the targets also occur.
 
 #### Archer 90
 

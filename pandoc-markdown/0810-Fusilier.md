@@ -222,7 +222,7 @@ Attack, and attempt to cause [Stop][Status: Stop] on hit.
 | ---     |
 | MP: 800 |
 
-Attack, and add the target's P-Def to the damage. Ignores P-Def when calculating the After-Armor Damage.
+Attack, and add the target's P-Def to the Initial Damage. Ignores P-Def after Initial Damage.
 
 #### Fusilier 90
 
@@ -257,7 +257,7 @@ Attaches a single-use guidance system scope to your weapon. Your next regular at
 | TP: 200       |
 | Maneuver/Move |
 
-Requires using up your full Maneuver/Move. Plants your weapon firmly in the ground in order to handle strong recoil. Your next regular attack with that weapon will deal double After-Armor Damage.
+Requires using up your full Maneuver/Move. Plants your weapon firmly in the ground in order to handle strong recoil. Your next regular attack with that weapon will be improved by 1 Accuracy Class.
 
 **Target**
 

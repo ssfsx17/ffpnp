@@ -6,14 +6,14 @@
 
 | Action     | Reaction    | Support     | Move |
 | ---        | ---         | ---         | ---  |
-| Attack     | 10 x Choice | 10 x Choice | Mapless: 3
+| Attack     | 20 x Choice | 20 x Choice | Mapless: 3
 | Default    |             |             | Move: 3
 | 2 x Choice |             |             | Jump: 3
-| Item       |             |             | 10 x Choice
+| Item       |             |             | 20 x Choice
 
 | Weapon Proficiency | Armor Proficiency |
 | ---                | ---               |
-| 5 x Choice         | 5 x Choice
+| 10 x Choice        | 10 x Choice
 
 | JLVL | Unlock |
 | ---  | ---    |

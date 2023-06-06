@@ -76,7 +76,9 @@ Draw a playing card, then use it to perform a Physical Attack, Unaspected, deali
 | ---     |
 | Special |
 
-Consumes an amount of item charges totalling 10 Gathering or Craftsmanship. Grab two dice. Guess whether the sum will be odd or even. Roll the dice. If you guessed correctly, then you attack all enemies on the battlefield for half After-Armor Damage, ignoring P-Eva. Otherwise, you attack your own party instead, including yourself.
+Potency: 50
+
+Consumes an amount of item charges totalling 10 Gathering or Craftsmanship. Grab two dice. Guess whether the sum will be odd or even. Roll the dice. If you guessed correctly, then you attack all enemies on the battlefield, ignoring P-Eva. Otherwise, you attack your own party instead, including yourself.
 
 #### Gambler 20
 
@@ -271,7 +273,7 @@ Consumes an amount of item charges totalling 25 Gathering or Craftsmanship. Play
 | ---     |
 | Special |
 
-Consumes an amount of item charges totalling 25 Gathering or Craftsmanship. Play the [Slot Machine]. All three rows and both diagonals are used. The center row also uses the _High Power Effects_ rather than the _Normal Power Effects_. You choose one of the five results.
+Consumes an amount of item charges totalling 100 Gathering or Craftsmanship. Play the [Slot Machine]. All three rows and both diagonals are used. The center row also uses the _High Power Effects_ rather than the _Normal Power Effects_. You choose one of the five results.
 
 **Mahjong Hand**
 

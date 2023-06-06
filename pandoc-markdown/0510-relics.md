@@ -3,12 +3,12 @@
 | Relic              | ILVL | Effect |
 | ---                | ---  | ---    |
 | Battle Boots       | 1    | +1 Maneuver/Move
-| Spiked Boots       | 2    | +1 Jump
+| Spiked Boots       | 2    | +1 Maneuver/Jump
 | Rubber Boots       | 3    | Immune to [Immobilize][Status: Immobilize] and Lightning element
 | Mage's Cloak       | 5    | Adds your Experience Level to your Intellect
 | Winged Boots       | 5    | Always have [Float][Status: Float]
 | Diamond Bracelet   | 10   | Adds your Experience Level to your Strength & Intellect, immune to [Slow][Status: Slow]
-| Germinas Boots     | 10   | +1 Maneuver/Move & Jump
+| Germinas Boots     | 10   | +1 Maneuver, or +1 Move & Jump
 | Power Gauntlet     | 10   | Adds your Experience Level to your Strength
 | Protect Ring       | 10   | Immune to [Sleep][Status: Sleep] and [Doom][Status: Doom]
 | Elven Cloak        | 15   | Always have [Boost Accuracy][Status: Boost Accuracy]

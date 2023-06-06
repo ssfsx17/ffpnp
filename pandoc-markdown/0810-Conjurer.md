@@ -357,6 +357,8 @@ Magical Attack, Air-Aspected, dealing Level * Intellect * 1.2 damage.
 
 Restores Level * Wisdom * 0.4 HP to the target.
 
+This can be done immediately after a different [Conjuration Magick] action, in which case its TP cost is doubled, for a total of 1,200 TP.
+
 **Divine Benison**
 
 | Cost      | Mapless   | Map |

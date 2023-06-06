@@ -15,7 +15,7 @@
 | Item           |            |                   |
 
 - **Action: Pugilism:** Movement-based martial arts, attacking from angles your opponent does not expect, constantly flowing stances to confuse your opponent.
-- **Support: Animal Forms:** Certain [Pugilism] techniques can put you in Opo-Opo / Monkey Form, Raptor / Dragon Form or Coeurl / Tiger Form. Outside of combat, you cannot maintain animal forms.
+- **Support: Animal Forms:** Certain [Pugilism] techniques can put you in Opo-Opo Monkey Form, Raptor Dragon Form or Coeurl Tiger Form. Outside of combat, you cannot maintain animal forms.
 - **Support: Fist Elements:** Certain [Pugilism] techniques can put you into Fists of Earth, Fists of Wind, or Fists of Fire. You can only have one of these Fist Element types active at a time.
   - _Fists of Earth:_ You take 5% less damage.
   - _Fists of Wind:_ In mapless combat, you gain 1 additional Maneuver. In map combat, you gain 1 additional horizontal movement.
@@ -45,11 +45,11 @@
 | ---  | ---     | --- |
 | None | Melee   | Melee
 
-Melee attack. Puts you into Raptor / Dragon Form.
+Melee attack. Puts you into Raptor Dragon Form.
 
 If it hits the enemy rear, then it is upgraded by one accuracy class. For example, a Miss is turned into a Glancing Hit.
 
-If performed in Opo-Opo / Monkey Form while having [Leaden Fist][Status: Leaden Fist], then After-Armor Damage is doubled. This also ends your [Leaden Fist][Status: Leaden Fist] status.
+If performed in Opo-Opo Monkey Form while having [Leaden Fist][Status: Leaden Fist], then Potency is increased by 100. This also ends your [Leaden Fist][Status: Leaden Fist] status.
 
 **Form Shift**
 
@@ -59,9 +59,9 @@ If performed in Opo-Opo / Monkey Form while having [Leaden Fist][Status: Leaden 
 
 Changes your Animal Form based on your current one:
 
-1. No Form or Opo-Opo / Monkey Form --> Raptor / Dragon Form
-2. Raptor / Dragon Form --> Coeurl / Tiger Form
-3. Coeurl / Tiger Form --> Opo-Opo / Monkey Form
+1. No Form or Opo-Opo Monkey Form --> Raptor Dragon Form
+2. Raptor Dragon Form --> Coeurl Tiger Form
+3. Coeurl Tiger Form --> Opo-Opo Monkey Form
 
 **Snap Punch**
 
@@ -69,7 +69,7 @@ Changes your Animal Form based on your current one:
 | ---  | ---     | --- |
 | None | Melee   | Melee
 
-Melee attack. Requires that you are in Raptor / Dragon Form. Puts you into Coeurl / Tiger Form.
+Melee attack. Requires that you are in Raptor Dragon Form. Puts you into Coeurl Tiger Form.
 
 If it hits the enemy flank, then it is upgraded by one accuracy class. For example, a Miss is turned into a Glancing Hit.
 
@@ -79,7 +79,7 @@ If it hits the enemy flank, then it is upgraded by one accuracy class. For examp
 | ---  | ---     | --- |
 | None | Melee   | Melee
 
-Melee attack. Requires that you are in Coeurl / Tiger Form. Puts you into Opo-Opo / Monkey Form.
+Melee attack. Requires that you are in Coeurl Tiger Form. Puts you into Opo-Opo Monkey Form.
 
 If it hits the enemy rear, then it is upgraded by one accuracy class. For example, a Miss is turned into a Glancing Hit.
 
@@ -108,7 +108,7 @@ Melee attack at double P-Acc.
 | ---  | ---     | --- |
 | None | Melee   | Melee
 
-Melee attack. Requires that you are in Raptor / Dragon Form. Puts you into Coeurl / Tiger Form. Also grants yourself [Twin Snakes][Status: Twin Snakes] for 6 status phases.
+Melee attack. Requires that you are in Raptor Dragon Form. Puts you into Coeurl Tiger Form. Also grants yourself [Twin Snakes][Status: Twin Snakes] for 6 status phases.
 
 #### Pugilist 20
 
@@ -120,7 +120,9 @@ Melee attack. Requires that you are in Raptor / Dragon Form. Puts you into Coeur
 |        | E: Whole row | Target H: 0
 |        |              | Effect H/V: 3/3
 
-Requires that you are in Opo-Opo / Monkey Form. Projects your melee attack into all enemies in the area. After-Armor Damage is halved. Puts you into Raptor / Dragon Form.
+Potency: 50
+
+Requires that you are in Opo-Opo Monkey Form. Projects your melee attack into all enemies in the area. Puts you into Raptor Dragon Form.
 
 **Meteor Strike Suplex**
 
@@ -139,7 +141,7 @@ Melee grapple that ignores P-Def.
 | ---  | ---     | --- |
 | None | Melee   | Melee
 
-Melee attack. Requires that you are in Coeurl / Tiger Form. Puts you into Opo-Opo / Monkey Form. Causes [Demolish][Status: Demolish] to the target for 5 status phases.
+Melee attack. Requires that you are in Coeurl Tiger Form. Puts you into Opo-Opo Monkey Form. Causes [Demolish][Status: Demolish] to the target for 5 status phases.
 
 **Fists of Wind**
 
@@ -157,7 +159,9 @@ Changes your Fist Element form to Wind.
 |        | E: Whole row | Target H: 0
 |        |              | Effect H/V: 3/3
 
-Requires that you are in Coeurl / Tiger Form. Projects your melee attack into all enemies in the area. After-Armor Damage is halved. Puts you into Opo-Opo / Monkey Form.
+Potency: 50
+
+Requires that you are in Coeurl Tiger Form. Projects your melee attack into all enemies in the area. Puts you into Opo-Opo Monkey Form.
 
 **Shoulder Tackle**
 
@@ -185,7 +189,9 @@ Changes your Fist Element form to Fire.
 |        | E: Whole row | Target H: 0
 |        |              | Effect H/V: 3/3
 
-Requires that you are in Raptor / Dragon Form. Projects your melee attack into all enemies in the area. After-Armor Damage is halved. Puts you into Couerl / Tiger Form.
+Potency: 50
+
+Requires that you are in Raptor Dragon Form. Projects your melee attack into all enemies in the area. Puts you into Couerl Tiger Form.
 
 If you have [Twin Snakes][Status: Twin Snakes] status, then the duration is extended by 2, to a maximum of 6.
 
@@ -197,9 +203,9 @@ If you have [Twin Snakes][Status: Twin Snakes] status, then the duration is exte
 | ---  | ---     | --- |
 | None | Melee   | Melee
 
-Melee attack. Requires that you are in Raptor / Dragon Form. Puts you into Coeurl / Tiger Form. Grants you [Leaden Fist][Status: Leaden Fist] status.
+Melee attack. Requires that you are in Raptor Dragon Form. Puts you into Coeurl Tiger Form. Grants you [Leaden Fist][Status: Leaden Fist] status.
 
-If it hits the enemy flank, then it ignores half of enemy P-Def.
+If it hits the enemy flank, then the accuracy class is upgraded by one.
 
 **Perfect Balance**
 
@@ -234,7 +240,7 @@ Grants yourself [Riddle of Fire][Status: Riddle of Fire] status for 6 status pha
 | Special   | Melee   | Melee
 | TP: 4,500 |         |
 
-Melee attack that can be done instantly after a Coeurl / Tiger Form technique.
+Melee attack that can be done instantly after a Coeurl Tiger Form technique.
 
 #### Pugilist 70
 

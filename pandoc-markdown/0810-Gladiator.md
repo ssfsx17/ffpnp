@@ -80,7 +80,9 @@ Move, then attack with your shield as if it were a 1H Hammer of the same Item Le
 |         | E: Front row of enemies | Target H: 0
 |         |                         | Effect H/V: 3/3
 
-Project your attack into all enemies in the area. After-Armor Damage is halved.
+Potency: 50
+
+Project your attack into all enemies in the area.
 
 #### Gladiator 10
 
@@ -144,7 +146,9 @@ Attack. You gain 1 Shield Force point and an amount of MP equal to your Level * 
 |         | E: Front row of enemies | Target H: 0
 |         |                         | Effect H/V: 3/3
 
-Project your attack into all enemies in the area. After-Armor Damage is halved. You gain 1 [Enmity] point for each enemy hit. You also gain an amount of MP equal to your Level * Spirit * 0.05.
+Potency: 50
+
+Project your attack into all enemies in the area. You gain 1 [Enmity] point for each enemy hit. You also gain an amount of MP equal to your Level * Spirit * 0.05.
 
 #### Gladiator 50
 

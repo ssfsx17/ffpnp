@@ -44,7 +44,9 @@
 | ---     | ---     | --- |
 | TP: 10  | Melee   | Melee
 
-Your chocobo does a melee attack, with After-Armor Damage increased by 25%.
+Potency: 125
+
+Your chocobo does a melee attack.
 
 **Choco Regen**
 

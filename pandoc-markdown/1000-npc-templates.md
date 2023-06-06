@@ -49,12 +49,13 @@ Simply by picking an Experience Level, you should be able to get all of the stat
 
 - Moves by flying
 - Always has [Float][Status: Float]
-- Takes double After-Armor Damage from Ranged Arc weapons, and from Lightning element
+- Incoming Potency for Ranged Arc Weapon damage is increased by 100
+- Incoming Potency for Lightning-aspected damage is increased by 100
 
 **Bomb**
 
 - Always has [Float][Status: Float]
-- Takes double After-Armor Damage from Ice element
+- Incoming Potency for Ice-aspected damage is increased by 100
 - In the event of an unwinnable battle, self-destructs for Level * Level * 8 fire damage
 
 **Dragon**
@@ -72,12 +73,12 @@ Simply by picking an Experience Level, you should be able to get all of the stat
 
 - Double MP
 - Always has [Float][Status: Float] and [Zombie][Status: Zombie]
-- Takes double After-Armor Damage from Holy element
+- Incoming Potency for Holy-aspected damage is increased by 100
 
 **Machina**
 
 - Double P-Def
-- Takes double After-Armor Damage from Lightning element
+- Incoming Potency for Lightning-aspected damage is increased by 100
 
 **Mini Mage**
 
@@ -111,7 +112,7 @@ Simply by picking an Experience Level, you should be able to get all of the stat
 - Double HP
 - Attempts to cause [Poison][Status: Poison] on hit
 - Always has [Zombie][Status: Zombie]
-- Takes double After-Armor Damage from Fire element
+- Incoming Potency for Fire-aspected damage is increased by 100
 
 ## Plot Armor Enemies
 
@@ -119,6 +120,6 @@ Many status conditions have a reduced effect against Plot Armor Enemies.
 
 Generally have 4 or more actions per turn.
 
-Between 10x to 50x HP.
+Between 10x to 100x HP.
 
 Oftentimes have bodyguard goons who have 5x to 10x HP themselves.

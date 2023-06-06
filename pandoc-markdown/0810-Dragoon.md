@@ -64,7 +64,9 @@ You jump up into the sky, unable to be targeted by anything. On your next turn, 
 |         | E: Single | Target H: 1
 |         |           | Effect H/V: 1/1
 
-You jump into the target position, then perform a melee attack against one adjacent enemy for 50% increased After-Armor Damage.
+Potency: 150
+
+You jump into the target position, then perform a melee attack against one adjacent enemy.
 
 **Lancet**
 
@@ -86,7 +88,9 @@ Projects your attack into the target, for Drain-Aspected damage. 1/4th of the Af
 |         | E: Single | Target H: 2
 |         |           | Effect H/V: 1/2
 
-You jump into the target position, then perform a melee attack against one adjacent enemy for 50% increased After-Armor Damage.
+Potency: 150
+
+You jump into the target position, then perform a melee attack against one adjacent enemy.
 
 **Reis's Wind**
 
@@ -118,7 +122,9 @@ Magical Attack, Unaspected. Choose one enemy in the area. Calculate the amount o
 |         | E: Single | Target H: 3
 |         |           | Effect H/V: 1/3
 
-You jump into the target position, then perform a melee attack against one adjacent enemy for 50% increased After-Armor Damage.
+Potency: 150
+
+You jump into the target position, then perform a melee attack against one adjacent enemy.
 
 #### Dragoon 40
 
@@ -130,7 +136,9 @@ You jump into the target position, then perform a melee attack against one adjac
 |         | E: Single | Target H: 4
 |         |           | Effect H/V: 1/4
 
-You jump into the target position, then perform a melee attack against one adjacent enemy for 50% increased After-Armor Damage.
+Potency: 150
+
+You jump into the target position, then perform a melee attack against one adjacent enemy.
 
 **White Draw**
 
@@ -152,7 +160,9 @@ Magical Attack, Drain-Aspected, for Level * Intellect * 0.4 damage. The damage i
 |         | E: Single | Target H: 5
 |         |           | Effect H/V: 1/5
 
-You jump into the target position, then perform a melee attack against one adjacent enemy for 50% increased After-Armor Damage.
+Potency: 150
+
+You jump into the target position, then perform a melee attack against one adjacent enemy.
 
 **Luna**
 
@@ -173,7 +183,9 @@ Magical attack. Summons a full blood moon to attempt to cause [Berserk][Status: 
 |         | E: Single | Target H: 6
 |         |           | Effect H/V: 1/6
 
-You jump into the target position, then perform a melee attack against one adjacent enemy for 50% increased After-Armor Damage.
+Potency: 150
+
+You jump into the target position, then perform a melee attack against one adjacent enemy.
 
 **Six Dragons**
 
@@ -211,7 +223,9 @@ Projects your attack into all enemies in the area, for Magical Unaspected damage
 |         | E: Single | Target H: 7
 |         |           | Effect H/V: 1/7
 
-You jump into the target position, then perform a melee attack against one adjacent enemy for 50% increased After-Armor Damage.
+Potency: 150
+
+You jump into the target position, then perform a melee attack against one adjacent enemy.
 
 #### Dragoon 80
 
@@ -233,7 +247,9 @@ Projects your attack into the target, dealing double Initial Damage.
 |         | E: Single | Target H: 8
 |         |           | Effect H/V: 1/8
 
-You jump into the target position, then perform a melee attack against one adjacent enemy for 50% increased After-Armor Damage.
+Potency: 150
+
+You jump into the target position, then perform a melee attack against one adjacent enemy.
 
 #### Dragoon 90
 
@@ -255,7 +271,9 @@ Magical Attack, Holy-Aspected, dealing Level * Stamina * 0.6 damage. In map comb
 |         | E: Single | Target H: 9
 |         |           | Effect H/V: 1/9
 
-You jump into the target position, then perform a melee attack against one adjacent enemy for 50% increased After-Armor Damage.
+Potency: 150
+
+You jump into the target position, then perform a melee attack against one adjacent enemy.
 
 #### Dragoon 99
 
@@ -275,4 +293,6 @@ Grants [Eye of Nidhogg][Status: Eye of Nidhogg] to all allies on the battlefield
 |           | E: Single  | Target H: 10
 |           |            | Effect H/V: 1/10
 
-You jump into the target position, then perform a melee attack against one adjacent enemy for 50% increased After-Armor Damage.
+Potency: 150
+
+You jump into the target position, then perform a melee attack against one adjacent enemy.

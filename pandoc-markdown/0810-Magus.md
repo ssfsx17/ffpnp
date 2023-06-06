@@ -14,7 +14,7 @@
 | 1 x Choice              |            |                     |
 | Item                    |            |                     |
 
-- **Support: Double MP Power:** MP-using actions cost double the MP. In exchange, their Damage and healing are increased by 50%.
+- **Support: Double MP Power:** MP-using actions cost double the MP. In exchange, their Initial Damage and healing are increased by 50%.
 
 | Weapon Proficiency | Armor Proficiency |
 | ---                | ---               |

@@ -52,7 +52,9 @@ Creates an immobile turret, placed in the target spot, whose attack range is equ
 |         | E: All enemies | Target H: 6
 |         |                | Effect E/V: 4/4
 
-Projects your attack into all enemies in the area. After-Armor Damage is 1/4th.
+Potency: 25
+
+Projects your attack into all enemies in the area.
 
 **Red Spring**
 

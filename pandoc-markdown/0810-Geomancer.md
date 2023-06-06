@@ -37,7 +37,7 @@
 | 80 | Support: Attack Boost
 | 99 | Job Mastered
 
-**Mastery Bonus:** You take 25% less Magical After-Armor Damage.
+**Mastery Bonus:** Incoming M-Potency for damage is decreased by 25.
 
 ### Geomancy
 

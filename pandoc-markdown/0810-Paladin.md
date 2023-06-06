@@ -32,7 +32,7 @@
 | 60 | Support: Chivalry
 | 99 | Job Mastered
 
-**Mastery Bonus:** When you take damage, you can spend [Enmity] points to decrease the After-Armor Damage. This is at a ratio of 1 [Enmity] point to 5% damage reduction.
+**Mastery Bonus:** When you take damage, you can spend [Enmity] points to decrease the After-Armor Damage. This is at a ratio of 1 [Enmity] point to a Potency decrease of 5.
 
 ### Divine Weapon
 
@@ -58,7 +58,9 @@ Targets all allies in the area. Restores Level * Wisdom * 0.1 HP. Also removes o
 |         | E: 3 in one row | Target H: 2
 |         |                 | Effect H/V: 2/2
 
-Projects your attack into the area. After-Armor Damage is halved. Also attempts to cause [Stop][Status: Stop] at half P-Acc.
+Potency: 50
+
+Projects your attack into the area. Also attempts to cause [Stop][Status: Stop] at half P-Acc.
 
 #### Paladin 20
 

@@ -55,7 +55,9 @@
 |         | E: 1 row  | Target H: 4
 |         |           | Effect E/V: 3/3
 
-Projects your attack into all enemies in the target area. After-Armor Damage is halved.
+Potency: 50
+
+Projects your attack into all enemies in the target area.
 
 #### Jongleur 10
 

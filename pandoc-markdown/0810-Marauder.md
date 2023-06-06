@@ -44,7 +44,9 @@
 | ---     |
 | TP: 100 |
 
-Attack. After-Armor Damage is increased by 50%. P-Acc is halved. You gain 1 [Enmity] point.
+Potency: 150
+
+Attack, at half P-Acc. You gain 1 [Enmity] point.
 
 #### Marauder 10
 
@@ -60,7 +62,9 @@ Grants yourself [Defiance][Status: Defiance] status. You can also use this actio
 |         | E: All enemies | Target H: 1
 |         |                | Effect H/V: 1/1, 3/2, 5/3
 
-Projects your attack into all enemies in the area. After-Armor Damage is halved. You gain 1 [Enmity] point for each enemy hit.
+Potency: 50
+
+Projects your attack into all enemies in the area. You gain 1 [Enmity] point for each enemy hit.
 
 **Provoke**
 

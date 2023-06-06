@@ -89,7 +89,9 @@ Attack at double P-Acc, and attempt to cause [Doom][Status: Doom] status at norm
 | ---     |
 | TP: 200 |
 
-Attack at triple P-Acc. After-Armor Damage is halved.
+Potency: 50
+
+Attack at triple P-Acc.
 
 **Zwerchhau**
 
@@ -135,7 +137,9 @@ Attack at double P-Acc. Damage is dealt to MP instead of HP.
 | ---     |
 | TP: 500 |
 
-Attack the same target twice, at double P-Acc. After-Armor Damage is halved.
+Potency: 50
+
+Attack the same target twice, at double P-Acc.
 
 #### Fencer 60
 

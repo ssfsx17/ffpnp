@@ -153,7 +153,9 @@ Breaks a 2H Katana of Item Level 40. Magical Attack, Unaspected, for Level * Int
 |                  | E: 2 rows | Target H: 8
 |                  |           | Effect H/V: 3/3
 
-Projects four separate attacks at enemies in the target area. The attacks are distributed evenly among the enemies, if possible. After-Armor Damage is halved.
+Potency: 50
+
+Projects four separate attacks at enemies in the target area. The attacks are distributed evenly among the enemies, if possible.
 
 #### Samurai 50
 

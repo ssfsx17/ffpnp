@@ -26,7 +26,7 @@ Also known as Summoned Beasts, Eidolons, Eikons and Primals. You must form a Pac
 - Double Speed
 - Maneuver/Move: 6
 - Jump: 4
-- Outgoing After-Armor Damage is halved
+- Potency for damage is decreased by 50
 
 **Esper Action: Choco Cure**
 
@@ -69,7 +69,7 @@ No templates.
 - Half HP
 - Half P-Def
 - Half M-Def
-- Outgoing After-Armor Damage is halved
+- Potency for damage is decreased by 50
 
 **Esper Action: Cracked Body**
 
@@ -106,7 +106,7 @@ No templates.
 - Half HP
 - Half P-Def
 - Half M-Def
-- Outgoing After-Armor Damage is halved
+- Potency for damage is decreased by 50
 
 **Esper Action: Goblin Knife**
 
@@ -143,7 +143,7 @@ Physical Attack, Unaspected, for Level * Intellect * 0.4 damage.
 - Absorb Fire element
 - Half HP
 - Half P-Def
-- Outgoing After-Armor Damage is halved
+- Potency for damage is decreased by 50
 
 **Esper Action: Fuse Flay**
 
@@ -177,16 +177,16 @@ If performed while in Dominant Form, then this also kills the Esper for the rest
 
 - Always has [Float][Status: Float]
 - Moves by flying
-- Takes double After-Armor Damage from ranged weapons
+- Incoming Potency for ranged weapon damage is increased by 100
 
 **Egi-Form**
 
 - Always has [Float][Status: Float]
 - Moves by flying
-- Takes double After-Armor Damage from ranged weapons
+- Incoming Potency for ranged weapon damage is increased by 100
 - Half HP
 - Half P-Def
-- Outgoing After-Armor Damage is halved
+- Potency for damage is decreased by 50
 
 **Esper Action: Stonefeathers**
 
@@ -223,7 +223,7 @@ Magical Attack, Unaspected, dealing Level * Intellect * 0.4 Damage. Also attempt
 - Half HP
 - Half P-Def
 - Double M-Eva against status conditions
-- Outgoing After-Armor Damage is halved
+- Potency for damage is decreased by 50
 
 **Esper Action: Brain Licking**
 
@@ -265,7 +265,7 @@ Magical Attack, Unaspected, dealing Level * Intellect * 0.4 Damage. Also attempt
 
 - Half HP
 - Half P-Def
-- Outgoing After-Armor Damage is halved
+- Potency for damage is decreased by 50
 
 **Esper Action: Moogle Express**
 
@@ -336,7 +336,9 @@ Magical Attack, Drain-Aspected, targeting all enemies in the area for Level * In
 |      | E: 1 row  | Target H: 4
 |      |           | Effect E/V: 3/3
 
-Magical Attack, Wind-Aspected, targeting all enemies in the area for Level * Intellect * 0.4 damage. After-Armor Damage is halved.
+Potency: 50
+
+Magical Attack, Wind-Aspected, targeting all enemies in the area for Level * Intellect * 0.4 damage.
 
 **Summoning Magick: Ruby Light**
 
@@ -506,7 +508,9 @@ Targets all allies in the area. Roll a 1d6 to determine what happens:
 |      | E: 2 rows | Target H: 6
 |      |           | Effect E/V: 4/4
 
-Magical Attack, Wind-Aspected, targeting all enemies in the area for Level * Intellect * 0.4 damage. After-Armor Damage is halved.
+Potency: 50
+
+Magical Attack, Wind-Aspected, targeting all enemies in the area for Level * Intellect * 0.4 damage.
 
 ### Golem
 

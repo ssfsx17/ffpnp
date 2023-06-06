@@ -1441,12 +1441,12 @@ They must be crafted.
 | Relic              | ILVL | Effect                                                                                                                                                |
 |--------------------|------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Battle Boots       | 1    | +1 Maneuver/Move                                                                                                                                      |
-| Spiked Boots       | 2    | +1 Jump                                                                                                                                               |
+| Spiked Boots       | 2    | +1 Maneuver/Jump                                                                                                                                      |
 | Rubber Boots       | 3    | Immune to [Immobilize](#status-immobilize) and Lightning element                                                                                      |
 | Mage’s Cloak       | 5    | Adds your Experience Level to your Intellect                                                                                                          |
 | Winged Boots       | 5    | Always have \[Float\]\[Status: Float\]                                                                                                                |
 | Diamond Bracelet   | 10   | Adds your Experience Level to your Strength & Intellect, immune to \[Slow\]\[Status: Slow\]                                                           |
-| Germinas Boots     | 10   | +1 Maneuver/Move & Jump                                                                                                                               |
+| Germinas Boots     | 10   | +1 Maneuver, or +1 Move & Jump                                                                                                                        |
 | Power Gauntlet     | 10   | Adds your Experience Level to your Strength                                                                                                           |
 | Protect Ring       | 10   | Immune to [Sleep](#status-sleep) and [Doom](#status-doom)                                                                                             |
 | Elven Cloak        | 15   | Always have [Boost Accuracy](#status-boost-accuracy)                                                                                                  |
@@ -1801,11 +1801,15 @@ target’s Eva.
 
 Any ability that ignores Acc or Eva is automatically a *Normal Hit*.
 
--   **Direct Critical Hit:** Critical Hit, with a 10% chance to be a Devastating
-    Hit. A Devastating Hit does triple After-Armor damage rather than double.
--   **Direct Hit:** 10% chance to be a Critical Hit. A Critical Hit does double
-    After-Armor damage, and any harmful status effects of the attack have their
-    durations increased by two status phases.
+-   **Devastating Hit:** A Devastating Hit adds 200 Potency. Any harmful status
+    effects of the attack apply three additional stacks. The only way to achieve
+    a Devastating Hit is through the 10% chance from a Direct Critical Hit.
+-   **Direct Critical Hit:** A Direct Critical Hit adds 100 Potency. Any harmful
+    status effects of the attack apply two additional stacks. 10% chance to be a
+    Devastating Hit.
+-   **Direct Hit:** A Direct Hit adds 50 Potency. Any harmful status effects of
+    the attack apply one additional stack. 10% chance to be a Direct Critical
+    Hit.
 -   **Normal Hit:** Nothing special.
 -   **Glancing Hit:** After-Armor damage is halved. Harmful status effects have
     their durations capped to 1 status phase, even if they normally do not have
@@ -1822,9 +1826,14 @@ Damage is resolved as follows:
     pre-calculated. And without any other modifiers or status conditions in
     play, you may have this initial damage number already.
 2.  Subtract the target’s armor - either P-Def or M-Def, according to the nature
-    of the attack.
-3.  Now you have the After-Armor Damage number. Subtract that from the target’s
-    HP.
+    of the attack. Now you have the After-Armor Damage number.
+3.  Actions that do not specify their Potency are assumed to start with a
+    Potency of 100.
+4.  Apply any modifiers to After-Armor Damage. All Potency modifiers are added
+    together to form a multiplier of the After-Armor Damage, equal to (Potency
+    Total / 100). For example, with a Potency of 150, the multiplier is 1.5.
+    With a Potency of 50, the multiplier is 0.5.
+5.  Subtract the final After-Armor Damage from the target’s HP.
 
 #### Gravity/Death Attacks
 
@@ -1887,7 +1896,7 @@ expire in duration. Taking any action will end *Anatman*.
 
 ### Status: Aquaveil
 
-After Armor Damage that you take is decreased by 15%.
+After Armor Damage that you take subtracts 10 Potency.
 
 ### Status: Aurora
 
@@ -1901,12 +1910,12 @@ Restores HP during the status phase. The amount restored is equal to your Level
 
 ### Status: Atheist
 
-Both incoming and outgoing Magical damage is decreased by 25%.
+Both incoming and outgoing M-Potency is decreased by 25.
 
 ### Status: Berserk
 
 You are compelled to do nothing but run at the nearest enemy and perform normal
-Attack actions. Your physical damage output is increased by 25%.
+Attack actions. You gain 25 P-Potency.
 
 Plot Armor Enemies are only compelled to behave this way for their first action
 per turn.
@@ -1938,7 +1947,7 @@ Your P-Acc and M-Acc are increased by 25%.
 
 ### Status: Boost Attack
 
-Your outgoing Physical After-Armor Damage is increased by 25%.
+Your P-Potency for damage is increased by 25.
 
 ### Status: Boost Critical
 
@@ -1946,7 +1955,7 @@ Your accuracy class is improved by 1.
 
 ### Status: Boost Defense
 
-You take 25% less After-Armor Damage.
+Incoming damage subtracts 25 P-Potency.
 
 ### Status: Boost Evasion
 
@@ -1954,11 +1963,11 @@ Your P-Eva and M-Eva are increased by 25%.
 
 ### Status: Boost Healing
 
-Your outgoing healing is increased by 25%.
+Your Potency for healing is increased by 25.
 
 ### Status: Boost Magick
 
-Your outgoing Magical After-Armor Damage is increased by 25%.
+Your M-Potency for damage is increased by 25.
 
 ### Status: Boost Movement
 
@@ -1976,7 +1985,7 @@ to 10% of your maximum HP.
 
 ### Status: Bravery
 
-Both incoming and outgoing Physical damage is increased by 25%.
+Both incoming and outgoing P-Potency is increased by 25.
 
 ### Status: Broken Accessory
 
@@ -1995,20 +2004,21 @@ be removed by changing your headgear.
 
 ### Status: Broken Magick
 
-Your magical damage output is halved.
+Your M-Potency is decreased by 50.
 
-Plot Armor Enemies instead have a decrease of 10%.
+Plot Armor Enemies instead have a decrease of 10.
 
 ### Status: Broken Power
 
-Your physical damage output is halved.
+Your P-Potency is decreased by 50.
 
 Plot Armor Enemies instead have a decrease of 10%.
 
 ### Status: Broken Shield
 
 Your P-Eva is zero. You also gain no benefit from your shield. This status can
-be removed by changing your shield.
+be removed by changing your shield, or changing what you have equipped in both
+hands.
 
 ### Status: Broken Weapon
 
@@ -2021,7 +2031,7 @@ use your shield as a 1H Mace of 10 Item Levels lower, unaffected by this status.
 ### Status: Brotherhood
 
 Your Critical Hits and Direct Critical Hits give 1 Chakra to every person in the
-party who currently has the Chakras support ability equipped.
+party who currently has the *Chakras* support ability equipped.
 
 ### Status: Bubble
 
@@ -2029,12 +2039,12 @@ Your maximum HP is doubled.
 
 ### Status: Burning
 
-Causes Fire-Aspected damage during the status phase. The damage is equal to 10%
-of your maximum HP.
+Causes Fire-Aspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 10% of your maximum HP.
 
 ### Status: Camouflage
 
-You take 25% less Physical After-Armor Damage.
+Incoming P-Potency is decreased by 25.
 
 ### Status: Chain Stratagem
 
@@ -2056,32 +2066,32 @@ You are compelled to run away to one corner of the battlefield, as far away from
 enemies as possible. Your P-Eva and P-Def are halved.
 
 Plot Armor Enemies are only compelled in this manner for their first action per
-turn.
+turn, and have no modifier to P-Eva or P-Def.
 
 ### Status: Circle of Scorn
 
-Causes Physical damage during the status phase. The damage is equal to 10% of
-your maximum HP.
+Causes Physical damage during the status phase, ignoring Eva and Def. The damage
+is equal to 10% of your maximum HP.
 
 ### Status: Collective Unconscious
 
 Restores HP during the status phase. The amount restored is equal to your Level
-\* Stamina \* 0.05. You also take 10% less damage.
+\* Stamina \* 0.05. Incoming Potency for damage is also decreased by 10.
 
 ### Status: Combust
 
-Causes Unaspected damage during the status phase. The damage is equal to 5% of
-your maximum HP.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 5% of your maximum HP.
 
 ### Status: Combustra
 
-Causes Unaspected damage during the status phase. The damage is equal to 10% of
-your maximum HP.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 10% of your maximum HP.
 
 ### Status: Combustga
 
-Causes Unaspected damage during the status phase. The damage is equal to 15% of
-your maximum HP.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 15% of your maximum HP.
 
 ### Status: Confuse
 
@@ -2093,7 +2103,7 @@ Plot Armor Enemies are not compelled by *Confuse*.
 
 ### Status: Coward
 
-Both incoming and outgoing Physical damage is decreased by 25%.
+Both incoming and outgoing P-Potency is decreased by 25.
 
 ### Status: Critical Vulnerability
 
@@ -2113,7 +2123,7 @@ such modifiers are added together, e.g. 10% and 30% add together for 40%.
 
 ### Status: Darkside
 
-Your damage output is increased by 10%.
+Your Potency is increased by 10.
 
 ### Status: Defiance
 
@@ -2148,7 +2158,7 @@ Restores HP during the status phase. The amount restored is equal to your Level
 
 ### Status: Divination
 
-Your damage output is increased by 10%.
+Your Potency for damage is increased by 10.
 
 ### Status: Dohter’s Charity
 
@@ -2167,51 +2177,52 @@ than taking damage from it.
 
 ### Status: Embolden
 
-Your damage output is increased by 10%.
+Your Potency for damage is increased by 10.
 
 ### Status: Eukrasian Dosis
 
-Causes Unaspected damage during the status phase. The damage is equal to 5% of
-your maximum HP.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 5% of your maximum HP.
 
 ### Status: Eukrasian Dosis-ra
 
-Causes Unaspected damage during the status phase. The damage is equal to 10% of
-your maximum HP.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 10% of your maximum HP.
 
 ### Status: Eukrasian Dosis-ga
 
-Causes Unaspected damage during the status phase. The damage is equal to 15% of
-your maximum HP.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 15% of your maximum HP.
 
 ### Status: Exaltation
 
-You take 10% less After-Armor Damage. When this status expires, it restores an
-amount of HP to yourself equal to your Level \* Stamina \* 0.6.
+Incoming Potency for damage is decreased by 10. When this status expires, it
+restores an amount of HP to yourself equal to your Level \* Stamina \* 0.6.
 
 ### Status: Excogitation
 
 When you reach 50% or less HP, you regain Level \* Stamina \* 0.8 HP. Then this
-status ends. If the status duration expires, then it triggers the healing too.
+status ends. If the status duration expires, then it also restores Level \*
+Stamina \* 0.8 HP to yourself.
 
 ### Status: Eye of Nidhogg
 
-You ignore half of enemy P-Def and M-Def. Your outgoing damage is increased by
-25%.
+You ignore half of enemy P-Def and M-Def. Your Potency for damage is increased
+by 25.
 
 ### Status: Faith
 
-Both incoming and outgoing Magical damage is increased by 25%.
+Both incoming and outgoing M-Potency is increased by 25.
 
 ### Status: Fight or Flight
 
-Your outgoing Physical damage is increased by 10%. Every time you cause Physical
+Your P-Potency for damage is increased by 10. Every time you cause Physical
 Damage, you gain 1 [Enmity](#enmity) point.
 
 ### Status: Free Restore
 
-Your next casting of *Restora* ignores Cast Time and MP cost. This removes *Free
-Restore* status from yourself.
+Your next casting of *Restora* ignores Cast Time and MP cost. Casting *Restora*
+removes *Free Restore* status from yourself.
 
 ### Status: Frozen
 
@@ -2222,8 +2233,8 @@ Plot Armor Enemies instead only lose one of their actions.
 
 ### Status: Goring Blade
 
-Causes Physical damage during the status phase. The damage is equal to 10% of
-your maximum HP.
+Causes Physical damage during the status phase, ignoring Eva and Def. The damage
+is equal to 10% of your maximum HP.
 
 ### Status: Grit
 
@@ -2245,15 +2256,15 @@ Your Speed is doubled.
 
 ### Status: Heart of Corundum
 
-Physical After-Armor Damage against you is decreased by 15%.
+Incoming P-Potency for damage is decreased by 15.
 
 ### Status: Heart of Light
 
-Magical After-Armor Damage against you is decreased by 10%.
+Incoming M-Potency for damage is decreased by 10.
 
 ### Status: Heart of Stone
 
-Physical After-Armor Damage against you is decreased by 15%.
+Incoming P-Potency for damage is decreased by 15.
 
 ### Status: Heat
 
@@ -2281,13 +2292,12 @@ Source](#status-holmgang-source).
 
 ### Status: Holos
 
-After Armor Damage that you take is decreased by 10%. The percentages of all
-such modifiers are added together, e.g. 10% and 30% add together for 40%.
+Incoming Potency for damage is decreased by 10.
 
 ### Status: Horoscope
 
-The next action that restores your HP, restores your HP a second time. Then this
-status ends.
+When this status expires, you regain an amount of HP equal to Level \* Stamina
+\* 0.4.
 
 ### Status: Immobilize
 
@@ -2302,8 +2312,7 @@ costs.
 
 ### Status: Intervention
 
-After Armor Damage that you take is decreased by 10%. The percentages of all
-such modifiers are added together, e.g. 10% and 30% add together for 40%.
+Incoming Potency for damage is decreased by 10.
 
 ### Status: Iron Will
 
@@ -2312,28 +2321,25 @@ Every time you do an action that causes Physical Damage, you gain 1
 
 ### Status: Irradiated
 
-Causes Unaspected damage during the status phase. The damage is equal to the
-highest Initiative of the round.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to the highest Initiative of the round.
 
 ### Status: Kerachole
 
-After Armor Damage that you take is decreased by 10%. The percentages of all
-such modifiers are added together, e.g. 10% and 30% add together for 40%.
+Incoming Potency for damage is decreased by 10.
 
 ### Status: Krasis
 
-All healing you receive from actions is increased by 20%.
+Incoming Potency for healing is increased by 20.
 
 ### Status: Land Waker
 
-After Armor Damage that you take is decreased by 80%. The percentages of all
-such modifiers are added together, e.g. 10% and 80% add together for 90%.
+Incoming Potency for damage is decreased by 80.
 
 ### Status: Leaden Fist
 
 This is used for the [Pugilism](#pugilism) action *Bootshine*. This status is
-ended by performing *Bootshine* while in Opo-Opo / Monkey Form to an enemy’s
-rear.
+ended by performing *Bootshine* while in Opo-Opo Monkey Form to an enemy’s rear.
 
 ### Status: Lightspeed
 
@@ -2355,8 +2361,8 @@ Restores MP during the status phase. The amount restored is equal to your Level
 
 ### Status: Macrocosmos
 
-For all damage that you take, you regain an amount of HP equal to 25% of that
-damage afterwards.
+For all After-Armor damage that you take, you regain an amount of HP equal to
+25% of that damage afterwards.
 
 ### Status: Medica Regen
 
@@ -2375,39 +2381,39 @@ Restores MP during the status phase. The amount restored is equal to your Level
 
 ### Status: Miasma
 
-Causes Poison-aspected damage during the status phase. The damage is equal to
-10% of your maximum HP.
+Causes Poison-aspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 10% of your maximum HP.
 
 ### Status: Miasmara
 
-Causes Poison-aspected damage during the status phase. The damage is equal to
-15% of your maximum HP.
+Causes Poison-aspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 15% of your maximum HP.
 
 ### Status: Miasmaga
 
-Causes Poison-aspected damage during the status phase. The damage is equal to
-20% of your maximum HP.
+Causes Poison-aspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 20% of your maximum HP.
 
 ### Status: Miasmaja
 
-Causes Poison-aspected damage during the status phase. The damage is equal to
-25% of your maximum HP.
+Causes Poison-aspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 25% of your maximum HP.
 
 ### Status: Mini
 
-You become extremely tiny and miniature. Your P-Acc, P-Def and outgoing Physical
-Damage are halved.
+You become extremely tiny and miniature. Your P-Acc and P-Def are halved. Your
+P-Potency is decreased by 50.
 
-Plot Armor Enemies instead only have these stats reduced by 10%.
+Plot Armor Enemies instead only have P-Acc and P-Def reduced by 10%, and
+P-Potency is only decreased by 10.
 
 ### Status: Nascent Glint
 
-You take 10% less After-Armor Damage.
+Incoming Potency for damage is decreased by 10.
 
 ### Status: Nebula
 
-After Armor Damage that you take is decreased by 30%. The percentages of all
-such modifiers are added together, e.g. 10% and 30% add together for 40%.
+Incoming Potency for damage is decreased by 30.
 
 ### Status: Neutral Sect
 
@@ -2427,12 +2433,12 @@ given as Shield Points.
 
 ### Status: No Mercy
 
-Your outgoing Physical damage is increased by 10%. Every time you deal a
-Critical Hit or better, you gain 3 [Enmity](#enmity) points.
+Your P-Potency for damage is increased by 10. Every time you deal a Critical Hit
+or better, you gain 3 [Enmity](#enmity) points.
 
 ### Status: Oil
 
-You take double After-Armor damage from fire.
+Incoming fire damage Potency is increased by 100.
 
 ### Status: Old
 
@@ -2449,7 +2455,9 @@ Plot Armor Enemies only switch to a more long-term self-helping strategy.
 
 ### Status: Perfect Balance
 
-You ignore the current Animal Form requirements of [Pugilism](#pugilism).
+You ignore the current Animal Form requirements of [Pugilism](#pugilism). Every
+time you perform an action with an Animal Form requirement, your stacks of
+Perfect Balance are decreased by 1.
 
 ### Status: Petrify
 
@@ -2475,8 +2483,8 @@ Restores HP during the status phase. The amount restored is equal to your Level
 
 ### Status: Pig
 
-You are unable to do TP-using or MP-using actions, unless they will remove Pig
-from yourself.
+You are unable to do TP-using or MP-using actions, except for those that remove
+Pig from yourself.
 
 ### Status: Plenary Indulgence
 
@@ -2484,8 +2492,8 @@ Healing and status condition HP restoration is doubled on you.
 
 ### Status: Poison
 
-Causes Poison-aspected damage during the status phase. The damage is equal to
-10% of your maximum HP.
+Causes Poison-aspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 10% of your maximum HP.
 
 ### Status: Presence of Mind
 
@@ -2493,7 +2501,7 @@ You ignore Charge Time and Cast Time.
 
 ### Status: Protect
 
-Physical After-Armor Damage against you is halved.
+Incoming P-Potency for damage is decreased by 25.
 
 ### Status: Quick
 
@@ -2501,7 +2509,7 @@ You gain one extra action during the status phase.
 
 ### Status: Raw Intuition
 
-You take 20% reduced After-Armor Damage.
+Incoming Potency for damage is decreased by 20.
 
 ### Status: Rearise
 
@@ -2537,11 +2545,11 @@ Restores HP during the status phase. The amount restored is equal to your Level
 
 ### Status: Reprisal
 
-Your damage output is decreased by 10%.
+Your Potency for damage is decreased by 10.
 
 ### Status: Requiescat
 
-Your magical damage output is increased by 25%. Your Cast Time is halved.
+Your M-Potency for damage is increased by 25. Your Cast Time is halved.
 
 ### Status: Reraise
 
@@ -2559,31 +2567,30 @@ flank or rear.
 
 ### Status: Riddle of Fire
 
-Your melee damage is increased by 25%.
+Your P-Potency for melee damage is increased by 25.
 
 ### Status: Royal Guard
 
-Every time you do a Critical Hit or better, you gain 3 additional Enmity Points.
+Every time you do a Direct Hit or better, you gain 3 additional Enmity Points.
 Every time you defeat an enemy, you gain 3 additional Enmity Points.
 
 ### Status: Sacred Soil
 
-You take 10% less incoming damage.
+Incoming Potency for damage is decreased by 10.
 
 ### Status: Salted Earth
 
-Causes Dark-Aspected Damage during the status phase. The damage is equal to 10%
-of your maximum HP.
+Causes Dark-Aspected Damage during the status phase, ignoring Eva and Def. The
+damage is equal to 10% of your maximum HP.
 
 ### Status: Sap
 
-Causes Unaspected damage during the status phase. The damage is equal to your
-Initiative.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to your Initiative.
 
 ### Status: Sentinel
 
-After Armor Damage that you take is decreased by 30%. The percentages of all
-such modifiers are added together, e.g. 10% and 30% add together for 40%.
+Incoming Potency for damage is decreased by 30.
 
 ### Status: Shadow Wall
 
@@ -2592,7 +2599,7 @@ such modifiers are added together, e.g. 10% and 30% add together for 40%.
 
 ### Status: Shell
 
-Magical After-Armor Damage against you is halved.
+Incoming M-Potency for damage is decreased by 25.
 
 ### Status: Sheltron
 
@@ -2620,8 +2627,8 @@ Plot Armor Enemies instead only lose one of their actions per turn.
 
 ### Status: Sonic Break
 
-Causes Physical Unaspected damage during the status phase. The damage is equal
-to 10% of your maximum HP.
+Causes Physical Unaspected damage during the status phase, ignoring Eva and
+Armor. The damage is equal to 10% of your maximum HP.
 
 ### Status: Soteria
 
@@ -2629,7 +2636,8 @@ All healing caused to you by a *Kardia* link is increased by 50%.
 
 ### Status: Stoneskin
 
-You take 10% less damage. You also take half Earth-Aspected Damage.
+Incoming Potency for damage is decreased by 10. You also take half
+Earth-Aspected Damage.
 
 ### Status: Stop
 
@@ -2639,7 +2647,7 @@ Plot Armor Enemies instead only lose one of their actions per turn.
 
 ### Status: Storm’s Eye
 
-Your damage output is increased by 10%.
+Your Potency for damage is increased by 10.
 
 ### Status: Stun
 
@@ -2664,26 +2672,33 @@ All HP restoration to yourself is divided up amongst all allies who have
 
 ### Status: Taurochole
 
-After Armor Damage that you take is decreased by 10%. The percentages of all
-such modifiers are added together, e.g. 10% and 30% add together for 40%.
+Incoming Potency for damage is decreased by 10.
 
 ### Status: Temper
 
-Your outgoing Physical After-Armor Damage is increased by 25%.
+Your P-Potency for damage is increased by 25.
 
 ### Status: Temperance
 
-Your healing output is increased by 25%. You project an area of magical
-protection with a radius of 3 squares, which affects yourself and all allies,
-reducing incoming Magical Damage by 10%.
+Your Potency for healing is increased by 25.
+
+In map combat, you project an area of magical protection with a radius of 3
+squares, which affects yourself and all allies.
+
+In mapless combat, you project an area of magical protection that affects your
+whole row.
+
+The magical protection affects incoming M-Potency for damage, decreasing it by
+10.
 
 ### Status: Thin Air
 
-You ignore the MP costs of [Conjuration Magick](#conjuration-magick).
+You ignore the MP costs of [Conjuration Magick](#conjuration-magick)
 
 ### Status: Thrill of Battle
 
-Your maximum HP is increased by 20%. HP restoration on you is increased by 20%.
+Your maximum HP is increased by 20%. Incoming Potency for healing is increased
+by 20.
 
 ### Status: Toad
 
@@ -2694,12 +2709,12 @@ Plot Armor Enemies instead only have a 10% decrease in P-Acc and M-Acc.
 
 ### Status: Twin Snakes
 
-Your outgoing Physical Damage is increased by 10%.
+Your P-Potency for damage is increased by 10.
 
 ### Status: Valor
 
-Your next technique that does Physical Damage will do double damage. After one
-instance of outgoing Physical Damage, you lose this status.
+Your next technique that does Physical Damage will do double Initial Damage.
+After one instance of outgoing Physical Damage, you lose this status.
 
 ### Status: Vanish
 
@@ -2714,8 +2729,8 @@ in melee range, you attack that enemy.
 
 ### Status: Venomous Bite
 
-Causes Poison-aspected damage during the status phase. The damage is equal to 5%
-of your maximum HP.
+Causes Poison-aspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 5% of your maximum HP.
 
 ### Status: War Cry
 
@@ -2724,33 +2739,33 @@ attacks.
 
 ### Status: Watered
 
-You take double After-Armor damage from lightning.
+Incoming Potency for lightning damage is increased by 100.
 
 ### Status: Windbite
 
-Causes Air-aspected damage during the status phase. The damage is equal to 5% of
-your maximum HP.
+Causes Air-aspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 5% of your maximum HP.
 
 ### Status: Windburn
 
-Causes Air-aspected damage during the status phase. The damage is equal to 5% of
-your maximum HP.
+Causes Air-aspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 5% of your maximum HP.
 
 ### Status: Windburnara
 
-Causes Air-aspected damage during the status phase. The damage is equal to 10%
-of your maximum HP.
+Causes Air-aspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 10% of your maximum HP.
 
 ### Status: Windburnga
 
-Causes Air-aspected damage during the status phase. The damage is equal to 15%
-of your maximum HP.
+Causes Air-aspected damage during the status phase, ignoring Eva and Def. The
+damage is equal to 15% of your maximum HP.
 
 ### Status: X-Zone
 
 You are plane-shifted into the Void. If you remove this status, or have the
-means to cast X-Zone on yourself, you are highly unlikely to end up back in the
-same time and place as you were before being afflicted with this status.
+means to cast *X-Zone* on yourself, you are highly unlikely to end up back in
+the same time and place as you were before being afflicted with this status.
 
 Plot Armor Enemies instead take an amount of damage equal to 10% of their
 maximum HP, and end this status afterwards.
@@ -2770,7 +2785,7 @@ restore your HP.
 
 ### Doom Points
 
-When you have 4 Doom Points, you die and lose all Doom Points.
+When you have at least 4 Doom Points, you die and lose all Doom Points.
 
 Plot Armor Enemies instead take an amount of damage equal to 10% of their
 maximum HP, then end *Doom* status.
@@ -3216,6 +3231,23 @@ an elevation advantage of 2 or more above them.
 
 Attack, with P-Acc and Initial Damage increased by 5%.
 
+**Heavy Shot**
+
+| Cost            |
+|-----------------|
+| Charge Time: 10 |
+
+Attack, with a 20% chance to grant yourself Straight Shot Ready.
+
+**Straight Shot**
+
+| Cost    |
+|---------|
+| Special |
+
+Requires that you have Straight Shot Ready. This action ends Straight Shot
+Ready. Attack, with P-Acc doubled.
+
 **Venomous Bite**
 
 | Cost   |
@@ -3225,6 +3257,17 @@ Attack, with P-Acc and Initial Damage increased by 5%.
 Attack. Also attempts to cause [Venomous Bite](#status-venomous-bite).
 
 #### Archer 10
+
+**Bloodletter**
+
+| Cost      |
+|-----------|
+| TP: 3,000 |
+
+Attack. Bloodletter can be performed immediately after any other single-target
+[Archery](#archery) action. Doing Bloodletter after Bloodletter costs 30,000 TP
+for the second one, for a total of 33,000 TP spent to do two Bloodletters in a
+row. Doing three Bloodletters in a row costs 333,000 TP.
 
 **Charge 10**
 
@@ -3242,8 +3285,9 @@ Attack, with P-Acc and Initial Damage increased by 10%.
 |         | E: 1 row  | Target H: 6     |
 |         |           | Effect H/V: 2/2 |
 
+Potency: 50
+
 Projects an Attack into the sky, which then falls down against all in the area.
-After-Armor Damage is halved.
 
 #### Archer 20
 
@@ -3272,6 +3316,15 @@ Attack, with P-Acc and Initial Damage increased by 20%.
 Attack. Also attempts to cause [Immobilize](#status-immobilize) at half P-Acc.
 
 #### Archer 30
+
+**Barrage**
+
+| Cost       |
+|------------|
+| TP: 12,000 |
+
+Perform one [Archery](#archery) action three times. Any TP and MP costs of doing
+the action three times also occur.
 
 **Charge 30**
 
@@ -3403,7 +3456,9 @@ Attack, with P-Acc and Initial Damage increased by 70%.
 |-----------|
 | TP: 2,000 |
 
-Attack. After-Armor Damage is doubled.
+Potency: 200
+
+Attack.
 
 #### Archer 80
 
@@ -3423,8 +3478,10 @@ Attack, with P-Acc and Initial Damage increased by 80%.
 |         | E: 2 rows | Target H: 6     |
 |         |           | Effect H/V: 3/3 |
 
-Projects an Attack against all in the area. After-Armor Damage is halved. All
-status conditions that cause damage to the targets also occur.
+Potency: 50
+
+Projects an Attack against all in the area. All status conditions that cause
+damage to the targets also occur.
 
 #### Archer 90
 
@@ -3879,6 +3936,9 @@ Sect](#status-diurnal-sect) status.
 
 You play your current tarot card, invoking its effect onto the target. The
 effect depends on the card, refer to [Tarot Cards](#tarot-cards) for details.
+
+This action can be done immediately after any [Astrological
+Magick](#astrological-magick) action, at the cost of 300 TP.
 
 #### Astrologian 10
 
@@ -5937,7 +5997,9 @@ added to them. They add their P-Eva and M-Eva to you.
 |--------|---------|-------|
 | TP: 10 | Melee   | Melee |
 
-Your chocobo does a melee attack, with After-Armor Damage increased by 25%.
+Potency: 125
+
+Your chocobo does a melee attack.
 
 **Choco Regen**
 
@@ -6504,6 +6566,10 @@ Magical Attack, Air-Aspected, dealing Level \* Intellect \* 1.2 damage.
 
 Restores Level \* Wisdom \* 0.4 HP to the target.
 
+This can be done immediately after a different [Conjuration
+Magick](#conjuration-magick) action, in which case its TP cost is doubled, for a
+total of 1,200 TP.
+
 **Divine Benison**
 
 | Cost      | Mapless   | Map             |
@@ -6879,8 +6945,10 @@ gain 1 Blood Point.
 |         | E: Front row of enemies | Target H: 0         |
 |         |                         | Effect H/V: 3/3     |
 
-Projects your attack into all enemies in the area. After-Armor Damage is halved.
-You gain 1 [Enmity](#enmity) for each enemy hit.
+Potency: 50
+
+Projects your attack into all enemies in the area. You gain 1 [Enmity](#enmity)
+for each enemy hit.
 
 #### Dark Knight 10
 
@@ -7308,8 +7376,10 @@ that you started the Jump from.
 |         | E: Single | Target H: 1     |
 |         |           | Effect H/V: 1/1 |
 
+Potency: 150
+
 You jump into the target position, then perform a melee attack against one
-adjacent enemy for 50% increased After-Armor Damage.
+adjacent enemy.
 
 **Lancet**
 
@@ -7332,8 +7402,10 @@ After-Armor Damage is also added to your MP.
 |         | E: Single | Target H: 2     |
 |         |           | Effect H/V: 1/2 |
 
+Potency: 150
+
 You jump into the target position, then perform a melee attack against one
-adjacent enemy for 50% increased After-Armor Damage.
+adjacent enemy.
 
 **Reis’s Wind**
 
@@ -7367,8 +7439,10 @@ enemies in the area, ignoring M-Def.
 |         | E: Single | Target H: 3     |
 |         |           | Effect H/V: 1/3 |
 
+Potency: 150
+
 You jump into the target position, then perform a melee attack against one
-adjacent enemy for 50% increased After-Armor Damage.
+adjacent enemy.
 
 #### Dragoon 40
 
@@ -7380,8 +7454,10 @@ adjacent enemy for 50% increased After-Armor Damage.
 |         | E: Single | Target H: 4     |
 |         |           | Effect H/V: 1/4 |
 
+Potency: 150
+
 You jump into the target position, then perform a melee attack against one
-adjacent enemy for 50% increased After-Armor Damage.
+adjacent enemy.
 
 **White Draw**
 
@@ -7405,8 +7481,10 @@ yourself and all adjacent allies as MP.
 |         | E: Single | Target H: 5     |
 |         |           | Effect H/V: 1/5 |
 
+Potency: 150
+
 You jump into the target position, then perform a melee attack against one
-adjacent enemy for 50% increased After-Armor Damage.
+adjacent enemy.
 
 **Luna**
 
@@ -7428,8 +7506,10 @@ Magical attack. Summons a full blood moon to attempt to cause
 |         | E: Single | Target H: 6     |
 |         |           | Effect H/V: 1/6 |
 
+Potency: 150
+
 You jump into the target position, then perform a melee attack against one
-adjacent enemy for 50% increased After-Armor Damage.
+adjacent enemy.
 
 **Six Dragons**
 
@@ -7469,8 +7549,10 @@ damage.
 |         | E: Single | Target H: 7     |
 |         |           | Effect H/V: 1/7 |
 
+Potency: 150
+
 You jump into the target position, then perform a melee attack against one
-adjacent enemy for 50% increased After-Armor Damage.
+adjacent enemy.
 
 #### Dragoon 80
 
@@ -7492,8 +7574,10 @@ Projects your attack into the target, dealing double Initial Damage.
 |         | E: Single | Target H: 8     |
 |         |           | Effect H/V: 1/8 |
 
+Potency: 150
+
 You jump into the target position, then perform a melee attack against one
-adjacent enemy for 50% increased After-Armor Damage.
+adjacent enemy.
 
 #### Dragoon 90
 
@@ -7517,8 +7601,10 @@ the 5 squares after that.
 |         | E: Single | Target H: 9     |
 |         |           | Effect H/V: 1/9 |
 
+Potency: 150
+
 You jump into the target position, then perform a melee attack against one
-adjacent enemy for 50% increased After-Armor Damage.
+adjacent enemy.
 
 #### Dragoon 99
 
@@ -7539,8 +7625,10 @@ battlefield.
 |           | E: Single  | Target H: 10     |
 |           |            | Effect H/V: 1/10 |
 
+Potency: 150
+
 You jump into the target position, then perform a melee attack against one
-adjacent enemy for 50% increased After-Armor Damage.
+adjacent enemy.
 
 ## Evoker
 
@@ -7677,7 +7765,9 @@ normal P-Acc.
 |---------|
 | TP: 200 |
 
-Attack at triple P-Acc. After-Armor Damage is halved.
+Potency: 50
+
+Attack at triple P-Acc.
 
 **Zwerchhau**
 
@@ -7723,7 +7813,9 @@ Attack at double P-Acc. Damage is dealt to MP instead of HP.
 |---------|
 | TP: 500 |
 
-Attack the same target twice, at double P-Acc. After-Armor Damage is halved.
+Potency: 50
+
+Attack the same target twice, at double P-Acc.
 
 #### Fencer 60
 
@@ -8189,14 +8281,14 @@ sequence of attacks is as follows:
 
 | Action     | Reaction    | Support     | Move        |
 |------------|-------------|-------------|-------------|
-| Attack     | 10 x Choice | 10 x Choice | Mapless: 3  |
+| Attack     | 20 x Choice | 20 x Choice | Mapless: 3  |
 | Default    |             |             | Move: 3     |
 | 2 x Choice |             |             | Jump: 3     |
-| Item       |             |             | 10 x Choice |
+| Item       |             |             | 20 x Choice |
 
 | Weapon Proficiency | Armor Proficiency |
 |--------------------|-------------------|
-| 5 x Choice         | 5 x Choice        |
+| 10 x Choice        | 10 x Choice       |
 
 | JLVL | Unlock       |
 |------|--------------|
@@ -8446,8 +8538,8 @@ Attack, and attempt to cause [Stop](#status-stop) on hit.
 |---------|
 | MP: 800 |
 
-Attack, and add the target’s P-Def to the damage. Ignores P-Def when calculating
-the After-Armor Damage.
+Attack, and add the target’s P-Def to the Initial Damage. Ignores P-Def after
+Initial Damage.
 
 #### Fusilier 90
 
@@ -8488,7 +8580,7 @@ attack with that weapon will have double P-Acc.
 
 Requires using up your full Maneuver/Move. Plants your weapon firmly in the
 ground in order to handle strong recoil. Your next regular attack with that
-weapon will deal double After-Armor Damage.
+weapon will be improved by 1 Accuracy Class.
 
 **Target**
 
@@ -8604,11 +8696,12 @@ dealing variable damage based on the card.
 |---------|
 | Special |
 
+Potency: 50
+
 Consumes an amount of item charges totalling 10 Gathering or Craftsmanship. Grab
 two dice. Guess whether the sum will be odd or even. Roll the dice. If you
-guessed correctly, then you attack all enemies on the battlefield for half
-After-Armor Damage, ignoring P-Eva. Otherwise, you attack your own party
-instead, including yourself.
+guessed correctly, then you attack all enemies on the battlefield, ignoring
+P-Eva. Otherwise, you attack your own party instead, including yourself.
 
 #### Gambler 20
 
@@ -8834,10 +8927,10 @@ against yourself.
 |---------|
 | Special |
 
-Consumes an amount of item charges totalling 25 Gathering or Craftsmanship. Play
-the [Slot Machine](#slot-machine). All three rows and both diagonals are used.
-The center row also uses the *High Power Effects* rather than the *Normal Power
-Effects*. You choose one of the five results.
+Consumes an amount of item charges totalling 100 Gathering or Craftsmanship.
+Play the [Slot Machine](#slot-machine). All three rows and both diagonals are
+used. The center row also uses the *High Power Effects* rather than the *Normal
+Power Effects*. You choose one of the five results.
 
 **Mahjong Hand**
 
@@ -9063,7 +9156,7 @@ yourself.
 | 80   | Support: Attack Boost        |
 | 99   | Job Mastered                 |
 
-**Mastery Bonus:** You take 25% less Magical After-Armor Damage.
+**Mastery Bonus:** Incoming M-Potency for damage is decreased by 25.
 
 ### Geomancy
 
@@ -9881,7 +9974,9 @@ Level.
 |         | E: Front row of enemies | Target H: 0         |
 |         |                         | Effect H/V: 3/3     |
 
-Project your attack into all enemies in the area. After-Armor Damage is halved.
+Potency: 50
+
+Project your attack into all enemies in the area.
 
 #### Gladiator 10
 
@@ -9949,9 +10044,11 @@ Spirit \* 0.05.
 |         | E: Front row of enemies | Target H: 0         |
 |         |                         | Effect H/V: 3/3     |
 
-Project your attack into all enemies in the area. After-Armor Damage is halved.
-You gain 1 [Enmity](#enmity) point for each enemy hit. You also gain an amount
-of MP equal to your Level \* Spirit \* 0.05.
+Potency: 50
+
+Project your attack into all enemies in the area. You gain 1 [Enmity](#enmity)
+point for each enemy hit. You also gain an amount of MP equal to your Level \*
+Spirit \* 0.05.
 
 #### Gladiator 50
 
@@ -10135,7 +10232,9 @@ yet in your action.
 |         | E: Front row of enemies | Target H: 0         |
 |         |                         | Effect H/V: 3/3     |
 
-Project your attack into all enemies in the area. After-Armor Damage is halved.
+Potency: 50
+
+Project your attack into all enemies in the area.
 
 **Lightning Shot**
 
@@ -10203,8 +10302,9 @@ long as *Aurora* has not been done yet in your action, for 10x the TP cost
 |           | E: Front row of enemies | Target H: 0         |
 |           |                         | Effect H/V: 3/3     |
 
-Project your attack into all enemies in the area. After-Armor Damage is halved.
-You gain 1 Cartridge.
+Potency: 50
+
+Project your attack into all enemies in the area. You gain 1 Cartridge.
 
 #### Gunbreaker 50
 
@@ -10245,9 +10345,10 @@ Reduces your current HP to 1 and grants yourself
 |         | E: Front row of enemies | Target H: 0         |
 |         |                         | Effect H/V: 3/3     |
 
-Project your attack into all enemies in the area. After-Armor Damage is halved.
-Attempts to cause [Bow Shock](#status-bow-shock) status to all enemies in the
-area.
+Potency: 50
+
+Project your attack into all enemies in the area. Attempts to cause [Bow
+Shock](#status-bow-shock) status to all enemies in the area.
 
 **Gnashing Fang**
 
@@ -10457,8 +10558,9 @@ Hit chance. Afterwards, gain 6 Cartridges.
 |         | E: 1 row  | Target H: 4     |
 |         |           | Effect E/V: 3/3 |
 
-Projects your attack into all enemies in the target area. After-Armor Damage is
-halved.
+Potency: 50
+
+Projects your attack into all enemies in the target area.
 
 #### Jongleur 10
 
@@ -11020,7 +11122,9 @@ except for *Build Turret*.
 |         | E: All enemies | Target H: 6     |
 |         |                | Effect E/V: 4/4 |
 
-Projects your attack into all enemies in the area. After-Armor Damage is 1/4th.
+Potency: 25
+
+Projects your attack into all enemies in the area.
 
 **Red Spring**
 
@@ -11480,7 +11584,7 @@ for Level \* Dexterity \* 1.5 damage.
 | Item                                            |            |                     |            |
 
 -   **Support: Double MP Power:** MP-using actions cost double the MP. In
-    exchange, their Damage and healing are increased by 50%.
+    exchange, their Initial Damage and healing are increased by 50%.
 
 | Weapon Proficiency | Armor Proficiency |
 |--------------------|-------------------|
@@ -11547,8 +11651,9 @@ your [Enmity](#enmity) points \* 10.
 |---------|
 | TP: 100 |
 
-Attack. After-Armor Damage is increased by 50%. P-Acc is halved. You gain 1
-[Enmity](#enmity) point.
+Potency: 150
+
+Attack, at half P-Acc. You gain 1 [Enmity](#enmity) point.
 
 #### Marauder 10
 
@@ -11565,8 +11670,10 @@ action to remove [Defiance](#status-defiance) from yourself.
 |         | E: All enemies | Target H: 1               |
 |         |                | Effect H/V: 1/1, 3/2, 5/3 |
 
-Projects your attack into all enemies in the area. After-Armor Damage is halved.
-You gain 1 [Enmity](#enmity) point for each enemy hit.
+Potency: 50
+
+Projects your attack into all enemies in the area. You gain 1 [Enmity](#enmity)
+point for each enemy hit.
 
 **Provoke**
 
@@ -11922,8 +12029,9 @@ Remove one status condition of choice from yourself.
 |      |                | Length: 4   |
 |      |                | Width: 3    |
 
-Perform a melee attack against all enemies along a line. After-Armor Damage is
-reduced to 1/4th.
+Potency: 25
+
+Perform a melee attack against all enemies along a line.
 
 #### Monk 10
 
@@ -11971,8 +12079,7 @@ Armor\] for 2 status phases.
 **Pummel**
 
 Perform a melee attack. Roll a cubic die (also known as a “d6”). On a 1 or 2,
-the After-Armor Damage is halved. On a 5 or 6, the After-Armor Damage is
-doubled.
+the Potency is only 50. On a 5 or 6, the Potency is 200.
 
 #### Monk 30
 
@@ -12005,8 +12112,9 @@ Melee attack. The damage is Magical and Holy-Aspected.
 |           | E: All enemies | Length: 4   |
 |           |                | Width: 3    |
 
-Projects a melee attack against all enemies in the area. After-Armor Damage is
-halved.
+Potency: 50
+
+Projects a melee attack against all enemies in the area.
 
 **Mantra**
 
@@ -12196,8 +12304,8 @@ class. Each of the attacks also attempts to instantly-kill the target.
 -   **Reaction: Absorb MP:** When you take damage or receive a harmful status
     condition from an MP-using action, you gain an amount of MP equal to half of
     that action’s MP cost.
--   **Support: Defense Boost:** Magical After-Armor Damage that you take is
-    reduced by 25%.
+-   **Support: Defense Boost:** Incoming M-Potency for damage is decreased
+    by 25.
 -   **Move: Ignore Weather:** In mapless combat, you gain +1 maneuver. In map
     combat, you ignore any movement-decreasing effects of terrain and
     environment.
@@ -12510,7 +12618,7 @@ least one Limit Break Charge, this ability fires again.
 [Thaumaturgist](#thaumaturgist) 30
 
 -   **Support: Necromantic Body:** You always have [Zombie](#status-zombie)
-    status. You take double After-Armor Damage from Holy element.
+    status. Incoming Potency for Holy-aspected damage is increased by 100.
 -   **Support: Summon Phantasm:** When you kill an enemy with a regular attack
     action, you spawn a Phantasm for four status phases. Phantasms have the
     following template:
@@ -12585,8 +12693,9 @@ least one Limit Break Charge, this ability fires again.
 -   **Reaction: Reflexes (1,000 TP):** Double your P-Eva and M-Eva against an
     incoming action.
 -   **Support: Dual-Wield:** If you equip two 1H weapons, then your regular
-    Attack actions perform a separate attack with each one. Other actions based
-    on weapons use whichever weapon will have better results.
+    Attack actions perform a separate attack with each one. For other weapon
+    actions, you choose one of your two weapons at the time of performing the
+    action.
 -   **Move: Waterwalking:** In mapless combat, gives +1 Maneuver. In map combat,
     allows you to move and stand on top of mud, swamp and water as if they were
     solid ground.
@@ -12609,7 +12718,8 @@ least one Limit Break Charge, this ability fires again.
 | 99   | Job Mastered                 |
 
 **Mastery Bonus:** If your P-Eva is higher than an enemy’s P-Acc, then your
-P-Acc and Physical Damage against that enemy are increased by 25%.
+P-Acc against that enemy is increased by 25%, and your Potency for damage is
+increased by 25 against that enemy.
 
 ### Ninjutsu
 
@@ -13724,7 +13834,7 @@ Mage](#white-mage) 30
 
 **Mastery Bonus:** When you take damage, you can spend [Enmity](#enmity) points
 to decrease the After-Armor Damage. This is at a ratio of 1 [Enmity](#enmity)
-point to 5% damage reduction.
+point to a Potency decrease of 5.
 
 ### Divine Weapon
 
@@ -13751,8 +13861,10 @@ one status condition of each target’s choice.
 |         | E: 3 in one row | Target H: 2     |
 |         |                 | Effect H/V: 2/2 |
 
-Projects your attack into the area. After-Armor Damage is halved. Also attempts
-to cause [Stop](#status-stop) at half P-Acc.
+Potency: 50
+
+Projects your attack into the area. Also attempts to cause [Stop](#status-stop)
+at half P-Acc.
 
 #### Paladin 20
 
@@ -14307,8 +14419,8 @@ The results are unpredictable, and may even involve the will of you, the player.
     your opponent does not expect, constantly flowing stances to confuse your
     opponent.
 -   **Support: Animal Forms:** Certain [Pugilism](#pugilism) techniques can put
-    you in Opo-Opo / Monkey Form, Raptor / Dragon Form or Coeurl / Tiger Form.
-    Outside of combat, you cannot maintain animal forms.
+    you in Opo-Opo Monkey Form, Raptor Dragon Form or Coeurl Tiger Form. Outside
+    of combat, you cannot maintain animal forms.
 -   **Support: Fist Elements:** Certain [Pugilism](#pugilism) techniques can put
     you into Fists of Earth, Fists of Wind, or Fists of Fire. You can only have
     one of these Fist Element types active at a time.
@@ -14341,13 +14453,13 @@ The results are unpredictable, and may even involve the will of you, the player.
 |------|---------|-------|
 | None | Melee   | Melee |
 
-Melee attack. Puts you into Raptor / Dragon Form.
+Melee attack. Puts you into Raptor Dragon Form.
 
 If it hits the enemy rear, then it is upgraded by one accuracy class. For
 example, a Miss is turned into a Glancing Hit.
 
-If performed in Opo-Opo / Monkey Form while having [Leaden
-Fist](#status-leaden-fist), then After-Armor Damage is doubled. This also ends
+If performed in Opo-Opo Monkey Form while having [Leaden
+Fist](#status-leaden-fist), then Potency is increased by 100. This also ends
 your [Leaden Fist](#status-leaden-fist) status.
 
 **Form Shift**
@@ -14358,9 +14470,9 @@ your [Leaden Fist](#status-leaden-fist) status.
 
 Changes your Animal Form based on your current one:
 
-1.  No Form or Opo-Opo / Monkey Form –&gt; Raptor / Dragon Form
-2.  Raptor / Dragon Form –&gt; Coeurl / Tiger Form
-3.  Coeurl / Tiger Form –&gt; Opo-Opo / Monkey Form
+1.  No Form or Opo-Opo Monkey Form –&gt; Raptor Dragon Form
+2.  Raptor Dragon Form –&gt; Coeurl Tiger Form
+3.  Coeurl Tiger Form –&gt; Opo-Opo Monkey Form
 
 **Snap Punch**
 
@@ -14368,8 +14480,8 @@ Changes your Animal Form based on your current one:
 |------|---------|-------|
 | None | Melee   | Melee |
 
-Melee attack. Requires that you are in Raptor / Dragon Form. Puts you into
-Coeurl / Tiger Form.
+Melee attack. Requires that you are in Raptor Dragon Form. Puts you into Coeurl
+Tiger Form.
 
 If it hits the enemy flank, then it is upgraded by one accuracy class. For
 example, a Miss is turned into a Glancing Hit.
@@ -14380,8 +14492,8 @@ example, a Miss is turned into a Glancing Hit.
 |------|---------|-------|
 | None | Melee   | Melee |
 
-Melee attack. Requires that you are in Coeurl / Tiger Form. Puts you into
-Opo-Opo / Monkey Form.
+Melee attack. Requires that you are in Coeurl Tiger Form. Puts you into Opo-Opo
+Monkey Form.
 
 If it hits the enemy rear, then it is upgraded by one accuracy class. For
 example, a Miss is turned into a Glancing Hit.
@@ -14411,9 +14523,9 @@ Melee attack at double P-Acc.
 |------|---------|-------|
 | None | Melee   | Melee |
 
-Melee attack. Requires that you are in Raptor / Dragon Form. Puts you into
-Coeurl / Tiger Form. Also grants yourself [Twin Snakes](#status-twin-snakes) for
-6 status phases.
+Melee attack. Requires that you are in Raptor Dragon Form. Puts you into Coeurl
+Tiger Form. Also grants yourself [Twin Snakes](#status-twin-snakes) for 6 status
+phases.
 
 #### Pugilist 20
 
@@ -14425,9 +14537,10 @@ Coeurl / Tiger Form. Also grants yourself [Twin Snakes](#status-twin-snakes) for
 |      | E: Whole row | Target H: 0         |
 |      |              | Effect H/V: 3/3     |
 
-Requires that you are in Opo-Opo / Monkey Form. Projects your melee attack into
-all enemies in the area. After-Armor Damage is halved. Puts you into Raptor /
-Dragon Form.
+Potency: 50
+
+Requires that you are in Opo-Opo Monkey Form. Projects your melee attack into
+all enemies in the area. Puts you into Raptor Dragon Form.
 
 **Meteor Strike Suplex**
 
@@ -14446,9 +14559,9 @@ Melee grapple that ignores P-Def.
 |------|---------|-------|
 | None | Melee   | Melee |
 
-Melee attack. Requires that you are in Coeurl / Tiger Form. Puts you into
-Opo-Opo / Monkey Form. Causes \[Demolish\]\[Status: Demolish\] to the target for
-5 status phases.
+Melee attack. Requires that you are in Coeurl Tiger Form. Puts you into Opo-Opo
+Monkey Form. Causes \[Demolish\]\[Status: Demolish\] to the target for 5 status
+phases.
 
 **Fists of Wind**
 
@@ -14466,9 +14579,10 @@ Changes your Fist Element form to Wind.
 |      | E: Whole row | Target H: 0         |
 |      |              | Effect H/V: 3/3     |
 
-Requires that you are in Coeurl / Tiger Form. Projects your melee attack into
-all enemies in the area. After-Armor Damage is halved. Puts you into Opo-Opo /
-Monkey Form.
+Potency: 50
+
+Requires that you are in Coeurl Tiger Form. Projects your melee attack into all
+enemies in the area. Puts you into Opo-Opo Monkey Form.
 
 **Shoulder Tackle**
 
@@ -14496,9 +14610,10 @@ Changes your Fist Element form to Fire.
 |      | E: Whole row | Target H: 0         |
 |      |              | Effect H/V: 3/3     |
 
-Requires that you are in Raptor / Dragon Form. Projects your melee attack into
-all enemies in the area. After-Armor Damage is halved. Puts you into Couerl /
-Tiger Form.
+Potency: 50
+
+Requires that you are in Raptor Dragon Form. Projects your melee attack into all
+enemies in the area. Puts you into Couerl Tiger Form.
 
 If you have [Twin Snakes](#status-twin-snakes) status, then the duration is
 extended by 2, to a maximum of 6.
@@ -14511,10 +14626,10 @@ extended by 2, to a maximum of 6.
 |------|---------|-------|
 | None | Melee   | Melee |
 
-Melee attack. Requires that you are in Raptor / Dragon Form. Puts you into
-Coeurl / Tiger Form. Grants you [Leaden Fist](#status-leaden-fist) status.
+Melee attack. Requires that you are in Raptor Dragon Form. Puts you into Coeurl
+Tiger Form. Grants you [Leaden Fist](#status-leaden-fist) status.
 
-If it hits the enemy flank, then it ignores half of enemy P-Def.
+If it hits the enemy flank, then the accuracy class is upgraded by one.
 
 **Perfect Balance**
 
@@ -14551,7 +14666,7 @@ phases.
 | Special   | Melee   | Melee |
 | TP: 4,500 |         |       |
 
-Melee attack that can be done instantly after a Coeurl / Tiger Form technique.
+Melee attack that can be done instantly after a Coeurl Tiger Form technique.
 
 #### Pugilist 70
 
@@ -15124,7 +15239,7 @@ Mage](#white-mage) 60
 | 1 x Choice                    |            |            |            |
 | Item                          |            |            |            |
 
--   **Action: Recall:** Perform a Magick action, except that MP cost is
+-   **Action: Recall:** Perform a Magick action, except that the MP cost is
     converted into double that much Cast Time.
 
 | Weapon Proficiency | Armor Proficiency |
@@ -15141,7 +15256,7 @@ Mage](#white-mage) 60
 | 80   | Action: Recall |
 | 99   | Job Mastered   |
 
-**Mastery Bonus:** You take 25% less Physical After-Armor Damage.
+**Mastery Bonus:** Incoming P-Potency for damage is decreased by 25.
 
 ## Samurai
 
@@ -15318,8 +15433,10 @@ Intellect \* 0.6 Damage. Also attempts to cause \[Slow\]\[Status: Slow\] status.
 |                  | E: 2 rows | Target H: 8     |
 |                  |           | Effect H/V: 3/3 |
 
+Potency: 50
+
 Projects four separate attacks at enemies in the target area. The attacks are
-distributed evenly among the enemies, if possible. After-Armor Damage is halved.
+distributed evenly among the enemies, if possible.
 
 #### Samurai 50
 
@@ -17329,8 +17446,11 @@ Attack. Gives 1 Beast Point to yourself.
 | TP: 100 | R: 2 rows                 | Spinning Melee |
 |         | E: 3 enemies in front row |                |
 
-Spin around and perform a melee attack against adjacent enemies. After-Armor
-Damage is halved. Also attempts to knock them back by 1 square.
+Potency: 50
+
+Spin around and perform a melee attack against adjacent enemies. Also attempts
+to knock them back by 1 square. In mapless combat, this instead attempts to
+decrease the Maneuver of the targets by 1.
 
 #### Warrior 20
 
@@ -17340,8 +17460,10 @@ Damage is halved. Also attempts to knock them back by 1 square.
 |---------|
 | TP: 100 |
 
-Attack. After-Armor Damage is doubled. 25% of that damage is dealt to yourself,
-ignoring your own P-Def.
+Potency: 200
+
+Attack. 25% of Initial Damage damage is also dealt to yourself, ignoring your
+own P-Def.
 
 #### Warrior 30
 
@@ -17401,8 +17523,10 @@ Attack. Grants yourself [Storm’s Eye](#status-storms-eye) status.
 |                | E: Front row of enemies | Target H: 0         |
 |                |                         | Effect H/V: 3/3     |
 
+Potency: 50
+
 Projects your attack into all enemies in the area. P-Acc is doubled. Ignores
-P-Def. After-Armor Damage is halved.
+P-Def.
 
 **Onslaught**
 
@@ -18171,7 +18295,7 @@ Pact with an Esper in order to be able to perform any of the listed actions.
 -   Double Speed
 -   Maneuver/Move: 6
 -   Jump: 4
--   Outgoing After-Armor Damage is halved
+-   Potency for damage is decreased by 50
 
 **Esper Action: Choco Cure**
 
@@ -18214,7 +18338,7 @@ No templates.
 -   Half HP
 -   Half P-Def
 -   Half M-Def
--   Outgoing After-Armor Damage is halved
+-   Potency for damage is decreased by 50
 
 **Esper Action: Cracked Body**
 
@@ -18254,7 +18378,7 @@ No templates.
 -   Half HP
 -   Half P-Def
 -   Half M-Def
--   Outgoing After-Armor Damage is halved
+-   Potency for damage is decreased by 50
 
 **Esper Action: Goblin Knife**
 
@@ -18292,7 +18416,7 @@ Physical Attack, Unaspected, for Level \* Intellect \* 0.4 damage.
 -   Absorb Fire element
 -   Half HP
 -   Half P-Def
--   Outgoing After-Armor Damage is halved
+-   Potency for damage is decreased by 50
 
 **Esper Action: Fuse Flay**
 
@@ -18328,16 +18452,16 @@ of the battle.
 
 -   Always has \[Float\]\[Status: Float\]
 -   Moves by flying
--   Takes double After-Armor Damage from ranged weapons
+-   Incoming Potency for ranged weapon damage is increased by 100
 
 **Egi-Form**
 
 -   Always has \[Float\]\[Status: Float\]
 -   Moves by flying
--   Takes double After-Armor Damage from ranged weapons
+-   Incoming Potency for ranged weapon damage is increased by 100
 -   Half HP
 -   Half P-Def
--   Outgoing After-Armor Damage is halved
+-   Potency for damage is decreased by 50
 
 **Esper Action: Stonefeathers**
 
@@ -18377,7 +18501,7 @@ attempts to cause [Petrify](#status-petrify).
 -   Half HP
 -   Half P-Def
 -   Double M-Eva against status conditions
--   Outgoing After-Armor Damage is halved
+-   Potency for damage is decreased by 50
 
 **Esper Action: Brain Licking**
 
@@ -18423,7 +18547,7 @@ attempts to cause [Addle](#status-addle).
 
 -   Half HP
 -   Half P-Def
--   Outgoing After-Armor Damage is halved
+-   Potency for damage is decreased by 50
 
 **Esper Action: Moogle Express**
 
@@ -18498,8 +18622,10 @@ to targeted enemies.
 |      | E: 1 row  | Target H: 4     |
 |      |           | Effect E/V: 3/3 |
 
+Potency: 50
+
 Magical Attack, Wind-Aspected, targeting all enemies in the area for Level \*
-Intellect \* 0.4 damage. After-Armor Damage is halved.
+Intellect \* 0.4 damage.
 
 **Summoning Magick: Ruby Light**
 
@@ -18676,8 +18802,10 @@ Targets all allies in the area. Roll a 1d6 to determine what happens:
 |      | E: 2 rows | Target H: 6     |
 |      |           | Effect E/V: 4/4 |
 
+Potency: 50
+
 Magical Attack, Wind-Aspected, targeting all enemies in the area for Level \*
-Intellect \* 0.4 damage. After-Armor Damage is halved.
+Intellect \* 0.4 damage.
 
 ### Golem
 
@@ -19047,13 +19175,13 @@ based solely on specialized parts of the template.
 
 -   Moves by flying
 -   Always has \[Float\]\[Status: Float\]
--   Takes double After-Armor Damage from Ranged Arc weapons, and from Lightning
-    element
+-   Incoming Potency for Ranged Arc Weapon damage is increased by 100
+-   Incoming Potency for Lightning-aspected damage is increased by 100
 
 **Bomb**
 
 -   Always has \[Float\]\[Status: Float\]
--   Takes double After-Armor Damage from Ice element
+-   Incoming Potency for Ice-aspected damage is increased by 100
 -   In the event of an unwinnable battle, self-destructs for Level \* Level \* 8
     fire damage
 
@@ -19074,12 +19202,12 @@ based solely on specialized parts of the template.
 
 -   Double MP
 -   Always has \[Float\]\[Status: Float\] and [Zombie](#status-zombie)
--   Takes double After-Armor Damage from Holy element
+-   Incoming Potency for Holy-aspected damage is increased by 100
 
 **Machina**
 
 -   Double P-Def
--   Takes double After-Armor Damage from Lightning element
+-   Incoming Potency for Lightning-aspected damage is increased by 100
 
 **Mini Mage**
 
@@ -19114,7 +19242,7 @@ based solely on specialized parts of the template.
 -   Double HP
 -   Attempts to cause [Poison](#status-poison) on hit
 -   Always has [Zombie](#status-zombie)
--   Takes double After-Armor Damage from Fire element
+-   Incoming Potency for Fire-aspected damage is increased by 100
 
 ## Plot Armor Enemies
 
@@ -19122,6 +19250,6 @@ Many status conditions have a reduced effect against Plot Armor Enemies.
 
 Generally have 4 or more actions per turn.
 
-Between 10x to 50x HP.
+Between 10x to 100x HP.
 
 Oftentimes have bodyguard goons who have 5x to 10x HP themselves.

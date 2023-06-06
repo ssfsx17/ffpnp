@@ -20,7 +20,7 @@
 
 - **Action: Mystick Magick:** Weaving the flow of destiny and fate.
 - **Reaction: Absorb MP:** When you take damage or receive a harmful status condition from an MP-using action, you gain an amount of MP equal to half of that action's MP cost.
-- **Support: Defense Boost:** Magical After-Armor Damage that you take is reduced by 25%.
+- **Support: Defense Boost:** Incoming M-Potency for damage is decreased by 25.
 - **Move: Ignore Weather:** In mapless combat, you gain +1 maneuver. In map combat, you ignore any movement-decreasing effects of terrain and environment.
 - **Move: Manafont:** After finishing your maneuver or movement, you gain an amount of MP equal to 10% of your maximum.
 

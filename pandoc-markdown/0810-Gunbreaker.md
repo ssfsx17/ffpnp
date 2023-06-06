@@ -85,7 +85,9 @@ Attack. This technique can be performed immediately after any [Charged Weapon] t
 |         | E: Front row of enemies | Target H: 0
 |         |                         | Effect H/V: 3/3
 
-Project your attack into all enemies in the area. After-Armor Damage is halved.
+Potency: 50
+
+Project your attack into all enemies in the area.
 
 **Lightning Shot**
 
@@ -149,7 +151,9 @@ Grants the target [Aurora][Status: Aurora] for 6 status phases. This can be perf
 |           | E: Front row of enemies | Target H: 0
 |           |                         | Effect H/V: 3/3
 
-Project your attack into all enemies in the area. After-Armor Damage is halved. You gain 1 Cartridge.
+Potency: 50
+
+Project your attack into all enemies in the area. You gain 1 Cartridge.
 
 #### Gunbreaker 50
 
@@ -187,7 +191,9 @@ Reduces your current HP to 1 and grants yourself [Superbolide][Status: Superboli
 |         | E: Front row of enemies | Target H: 0
 |         |                         | Effect H/V: 3/3
 
-Project your attack into all enemies in the area. After-Armor Damage is halved. Attempts to cause [Bow Shock][Status: Bow Shock] status to all enemies in the area.
+Potency: 50
+
+Project your attack into all enemies in the area. Attempts to cause [Bow Shock][Status: Bow Shock] status to all enemies in the area.
 
 **Gnashing Fang**
 

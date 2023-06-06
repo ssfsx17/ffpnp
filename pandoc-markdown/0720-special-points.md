@@ -6,7 +6,7 @@ Upon taking damage, if you are still alive, then Auto-Cure Points are spent to r
 
 ### Doom Points
 
-When you have 4 Doom Points, you die and lose all Doom Points.
+When you have at least 4 Doom Points, you die and lose all Doom Points.
 
 Plot Armor Enemies instead take an amount of damage equal to 10% of their maximum HP, then end _Doom_ status.
 

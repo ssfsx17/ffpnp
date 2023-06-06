@@ -58,8 +58,9 @@ Flank attacks ignore 25% of the target's Eva. Rear attacks ignore half of the ta
 
 Any ability that ignores Acc or Eva is automatically a _Normal Hit_.
 
-- **Direct Critical Hit:** Critical Hit, with a 10% chance to be a Devastating Hit. A Devastating Hit does triple After-Armor damage rather than double.
-- **Direct Hit:** 10% chance to be a Critical Hit. A Critical Hit does double After-Armor damage, and any harmful status effects of the attack have their durations increased by two status phases.
+- **Devastating Hit:** A Devastating Hit adds 200 Potency. Any harmful status effects of the attack apply three additional stacks. The only way to achieve a Devastating Hit is through the 10% chance from a Direct Critical Hit.
+- **Direct Critical Hit:** A Direct Critical Hit adds 100 Potency. Any harmful status effects of the attack apply two additional stacks. 10% chance to be a Devastating Hit. 
+- **Direct Hit:** A Direct Hit adds 50 Potency. Any harmful status effects of the attack apply one additional stack. 10% chance to be a Direct Critical Hit.
 - **Normal Hit:** Nothing special.
 - **Glancing Hit:** After-Armor damage is halved. Harmful status effects have their durations capped to 1 status phase, even if they normally do not have a finite duration. Instant-death is changed to an amount of damage equal to 10% of the target's maximum HP.
 - **Miss:** The attack has no effect on the target.
@@ -69,8 +70,10 @@ Doing any amount of damage from a regular Attack action restores an amount of TP
 Damage is resolved as follows:
 
 1. Calculate initial damage. Because no dice are involved, some of this can be pre-calculated. And without any other modifiers or status conditions in play, you may have this initial damage number already.
-2. Subtract the target's armor - either P-Def or M-Def, according to the nature of the attack.
-3. Now you have the After-Armor Damage number. Subtract that from the target's HP.
+2. Subtract the target's armor - either P-Def or M-Def, according to the nature of the attack. Now you have the After-Armor Damage number.
+3. Actions that do not specify their Potency are assumed to start with a Potency of 100.
+3. Apply any modifiers to After-Armor Damage. All Potency modifiers are added together to form a multiplier of the After-Armor Damage, equal to (Potency Total / 100). For example, with a Potency of 150, the multiplier is 1.5. With a Potency of 50, the multiplier is 0.5.
+4. Subtract the final After-Armor Damage from the target's HP.
 
 #### Gravity/Death Attacks
 

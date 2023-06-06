@@ -16,7 +16,7 @@ You are in a stable stance in which status conditions do not count down or expir
 
 ### Status: Aquaveil
 
-After Armor Damage that you take is decreased by 15%.
+After Armor Damage that you take subtracts 10 Potency.
 
 ### Status: Aurora
 
@@ -28,11 +28,11 @@ Restores HP during the status phase. The amount restored is equal to your Level 
 
 ### Status: Atheist
 
-Both incoming and outgoing Magical damage is decreased by 25%.
+Both incoming and outgoing M-Potency is decreased by 25.
 
 ### Status: Berserk
 
-You are compelled to do nothing but run at the nearest enemy and perform normal Attack actions. Your physical damage output is increased by 25%.
+You are compelled to do nothing but run at the nearest enemy and perform normal Attack actions. You gain 25 P-Potency.
 
 Plot Armor Enemies are only compelled to behave this way for their first action per turn.
 
@@ -60,7 +60,7 @@ Your P-Acc and M-Acc are increased by 25%.
 
 ### Status: Boost Attack
 
-Your outgoing Physical After-Armor Damage is increased by 25%.
+Your P-Potency for damage is increased by 25.
 
 ### Status: Boost Critical
 
@@ -68,7 +68,7 @@ Your accuracy class is improved by 1.
 
 ### Status: Boost Defense
 
-You take 25% less After-Armor Damage.
+Incoming damage subtracts 25 P-Potency.
 
 ### Status: Boost Evasion
 
@@ -76,11 +76,11 @@ Your P-Eva and M-Eva are increased by 25%.
 
 ### Status: Boost Healing
 
-Your outgoing healing is increased by 25%.
+Your Potency for healing is increased by 25.
 
 ### Status: Boost Magick
 
-Your outgoing Magical After-Armor Damage is increased by 25%.
+Your M-Potency for damage is increased by 25.
 
 ### Status: Boost Movement
 
@@ -96,7 +96,7 @@ Causes Physical Unaspected damage during the status phase. The damage is equal t
 
 ### Status: Bravery
 
-Both incoming and outgoing Physical damage is increased by 25%.
+Both incoming and outgoing P-Potency is increased by 25.
 
 ### Status: Broken Accessory
 
@@ -112,19 +112,19 @@ Your M-Def is zero. You also gain no benefit from your headgear. This status can
 
 ### Status: Broken Magick
 
-Your magical damage output is halved.
+Your M-Potency is decreased by 50.
 
-Plot Armor Enemies instead have a decrease of 10%.
+Plot Armor Enemies instead have a decrease of 10.
 
 ### Status: Broken Power
 
-Your physical damage output is halved.
+Your P-Potency is decreased by 50.
 
 Plot Armor Enemies instead have a decrease of 10%.
 
 ### Status: Broken Shield
 
-Your P-Eva is zero. You also gain no benefit from your shield. This status can be removed by changing your shield.
+Your P-Eva is zero. You also gain no benefit from your shield. This status can be removed by changing your shield, or changing what you have equipped in both hands.
 
 ### Status: Broken Weapon
 
@@ -132,7 +132,7 @@ Your physical damage output is zero. You also gain no benefit from your weapon. 
 
 ### Status: Brotherhood
 
-Your Critical Hits and Direct Critical Hits give 1 Chakra to every person in the party who currently has the Chakras support ability equipped.
+Your Critical Hits and Direct Critical Hits give 1 Chakra to every person in the party who currently has the _Chakras_ support ability equipped.
 
 ### Status: Bubble
 
@@ -140,11 +140,11 @@ Your maximum HP is doubled.
 
 ### Status: Burning
 
-Causes Fire-Aspected damage during the status phase. The damage is equal to 10% of your maximum HP.
+Causes Fire-Aspected damage during the status phase, ignoring Eva and Def. The damage is equal to 10% of your maximum HP.
 
 ### Status: Camouflage
 
-You take 25% less Physical After-Armor Damage.
+Incoming P-Potency is decreased by 25.
 
 ### Status: Chain Stratagem
 
@@ -160,27 +160,27 @@ Plot Armor Enemies are not compelled by _Charm_.
 
 You turn into a small chicken. You are unable to do anything other than move. You are compelled to run away to one corner of the battlefield, as far away from enemies as possible. Your P-Eva and P-Def are halved.
 
-Plot Armor Enemies are only compelled in this manner for their first action per turn.
+Plot Armor Enemies are only compelled in this manner for their first action per turn, and have no modifier to P-Eva or P-Def.
 
 ### Status: Circle of Scorn
 
-Causes Physical damage during the status phase. The damage is equal to 10% of your maximum HP.
+Causes Physical damage during the status phase, ignoring Eva and Def. The damage is equal to 10% of your maximum HP.
 
 ### Status: Collective Unconscious
 
-Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.05. You also take 10% less damage.
+Restores HP during the status phase. The amount restored is equal to your Level * Stamina * 0.05. Incoming Potency for damage is also decreased by 10.
 
 ### Status: Combust
 
-Causes Unaspected damage during the status phase. The damage is equal to 5% of your maximum HP.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The damage is equal to 5% of your maximum HP.
 
 ### Status: Combustra
 
-Causes Unaspected damage during the status phase. The damage is equal to 10% of your maximum HP.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The damage is equal to 10% of your maximum HP.
 
 ### Status: Combustga
 
-Causes Unaspected damage during the status phase. The damage is equal to 15% of your maximum HP.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The damage is equal to 15% of your maximum HP.
 
 ### Status: Confuse
 
@@ -190,7 +190,7 @@ Plot Armor Enemies are not compelled by _Confuse_.
 
 ### Status: Coward
 
-Both incoming and outgoing Physical damage is decreased by 25%.
+Both incoming and outgoing P-Potency is decreased by 25.
 
 ### Status: Critical Vulnerability
 
@@ -206,7 +206,7 @@ After Armor Damage that you take is decreased by 10%. The percentages of all suc
 
 ### Status: Darkside
 
-Your damage output is increased by 10%.
+Your Potency is increased by 10.
 
 ### Status: Defiance
 
@@ -236,7 +236,7 @@ Restores HP during the status phase. The amount restored is equal to your Level 
 
 ### Status: Divination
 
-Your damage output is increased by 10%.
+Your Potency for damage is increased by 10.
 
 ### Status: Dohter's Charity
 
@@ -252,43 +252,43 @@ Each instance of this status is linked to a specific element. "Physical" and "Un
 
 ### Status: Embolden
 
-Your damage output is increased by 10%.
+Your Potency for damage is increased by 10.
 
 ### Status: Eukrasian Dosis
 
-Causes Unaspected damage during the status phase. The damage is equal to 5% of your maximum HP.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The damage is equal to 5% of your maximum HP.
 
 ### Status: Eukrasian Dosis-ra
 
-Causes Unaspected damage during the status phase. The damage is equal to 10% of your maximum HP.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The damage is equal to 10% of your maximum HP.
 
 ### Status: Eukrasian Dosis-ga
 
-Causes Unaspected damage during the status phase. The damage is equal to 15% of your maximum HP.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The damage is equal to 15% of your maximum HP.
 
 ### Status: Exaltation
 
-You take 10% less After-Armor Damage. When this status expires, it restores an amount of HP to yourself equal to your Level * Stamina * 0.6.
+Incoming Potency for damage is decreased by 10. When this status expires, it restores an amount of HP to yourself equal to your Level * Stamina * 0.6.
 
 ### Status: Excogitation
 
-When you reach 50% or less HP, you regain Level * Stamina * 0.8 HP. Then this status ends. If the status duration expires, then it triggers the healing too.
+When you reach 50% or less HP, you regain Level * Stamina * 0.8 HP. Then this status ends. If the status duration expires, then it also restores Level * Stamina * 0.8 HP to yourself.
 
 ### Status: Eye of Nidhogg
 
-You ignore half of enemy P-Def and M-Def. Your outgoing damage is increased by 25%.
+You ignore half of enemy P-Def and M-Def. Your Potency for damage is increased by 25.
 
 ### Status: Faith
 
-Both incoming and outgoing Magical damage is increased by 25%.
+Both incoming and outgoing M-Potency is increased by 25.
 
 ### Status: Fight or Flight
 
-Your outgoing Physical damage is increased by 10%. Every time you cause Physical Damage, you gain 1 [Enmity] point.
+Your P-Potency for damage is increased by 10. Every time you cause Physical Damage, you gain 1 [Enmity] point.
 
 ### Status: Free Restore
 
-Your next casting of _Restora_ ignores Cast Time and MP cost. This removes _Free Restore_ status from yourself.
+Your next casting of _Restora_ ignores Cast Time and MP cost. Casting _Restora_ removes _Free Restore_ status from yourself.
 
 ### Status: Frozen
 
@@ -298,7 +298,7 @@ Plot Armor Enemies instead only lose one of their actions.
 
 ### Status: Goring Blade
 
-Causes Physical damage during the status phase. The damage is equal to 10% of your maximum HP.
+Causes Physical damage during the status phase, ignoring Eva and Def. The damage is equal to 10% of your maximum HP.
 
 ### Status: Grit
 
@@ -318,15 +318,15 @@ Your Speed is doubled.
 
 ### Status: Heart of Corundum
 
-Physical After-Armor Damage against you is decreased by 15%.
+Incoming P-Potency for damage is decreased by 15.
 
 ### Status: Heart of Light
 
-Magical After-Armor Damage against you is decreased by 10%.
+Incoming M-Potency for damage is decreased by 10.
 
 ### Status: Heart of Stone
 
-Physical After-Armor Damage against you is decreased by 15%.
+Incoming P-Potency for damage is decreased by 15.
 
 ### Status: Heat
 
@@ -350,11 +350,11 @@ You cannot move or use maneuver. You cannot kill whoever has [Holmgang Source][S
 
 ### Status: Holos
 
-After Armor Damage that you take is decreased by 10%. The percentages of all such modifiers are added together, e.g. 10% and 30% add together for 40%.
+Incoming Potency for damage is decreased by 10.
 
 ### Status: Horoscope
 
-The next action that restores your HP, restores your HP a second time. Then this status ends.
+When this status expires, you regain an amount of HP equal to Level * Stamina * 0.4.
 
 ### Status: Immobilize
 
@@ -366,7 +366,7 @@ Your P-Acc is doubled. You are immune to [Stun][Status: Stun], [Sleep][Status: S
 
 ### Status: Intervention
 
-After Armor Damage that you take is decreased by 10%. The percentages of all such modifiers are added together, e.g. 10% and 30% add together for 40%.
+Incoming Potency for damage is decreased by 10.
 
 ### Status: Iron Will
 
@@ -374,23 +374,23 @@ Every time you do an action that causes Physical Damage, you gain 1 [Enmity] poi
 
 ### Status: Irradiated
 
-Causes Unaspected damage during the status phase. The damage is equal to the highest Initiative of the round.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The damage is equal to the highest Initiative of the round.
 
 ### Status: Kerachole
 
-After Armor Damage that you take is decreased by 10%. The percentages of all such modifiers are added together, e.g. 10% and 30% add together for 40%.
+Incoming Potency for damage is decreased by 10.
 
 ### Status: Krasis
 
-All healing you receive from actions is increased by 20%.
+Incoming Potency for healing is increased by 20.
 
 ### Status: Land Waker
 
-After Armor Damage that you take is decreased by 80%. The percentages of all such modifiers are added together, e.g. 10% and 80% add together for 90%.
+Incoming Potency for damage is decreased by 80.
 
 ### Status: Leaden Fist
 
-This is used for the [Pugilism] action _Bootshine_. This status is ended by performing _Bootshine_ while in Opo-Opo / Monkey Form to an enemy's rear.
+This is used for the [Pugilism] action _Bootshine_. This status is ended by performing _Bootshine_ while in Opo-Opo Monkey Form to an enemy's rear.
 
 ### Status: Lightspeed
 
@@ -410,7 +410,7 @@ Restores MP during the status phase. The amount restored is equal to your Level 
 
 ### Status: Macrocosmos
 
-For all damage that you take, you regain an amount of HP equal to 25% of that damage afterwards.
+For all After-Armor damage that you take, you regain an amount of HP equal to 25% of that damage afterwards.
 
 ### Status: Medica Regen
 
@@ -426,33 +426,33 @@ Restores MP during the status phase. The amount restored is equal to your Level 
 
 ### Status: Miasma
 
-Causes Poison-aspected damage during the status phase. The damage is equal to 10% of your maximum HP.
+Causes Poison-aspected damage during the status phase, ignoring Eva and Def. The damage is equal to 10% of your maximum HP.
 
 ### Status: Miasmara
 
-Causes Poison-aspected damage during the status phase. The damage is equal to 15% of your maximum HP.
+Causes Poison-aspected damage during the status phase, ignoring Eva and Def. The damage is equal to 15% of your maximum HP.
 
 ### Status: Miasmaga
 
-Causes Poison-aspected damage during the status phase. The damage is equal to 20% of your maximum HP.
+Causes Poison-aspected damage during the status phase, ignoring Eva and Def. The damage is equal to 20% of your maximum HP.
 
 ### Status: Miasmaja
 
-Causes Poison-aspected damage during the status phase. The damage is equal to 25% of your maximum HP.
+Causes Poison-aspected damage during the status phase, ignoring Eva and Def. The damage is equal to 25% of your maximum HP.
 
 ### Status: Mini
 
-You become extremely tiny and miniature. Your P-Acc, P-Def and outgoing Physical Damage are halved.
+You become extremely tiny and miniature. Your P-Acc and P-Def are halved. Your P-Potency is decreased by 50.
 
-Plot Armor Enemies instead only have these stats reduced by 10%.
+Plot Armor Enemies instead only have P-Acc and P-Def reduced by 10%, and P-Potency is only decreased by 10.
 
 ### Status: Nascent Glint
 
-You take 10% less After-Armor Damage.
+Incoming Potency for damage is decreased by 10.
 
 ### Status: Nebula
 
-After Armor Damage that you take is decreased by 30%. The percentages of all such modifiers are added together, e.g. 10% and 30% add together for 40%.
+Incoming Potency for damage is decreased by 30.
 
 ### Status: Neutral Sect
 
@@ -468,11 +468,11 @@ For all healing you receive from actions, 10% of the healing is additionally giv
 
 ### Status: No Mercy
 
-Your outgoing Physical damage is increased by 10%. Every time you deal a Critical Hit or better, you gain 3 [Enmity] points.
+Your P-Potency for damage is increased by 10. Every time you deal a Critical Hit or better, you gain 3 [Enmity] points.
 
 ### Status: Oil
 
-You take double After-Armor damage from fire.
+Incoming fire damage Potency is increased by 100.
 
 ### Status: Old
 
@@ -488,7 +488,7 @@ Plot Armor Enemies only switch to a more long-term self-helping strategy.
 
 ### Status: Perfect Balance
 
-You ignore the current Animal Form requirements of [Pugilism].
+You ignore the current Animal Form requirements of [Pugilism]. Every time you perform an action with an Animal Form requirement, your stacks of Perfect Balance are decreased by 1.
 
 ### Status: Petrify
 
@@ -510,7 +510,7 @@ Restores HP during the status phase. The amount restored is equal to your Level 
 
 ### Status: Pig
 
-You are unable to do TP-using or MP-using actions, unless they will remove Pig from yourself.
+You are unable to do TP-using or MP-using actions, except for those that remove Pig from yourself.
 
 ### Status: Plenary Indulgence
 
@@ -518,7 +518,7 @@ Healing and status condition HP restoration is doubled on you.
 
 ### Status: Poison
 
-Causes Poison-aspected damage during the status phase. The damage is equal to 10% of your maximum HP.
+Causes Poison-aspected damage during the status phase, ignoring Eva and Def. The damage is equal to 10% of your maximum HP.
 
 ### Status: Presence of Mind
 
@@ -526,7 +526,7 @@ You ignore Charge Time and Cast Time.
 
 ### Status: Protect
 
-Physical After-Armor Damage against you is halved.
+Incoming P-Potency for damage is decreased by 25.
 
 ### Status: Quick
 
@@ -534,7 +534,7 @@ You gain one extra action during the status phase.
 
 ### Status: Raw Intuition
 
-You take 20% reduced After-Armor Damage.
+Incoming Potency for damage is decreased by 20.
 
 ### Status: Rearise
 
@@ -564,11 +564,11 @@ Restores HP during the status phase. The amount restored is equal to your Level 
 
 ### Status: Reprisal
 
-Your damage output is decreased by 10%.
+Your Potency for damage is decreased by 10.
 
 ### Status: Requiescat
 
-Your magical damage output is increased by 25%. Your Cast Time is halved.
+Your M-Potency for damage is increased by 25. Your Cast Time is halved.
 
 ### Status: Reraise
 
@@ -584,27 +584,27 @@ You can choose for your melee techniques to be considered to be targeting the fl
 
 ### Status: Riddle of Fire
 
-Your melee damage is increased by 25%.
+Your P-Potency for melee damage is increased by 25.
 
 ### Status: Royal Guard
 
-Every time you do a Critical Hit or better, you gain 3 additional Enmity Points. Every time you defeat an enemy, you gain 3 additional Enmity Points.
+Every time you do a Direct Hit or better, you gain 3 additional Enmity Points. Every time you defeat an enemy, you gain 3 additional Enmity Points.
 
 ### Status: Sacred Soil
 
-You take 10% less incoming damage.
+Incoming Potency for damage is decreased by 10.
 
 ### Status: Salted Earth
 
-Causes Dark-Aspected Damage during the status phase. The damage is equal to 10% of your maximum HP.
+Causes Dark-Aspected Damage during the status phase, ignoring Eva and Def. The damage is equal to 10% of your maximum HP.
 
 ### Status: Sap
 
-Causes Unaspected damage during the status phase. The damage is equal to your Initiative.
+Causes Unaspected damage during the status phase, ignoring Eva and Def. The damage is equal to your Initiative.
 
 ### Status: Sentinel
 
-After Armor Damage that you take is decreased by 30%. The percentages of all such modifiers are added together, e.g. 10% and 30% add together for 40%.
+Incoming Potency for damage is decreased by 30.
 
 ### Status: Shadow Wall
 
@@ -612,7 +612,7 @@ After Armor Damage that you take is decreased by 30%. The percentages of all suc
 
 ### Status: Shell
 
-Magical After-Armor Damage against you is halved.
+Incoming M-Potency for damage is decreased by 25.
 
 ### Status: Sheltron
 
@@ -638,7 +638,7 @@ Plot Armor Enemies instead only lose one of their actions per turn.
 
 ### Status: Sonic Break
 
-Causes Physical Unaspected damage during the status phase. The damage is equal to 10% of your maximum HP.
+Causes Physical Unaspected damage during the status phase, ignoring Eva and Armor. The damage is equal to 10% of your maximum HP.
 
 ### Status: Soteria
 
@@ -646,7 +646,7 @@ All healing caused to you by a _Kardia_ link is increased by 50%.
 
 ### Status: Stoneskin
 
-You take 10% less damage. You also take half Earth-Aspected Damage.
+Incoming Potency for damage is decreased by 10. You also take half Earth-Aspected Damage.
 
 ### Status: Stop
 
@@ -656,7 +656,7 @@ Plot Armor Enemies instead only lose one of their actions per turn.
 
 ### Status: Storm's Eye
 
-Your damage output is increased by 10%.
+Your Potency for damage is increased by 10.
 
 ### Status: Stun
 
@@ -678,23 +678,29 @@ All HP restoration to yourself is divided up amongst all allies who have _Synast
 
 ### Status: Taurochole
 
-After Armor Damage that you take is decreased by 10%. The percentages of all such modifiers are added together, e.g. 10% and 30% add together for 40%.
+Incoming Potency for damage is decreased by 10.
 
 ### Status: Temper
 
-Your outgoing Physical After-Armor Damage is increased by 25%.
+Your P-Potency for damage is increased by 25.
 
 ### Status: Temperance
 
-Your healing output is increased by 25%. You project an area of magical protection with a radius of 3 squares, which affects yourself and all allies, reducing incoming Magical Damage by 10%.
+Your Potency for healing is increased by 25.
+
+In map combat, you project an area of magical protection with a radius of 3 squares, which affects yourself and all allies.
+
+In mapless combat, you project an area of magical protection that affects your whole row.
+
+The magical protection affects incoming M-Potency for damage, decreasing it by 10.
 
 ### Status: Thin Air
 
-You ignore the MP costs of [Conjuration Magick].
+You ignore the MP costs of [Conjuration Magick]
 
 ### Status: Thrill of Battle
 
-Your maximum HP is increased by 20%. HP restoration on you is increased by 20%.
+Your maximum HP is increased by 20%. Incoming Potency for healing is increased by 20.
 
 ### Status: Toad
 
@@ -704,11 +710,11 @@ Plot Armor Enemies instead only have a 10% decrease in P-Acc and M-Acc.
 
 ### Status: Twin Snakes
 
-Your outgoing Physical Damage is increased by 10%.
+Your P-Potency for damage is increased by 10.
 
 ### Status: Valor
 
-Your next technique that does Physical Damage will do double damage. After one instance of outgoing Physical Damage, you lose this status.
+Your next technique that does Physical Damage will do double Initial Damage. After one instance of outgoing Physical Damage, you lose this status.
 
 ### Status: Vanish
 
@@ -722,7 +728,7 @@ Your P-Def is increased by 25%. Whenever you take physical damage from an enemy 
 
 ### Status: Venomous Bite
 
-Causes Poison-aspected damage during the status phase. The damage is equal to 5% of your maximum HP.
+Causes Poison-aspected damage during the status phase, ignoring Eva and Def. The damage is equal to 5% of your maximum HP.
 
 ### Status: War Cry
 
@@ -730,27 +736,27 @@ Your P-Eva and M-Eva are doubled against status conditions and Gravity/Death att
 
 ### Status: Watered
 
-You take double After-Armor damage from lightning.
+Incoming Potency for lightning damage is increased by 100.
 
 ### Status: Windbite
 
-Causes Air-aspected damage during the status phase. The damage is equal to 5% of your maximum HP.
+Causes Air-aspected damage during the status phase, ignoring Eva and Def. The damage is equal to 5% of your maximum HP.
 
 ### Status: Windburn
 
-Causes Air-aspected damage during the status phase. The damage is equal to 5% of your maximum HP.
+Causes Air-aspected damage during the status phase, ignoring Eva and Def. The damage is equal to 5% of your maximum HP.
 
 ### Status: Windburnara
 
-Causes Air-aspected damage during the status phase. The damage is equal to 10% of your maximum HP.
+Causes Air-aspected damage during the status phase, ignoring Eva and Def. The damage is equal to 10% of your maximum HP.
 
 ### Status: Windburnga
 
-Causes Air-aspected damage during the status phase. The damage is equal to 15% of your maximum HP.
+Causes Air-aspected damage during the status phase, ignoring Eva and Def. The damage is equal to 15% of your maximum HP.
 
 ### Status: X-Zone
 
-You are plane-shifted into the Void. If you remove this status, or have the means to cast X-Zone on yourself, you are highly unlikely to end up back in the same time and place as you were before being afflicted with this status.
+You are plane-shifted into the Void. If you remove this status, or have the means to cast _X-Zone_ on yourself, you are highly unlikely to end up back in the same time and place as you were before being afflicted with this status.
 
 Plot Armor Enemies instead take an amount of damage equal to 10% of their maximum HP, and end this status afterwards.
 

@@ -2,7 +2,7 @@
 
 **Requires:** [Arcanist] 30, [Orator] 30, [Thaumaturgist] 30
 
-- **Support: Necromantic Body:** You always have [Zombie][Status: Zombie] status. You take double After-Armor Damage from Holy element.
+- **Support: Necromantic Body:** You always have [Zombie][Status: Zombie] status. Incoming Potency for Holy-aspected damage is increased by 100.
 - **Support: Summon Phantasm:** When you kill an enemy with a regular attack action, you spawn a Phantasm for four status phases. Phantasms have the following template:
   - 1/4th HP
   - Half P-Def

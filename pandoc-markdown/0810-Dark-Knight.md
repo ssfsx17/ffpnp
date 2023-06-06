@@ -65,7 +65,9 @@ Attack. You also gain an amount of MP equal to 1% of the After-Armor Damage. You
 |         | E: Front row of enemies | Target H: 0
 |         |                         | Effect H/V: 3/3
 
-Projects your attack into all enemies in the area. After-Armor Damage is halved. You gain 1 [Enmity] for each enemy hit.
+Potency: 50
+
+Projects your attack into all enemies in the area. You gain 1 [Enmity] for each enemy hit.
 
 #### Dark Knight 10
 

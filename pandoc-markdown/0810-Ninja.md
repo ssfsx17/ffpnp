@@ -15,7 +15,7 @@
 - **Action: Ninjutsu:** Secret martial arts using a mixture of patience, trickery and true magick.
 - **Reaction: Vanish (500 TP):** After taking damage, gain [Vanish][Status: Vanish] status.
 - **Reaction: Reflexes (1,000 TP):** Double your P-Eva and M-Eva against an incoming action.
-- **Support: Dual-Wield:** If you equip two 1H weapons, then your regular Attack actions perform a separate attack with each one. Other actions based on weapons use whichever weapon will have better results.
+- **Support: Dual-Wield:** If you equip two 1H weapons, then your regular Attack actions perform a separate attack with each one. For other weapon actions, you choose one of your two weapons at the time of performing the action.
 - **Move: Waterwalking:** In mapless combat, gives +1 Maneuver. In map combat, allows you to move and stand on top of mud, swamp and water as if they were solid ground.
 
 | Weapon Proficiency | Armor Proficiency |
@@ -35,7 +35,7 @@
 | 90 | Support: Dual-Wield
 | 99 | Job Mastered
 
-**Mastery Bonus:** If your P-Eva is higher than an enemy's P-Acc, then your P-Acc and Physical Damage against that enemy are increased by 25%.
+**Mastery Bonus:** If your P-Eva is higher than an enemy's P-Acc, then your P-Acc against that enemy is increased by 25%, and your Potency for damage is increased by 25 against that enemy.
 
 ### Ninjutsu
 

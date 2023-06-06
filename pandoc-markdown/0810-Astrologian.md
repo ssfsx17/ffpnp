@@ -152,6 +152,8 @@ You set your current Solar Cycle to Nocturnal. You grant yourself [Nocturnal Sec
 
 You play your current tarot card, invoking its effect onto the target. The effect depends on the card, refer to [Tarot Cards] for details.
 
+This action can be done immediately after any [Astrological Magick] action, at the cost of 300 TP.
+
 #### Astrologian 10
 
 **Ascend**

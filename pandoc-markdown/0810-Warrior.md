@@ -63,7 +63,9 @@ Attack. Gives 1 Beast Point to yourself.
 | TP: 100 | R: 2 rows                 | Spinning Melee
 |         | E: 3 enemies in front row |
 
-Spin around and perform a melee attack against adjacent enemies. After-Armor Damage is halved. Also attempts to knock them back by 1 square.
+Potency: 50
+
+Spin around and perform a melee attack against adjacent enemies. Also attempts to knock them back by 1 square. In mapless combat, this instead attempts to decrease the Maneuver of the targets by 1.
 
 #### Warrior 20
 
@@ -73,7 +75,9 @@ Spin around and perform a melee attack against adjacent enemies. After-Armor Dam
 | ---     |
 | TP: 100 |
 
-Attack. After-Armor Damage is doubled. 25% of that damage is dealt to yourself, ignoring your own P-Def.
+Potency: 200
+
+Attack. 25% of Initial Damage damage is also dealt to yourself, ignoring your own P-Def.
 
 #### Warrior 30
 
@@ -133,7 +137,9 @@ Attack. Grants yourself [Storm's Eye][Status: Storm's Eye] status.
 |                | E: Front row of enemies | Target H: 0
 |                |                         | Effect H/V: 3/3
 
-Projects your attack into all enemies in the area. P-Acc is doubled. Ignores P-Def. After-Armor Damage is halved.
+Potency: 50
+
+Projects your attack into all enemies in the area. P-Acc is doubled. Ignores P-Def.
 
 **Onslaught**
 
